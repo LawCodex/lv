@@ -12,10 +12,10 @@ Retrieved: **2026-10-12**.
 
 | Directory | What | Files |
 |---|---|---|
-| `satversme/` | Latvijas Republikas Satversme (Constitution of 1922, consolidated) | __SAT__ |
-| `likumi/<year>/` | Laws (*likumi*) in force, base acts only, consolidated text | __LIK__ |
-| `mk-noteikumi/<year>/` | Cabinet regulations (*Ministru kabineta noteikumi*) in force, consolidated | __MK__ |
-| `en/` | Official English translations (Valsts valodas centrs) of the above, same layout | __EN__ |
+| `satversme/` | Latvijas Republikas Satversme (Constitution of 1922, consolidated) | 1 |
+| `likumi/<year>/` | Laws (*likumi*) in force, base acts only, consolidated text | 1,782 |
+| `mk-noteikumi/<year>/` | Cabinet regulations (*Ministru kabineta noteikumi*) in force, consolidated | 4,627 |
+| `en/` | Official English translations (Valsts valodas centrs) of the above, same layout | 1,680 (Satversme 1, laws 568, regulations 1,111) |
 
 `<year>` is the year of adoption (*pieņemts*). File names are
 `<likumi.lv id>-<likumi.lv slug>.md`, e.g. `likumi/1998/88966-kriminallikums.md`.
@@ -75,7 +75,11 @@ as minimal HTML. Images (formulas, signs, form samples) are linked to their URL 
 - Regulations of the Bank of Latvia, the former FKTK, SPRK and other authorities; Constitutional
   Court judgments; binding regulations of municipalities (*saistošie noteikumi*).
 - International treaties as separate documents (they are reachable through the ratifying laws).
-- __GAPS__
+- English translations exist only where Valsts valodas centrs has published one (568 of 1,782 laws,
+  1,111 of 4,627 regulations); many are flagged as outdated (see `translation_note`).
+- Sub-headings inside the coarse single-file edition of the Civil Law (`likumi/1937/225418-civillikums.md`)
+  are rendered as plain paragraphs, as on Likumi.lv; use the per-part files (90220–90224) for full structure.
+- Documents singled out in likumi.lv's robots.txt would be skipped (none of them is an in-force law or regulation).
 
 ## Sources
 

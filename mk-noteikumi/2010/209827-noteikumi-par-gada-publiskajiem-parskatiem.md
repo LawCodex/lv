@@ -1,0 +1,219 @@
+---
+title: "Noteikumi par gada publiskajiem pārskatiem"
+identifier: "MK noteikumi Nr. 413"
+likumi_lv_id: 209827
+type: regulation
+jurisdiction: lv
+language: lv
+number: "413"
+issuer: "Ministru kabinets"
+date: 2010-05-05
+entry_into_force: 2010-05-15
+published: "Latvijas Vēstnesis, 76, 14.05.2010."
+status: in_force
+source: "https://likumi.lv/ta/id/209827-noteikumi-par-gada-publiskajiem-parskatiem"
+retrieved: 2026-10-12
+---
+
+# Noteikumi par gada publiskajiem pārskatiem
+
+Ministru kabineta noteikumi Nr.413
+Rīgā 2010.gada 5.maijā (prot. Nr.22 8.§)
+
+Izdoti saskaņā ar Likuma par budžetu un finanšu vadību 14.panta trešo daļu
+
+1. Noteikumi nosaka gada publisko pārskatu (turpmāk – pārskats) saturu un kārtību, kādā ministrijas un citas centrālās valsts iestādes, visas to padotībā esošās budžeta finansētās institūcijas, budžeta nefinansētas iestādes (turpmāk kopā – iestādes) un pašvaldības sagatavo pārskatus.
+
+*(MK 29.08.2023. noteikumu Nr. 480 redakcijā)*
+
+2. Valsts un pašvaldību aģentūras sagatavo un sniedz pārskatus saskaņā ar šiem noteikumiem un Publisko aģentūru likuma 15.panta pirmo daļu un 27.panta pirmo daļu.
+
+3. Iestādes pārskatā nodrošina sasniegto rezultātu salīdzinājumu ar attiecīgās iestādes attīstības plānošanas dokumentos un politisko vadlīniju dokumentos noteiktajiem uzdevumiem un plānotajiem rezultātiem.
+
+*(MK 29.08.2023. noteikumu Nr. 480 redakcijā)*
+
+4. Iestādes pārskatā ir šādas sadaļas:
+
+4.1. pamatinformācija;
+
+4.2. finanšu resursi un iestādes darbības rezultāti;
+
+4.3. personāls;
+
+4.4. komunikācija ar sabiedrību;
+
+4.5. nākamajā gadā plānotie pasākumi.
+
+5. Sadaļā "Pamatinformācija" norāda šādu informāciju:
+
+5.1. iestādes juridiskais statuss;
+
+5.2. politikas jomas, nozares, apakšnozares vai funkcijas, par kurām iestāde ir atbildīga;
+
+5.3. iestādes darbības virzieni un mērķi, kā arī īstenotās budžeta programmas (apakšprogrammas);
+
+5.4. darbības stratēģijas prioritātes un to mērķi pārskata gadā;
+
+5.5. padotībā esošās iestādes.
+
+*(Grozīts ar MK 01.02.2022. noteikumiem Nr. 75)*
+
+6. Sadaļā "Finanšu resursi un iestādes darbības rezultāti" norāda šādu informāciju (sadalījumā pa budžeta programmām (apakšprogrammām), izņemot šo noteikumu 6.9. un 6.10.apakšpunktu):
+
+6.1. valsts budžeta finansējums un tā izlietojums (pielikums):
+
+6.1.1. tās budžeta programmas un apakšprogrammas, kuru finanšu līdzekļi tiek izlietoti iestādes darbības nodrošināšanai;
+
+6.1.2. iestādes saņemtie ziedojumi un dāvinājumi, to izlietojums;
+
+6.2. iestādes, kuras no valsts budžeta tiek finansētas daļēji, kā arī budžeta nefinansētas iestādes, kas nav valsts aģentūras. Norāda arī pārējos finanšu resursu avotus, ieņēmumu apmēru un izlietojumu;
+
+6.3. darbības stratēģijā sasniedzamo rezultātu izpildes analīze un valsts budžeta līdzekļu izlietojuma efektivitātes izvērtējums;
+
+6.4. informācija par pārskata gadā īstenotajiem prioritārajiem pasākumiem, ja pārskata gadā tādi tika atbalstīti, norādot piešķirto valsts budžeta līdzekļu apmēru to īstenošanai;
+
+6.5. valsts aizdevumu izlietojums projektu īstenošanai, kā arī to aizņēmumu izlietojums un īstenošanas rezultāti, par kuriem valsts ir galvojusi;
+
+6.6. iestādes veiktie un pasūtītie pētījumi. Iestādes norāda pētījuma mērķi, līguma summu, pētījuma veicēju, galvenos rezultātus un to lietderību un ieguldījumu sabiedrības un nozares interesēs, kā arī iedzīvotāju iespējas saņemt plašāku informāciju;
+
+6.7. sadarbības partneru finansēto programmu un ārvalstu ieguldījumu programmu ietvaros īstenoto projektu rezultāti un līdzekļu izlietojums;
+
+6.8. būtiskākie pakalpojumi, uzlabojumi pakalpojumu pieejamības un kvalitātes nodrošināšanā (normatīvā akta par valsts pārvaldes pakalpojumu uzskaites, kvalitātes kontroles un sniegšanas kārtību izpratnē) un informācija par iespēju platformā www.latvija.lv iepazīties ar pakalpojuma sniegšanu un pārvaldību;
+
+6.9. stratēģijas ieviešanas novērtējums. Novērtējumā iekļauj institūcijas snieguma analīzi attiecīgajā stratēģijas darbības periodā, tai skaitā skaidrojumu par izvirzīto mērķu sasniegšanas pakāpi, kā arī ieteikumus par nākamā stratēģijas darbības perioda mērķiem un sasniedzamajiem rezultātiem;
+
+6.10. pārskats par iestādes vadības un darbības uzlabošanas sistēmām efektīvas darbības nodrošināšanai (piemēram, iekšējā kontrole (tai skaitā korupcijas un interešu konflikta riska novēršanai), kvalitātes vadība, iekšējais audits, riska vadība), tostarp par Valsts kontroles revīzijas ziņojumiem un iestāžu veiktajiem pasākumiem atklāto trūkumu novēršanai, kā arī informācija par veiktajām strukturālajām reformām un reorganizācijām.
+
+*(Grozīts ar MK 01.02.2022. noteikumiem Nr. 75; MK 29.08.2023. noteikumiem Nr. 480, sk. grozījumu 2. punktu)*
+
+7. Sadaļā "Personāls" norāda informāciju par amata vietu skaitu un faktisko vidējo darbinieku, ierēdņu un citu nodarbināto skaitu pārskata gadā (aprēķina, summējot attiecīgo skaitu uz mēneša pirmo datumu (sākot ar 1.janvāri) un dalot iegūto summu ar mēnešu skaitu), personāla izglītību, mainību, skaitu sadalījumā pa vecuma un dzimuma grupām.
+
+8. Sadaļā "Komunikācija ar sabiedrību" norāda šādu informāciju:
+
+8.1. pasākumi, kas veikti sabiedrības informēšanai un izglītošanai;
+
+8.2. pasākumi sabiedrības viedokļa izzināšanai par apmierinātību ar valsts iestādes darba kvalitāti un to rezultāti (ja ir veikti šādi pasākumi);
+
+8.3. sadarbība ar nevalstisko sektoru.
+
+9. Sadaļā "Nākamajā gadā plānotie pasākumi" norāda šādu informāciju:
+
+9.1. iepriekšējā gadā uzsāktie pasākumi, kuri tiks turpināti;
+
+9.2. nākamā gada galvenie uzdevumi un pasākumi;
+
+9.3. nākamā gada plānotie sadarbības projekti un pētījumi;
+
+9.4. iestādes finanšu saistības (piemēram, kredītsaistības).
+
+10. Ministrijas un citas centrālās valsts iestādes pārskatā iekļaujamo informāciju atspoguļo kopumā par padotības iestādēm, bet padotības iestādes atbilstoši kompetencei sniedz detalizētu informāciju, ievērojot šajos noteikumos noteikto pārskata struktūru.
+
+11. (Svītrots ar MK 01.02.2022. noteikumiem Nr. 75)
+
+12. Pašvaldības pārskatā nodrošina informāciju par attiecīgās pašvaldības darbību un tās plānošanos dokumentos iekļauto investīciju projektu sasniedzamo rādītāju izpildes rezultātiem pārskata gadā. Pašvaldības pārskatā norāda šādu informāciju:
+
+12.1. pamatinformācija par pašvaldību:
+
+12.1.1. iedzīvotāju, nodarbinātības un bezdarba, pašvaldības ekonomikas raksturojums, informācija par citiem pašvaldību raksturojošiem rādītājiem (ja nepieciešams);
+
+12.1.2. pārvaldes struktūra, funkcijas un sniegtie pakalpojumi, personāls;
+
+12.1.3. pašvaldības līdzdalība kapitālsabiedrībās, biedrībās un nodibinājumos;
+
+12.1.4. pašvaldības sadarbība ar ārvalstu pašvaldībām vai pašvaldību apvienībām (noslēgtie sadarbības līgumi, vienošanās, nodomu protokoli un citi dokumenti);
+
+12.2. pašvaldības nekustamā īpašuma raksturojums un tā novērtējums;
+
+12.3. pārskata gadā pašvaldības administratīvajā teritorijā īstenotie vai uzsāktie investīciju projekti (publiskās un privātās investīcijas), kā arī nākamajā gadā plānotie publiskie investīciju projekti, kuru izmaksas ir 50 000 *euro* vai vairāk. Pašvaldības veikto ieguldījumu ietekme uz pašvaldības attīstības programmā (tai skaitā investīciju plānā) iekļautajiem investīciju projektu iznākuma un rezultāta rādītājiem;
+
+12.4. pašvaldības finansējums un tā izlietojums, tai skaitā saņemtie ziedojumi un dāvinājumi;
+
+12.5. informācija par pašvaldības uzņemtajām saistībām (aizņēmumiem, galvojumiem un citām ilgtermiņa saistībām), tai skaitā par pārskata gadā ņemtajiem aizņēmumiem un sniegtajiem galvojumiem;
+
+12.6. pašvaldības veiktie pasākumi darba pilnveidošanai:
+
+12.6.1. informācija par pašvaldības vadības un darbības uzlabošanas sistēmām efektīvas darbības nodrošināšanai (piemēram, iekšējā kontrole (tai skaitā korupcijas un interešu konflikta riska novēršanai), kvalitātes vadība, iekšējais audits, riska vadība);
+
+12.6.2. pasākumi pašvaldības vadības un speciālistu kapacitātes celšanai, tai skaitā informācija par veikto kapacitātes pasākumu novērtējumu;
+
+12.7. informācija par sabiedrības iesaisti pašvaldības darbā:
+
+12.7.1. pasākumi sabiedrības informēšanai par pašvaldības darbību un informācija par pašvaldības sadarbību ar iedzīvotājiem, nevalstisko sektoru un privāto sektoru;
+
+12.7.2. līdzdalības budžeta īstenošana, tai skaitā informācija par pārskata gadā pašvaldības budžetā piešķirto finansējumu līdzdalības budžetam, par iesniegto un atbalstīto projektu skaitu un piešķirto finanšu apmēru un par pārskata gadā un iepriekšējos gados atbalstīto līdzdalības budžeta projektu īstenošanas progresu;
+
+12.7.3. pārskats par pārskata gadā pašvaldības piešķirtajiem finanšu līdzekļiem biedrībām un nodibinājumiem, arodbiedrībām, reliģiskajām organizācijām un sociālajiem uzņēmumiem, iekļaujot informāciju par finanšu piešķīruma apmēru, mērķi un piešķirto finanšu līdzekļu izlietojuma rezultātiem, ciktāl tie ir sasniegti iepriekšējā gadā, tai skaitā sniedzot ziņas par pašvaldības funkciju veikšanai piešķirto finansējumu;
+
+12.8. informācija par pašvaldības galvenajiem uzdevumiem un pasākumiem nākamajā gadā;
+
+12.9. informācija par Valsts kontroles revīzijas ziņojumiem un domes veiktajiem pasākumiem atklāto trūkumu novēršanai;
+
+12.10. cita informācija pēc pašvaldības ieskatiem.
+
+*(MK 29.08.2023. noteikumu Nr. 480 redakcijā, sk. grozījumu 2. punktu)*
+
+13. Pārskatā iekļaujamo informāciju sagatavo, pamatojoties uz mērāmiem, ticamiem (pārbaudītiem) un analizējamiem rādītājiem. Rādītājus iekļauj pārskata tekstā un izmanto, lai pamatotu apgalvojumus, kas raksturo padarītā darba apjomu, rezultātu, efektivitāti vai ietekmi.
+
+14. Ja pārskatā ir izmantoti citas iestādes apkopotie dati, norāda informācijas avotu.
+
+15. Pārskata vēlamais apjoms iestādēm nepārsniedz 25 A4 formāta lapas (ieskaitot pielikumus), bet pašvaldībām – 100 A4 formāta lapas (ieskaitot pielikumus).
+
+*(MK 29.08.2023. noteikumu Nr. 480 redakcijā)*
+
+16. Pārskatu apstiprina attiecīgi valsts iestādes vadītājs vai pašvaldības dome.
+
+*(MK 29.08.2023. noteikumu Nr. 480 redakcijā)*
+
+17. Gatavojot pārskatu par 2013.gadu, finansiālos rādītājus norāda latos.
+
+*(MK 22.10.2013. noteikumu Nr.1146 redakcijā)*
+
+18. Pārskatā, norādot informāciju par stratēģiju, kas izstrādāta atbilstoši Ministru kabineta 2015. gada 28. aprīļa instrukcijai Nr. 3 "Kārtība, kādā izstrādā un aktualizē institūcijas darbības stratēģiju un novērtē tās ieviešanu", ja attiecināms, norāda šo noteikumu 6.3. un 6.9. apakšpunktā minēto informāciju atbilstoši šo apakšpunktu redakcijai, kas bija spēkā līdz 2022. gada 7. februārim.
+
+*(MK 01.02.2022. noteikumu Nr. 75 redakcijā)*
+
+Ministru prezidents V.Dombrovskis
+Finanšu ministrs E.Repše
+
+## Pielikums Ministru kabineta 2010.gada 5.maija noteikumiem Nr.413
+
+### Valsts budžeta finansējums un tā izlietojums
+
+*(Pielikums grozīts ar MK 22.10.2013. noteikumiem Nr.1146)*
+
+(*euro*)
+
+<table>
+<tr>
+<td rowspan="2">Nr.p.k.</td><td rowspan="2">Finansiālie rādītāji</td><td rowspan="2">Iepriekšējā gadā (faktiskā izpilde)</td><td colspan="2">Pārskata gadā</td></tr>
+<tr>
+<td>apstiprināts likumā</td><td>faktiskā izpilde</td></tr>
+<tr>
+<td>1.</td><td>Finanšu resursi izdevumu segšanai (kopā)</td><td></td><td></td><td></td></tr>
+<tr>
+<td>1.1.</td><td>dotācijas</td><td></td><td></td><td></td></tr>
+<tr>
+<td>1.2.</td><td>maksas pakalpojumi un citi pašu ieņēmumi</td><td></td><td></td><td></td></tr>
+<tr>
+<td>1.3.</td><td>ārvalstu finanšu palīdzība</td><td></td><td></td><td></td></tr>
+<tr>
+<td>1.4.</td><td>ziedojumi un dāvinājumi</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.</td><td>Izdevumi (kopā)</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.</td><td>uzturēšanas izdevumi (kopā)</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.1.</td><td>kārtējie izdevumi</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.2.</td><td>procentu izdevumi</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.3.</td><td>subsīdijas, dotācijas un sociālie pabalsti</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.4.</td><td>kārtējie maksājumi Eiropas Kopienas budžetā un starptautiskā sadarbība</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.1.5.</td><td>uzturēšanas izdevumu transferti</td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.2.</td><td>izdevumi kapitālieguldījumiem</td><td></td><td></td><td></td></tr>
+</table>
+
+Finanšu ministrs E.Repše

@@ -1,0 +1,44 @@
+---
+title: "Kārtība, kādā valsts aizsardzības dienesta iesaukšanas kontroles komisija kontrolē un pārskata.."
+identifier: "MK noteikumi Nr. 372"
+likumi_lv_id: 343555
+type: regulation
+jurisdiction: lv
+language: lv
+number: "372"
+issuer: "Ministru kabinets"
+date: 2023-07-04
+entry_into_force: 2023-07-12
+published: "Latvijas Vēstnesis, 131, 11.07.2023."
+status: in_force
+source: "https://likumi.lv/ta/id/343555-kartiba-kada-valsts-aizsardzibas-dienesta-iesauksanas-kontroles-komisija-kontrole-un-parskata-aizsardzibas-ministrijas-pienemtos"
+retrieved: 2026-10-12
+---
+
+# Kārtība, kādā valsts aizsardzības dienesta iesaukšanas kontroles komisija kontrolē un pārskata..
+
+Ministru kabineta noteikumi Nr. 372
+Rīgā 2023. gada 4. jūlijā (prot. Nr. 35 24. §)
+
+Izdoti saskaņā ar Valsts aizsardzības dienesta likuma 5. panta trešo daļu
+
+1. Noteikumi nosaka kārtību, kādā Ministru kabineta izveidotā valsts aizsardzības dienesta iesaukšanas kontroles komisija (turpmāk – kontroles komisija) kontrolē un pārskata Aizsardzības ministrijas pieņemtos lēmumus, izskata personu sūdzības par šiem lēmumiem, kā arī pieņem lēmumus par iesaukšanu valsts aizsardzības civilajā dienestā (turpmāk tekstā – alternatīvais dienests).
+
+1.<sup>1</sup> Kontroles komisija šajos noteikumos noteiktajā kārtībā izskata to rezerves karavīru pieteikumus ieskaitīšanai rezervistos, kuri savu domu, apziņas vai reliģiskās pārliecības dēļ nevar pildīt militāro dienestu.
+
+*(MK 22.04.2025. noteikumu Nr. 240 redakcijā)*
+
+2. Kontroles komisija izskata iesaucamā apstrīdēšanas iesniegumu par Aizsardzības ministrijas pieņemto lēmumu attiecībā uz iesaucamo. Iesniegumu izskata Administratīvā procesa likumā noteiktajā kārtībā.
+
+3. Kontroles komisija izskata iesaucamā pieteikumu alternatīvā dienesta pildīšanai un lemj par valsts aizsardzības militārā dienesta aizstāšanu ar alternatīvo dienestu. Pieteikumu izskata Administratīvā procesa likumā noteiktajā kārtībā.
+
+4. Iesaucamais iesniegumam vai pieteikumam pievieno dokumentus, kuriem, pēc viņa ieskatiem, ir nozīme jautājuma izskatīšanā un kuri apliecina iesniegumā vai pieteikumā norādītās informācijas pamatotību.
+
+5. Kontroles komisija, izskatot iesaucamā apstrīdēšanas iesniegumu, pieņem vienu no Administratīvā procesa likuma 81. panta otrajā daļā minētajiem lēmumiem.
+
+6. Atceļot Aizsardzības ministrijas lēmumu par iesaukšanu valsts aizsardzības militārajā dienestā, kontroles komisija, ja iesaucamais savā apstrīdēšanas iesniegumā ir ietvēris pieteikumu aizstāt valsts aizsardzības militāro dienestu ar alternatīvo dienestu, ir tiesīga pieņemt lēmumu par iesaukšanu alternatīvajā dienestā, norādot alternatīvā dienesta pildīšanas vietu.
+
+7. Kontroles komisija, pieņemot lēmumu par valsts aizsardzības dienesta aizstāšanu ar alternatīvo dienestu, vienlaikus atceļ Aizsardzības ministrijas lēmumu par iesaukšanu valsts aizsardzības militārajā dienestā.
+
+Ministru prezidents A. K. Kariņš
+Aizsardzības ministre I. Mūrniece

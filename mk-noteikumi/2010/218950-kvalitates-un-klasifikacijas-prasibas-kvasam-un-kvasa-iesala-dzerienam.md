@@ -1,0 +1,112 @@
+---
+title: "Kvalitātes un klasifikācijas prasības kvasam un kvasa (iesala) dzērienam"
+identifier: "MK noteikumi Nr. 926"
+likumi_lv_id: 218950
+type: regulation
+jurisdiction: lv
+language: lv
+number: "926"
+issuer: "Ministru kabinets"
+date: 2010-09-30
+entry_into_force: 2011-07-01
+published: "Latvijas Vēstnesis, 157, 05.10.2010."
+status: in_force
+source: "https://likumi.lv/ta/id/218950-kvalitates-un-klasifikacijas-prasibas-kvasam-un-kvasa-iesala-dzerienam"
+retrieved: 2026-10-12
+---
+
+# Kvalitātes un klasifikācijas prasības kvasam un kvasa (iesala) dzērienam
+
+Ministru kabineta noteikumi Nr.926
+Rīgā 2010.gada 30.septembrī (prot. Nr.50 8.§)
+
+Izdoti saskaņā ar Pārtikas aprites uzraudzības likuma 4.panta ceturto daļu
+
+1. Noteikumi nosaka kvalitātes un klasifikācijas prasības Latvijā izplatāmajam kvasam un kvasa (iesala) dzērienam (turpmāk – produkts).
+
+2. Noteikumos lietoti šādi termini:
+
+2.1. kvass – dzēriens, ko iegūst, raudzējot kvasa misas maisījumu ar mikroorganismu kultūru raugu un pēc raudzēšanas tam pievienojot vai nepievienojot cukuru un citas pārtikas izejvielas un pārtikas piedevas. Faktiskais spirta daudzums kvasā nepārsniedz 1,2 tilpumprocentus;
+
+2.2. kvasa misa – no graudu produktu ekstrakta, rudzu, kviešu vai citu graudaugu maizes sausiņiem vai no kvasa misas koncentrāta iegūstamas ekstrahētas vielas, kurām pievieno cukuru sīrupu;
+
+2.3. kvasa (iesala) dzēriens – neraudzēts bezalkoholisks dzēriens, ko iegūst, izmantojot graudu produktu ekstraktu, ūdeni, aromatizētājus, konservantus un citas pārtikas apritē atļautas sastāvdaļas.
+
+3. Produktu, kas atbilstoši normatīvajiem aktiem ir ražots vai laists apgrozībā kādā Eiropas Savienības dalībvalstī vai Turcijā vai kas atbilstoši normatīvajiem aktiem ražots kādā Eiropas Ekonomikas zonas valstī, ir tiesības piedāvāt Latvijā, ievērojot likumā "Par atbilstības novērtēšanu" noteikto produkta atzīšanas kārtību.
+
+4. Produkta ražošanā atļauts izmantot šādas izejvielas, kas atbilst pārtikas apriti reglamentējošajos normatīvajos aktos noteiktajām prasībām:
+
+4.1. avota ūdeni;
+
+4.2. dzeramo ūdeni;
+
+4.3. augļu sulu un biezeni;
+
+4.4. dārzeņu sulu un biezeni;
+
+4.5. augļu sulu koncentrātu;
+
+4.6. cukurus;
+
+4.7. kvasa misas koncentrātu;
+
+4.8. maizes sausiņus;
+
+4.9. graudaugus, graudu iesalu un tā produktus;
+
+4.10. augu izejvielu ekstraktus;
+
+4.11. kvasa koncentrātu;
+
+4.12. oglekļa dioksīdu;
+
+4.13. presēto maizes raugu vai rauga tīrkultūru;
+
+4.14. medu;
+
+4.15. saldinātājus (izņemot kvasa ražošanu);
+
+4.16. aromatizētājus (izņemot kvasa ražošanu);
+
+4.17. pārtikas piedevas.
+
+5. Kvasa ražošanā atļauts izmantot šādas normatīvajos aktos par pārtikas piedevu lietošanu pārtikā noteiktajiem tīrības kritērijiem atbilstošas pārtikas piedevas – pienskābe (E 270), citronskābe (E 330), askorbīnskābe (E 300), nātrija benzoāts (E 211) un kālija sorbāts (E 202).
+
+6. Produktu var bagātināt ar vitamīniem un minerālvielām.
+
+7. Kvasa fizikālie un ķīmiskie rādītāji ir šādi:
+
+7.1. sausnas saturs – 3,0 līdz 14,0 procenti no masas;
+
+7.2. skābums – 2,0 līdz 3,5, izsakot kā ml 1N NaOH/100 ml.
+
+8. Produkta glabāšanas stabilitātes uzlabošanai izmanto šādus tehnoloģiskos procesus:
+
+8.1. pasterizāciju;
+
+8.2. sterilo filtrēšanu;
+
+8.3. aseptisko iepildīšanu;
+
+8.4. aktīvā skābuma (pH) regulēšanu;
+
+8.5. pārtikas piedevu pievienošanu.
+
+9. Kvass satur tikai tādu alkoholu, kas radies fermentācijas procesā.
+
+10. Tirdzniecības nosaukumu "kvass", "kvasa dzēriens" vai "iesala dzēriens" atļauts lietot tikai tiem dzērieniem, kas atbilst šajos noteikumos minētajām prasībām.
+
+11. Tirdzniecības nosaukumu "kvasa dzēriens" vai "iesala dzēriens" papildu apzīmējumā nedrīkst izmantot vārdu "kvass".
+
+12. Fasēta produkta satura faktiskais tilpums atbilst nosacījumiem, kas noteikti normatīvajos aktos par metroloģiskajām prasībām fasētajām precēm.
+
+13. Produktu, kas ražots un marķēts līdz šo noteikumu spēkā stāšanās dienai un neatbilst šo noteikumu prasībām, Latvijā atļauts izplatīt līdz produkta derīguma termiņa beigām.
+
+14. Noteikumi stājas spēkā 2011.gada 1.jūlijā.
+
+## Informatīva atsauce uz Eiropas Savienības direktīvām
+
+Tiesību normas saskaņotas ar Eiropas Komisiju un Eiropas Savienības dalībvalstīm atbilstoši Eiropas Parlamenta un Padomes 1998.gada 22.jūnija Direktīvai 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā, un Eiropas Parlamenta un Padomes 1998.gada 20.jūlija Direktīvai 98/48/EK, ar kuru groza Direktīvu 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā.
+
+Ministru prezidents V.Dombrovskis
+Zemkopības ministrs J.Dūklavs

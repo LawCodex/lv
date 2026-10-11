@@ -1,0 +1,72 @@
+---
+title: "Nodokļu un muitas policijas ierēdņu dienesta šaujamieroču glabāšanas un nēsāšanas noteikumi"
+identifier: "MK noteikumi Nr. 482"
+likumi_lv_id: 362513
+type: regulation
+jurisdiction: lv
+language: lv
+number: "482"
+issuer: "Ministru kabinets"
+date: 2025-08-12
+entry_into_force: 2026-01-01
+published: "Latvijas Vēstnesis, 157, 18.08.2025."
+status: in_force
+source: "https://likumi.lv/ta/id/362513-nodoklu-un-muitas-policijas-ierednu-dienesta-saujamierocu-glabasanas-un-nesasanas-noteikumi"
+retrieved: 2026-10-12
+---
+
+# Nodokļu un muitas policijas ierēdņu dienesta šaujamieroču glabāšanas un nēsāšanas noteikumi
+
+Ministru kabineta noteikumi Nr. 482
+Rīgā 2025. gada 12. augustā (prot. Nr. 31 14. §)
+
+Izdoti saskaņā ar Nodokļu un muitas policijas likuma 10. panta desmito daļu
+
+1. Noteikumi nosaka Nodokļu un muitas policijas ierēdņu (turpmāk – ierēdnis) rīcībā esošo dienesta šaujamieroču glabāšanas un nēsāšanas kārtību.
+
+2. Ierēdnim atļauts glabāt un nēsāt šādu dienesta šaujamieroci:
+
+2.1. pusautomātisko īsstobra šaujamieroci;
+
+2.2. atkārtotas darbības vai pusautomātisko garstobra šaujamieroci;
+
+2.3. automātisko šaujamieroci.
+
+3. Dienesta šaujamieroci un munīciju nēsā, tikai pildot amata pienākumus.
+
+4. Ierēdnis, kuram ir izsniegts dienesta šaujamierocis, novērš visus no viņa atkarīgus apstākļus, kas var veicināt dienesta šaujamieroča nozaudēšanu, nozagšanu, nolaupīšanu vai citādu nokļūšanu citu personu rīcībā.
+
+5. Dienesta šaujamieroci aizliegts nodot citai personai, izņemot:
+
+5.1. nododot to šaušanas instruktoram treniņšaušanas nodarbību laikā;
+
+5.2. ja ierēdnis apmeklē vietu, kurā normatīvajos aktos noteiktajā kārtībā ir ierobežota šaujamieroču nēsāšana un ierocis nododams glabāšanai īpaši noteiktā vietā;
+
+5.3. šo noteikumu 15. punktā minētajā gadījumā.
+
+6. Nododot dienesta šaujamieroci glabāšanai, ierēdnis ievēro drošības prasības, lai nepieļautu neparedzētu šāvienu un nenodarītu kaitējumu sev vai citām personām un mantai.
+
+7. Ierēdnis šo noteikumu 2.1. apakšpunktā minēto šaujamieroci un munīciju nēsā makstī (speciālā kabatā) vai somā, no kuras tie nevar izkrist. Šaujamieroci un munīciju nēsā, nepievēršot citu personu uzmanību.
+
+8. Ierēdnis, pildot amata pienākumus formas tērpā, dienesta šaujamieroci var nēsāt atklātā veidā (šo noteikumu 2.1. apakšpunktā minēto šaujamieroci – makstī).
+
+9. Šo noteikumu 2.2. vai 2.3. apakšpunktā minētos šaujamieročus ierēdnis nēsā, tikai pildot amata pienākumus formas tērpā.
+
+10. Nēsāšanas laikā dienesta šaujamierocis var būt pielādēts (magazīna ar munīciju ievietota šaujamierocī, patrontelpā nav munīcijas).
+
+11. Aizliegts nēsāt dienesta šaujamieroci un munīciju, ja ierēdnis ir alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmē.
+
+12. Aizliegts nēsāt dienesta šaujamieroci un munīciju, ja ierēdnim nav līdzi attiecīgas Nodokļu un muitas policijas šaujamieroča atļaujas.
+
+13. Dienesta šaujamieroci glabā izlādētu.
+
+14. Šo noteikumu 2. punktā minēto dienesta šaujamieroci glabā Nodokļu un muitas policijas īpaši aprīkotā ieroču un munīcijas glabātavā vai citā dienesta šaujamieroča atļaujā norādītā vietā.
+
+15. Dodoties atvaļinājumā vai komandējumā, kas saistīts ar izbraukšanu ārpus Latvijas Republikas, ierēdnis šo noteikumu 2.3. apakšpunktā minēto dienesta šaujamieroci un munīciju nodod par šaujamieroču glabāšanu atbildīgajai Nodokļu un muitas policijas personai glabāšanai īpaši aprīkotā ieroču un munīcijas glabātavā.
+
+16. Dienesta šaujamieroci un munīciju šaujamieroča atļaujā norādītajā vietā glabā slēgtā seifā vai metāla skapī (metāla kastē), kura sienu biezums nav mazāks par 2,5 mm. Seifs vai metāla skapis (metāla kaste) ir aizslēdzams ar slēdzeni, un atslēga ir pieejama tikai ierēdnim, kuram ir izsniegts dienesta šaujamierocis (seifa vai metāla skapja lietotājam).
+
+17. Noteikumi stājas spēkā 2026. gada 1. janvārī.
+
+Ministru prezidente E. Siliņa
+Finanšu ministrs A. Ašeradens

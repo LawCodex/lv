@@ -1,0 +1,92 @@
+---
+title: "Kārtība, kādā novērtējama mājputnu gaļas un olu atbilstība klasifikācijas un kvalitātes prasībām"
+identifier: "MK noteikumi Nr. 960"
+likumi_lv_id: 219573
+type: regulation
+jurisdiction: lv
+language: lv
+number: "960"
+issuer: "Ministru kabinets"
+date: 2010-10-12
+entry_into_force: 2010-10-16
+published: "Latvijas Vēstnesis, 164, 15.10.2010."
+status: in_force
+source: "https://likumi.lv/ta/id/219573-kartiba-kada-novertejama-majputnu-galas-un-olu-atbilstiba-klasifikacijas-un-kvalitates-prasibam"
+retrieved: 2026-10-12
+---
+
+# Kārtība, kādā novērtējama mājputnu gaļas un olu atbilstība klasifikācijas un kvalitātes prasībām
+
+Ministru kabineta noteikumi Nr.960
+Rīgā 2010.gada 12.oktobrī (prot. Nr.52 17.§)
+
+Izdoti saskaņā ar Pārtikas aprites uzraudzības likuma 4.panta ceturto daļu
+
+1. Noteikumi nosaka kārtību, kādā novērtējama mājputnu gaļas un olu atbilstība klasifikācijas un kvalitātes prasībām.
+
+2. Mājputnu gaļas un olu klasifikācijas un kvalitātes prasības atbilstoši tirdzniecības standartiem nosaka:
+
+2.1. Komisijas 2008.gada 16.jūnija Regula (EK) Nr. 543/2008 par kārtību, kādā piemērojama Padomes Regula (EK) Nr. 1234/2007 attiecībā uz mājputnu gaļas tirdzniecības standartiem (turpmāk – regula Nr. 543/2008);
+
+2.2. Komisijas 2023. gada 17. augusta Deleģētā regula (ES) 2023/2465, ar ko Eiropas Parlamenta un Padomes Regulu (ES) Nr. 1308/2013 papildina attiecībā uz olu tirdzniecības standartiem un atceļ Komisijas Regulu (EK) Nr. 589/2008 (turpmāk – regula 2023/2465);
+
+2.3. Komisijas 2023. gada 17. augusta Īstenošanas regula (ES) 2023/2466, ar ko nosaka noteikumus par to, kā Eiropas Parlamenta un Padomes Regulu (ES) Nr. 1308/2013 piemēro attiecībā uz olu tirdzniecības standartiem (turpmāk – regula 2023/2466).
+
+*(Grozīts ar MK 15.10.2024. noteikumiem Nr. 647)*
+
+3. Noteikumi neattiecas uz mājputnu gaļu un olām, ko nelielā daudzumā piegādā tieši galapatērētājam vai mazumtirdzniecības uzņēmumam, kas šo gaļu vai olas piegādā tieši galapatērētājam.
+
+4. Kompetentās iestādes uzraudzības un kontroles funkcijas attiecībā uz regulas Nr. 543/2008, regulas 2023/2465 un regulas ​​​2023/2466 prasību piemērošanu pilda Pārtikas un veterinārais dienests (turpmāk – dienests).
+
+*(MK 15.10.2024. noteikumu Nr. 647 redakcijā)*
+
+5. Dienests:
+
+5.1. no katras pārbaudāmās partijas izlases veidā ņem mājputnu gaļas paraugu un izvērtē pārbaudāmās partijas atbilstību regulas Nr. 543/2008 8.pantā minētajām prasībām;
+
+5.2. pārbauda mājputnu gaļas marķējuma atbilstību regulas Nr. 543/2008 4., 5., 10. un 11.pantā minētajām prasībām;
+
+5.3. izlases veidā ņem olu paraugus un izvērtē to atbilstību tirdzniecības standartiem, veicot pārbaudes saskaņā ar regulas 2023/2466 9. pantā minētajām prasībām;
+
+5.4. izstrādā riska analīzes metodiku olu aprites kontrolei, lai saskaņā ar regulas 2023/2466 9. pantu nodrošinātu gadījumatlases pārbaudes visos posmos un pēc nepieciešamības veiktu papildu pārbaudes.
+
+*(Grozīts ar MK 15.10.2024. noteikumiem Nr. 647)*
+
+6. Dienests saskaņā ar regulas Nr. 543/2008 15.panta 2.punktu ir par kautuves uzraudzību atbildīgā iestāde attiecībā uz ūdens satura pārbaudēm cāļu gaļā.
+
+7. Kautuve dienesta pilnvarota veterinārārsta uzraudzībā veic absorbētā ūdens satura pārbaudes svaigu cāļu liemeņos vai ūdens satura pārbaudes saldētā un ātri sasaldētā cāļu gaļā saskaņā ar regulas Nr. 543/2008 16.panta 1. vai 4.punktu un absorbētā ūdens satura pārbaudes vistu un tītaru liemeņos saskaņā ar regulas Nr. 543/2008 20.panta 2.punkta "a" apakšpunktu.
+
+8. Dienests veic saldētas un ātri sasaldētas cāļu gaļas ūdens satura pārbaudes saskaņā ar regulas Nr. 543/2008 16.panta 2.punktu.
+
+9. No trešajām valstīm ievestajai saldētai un ātri sasaldētai cāļu gaļai ūdens satura pārbaudei paredzētos paraugus dienests ņem muitošanas laikā.
+
+10. Dienests saskaņā ar regulas Nr. 543/2008 20.panta 2.punktu uzrauga kautuves un sadalīšanas uzņēmumus attiecībā uz absorbētā ūdens daudzuma kontroli mājputnu liemeņos, kuri paredzēti svaigu, saldētu un ātri sasaldētu izcirtņu ražošanai.
+
+11. Dienests veic saldētu un ātri sasaldētu mājputnu izcirtņu ūdens satura pārbaudes saskaņā ar regulas Nr. 543/2008 20.panta 3.punktu.
+
+12. Dienests izstrādā un veic regulas Nr. 543/2008 18.panta 2.punktā minētos praktiskos pasākumus attiecībā uz ūdens satura pārbaudi cāļu gaļā.
+
+13. Dienests piešķir olu ražotājam atbrīvojumu no prasības marķēt pārtikas olas ar ražotāja kodu saskaņā ar regulas 2023/2465 8. panta 2. punktu un 10. pantu.
+
+*(MK 15.10.2024. noteikumu Nr. 647 redakcijā)*
+
+14. Dienests nosūta Eiropas Komisijai informāciju:
+
+14.1. (svītrots ar MK 15.10.2024. noteikumiem Nr. 647);
+
+14.2. saskaņā ar regulas 2023/2466 11. pantu;
+
+14.3. saskaņā ar regulas Nr. 543/2008 11.panta 4.punktu;
+
+14.4. saskaņā ar regulas Nr. 543/2008 17.panta 5.punkta pirmo un otro rindkopu.
+
+*(Grozīts ar MK 15.10.2024. noteikumiem Nr. 647)*
+
+15. Zemkopības ministrija nosūta Eiropas Komisijai informāciju saskaņā ar regulas Nr. 543/2008 11. panta 5. punktu un 18. panta 2. punktu un regulas 2023/2466 12. pantu.
+
+*(MK 15.10.2024. noteikumu Nr. 647 redakcijā)*
+
+16. (Svītrots ar MK 15.10.2024. noteikumiem Nr. 647)
+
+Ministru prezidents V.Dombrovskis
+Zemkopības ministra vietā –labklājības ministrs U.Augulis

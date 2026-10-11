@@ -1,0 +1,63 @@
+---
+title: "Noteikumi par ārpusģimenes aprūpes pakalpojumu samaksas kārtību un apmēru"
+identifier: "MK noteikumi Nr. 142"
+likumi_lv_id: 265120
+type: regulation
+jurisdiction: lv
+language: lv
+number: "142"
+issuer: "Ministru kabinets"
+date: 2014-03-18
+entry_into_force: 2014-04-01
+published: "Latvijas Vēstnesis, 58, 21.03.2014."
+status: in_force
+source: "https://likumi.lv/ta/id/265120-noteikumi-par-arpusgimenes-aprupes-pakalpojumu-samaksas-kartibu-un-apmeru"
+retrieved: 2026-10-12
+---
+
+# Noteikumi par ārpusģimenes aprūpes pakalpojumu samaksas kārtību un apmēru
+
+Ministru kabineta noteikumi Nr.142
+Rīgā 2014.gada 18.martā (prot. Nr.17 9.§)
+
+Izdoti saskaņā ar Bērnu tiesību aizsardzības likuma
+30.panta pirmo daļu
+
+1. Noteikumi nosaka kārtību un apmēru, kādā veicama samaksa par bērnam sniegto ārpusģimenes aprūpes pakalpojumu ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā vai audžuģimenē (turpmāk – pakalpojums).
+
+2. Samaksas apmērs katram bērna vecākam mēnesī par bērnam sniegto pakalpojumu ir naudas summa, kas vienāda ar Ministru kabineta noteikto minimālo uzturlīdzekļu apmēru bērnam.
+
+3. Samaksu par pakalpojumu pieprasa no abiem bērna vecākiem, ievērojot Bērnu tiesību aizsardzības likuma 30. panta trešās un ceturtās daļas nosacījumus.
+
+4. Ja bērns ievietots valsts finansētā ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā (turpmāk – valsts institūcija), samaksu par pakalpojumu no bērna vecākiem pieprasa attiecīgā valsts institūcija.
+
+5. Ja bērns ievietots pašvaldības finansētā ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā vai audžuģimenē, samaksu par pakalpojumu no bērna vecākiem pieprasa attiecīgā pašvaldība.
+
+6. Norēķinu periods ir mēnesis. Pakalpojuma samaksu par nepilnu mēnesi aprēķina proporcionāli faktiskajam pakalpojuma saņemšanas dienu skaitam.
+
+7. Valsts institūcija vai pašvaldība mēneša laikā pēc pakalpojuma sniegšanas uzsākšanas pieņem lēmumu par pakalpojuma samaksu, norādot katra bērna vecāka ikmēneša samaksas apmēru, samaksas termiņu un maksājuma konta numuru, uz kuru pakalpojuma samaksa pārskaitāma.
+
+8. Valsts institūcijas vai pašvaldības lēmumu par sniegtā pakalpojuma samaksu bērna vecāks var apstrīdēt Administratīvā procesa likumā noteiktajā kārtībā.
+
+9. Samaksu par valsts institūcijā sniegto pakalpojumu ieskaita valsts pamatbudžeta ieņēmumos. Samaksu par pašvaldības finansētā ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā vai audžuģimenē sniegto pakalpojumu ieskaita pašvaldības kontā.
+
+10. Lai lemtu par pakalpojuma samaksas pieprasīšanu no bērna vecākiem vai bērna vecāku atbrīvošanu no pakalpojuma samaksas, valsts institūcijai un pašvaldībai ir tiesības pieprasīt un bez maksas saņemt:
+
+10.1. Iedzīvotāju reģistrā iekļautās ziņas par bērna vecāka deklarēto vai reģistrēto dzīvesvietu (adresi) – no Pilsonības un migrācijas lietu pārvaldes;
+
+10.2. ziņas par bērna vecāka sociāli apdrošinātas personas statusu un saņemtajiem pakalpojumiem – no Valsts sociālās apdrošināšanas aģentūras;
+
+10.3. informāciju par bērna vecāka atbilstību Bērnu tiesību aizsardzības likuma 29. pantā un 30. panta trešajā un ceturtajā daļā minētajām prasībām – no institūcijām, kuru rīcībā ir šīs ziņas.
+
+11. Ja bērna vecākam izveidojies pakalpojuma samaksas parāds, tad, beidzoties kalendāra gadam vai iestājoties apstākļiem, kas ir par pamatu pakalpojuma pārtraukšanai, valsts institūcija vai pašvaldība bērna vecākam nosūta paziņojumu par pakalpojuma samaksas parādu par periodu, kurā pakalpojums sniegts.
+
+12. Ja pakalpojuma samaksas parāds netiek segts šo noteikumu 11. punktā minētajā paziņojumā noteiktajā termiņā, valsts institūcija vai pašvaldība bērna vecākam nosūta brīdinājumu par parādsaistību piespiedu izpildi. Ja brīdinājumā noteiktajā termiņā pakalpojuma samaksas parāds netiek samaksāts, valsts institūcija vai pašvaldība izdod izpildrīkojumu un iesniedz to izpildei tiesu izpildītājam.
+
+13. Ar bērna vecāka nāvi pakalpojuma samaksas parāda piedziņu pret attiecīgo bērna vecāku izbeidz un pakalpojuma samaksas parāda summu dzēš.
+
+14. Atzīt par spēku zaudējušiem Ministru kabineta 2009. gada 22. decembra noteikumus Nr. 1536 "Noteikumi par ārpusģimenes aprūpes pakalpojumu samaksas kārtību un apmēru" (Latvijas Vēstnesis, 2009, 203. nr.).
+
+15. Noteikumi stājas spēkā 2014. gada 1. aprīlī.
+
+Ministru prezidente Laimdota Straujuma
+Labklājības ministrs Uldis Augulis

@@ -13,7 +13,7 @@ import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
 
-from common import BASE, RAW, get, read_cache, robots_disallowed_ids, write_cache
+from common import BASE, RAW, get, has_body, read_cache, robots_disallowed_ids, write_cache
 
 
 def ids_for(name):
@@ -41,6 +41,9 @@ def main():
                     print(f"  {name}: {n}/{len(todo)}", flush=True)
 
 
+NO_TRANSLATION = "NO-OFFICIAL-TRANSLATION"
+
+
 def fetch_one(doc_id, en):
     try:
         if en:
@@ -51,18 +54,21 @@ def fetch_one(doc_id, en):
             if not m or read_cache("en", doc_id) is not None:
                 return
             r = get(BASE + m.group(1))
-            if r.status_code == 200 and "doc-body" in r.text:
+            if r.status_code == 200 and "has not been officially translated" in r.text:
+                write_cache("en", doc_id, NO_TRANSLATION)  # remember, so re-runs skip it
+            elif r.status_code == 200 and "doc-body" in r.text:
                 write_cache("en", doc_id, r.text)
             else:
                 print(f"  FAILED en {doc_id}: HTTP {r.status_code}", flush=True)
         else:
-            if read_cache("html", doc_id) is not None:
+            cached = read_cache("html", doc_id)
+            if cached is not None and has_body(cached):
                 return
             r = get(f"{BASE}/ta/id/{doc_id}")
-            if r.status_code == 200 and "doc-body" in r.text:
+            if r.status_code == 200 and has_body(r.text):
                 write_cache("html", doc_id, r.text)
             else:
-                print(f"  FAILED {doc_id}: HTTP {r.status_code}", flush=True)
+                print(f"  FAILED {doc_id}: HTTP {r.status_code}, empty={not has_body(r.text)}", flush=True)
     except Exception as e:
         print(f"  ERROR {doc_id}: {e!r}", flush=True)
 

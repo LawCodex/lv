@@ -1,0 +1,85 @@
+---
+title: "Enerģijas dzērienu aprites likums"
+identifier: "likumi.lv 280078"
+likumi_lv_id: 280078
+type: act
+jurisdiction: lv
+language: lv
+issuer: "Saeima"
+date: 2016-01-21
+entry_into_force: 2016-06-01
+last_amended: 2020-07-01
+published: "Latvijas Vēstnesis, 25, 05.02.2016."
+status: in_force
+source: "https://likumi.lv/ta/id/280078-energijas-dzerienu-aprites-likums"
+retrieved: 2026-10-12
+---
+
+# Enerģijas dzērienu aprites likums
+
+Saeima ir pieņēmusi un Valsts
+prezidents izsludina šādu likumu:
+
+## 1.pants. Enerģijas dzērieni
+
+Enerģijas dzērieni ir bezalkoholiski dzērieni, kuri paredzēti lietošanai bez pārveides, kuros kopējais kofeīna daudzums pārsniedz 150mg/l un kuri satur vismaz vienu vai vairākas stimulējošas vai tonizējošas vielas (piemēram, taurīnu, inozitolu, guarāna alkoloīdus, ginka ekstraktu). Enerģijas dzērieni papildus var saturēt citas pārtikas sastāvdaļas atbilstoši normatīvajos aktos par pārtikas apriti noteiktajām prasībām.
+
+## 2.pants. Likuma mērķis
+
+Likuma mērķis ir aizsargāt cilvēka veselību no enerģijas dzērienu nelabvēlīgas ietekmes uz organismu.
+
+## 3.pants. Enerģijas dzērienu aprite
+
+(1) Enerģijas dzērienus aizliegts pārdot personām, kuras ir jaunākas par 18 gadiem, un šīs personas nedrīkst tos iegādāties. Lai pārliecinātos par pircēja vecumu, mazumtirgotāja pienākums ir pieprasīt, lai pircējs uzrāda personu apliecinošu dokumentu. Pēc mazumtirgotāja vai uzraudzības un kontroles iestādes pārstāvja pieprasījuma pircēja pienākums ir apliecināt savu personu un vecumu, uzrādot personu apliecinošu dokumentu.
+
+(2) Enerģijas dzērienu mazumtirdzniecība ir aizliegta izglītības iestāžu telpās un teritorijā.
+
+(3) Personām, kuras ir jaunākas par 18 gadiem, aizliegts piedāvāt enerģijas dzērienus bez maksas degustācijās, kā dāvanu vai kā kompensāciju par citas preces iegādi vai pakalpojuma saņemšanu.
+
+(4) Enerģijas dzērienus mazumtirdzniecības vietās pārdošanai novieto savrup no citiem pārtikas produktiem tā, lai tie būtu viegli identificējami. Tirdzniecības vietā izvieto norādi: "Augsts kofeīna saturs. Nav ieteicams bērniem un grūtniecēm vai sievietēm, kas baro bērnu ar krūti."
+
+(5) Aizliegts iesaistīt enerģijas dzērienu apritē personas, kuras ir jaunākas par 18 gadiem.
+
+## 4.pants. Enerģijas dzērienu reklāmas ierobežojumi un reklāmā ietveramā informācija
+
+(1) Enerģijas dzērienu reklāmā ietverama informācija, kas brīdina sabiedrību par enerģijas dzērienu pārmērīgas lietošanas negatīvo ietekmi. Šādai informācijai atvēlami vismaz 10 procenti no konkrētās reklāmas apjoma.
+
+(2) Šā panta pirmajā daļā minēto informāciju sniedz reklāmas apakšējā daļā ar melniem burtiem uz balta fona, turklāt burtu izmēram jābūt tādam, lai uzraksts aizņemtu lielāko tehniski iespējamo daļu no tekstam paredzētā laukuma.
+
+(3) Enerģijas dzērienu reklāmu vai ar enerģijas dzērieniem saistītus audio un audiovizuālus komerciālus paziņojumus aizliegts adresēt personām, kuras ir jaunākas par 18 gadiem, kā arī aizliegts izmantot minētās personas enerģijas dzērienu reklāmā vai ar enerģijas dzērienu saistītā audio un audiovizuālā komerciālā paziņojumā.
+
+(4) Ar enerģijas dzērieniem saistītie audio un audiovizuālie komerciālie paziņojumi ir aizliegti elektronisko plašsaziņas līdzekļu raidījumos, kas paredzēti personām, kuras ir jaunākas par 18 gadiem, pirms šādiem raidījumiem vai pēc tiem, kā arī ir aizliegta šo dzērienu reklāma presē, kuras mērķauditorija ir personas, kuras jaunākas par 18 gadiem.
+
+(5) Enerģijas dzērienu reklāmā aizliegts radīt iespaidu, ka enerģijas dzērieni tiek lietoti:
+
+1) piedaloties sporta sacensībās, veicot individuālas vai organizētas aktivitātes fiziskās veselības saglabāšanai vai uzlabošanai, vai slāpju remdēšanai tajās;
+
+2) kopā ar alkoholiskajiem dzērieniem.
+
+(6) Enerģijas dzērienu reklāma aizliegta izglītības iestādēs un uz šo iestāžu ēkām un būvēm.
+
+## 5. pants. Administratīvā atbildība par enerģijas dzērienu pārdošanu personām, kuras ir jaunākas par 18 gadiem
+
+Par enerģijas dzērienu pārdošanu personām, kuras ir jaunākas par 18 gadiem, piemēro naudas sodu juridiskās personas darbiniekam — pārdevējam — no divdesmit astoņām līdz trīsdesmit piecām naudas soda vienībām, bet juridiskajai personai — no septiņdesmit līdz simt četrdesmit naudas soda vienībām.
+
+*(07.11.2019. likuma redakcijā, kas stājas spēkā 05.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu)*
+
+## 6. pants. Kompetence administratīvo pārkāpumu procesā
+
+Administratīvā pārkāpuma procesu par šā likuma 5. pantā minēto pārkāpumu veic pašvaldības policija vai Valsts policija.
+
+*(07.11.2019. likuma redakcijā, kas stājas spēkā 05.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu)*
+
+## Pārejas noteikums(07.11.2019. likuma redakcijā, kas stājas spēkā 05.12.2019.)
+
+Šā likuma 5. un 6. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+
+*(07.11.2019. likuma redakcijā, kas stājas spēkā 05.12.2019.)*
+
+Likums stājas spēkā 2016.gada 1.jūnijā.
+Likums Saeimā pieņemts 2016.gada 21.janvārī.
+
+Valsts prezidenta vietā
+Saeimas priekšsēdētāja I.Mūrniece
+
+Rīgā 2016.gada 5.februārī

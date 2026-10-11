@@ -17,7 +17,7 @@ import sys
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-from common import BASE, RAW, read_cache, robots_disallowed_ids
+from common import BASE, RAW, has_body, read_cache, robots_disallowed_ids
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.date.today()
@@ -255,8 +255,105 @@ def strip_noise(body):
             el.decompose()
 
 
-def convert_body(body):
+STRUCT_RE = re.compile(r"^([IVXLC]+\.?\s|\d+\.\s*)?(\S+\s+)?(daļa|sadaļa|nodaļa|apakšnodaļa|nodalījums)\b"
+                       r"|^(pārejas noteikumi|noslēguma jautājumi|informatīva atsauce|\S+ pielikums)", re.I)
+ART_RE = re.compile(r"^\d+(<sup>\d+</sup>)?\.\s*pants\b")
+STRUCT_RE_EN = re.compile(r"^(part|division|chapter|sub-chapter|subchapter|title|transitional provisions|"
+                          r"closing provisions|informative reference|annex)\b", re.I)
+ART_RE_EN = re.compile(r"^section \d+(<sup>\d+</sup>)?\.", re.I)
+
+
+def heading_rank_en(text):
+    t = text.lower()
+    if t.startswith(("sub-chapter", "subchapter")):
+        return 4
+    if t.startswith("chapter"):
+        return 3
+    if t.startswith(("division", "title")):
+        return 2
+    if t.startswith("part") or t.endswith(" part"):
+        return 1
+    return 3
+
+
+def is_bold_block(el):
+    style = (el.get("style") or "").replace(" ", "").lower()
+    if "font-weight:bold" in style:
+        return True
+    text = norm(el.get_text()).strip()
+    b = el.find(["b", "strong"])
+    return bool(text) and b is not None and norm(b.get_text()).strip() == text
+
+
+def unwrap_layout_tables(root):
+    """English pages wrap the consolidation note in a one-cell layout table."""
+    for t in root.find_all("table", recursive=False):
+        cells = t.find_all(["td", "th"])
+        if len(cells) == 1:
+            t.replace_with(cells[0])
+            cells[0].name = "div"
+
+
+def convert_neko(neko, title, en=False):
+    """Pages without the publisher's structural markup: plain HTML paragraphs.
+
+    Used for recent Latvian texts not yet structured ("neko-body") and for the English
+    translations. Headings are recognised heuristically: <h*> elements and bold paragraphs
+    like "N. pants. ..." / "Section N. ..." (articles) or "... nodaļa" / "Chapter ..." (structure).
+    """
+    sre, are, rank = (STRUCT_RE_EN, ART_RE_EN, heading_rank_en) if en else (STRUCT_RE, ART_RE, heading_rank)
+    unwrap_layout_tables(neko)
+    els = [c for c in neko.children if isinstance(c, Tag)]
+    kinds = []
+    for el in els:
+        t = norm(el.get_text()).strip()
+        if el.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            if t.rstrip(".").lower() != norm(title).rstrip(".").lower():
+                kinds.append(rank(t))
+        elif el.name in ("p", "div") and is_bold_block(el) and sre.search(t) and len(t) < 300:
+            kinds.append(rank(t))
+    ranks = sorted(set(kinds))
+    level_of = {r: i + 2 for i, r in enumerate(ranks)}
+    art_level = min(6, len(ranks) + 2)
+    md = []
+    title_seen = False
+    for el in els:
+        t = clean_line(inline(el)).replace("\n", " ")
+        plain = norm(el.get_text()).strip()
+        if el.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            if not title_seen and plain.rstrip(".").lower() == norm(title).rstrip(".").lower():
+                title_seen = True
+                continue
+            if plain:
+                md.append("#" * level_of.get(rank(plain), 2) + " " + t.replace("**", "").strip())
+            continue
+        if el.name in ("p", "div") and plain and len(plain) < 300 and is_bold_block(el):
+            ht = t.replace("**", "").strip()
+            if are.search(ht):
+                md.append("#" * art_level + " " + ht)
+                continue
+            if sre.search(plain):
+                md.append("#" * level_of.get(rank(plain), 2) + " " + ht)
+                continue
+        md.extend(blocks(wrap_single(el)))
+    return md
+
+
+def wrap_single(el):
+    holder = BeautifulSoup("<div></div>", "lxml").div
+    holder.append(el.extract() if el.parent is not None else el)
+    return holder
+
+
+def convert_body(body, title="", en=False):
     strip_noise(body)
+    if en:
+        for el in body.select("div.notify-wrapper"):
+            el.decompose()
+        return convert_neko(body, title, en=True)
+    neko = body.select_one("div.neko-body")
+    if neko is not None:
+        return convert_neko(neko, title)
     children = [c for c in body.children if isinstance(c, Tag)]
 
     # structural levels present
@@ -381,7 +478,10 @@ def out_path(category, row, slug, en=False):
 def convert(category, row, en=False):
     doc_id = row["doc_id"]
     html = read_cache("en" if en else "html", doc_id)
-    if html is None:
+    if html is None or html.startswith("NO-OFFICIAL-TRANSLATION"):
+        return None
+    if not en and not has_body(html):
+        print(f"  empty body: {doc_id}", flush=True)
         return None
     soup = BeautifulSoup(html, "lxml")
     body = soup.select_one("div.doc-body")
@@ -401,7 +501,17 @@ def convert(category, row, en=False):
         slug = lv_slug
     path = out_path(category, row, slug, en)
 
-    md_body = convert_body(body)
+    title_lv = title
+    tr_note = None
+    if en:
+        nm = body.select_one("div.notify-msg")
+        if nm is not None:
+            tr_note = norm(nm.get_text(" ")).strip()
+            tr_note = re.sub(r"\s+([,.;:])", r"\1", tr_note)
+        h = body.find(["h2", "h3"])
+        if h is not None and norm(h.get_text()).strip():
+            title = norm(h.get_text()).strip()
+    md_body = convert_body(body, title, en)
     if doc_id == SATVERSME_ID:
         dtype = "constitution"
     else:
@@ -420,6 +530,10 @@ def convert(category, row, en=False):
     if en:
         fm.append("translation: true")
         fm.append(f"translation_of: {yq(BASE + '/ta/id/' + doc_id + '-' + lv_slug)}")
+        fm.append(f"title_lv: {yq(title_lv)}")
+        fm.append(f"translator: {yq('Valsts valodas centrs (State Language Centre)')}")
+        if tr_note:
+            fm.append(f"translation_note: {yq(tr_note)}")
     if number:
         fm.append(f"number: {yq(number)}")
     if meta.get("Izdevējs") or meta.get("Issuer"):

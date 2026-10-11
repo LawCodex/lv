@@ -1,0 +1,1359 @@
+---
+title: "Nacionālās drošības likums"
+identifier: "likumi.lv 14011"
+likumi_lv_id: 14011
+type: act
+jurisdiction: lv
+language: lv
+issuer: "Saeima"
+date: 2000-12-14
+entry_into_force: 2001-01-12
+last_amended: 2026-09-09
+published: "Latvijas Vēstnesis, 473/476, 29.12.2000.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 3, 08.02.2001."
+status: in_force
+source: "https://likumi.lv/ta/id/14011-nacionalas-drosibas-likums"
+retrieved: 2026-10-12
+---
+
+# Nacionālās drošības likums
+
+Saeima ir pieņēmusi un Valsts
+prezidents izsludina šādu likumu:
+
+## I nodaļa Vispārīgie noteikumi
+
+### 1.pants. Nacionālā drošība
+
+(1) Nacionālā drošība ir valsts un sabiedrības īstenotu vienotu, mērķtiecīgu pasākumu rezultātā sasniegts stāvoklis, kurā ir garantēta valsts neatkarība, tās konstitucionālā iekārta un teritoriālā integritāte, sabiedrības brīvas attīstības perspektīva, labklājība un stabilitāte.
+
+(2) Nacionālās drošības garantēšana ir valsts pamatpienākums.
+
+### 2.pants. Likuma mērķis
+
+Likums nosaka nacionālās drošības sistēmu un tās uzdevumus, nacionālās drošības sistēmas subjektu kompetenci, to darbības saskaņošanas, nodrošināšanas un kontroles principus un kārtību.
+
+### 3.pants. Nacionālās drošības sistēma un tās uzdevumi
+
+(1) Nacionālās drošības sistēmu veido valsts varu un pārvaldi realizējošās institūcijas un Latvijas pilsoņi, kam likums deleģē pienākumus un tiesības nacionālās drošības jomā noteiktas kompetences ietvaros.
+
+(2) Nacionālās drošības sistēmas uzdevumi ir šādi:
+
+1) savlaicīgi prognozēt un novērst valsts iekšējo un ārējo apdraudējumu, garantēt valsts aizsardzību, sabiedrības drošību un tās demokrātisku attīstību;
+
+2) izstrādāt vienotu, sistēmisku valsts varu un pārvaldi realizējošo institūciju nacionālās drošības politiku un saskaņoti un mērķtiecīgi visos valsts pārvaldes līmeņos izpildīt tās noteiktos tiesiskos, ekonomiskos, sociālos, militāros, drošības un citus pasākumus;
+
+3) nodrošināt valsts apdraudējuma situāciju novēršanas un pārvarēšanas pasākumu vadību, kā arī krīzes vadību.
+
+(3) Nacionālās drošības sistēmas darbība balstās uz civilmilitāro sadarbību, kā arī uz sadarbību starp valsts varu un pārvaldi realizējošām institūcijām atkarībā no valsts apdraudējuma un krīzes veida, intensitātes un rakstura. Civilmilitārā sadarbība ir plānota un saskaņota valsts pārvaldes iestāžu, sabiedrības un Nacionālo bruņoto spēku darbība valsts apdraudējuma pārvarēšanai. Civilmilitārās sadarbības pamatprincipi ir efektīva savstarpējās sadarbības koordinācija, vienota izpratne par kopējiem mērķiem un dalīta atbildība par mērķu sasniegšanas rezultātiem.
+
+*(Ar grozījumiem, kas izdarīti ar 15.05.2003. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 3.<sup>1</sup> pants. Aizliegums dienēt ārvalstīs
+
+(1) Latvijas pilsonim aizliegts dienēt ārvalsts vai cita starptautisko tiesību subjekta vai tā teritorijā izveidotajos bruņotajos spēkos, iekšējā karaspēkā, militārajā organizācijā, izlūkošanas vai drošības dienestā, policijā (milicijā) vai tieslietu institūciju dienestā (turpmāk — dienests), izņemot gadījumu, kad:
+
+1) Latvijas pilsonis dienē Eiropas Savienības, Ziemeļatlantijas līguma organizācijas, Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts, Austrālijas Savienības, Brazīlijas Federatīvās Republikas, Jaunzēlandes vai Ukrainas dienestā vai tādas valsts dienestā, ar kuru Latvijas Republika noslēgusi līgumu par dubultās pilsonības atzīšanu;
+
+2) Latvijas pilsonis dienē tādā dienestā, kas nav atzīstams par brīvprātīgu citas savas pilsonības (pavalstniecības) valstī, ar kuru dubultā pilsonība ir izveidojusies atbilstoši Pilsonības likuma nosacījumiem.
+
+(2) Latvijas nepilsonim aizliegts dienēt ārvalsts dienestā.
+
+*(08.12.2016. likuma redakcijā ar grozījumiem, kas izdarīti ar 28.02.2022. likumu, kas stājas spēkā 01.03.2022. Sk. pārejas noteikumu 20. punktu)*
+
+### 3.<sup>2</sup> pants. Aizliegums organizēt un veikt militāri taktisku uzdevumu izpildes apmācības, kā arī piedalīties tajās
+
+Aizliegts organizēt un veikt individuālas vai kolektīvas apmācības nolūkā attīstīt kaujas (militāri taktisku uzdevumu izpildes) spējas un prasmes personu, ēku un objektu sagrābšanai vai apdzīvotu vietu un teritoriju ieņemšanai, aizturēto, apcietināto un notiesāto personu atbrīvošanai, uzbrukuma, aizsardzības un kaujas atbalsta operāciju plānošanai un īstenošanai, kā arī piedalīties šādās apmācībās, izņemot gadījumus, kad tās tiek organizētas un veiktas valsts aizsardzības, sabiedriskās kārtības un drošības vai citu likumā paredzēto funkciju izpildes nodrošināšanai.
+
+*(04.10.2018. likuma redakcijā, kas stājas spēkā 30.10.2018.)*
+
+## II nodaļa Nacionālās drošības sistēmas subjektu kompetence
+
+### 4.pants. Nacionālās drošības sistēmas subjektu kompetences sadalījuma principi
+
+Nacionālās drošības subjektu kompetences sadalījuma pamatā ir Latvijas Republikas Satversmē noteiktā valsts iekārta, parlamentārā demokrātija un valsts varas dalīšanas princips, kā arī principi, saskaņā ar kuriem tiek veikta parlamentārā un civilā kontrole pār Nacionālajiem bruņotajiem spēkiem, Iekšlietu ministrijas sistēmas un valsts drošības iestādēm.
+
+### 5.pants. Latvijas pilsoņu pienākums un tiesības
+
+Katra Latvijas pilsoņa pienākums ir aizstāvēt valsts neatkarību, brīvību un demokrātisko valsts iekārtu. Tikai Latvijas pilsoņi ir tiesīgi:
+
+1) piedalīties nacionālās drošības plāna izstrādē;
+
+2) pildīt militāro dienestu;
+
+3) ieņemt amatus valsts drošības iestādēs.
+
+*(Ar grozījumiem, kas izdarīti ar 15.05.2003. likumu, kas stājas spēkā 11.06.2003.)*
+
+### 6.pants. Saeimas kompetence
+
+Saeima:
+
+1) pieņem likumus nacionālās drošības jomā;
+
+2) apstiprina Nacionālās drošības koncepciju un Valsts aizsardzības koncepciju;
+
+3) veic parlamentāro kontroli pār Nacionālajiem bruņotajiem spēkiem, Iekšlietu ministrijas sistēmas un valsts drošības iestādēm;
+
+4) nosaka Nacionālo bruņoto spēku pamatstruktūru un apjomu, kā arī personāla komplektēšanas principus;
+
+5) nosaka valsts drošības iestāžu personāla komplektēšanas principus;
+
+6) akceptē un pārrauga nacionālās drošības vajadzībām piešķirto budžeta līdzekļu izlietojumu;
+
+7) lemj par Nacionālo bruņoto spēku vienību izmantošanu ārpus valsts teritorijas likumā noteiktajā kārtībā;
+
+8) ieceļ amatā un atbrīvo no amata likumā noteiktās aizsardzības institūciju un valsts drošības iestāžu amatpersonas;
+
+9) lemj par kara pasludināšanu un uzsākšanu;
+
+10) izvērtē izsludinātās ārkārtējās situācijas, izņēmuma stāvokļa vai mobilizācijas pamatotību;
+
+11) izskata Ministru prezidenta sniegto informāciju par nacionālo drošību.
+
+*(Ar grozījumiem, kas izdarīti ar 07.04.2004. un 15.05.2014. likumu, kas stājas spēkā 14.06.2014.)*
+
+### 7.pants. Saeimas Nacionālās drošības komisijas kompetence
+
+(1) Saeimas Nacionālās drošības komisijā ievēlētajiem deputātiem darbam šajā komisijā nepieciešama pirmās kategorijas speciālā atļauja pieejai valsts noslēpumam. Ja komisijā ievēlēts deputāts, kuram nav šādas atļaujas, viņš drīkst piedalīties komisijas sēdēs tikai pēc minētās speciālās atļaujas saņemšanas.
+
+(2) Saeimas Nacionālās drošības komisija:
+
+1) (izslēgts ar 07.04.2004. likumu);
+
+2) izvērtē un akceptē valsts drošības iestāžu budžetu projektus;
+
+3) veic valsts drošības iestāžu darbības un budžeta līdzekļu izlietošanas parlamentāro kontroli;
+
+4) noklausās Ministru kabineta un valsts drošības iestāžu vadītāju ziņojumus par valsts drošības iestāžu darbību, kā arī izskata šo iestāžu darbības pārbaudes rezultātus;
+
+5) (izslēgts ar 07.04.2004. likumu);
+
+6) (izslēgts ar 07.04.2004. likumu);
+
+7) izskata priekšlikumus par Satversmes aizsardzības biroja direktora iecelšanu amatā un atbrīvošanu no amata.
+
+*(Ar grozījumiem, kas izdarīti ar 30.10.2003., 07.04.2004., 01.03.2007. un 29.03.2007. likumu, kas stājas spēkā 11.04.2007. Sk. 29.03.2007. likuma Pārejas noteikumus.)*
+
+### 8.pants. Valsts prezidenta kompetence
+
+(1) Valsts prezidents:
+
+1) veic Nacionālo bruņoto spēku augstākā vadoņa pienākumus;
+
+2) vada Nacionālās drošības padomi;
+
+3) ieceļ virspavēlnieku kara laikam;
+
+4) izveido Valsts prezidenta militāro padomi;
+
+5) iesaka apstiprināšanai Saeimā Nacionālo bruņoto spēku komandieri;
+
+6) ierosina Saeimai izlemšanai jautājumu par kara pasludināšanu un uzsākšanu;
+
+7) ja noticis militārs uzbrukums, nekavējoties pieprasa Ziemeļatlantijas līguma organizācijas kolektīvās aizsardzības atbalstu un pilnvaro Ziemeļatlantijas līguma organizāciju veikt pasākumus, kurus tā uzskata par nepieciešamiem, ieskaitot bruņota spēka pielietošanu, lai saglabātu un atjaunotu Latvijas Republikas suverenitāti un teritoriālo nedalāmību (1949.gada 4.aprīļa Ziemeļatlantijas līguma 5.panta ietvaros);
+
+8) pieņem lēmumu par Latvijas Republikas nostāju, ja cita Ziemeļatlantijas līguma organizācijas dalībvalsts pieprasa izskatīt jautājumu par Ziemeļatlantijas līguma organizācijas kolektīvās aizsardzības atbalstu (1949.gada 4.aprīļa Ziemeļatlantijas līguma 5.panta ietvaros) un ja Ministru kabinets ir aizkavēts pieņemt šādu lēmumu;
+
+(2) Valsts prezidentam ir tiesības pēc sava pieprasījuma saņemt valsts institūciju un iestāžu rīcībā esošo informāciju, ievērojot likumā paredzētos informācijas izmantošanas noteikumus.
+
+*(Ar grozījumiem, kas izdarīti ar 05.06.2014. un 25.02.2016. likumu, kas stājas spēkā 23.03.2016.)*
+
+### 9.pants. Ministru prezidenta kompetence
+
+Ministru prezidents:
+
+1) vada valsts apdraudējuma situāciju novēršanas un pārvarēšanas pasākumus, kā arī krīzes vadības procesus;
+
+2) ik gadu sniedz Saeimai pārskatu par nacionālo drošību, ietverot to gadskārtējā ziņojumā par Ministru kabineta paveikto un iecerēto darbību vai iesniedzot atsevišķu ziņojumu;
+
+3) saskaņo Krīzes vadības centra un ministru darbību nacionālās drošības un krīzes vadības jomā;
+
+4) organizē nacionālās drošības, valsts aizsardzības un tautsaimniecības mobilizācijas koncepciju un plānu izstrādi un izpildi;
+
+5) pieņem lēmumu par kaujas darbību veikšanu vai neveikšanu pret gaisa kuģi Latvijas Republikas teritorijā galējas nepieciešamības gadījumā, lai novērstu kaitējumu nacionālās drošības interesēm, un ja ir pamats uzskatīt, ka gaisa kuģis tiek izmantots kā ierocis cilvēku iznīcināšanai, un aizsardzības ministrs ir aizkavēts pildīt savu amatu;
+
+6) lemj par Ziemeļatlantijas līguma organizācijas konsultāciju pieprasīšanu (1949.gada 4.aprīļa Ziemeļatlantijas līguma 4.panta ietvaros), ja tiek apdraudēta valsts teritoriālā integritāte, politiskā neatkarība vai drošība;
+
+7) konsultējoties ar ārlietu ministru un aizsardzības ministru, lemj par Latvijas Republikas nostāju Ziemeļatlantijas līguma organizācijā, ja tiek gatavota Ziemeļatlantijas līguma organizācijas starptautiska miera nodrošināšanas operācija;
+
+8) ieceļ amatā un atbrīvo no amata Krīzes vadības centra vadītāju.
+
+*(29.03.2007. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.05.2014., 05.06.2014. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025. Grozījums par 2. punkta izteikšanu jaunā redakcijā tiks iekļauts likuma redakcijā uz attiecīgu grozījumu Saeimas kārtības rullī spēkā stāšanās dienu. Sk. pārejas noteikumu 33. punktu)*
+
+### 10.pants. Ministru kabineta kompetence
+
+(1) Ministru kabinets:
+
+1) nodrošina valsts institūcijas ar nepieciešamo finansējumu tām noteikto uzdevumu izpildei nacionālās drošības jomā;
+
+2) ieceļ amatā un atbrīvo no amata likumā noteiktās aizsardzības institūciju, Iekšlietu ministrijas sistēmas un valsts drošības iestāžu amatpersonas;
+
+3) apstiprina kritiskās infrastruktūras kopumu;
+
+4) (izslēgts ar 29.05.2025. likumu);
+
+5) lemj par Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās glābšanas un humānajās operācijās, kā arī militārajās mācībās (manevros) ārpus Latvijas teritorijas;
+
+6) (izslēgts ar 29.05.2025. likumu);
+
+7) (izslēgts ar 17.04.2008. likumu);
+
+8) (izslēgts ar 29.05.2025. likumu);
+
+9) lemj par personas ietekmes saglabāšanu vai atļauju ietekmes iegūšanai nacionālajai drošībai nozīmīgās komercsabiedrībās un biedrībās, kā arī par atļauju kritiskās infrastruktūras nodošanai valdījumā vai īpašumā citai personai;
+
+10) (izslēgts no 24.04.2024. ar 27.03.2024. likumu. Sk. pārejas noteikumu 29. punktu).
+
+(2) Ministru kabinetam ir tiesības:
+
+1) pieprasīt un saņemt valsts drošības iestāžu rīcībā esošo informāciju, ievērojot likumā paredzētos informācijas izmantošanas noteikumus;
+
+2) uzdot atsevišķu uzdevumu izpildi Krīzes vadības centram, ministrijām, citām valsts institūcijām un pašvaldībām atbilstoši to kompetencei.
+
+*(Ar grozījumiem, kas izdarīti ar 06.12.2001., 02.12.2004., 21.04.2005., 15.06.2006., 17.04.2008., 29.04.2010., 05.06.2014., 23.03.2017., 20.05.2021., 20.10.2022., 27.03.2024. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 11.pants. Aizsardzības ministrijas kompetence
+
+(1) Aizsardzības ministrija:
+
+1) izstrādā un īsteno valsts aizsardzības politiku;
+
+2) plāno valsts aizsardzībai nepieciešamos līdzekļus un iesniedz Ministru kabinetam ar to saistītos priekšlikumus;
+
+3) nodrošina valsts aizsardzībā iesaistītā personāla pārvaldi un militāro izglītību.
+
+(2) Aizsardzības ministrs veic civilo kontroli pār Nacionālajiem bruņotajiem spēkiem un citām ministrijas padotībā esošajām institūcijām.
+
+(3) Aizsardzības ministrs galējas nepieciešamības gadījumā, lai novērstu kaitējumu nacionālās drošības interesēm, un ja ir pamats uzskatīt, ka gaisa kuģis tiek izmantots kā ierocis cilvēku iznīcināšanai, pieņem lēmumu par kaujas darbību veikšanu vai neveikšanu pret gaisa kuģi Latvijas Republikas teritorijā.
+
+(4) Aizsardzības ministrs likumā "Latvijas Nacionālo bruņoto spēku piedalīšanās starptautiskajās operācijās" īpaši paredzētajā gadījumā ir tiesīgs pieņemt lēmumu par atsevišķu Nacionālo bruņoto spēku vienību piedalīšanos starptautiskajās glābšanas un starptautiskajās humānajās operācijās.
+
+(5) Aizsardzības ministrs, izvērtējot valsts drošības un aizsardzības intereses, pieņem lēmumu par Nacionālo bruņoto spēku speciālo operāciju īstenošanu ārvalstīs un aktīvās kiberaizsardzības operāciju īstenošanu. Aizsardzības ministrs lēmumu saskaņo ar Ministru prezidentu un ārlietu ministru. Par speciālās operācijas norisi un rezultātiem informē Nacionālās drošības padomi.
+
+*(Ar grozījumiem, kas izdarīti ar 28.04.2005., 01.12.2005., 29.03.2007. un 16.06.2022. likumu, kas stājas spēkā 23.06.2022.)*
+
+### 12.pants. Virspavēlnieka kompetence
+
+(1) Virspavēlnieks vai viņa pilnvarota persona piedalās Ministru kabineta sēdēs ar padomdevēja tiesībām.
+
+(2) Virspavēlnieks vada valsts aizsardzību, lai novērstu valsts neatkarības, tās konstitucionālās iekārtas un teritoriālās integritātes apdraudējumu, ja Ministru kabinets ir aizkavēts pildīt šajā likumā vai citos normatīvajos aktos noteiktos kara laika uzdevumus.
+
+*(25.02.2016. likuma redakcijā, kas stājas spēkā 23.03.2016.)*
+
+### 13.pants. Iekšlietu ministrijas kompetence
+
+(1) Iekšlietu ministrija un tās padotībā esošās institūcijas:
+
+1) izstrādā un īsteno valsts iekšlietu politiku;
+
+2) sargā sabiedrisko kārtību un drošību;
+
+3) aizsargā personu tiesības un likumīgās intereses;
+
+4) reģistrē fiziskās personas, kā arī nodrošina un kontrolē personu likumīgu uzturēšanos valstī;
+
+5) īsteno ugunsdrošības, ugunsdzēsības, glābšanas un civilās aizsardzības pasākumus;
+
+6) likumā noteiktās kompetences apjomā apsargā un kontrolē Latvijas valsts robežu;
+
+7) koordinē valsts un pašvaldību institūciju un sabiedrisko organizāciju darbību sabiedriskās kārtības uzturēšanas jautājumos;
+
+8) prognozē un novērš valsts un sabiedrības drošības, kā arī tautsaimniecības apdraudējumus;
+
+9) īsteno vienotā kontaktpunkta funkcijas pārrobežu sadarbībai, kā arī koordinē sadarbību ar Eiropas Komisiju kritiskās infrastruktūras noturības jautājumos;
+
+10) sadarbojas ar valsts drošības iestādēm, valsts un pašvaldību institūcijām, kritiskās infrastruktūras īpašniekiem un tiesiskajiem valdītājiem, kā arī īsteno pārrobežu sadarbību kritiskās infrastruktūras noturības nodrošināšanai.
+
+(2) Pamatojoties uz Valsts drošības dienesta priekšnieka ieteikumu, iekšlietu ministrs Ministru kabineta noteiktajā kārtībā izsludina terorisma draudu līmeni.
+
+*(Ar grozījumiem, kas izdarīti ar 01.12.2005., 02.11.2006., 27.03.2024. un 12.06.2025. likumu, kas stājas spēkā 28.06.2025.)*
+
+### 14.pants. Ārlietu ministrijas kompetence
+
+Ārlietu ministrija:
+
+1) īsteno valsts ārējās drošības politiku;
+
+2) koordinē Latvijai saistošu starptautisko līgumu slēgšanu nacionālās drošības jomā;
+
+3) analizē ārvalstu ārējo un iekšējo politiku.
+
+### 15.pants. Valsts drošības iestādes
+
+(1) Valsts drošības iestādes ir valsts institūcijas, kuras nacionālās drošības sistēmai noteikto uzdevumu īstenošanā veic izlūkošanas, pretizlūkošanas darbības un operatīvās darbības pasākumus.
+
+(2) Valsts drošības iestāžu kopumu veido:
+
+1) Satversmes aizsardzības birojs;
+
+2) Militārās izlūkošanas un drošības dienests;
+
+3) Valsts drošības dienests.
+
+(3) Valsts drošības iestāžu kompetenci nosaka speciāli likumi.
+
+*(29.03.2007. likuma redakcijā ar grozījumiem, kas izdarīti ar 27.03.2024. likumu, kas stājas spēkā 24.04.2024.)*
+
+### 15.<sup>1</sup> pants. Informācijas analīzes dienests
+
+*(Izslēgts ar 18.06.2009. likumu, kas stājas spēkā 03.07.2009.)*
+
+### 15.<sup>2</sup> pants. Informācijas analīzes dienesta amatpersonas
+
+*(Izslēgts ar 18.06.2009. likumu, kas stājas spēkā 03.07.2009.)*
+
+### 15.<sup>3</sup> pants. Krīzes vadības centrs
+
+(1) Krīzes vadības centrs ir Ministru prezidenta funkcionālā pārraudzībā esoša struktūrvienība Valsts kancelejas sastāvā, kura Ministru prezidenta uzdevumā nodrošina krīzes vadības pasākumu plānošanu, sagatavošanu un īstenošanu.
+
+(2) Krīzes vadības centra vadītājs ir valsts civildienesta ierēdnis, kuru ieceļ amatā un atbrīvo no amata Ministru prezidents pēc apstiprināšanas Ministru kabinetā Valsts civildienesta likuma 11. panta trešajā un ceturtajā daļā noteiktajā kārtībā.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 16. pants. Citu ministriju un valsts institūciju kompetence
+
+Citas ministrijas un valsts institūcijas pilda likumā, Ministru kabineta noteikumos un lēmumos paredzētos pienākumus, lai garantētu ar nacionālo drošību saistīto koncepciju un plānu izpildi, kā arī operatīvo drošības, valsts apdraudējuma situāciju pārvarēšanas un krīzes vadības pasākumu izpildi.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 17. pants. Pašvaldību kompetence
+
+Pašvaldības:
+
+1) piedalās sabiedriskās kārtības un drošības nodrošināšanā attiecīgās pašvaldības administratīvajā teritorijā;
+
+2) sniedz valsts drošības iestādēm un Nacionālajiem bruņotajiem spēkiem palīdzību nacionālās drošības pasākumu veikšanā;
+
+3) veic valsts pārvaldes funkcijas, kuru izpilde likumā noteiktajā kārtībā nodota attiecīgajai pašvaldībai.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 18.pants. Sabiedrisko organizāciju kompetence
+
+(1) Nacionālās drošības pasākumos normatīvajos aktos noteiktajā kārtībā un apjomā var iesaistīt sabiedriskās organizācijas un to apvienības.
+
+(2) Aizliegts izveidot, apmācīt un apbruņot militāras brīvprātīgo sabiedriskās organizācijas vai to apvienības.
+
+## II<sup>1</sup> nodaļa Aizliegums izceļot no Latvijas Republikas
+
+*(Nodaļa 22.06.2017. likuma redakcijā, kas stājas spēkā 01.09.2017.)*
+
+**18.<sup>1</sup>** **pants.** **Izceļošanas aizliegums**
+
+(1) Pilsonim, nepilsonim, personai, kurai Latvijas Republikā piešķirts bezvalstnieka vai alternatīvais statuss, bēglim, kā arī tās valsts valstspiederīgajam, kas piemēro Šengenas *acquis* nosacījumus par personu brīvu pārvietošanos, bet kuram Latvijas Republikā izsniegta uzturēšanās atļauja, un citas valsts valstspiederīgajam, attiecībā uz kuru nav iespējams pieņemt lēmumu par liegumu ieceļot Latvijas Republikā, ir aizliegts izceļot no Latvijas Republikas, ja iekšlietu ministrs ir pieņēmis lēmumu par aizliegumu tam izceļot no Latvijas Republikas.
+
+(2) Iekšlietu ministrs var pieņemt lēmumu par aizliegumu šā panta pirmajā daļā minētajai personai izceļot no Latvijas Republikas uz noteiktu laiku līdz vienam gadam, ja valsts drošības iestāde ir sniegusi informāciju, ka minētā persona ārpus Latvijas Republikas plāno iesaistīties vai pastāv konkrēts un acīmredzams risks personai tās neaizsargātības dēļ neapzinoties tikt iesaistītai bruņotā konfliktā, teroristiskās darbībās vai citās darbībās, kā rezultātā ir pietiekams pamats uzskatīt, ka persona pēc atgriešanās Latvijas Republikā apdraudēs tās nacionālo drošību.
+
+(3) Valsts drošības iestādes vadītājs atzinumu par šā panta otrajā daļā minēto nosacījumu esību nosūta iekšlietu ministram lēmuma pieņemšanai par aizliegumu personai izceļot no Latvijas Republikas.
+
+(4) Lēmums par aizliegumu personai izceļot no Latvijas Republikas stājas spēkā tā pieņemšanas brīdī. Paziņojot personai lēmumu par aizliegumu izceļot no Latvijas Republikas, tai sniedz informāciju par faktiem un lēmuma pamatojumu, ciktāl konkrētajā gadījumā to pieļauj likuma "Par valsts noslēpumu" un citu informācijas aizsardzību regulējošo normatīvo aktu prasības.
+
+(5) Iekšlietu ministrs triju darbdienu laikā pēc tam, kad pieņemts lēmums par aizliegumu personai izceļot no Latvijas Republikas, informē par to Pilsonības un migrācijas lietu pārvaldi.
+
+(6) Šā panta pirmajā daļā minētajai personai, par kuru pieņemts lēmums saskaņā ar šā panta otro daļu, mēneša laikā pēc lēmuma paziņošanas ir tiesības to pārsūdzēt Augstākās tiesas Administratīvo lietu departamentā. Pieteikuma iesniegšana tiesā neaptur šā panta otrajā daļā minētā lēmuma darbību.
+
+(7) Ziņu apjomu, kas par personu, attiecībā uz kuru pieņemts lēmums par liegumu izceļot no Latvijas Republikas, iekļaujams Personu izceļošanas un izvešanas liegumu reģistrā, kā arī šo ziņu iekļaušanas kārtību, glabāšanas termiņus, dzēšanas kārtību un institūcijas, kurām piešķirama piekļuve reģistrā iekļautajām ziņām, nosaka Ministru kabinets.
+
+*(22.06.2017. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.10.2022. likumu, kas stājas spēkā 14.11.2022.)*
+
+### 18.<sup>2</sup> pants. Pieteikuma par iekšlietu ministra lēmumu par aizliegumu personai izceļot no Latvijas Republikas izskatīšana tiesā
+
+(1) Augstākās tiesas Administratīvo lietu departaments lietu, kas ierosināta, pamatojoties uz pieteikumu par šā likuma 18.<sup>1</sup>panta otrajā daļā minēto lēmumu, izskata divu mēnešu laikā no dienas, kad pieņemts lēmums par pieteikuma pieņemšanu un lietas ierosināšanu.
+
+(2) Tiesa lietu izskata kā pirmās instances tiesa. Lietu izskata koleģiālā sastāvā.
+
+(3) Ja tiesai lietas apstākļu objektīvai noskaidrošanai ir nepieciešams pārbaudīt valsts noslēpumu saturošu informāciju, ar šādu informāciju iepazīstas un to izvērtē tikai tiesa. Nolēmumā tiesa norāda, ka šī informācija ir izvērtēta.
+
+(4) Tiesas nolēmums ir galīgs un nepārsūdzams un stājas spēkā tā pasludināšanas brīdī.
+
+*(22.06.2017. likuma redakcijā, kas stājas spēkā 01.09.2017.)*
+
+## III nodaļa Nacionālās drošības padome
+
+### 19.pants. Nacionālās drošības padomes sastāvs
+
+(1) Nacionālās drošības padomes locekļi ir:
+
+1) Valsts prezidents;
+
+2) Saeimas priekšsēdētājs;
+
+3) Saeimas Nacionālās drošības komisijas priekšsēdētājs;
+
+4) Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisijas priekšsēdētājs;
+
+5) Ministru prezidents;
+
+6) aizsardzības ministrs;
+
+7) ārlietu ministrs;
+
+8) iekšlietu ministrs;
+
+9) (izslēgts ar 07.04.2004. likumu).
+
+(2) Ģenerālprokuroram ir tiesības piedalīties Nacionālās drošības padomes sēdēs.
+
+(2<sup>1</sup>) Ar padomdevēja tiesībām uz Nacionālās drošības padomes sēdi var uzaicināt valsts drošības iestāžu vadītājus.
+
+(3) Nacionālās drošības padomes un tās sekretariāta darbību nodrošina Valsts prezidenta kanceleja.
+
+*(Ar grozījumiem, kas izdarīti ar 07.04.2004., 09.11.2006. un 18.06.2009. likumu, kas stājas spēkā 03.07.2009.)*
+
+### 20.pants. Nacionālās drošības padomes kompetence
+
+(1) Nacionālās drošības padome:
+
+1) saskaņo augstāko valsts institūciju un amatpersonu īstenotu vienotu valsts politiku nacionālās drošības jomā un izskata tās pilnveidošanas gaitu un problēmas;
+
+2) izskata likumā noteiktos ar nacionālo drošību saistītos plānus un koncepcijas.
+
+(2) Nacionālā drošības padome iesniedz priekšlikumus Saeimai par Satversmes aizsardzības biroja direktora iecelšanu amatā un atbrīvošanu no amata.
+
+(3) Nacionālās drošības padomes lēmums, izņemot šā panta otrajā daļā minētos gadījumus, ir rekomendējošs un neatbrīvo atbildīgās amatpersonas no atbildības par to pieņemtajiem lēmumiem.
+
+(4) Nacionālās drošības padomei ir tiesības pieprasīt valsts drošības iestādēm visu to rīcībā esošo informāciju, kas skar nacionālās drošības intereses.
+
+*(Ar grozījumiem, kas izdarīti ar 07.04.2004., 01.12.2005. un 18.06.2009. likumu, kas stājas spēkā 03.07.2009.)*
+
+### 21.pants. Nacionālās drošības padomes sēžu sasaukšana
+
+Nacionālās drošības padomes sēdes sasauc Valsts prezidents.
+
+## IV nodaļa Valsts apdraudējuma pārvarēšana un krīzes vadība
+
+*(Nodaļas nosaukums 29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 22.pants. Valsts apdraudējums
+
+(1) Atkarībā no valsts apdraudējuma veida, tā intensitātes un rakstura, kā arī apdraudētās teritorijas lieluma nosaka atbilstošu terorisma draudu līmeni, kā arī likumā noteiktajā kārtībā var izsludināt pastiprinātu robežapsardzības sistēmas darbības režīmu, ārkārtējo situāciju vai izņēmuma stāvokli.
+
+(2) (Izslēgta ar 17.04.2008. likumu)
+
+(3) (Izslēgta ar 07.03.2013. likumu)
+
+(4) (Izslēgta ar 07.03.2013. likumu)
+
+(5) Ārkārtējās situācijas un izņēmuma stāvokļa gadījumā var izsludināt mobilizāciju, lai risinātu ar nacionālo drošību un valsts aizsardzību saistītos uzdevumus, kā arī likvidētu ārkārtējās situācijas un to sekas.
+
+(6) Kara laiks iestājas, ja ārējs ienaidnieks ir izdarījis militāru iebrukumu vai citādi vērsies pret valsts neatkarību, tās konstitucionālo iekārtu vai teritoriālo integritāti.
+
+*(21.04.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 02.11.2006., 17.04.2008., 07.03.2013., 25.02.2016. un 27.03.2024. likumu, kas stājas spēkā 24.04.2024.)*
+
+### 22.<sup>1</sup> pants. Terorisma draudu līmeņi
+
+(1) Atkarībā no terorisma draudu iespējamības un potenciālo seku negatīvās ietekmes izsludina šādus terorisma draudu līmeņus:
+
+1) zemu terorisma draudu līmeni (krāsu kods - zils), ja pastāv vispārīga rakstura terorisma draudi;
+
+2) paaugstinātu terorisma draudu līmeni (krāsu kods - dzeltens), ja ir pieaugoši terorisma draudi;
+
+3) augstu terorisma draudu līmeni (krāsu kods - oranžs), ja ir apstiprināti terorisma draudi konkrētam objektam, tautsaimniecības sektoram vai valsts reģionam;
+
+4) īpaši augstu terorisma draudu līmeni (krāsu kods - sarkans), ja ir noticis terora akts vai terora akts vairs nav novēršams.
+
+(2) Terorisma draudu līmeņus var izsludināt:
+
+1) visai valsts teritorijai;
+
+2) apdraudētam valsts reģionam;
+
+3) apdraudētam tautsaimniecības sektoram;
+
+4) apdraudētam objektam.
+
+(3) Pretterorisma darbībās iesaistītās institūcijas terorisma draudu novēršanas un pārvarēšanas pasākumus plāno atbilstoši terorisma draudu līmeņiem.
+
+*(02.11.2006. likuma redakcijā, kas stājas spēkā 23.11.2006.)*
+
+### 22.<sup>2</sup> pants. Kritiskā infrastruktūra
+
+(1) Kritiskā infrastruktūra ir Latvijas Republikā izvietoti objekti, sistēmas vai to daļas un pakalpojumi, kuri ir būtiski svarīgu sabiedrības funkciju īstenošanas, kā arī cilvēku veselības aizsardzības, drošības, ekonomiskās vai sociālās labklājības nodrošināšanai un kuru iznīcināšana vai darbības traucējumi būtiski ietekmētu valsts un sabiedrības pamatfunkciju īstenošanu, izņemot šā likuma 22.<sup>3</sup> pantā minētos kritiskos finanšu pakalpojumus un ar tiem saistītās finanšu tirgus infrastruktūras, tajā skaitā maksājumu un finanšu instrumentu norēķinu sistēmas likuma "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" izpratnē.
+
+(2) Kritisko infrastruktūru klasificē šādi:
+
+1) valsts līmeņa sevišķi svarīga kritiskā infrastruktūra (A kategorijas kritiskā infrastruktūra), kuras iznīcināšana vai darbības spēju samazināšana būtiski apdraud valsts pārvaldīšanu un drošību;
+
+2) valsts līmeņa svarīga kritiskā infrastruktūra (B kategorijas kritiskā infrastruktūra), kuras iznīcināšana vai darbības spēju samazināšana apgrūtina valsts pārvaldīšanu un apdraud sabiedrības un valsts drošību;
+
+3) pašvaldību un nozaru kritiskā infrastruktūra (C kategorijas kritiskā infrastruktūra), kuras iznīcināšana vai darbības spēju samazināšana apgrūtina pašvaldību darbību vai nozaru pārvaldīšanu, kā arī apdraud sabiedrības drošību;
+
+4) nozaru kritiskā infrastruktūra (D kategorijas kritiskā infrastruktūra), kuras iznīcināšana, darbības spēju samazināšana vai kritisko pakalpojumu sniegšanas pārtraukšana izsludināta izņēmuma stāvokļa laikā vai kara laikā būtiski apdraud sabiedrības un valsts drošību.
+
+(2<sup>1</sup>) Incidents kritiskajā infrastruktūrā ir kritiskās infrastruktūras iznīcināšana vai tās darbības traucējumi, kas ietekmē vai var ietekmēt valsts un sabiedrības pamatfunkciju īstenošanu.
+
+(3) Atsevišķu kritisko infrastruktūru, kas sniedz vienādus vai līdzīgus būtiski svarīgu valsts un sabiedrības pamatfunkciju īstenošanas pakalpojumus sešās vai vairāk Eiropas Savienības dalībvalstīs vai sešām vai vairāk Eiropas Savienības dalībvalstīm, var noteikt par Eiropas mērogā īpaši nozīmīgu kritisko infrastruktūru.
+
+(3<sup>1</sup>) Par kritiskās infrastruktūras īpašnieku, tiesisko valdītāju vai patieso labuma guvēju nevar būt persona, kas atbalsta valstis vai personas, kuras grauj vai apdraud demokrātisku valstu teritoriālo nedalāmību, suverenitāti un neatkarību vai konstitucionālo iekārtu, tajā skaitā sniedz informatīvu (propagandas) atbalstu tām.
+
+(3<sup>2</sup>) Krievijas Federācija vai Baltkrievijas Republika, tās pilsoņi vai juridiskās personas, kuras ir reģistrētas Krievijas Federācijā vai Baltkrievijas Republikā, nevar kļūt par A, B un C kategorijas kritiskās infrastruktūras vai Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras īpašnieku, tiesisko valdītāju vai patieso labuma guvēju, kā arī Krievijas Federācijas vai Baltkrievijas Republikas pilsoņiem aizliegts ieņemt amatus A, B un C kategorijas kritiskās infrastruktūras un Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras pārvaldes struktūrās. Krievijas Federācijas un Baltkrievijas Republikas pilsoņi nevar tikt nodarbināti vai sniegt pakalpojumu A, B un C kategorijas kritiskajā infrastruktūrā vai Eiropas mērogā īpaši nozīmīgā kritiskajā infrastruktūrā, ja darbs vai pakalpojuma sniegšana ietver piekļuvi kritiskās infrastruktūras funkcionēšanai nozīmīgai informācijai vai tehnoloģiskajām iekārtām. Krievijas Federācijas vai Baltkrievijas Republikas pilsoņi var veikt darbu A, B un C kategorijas kritiskajā infrastruktūrā vai Eiropas mērogā īpaši nozīmīgā kritiskajā infrastruktūrā tikai izņēmuma kārtā ar valsts drošības iestādes atsevišķu atļauju.
+
+(3<sup>3</sup>) Valsts drošības iestāde savas kompetences ietvaros pēc kritiskās infrastruktūras vai Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras īpašnieka vai tiesiskā valdītāja pieprasījuma vai pēc savas iniciatīvas sniedz atzinumu par darbiniekiem un izvēlētajiem pretendentiem pieņemšanai attiecīgajā darbā un komersanta, kurš sniedz nozīmīgu pakalpojumu kritiskajā infrastruktūrā vai Eiropas mērogā īpaši nozīmīgā kritiskajā infrastruktūrā vai kuram ir piekļuve kritiskās infrastruktūras vai Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras funkcionēšanai nozīmīgai informācijai vai tehnoloģiskajām iekārtām, īpašnieku, valdes locekļu, darbinieku un darbu veikšanai vai pakalpojumu sniegšanai izvēlēto pretendentu atbilstību darbam kritiskajā infrastruktūrā vai Eiropas mērogā īpaši nozīmīgā kritiskajā infrastruktūrā vai piekļuvei tai. Ja ir saņemts negatīvs valsts drošības iestādes atzinums, kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs liedz personai piekļuvi A, B un C kategorijas kritiskajai infrastruktūrai vai Eiropas mērogā īpaši nozīmīgai kritiskajai infrastruktūrai un tās funkcionēšanai nozīmīgai informācijai vai tehnoloģiskajām iekārtām.
+
+(4) Kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs veic atbilstīgus un samērīgus pasākumus, lai nodrošinātu attiecīgās kritiskās infrastruktūras noturību, tajā skaitā nekavējoties informē kompetento valsts drošības iestādi par incidentiem kritiskajā infrastruktūrā. Noturība šā likuma izpratnē nozīmē kritiskās infrastruktūras spēju izvairīties no incidentiem, aizsargāties pret tiem, reaģēt uz tiem, pretoties tiem, mazināt vai absorbēt tos, pielāgoties tiem un pārvarēt tos. Valsts apdraudējuma gadījumā kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs nodrošina drošības pasākumu un darbības nepārtrauktības īstenošanu vismaz minimālajā apjomā.
+
+(4<sup>1</sup>) A, B un C kategorijas kritiskās infrastruktūras īpašnieka vai tiesiskā valdītāja izveidotā iekšējās drošības dienesta apsardzes darbinieks vai tā apsardzes komersanta apsardzes darbinieks, kas sniedz apsardzes pakalpojumus attiecīgajā kritiskās infrastruktūras objektā, kritiskās infrastruktūras īpašnieka vai tiesiskā valdītāja uzdevumā ir tiesīgs pārtraukt attālināti vadāmas ierīces pārvietošanos gaisā, ūdenī vai uz sauszemes, ja tā apdraud apsargājamā kritiskās infrastruktūras objekta drošību.
+
+(5) Kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs iekšējiem drošības pasākumus reglamentējošiem dokumentiem nosaka ierobežotas pieejamības informācijas statusu.
+
+(6) Ministru kabinets nosaka kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, apzināšanas, drošības pasākumu, darbības nepārtrauktības un noturības plānošanas un īstenošanas, incidentu paziņošanas kārtību, kā arī noturības pasākumus.
+
+(7) Šā panta otrās daļas 1. vai 2. punktā vai trešajā daļā minētās kritiskās infrastruktūras nodošanai valdījumā vai īpašumā citai personai ir nepieciešama Ministru kabineta atļauja.
+
+*(29.04.2010. likuma redakcijā ar grozījumiem, kas izdarīti ar 23.03.2017., 20.05.2021. un 12.06.2025. likumu, kas stājas spēkā 28.06.2025.)*
+
+### 22.<sup>3</sup> pants. Kritiskie finanšu pakalpojumi
+
+(1) Kritiskie finanšu pakalpojumi ir skaidras un bezskaidras naudas maksājumi, kurus Latvijas Republikā sniedz Latvijas Republikā licencēta kredītiestāde vai citā Eiropas Savienības dalībvalstī licencēta (reģistrēta) kredītiestāde (turpmāk — kredītiestāde).
+
+(2) Lai nodrošinātu kritisko finanšu pakalpojumu pieejamību valsts apdraudējuma gadījumā, kredītiestāde izstrādā darbības nepārtrauktības plānu, kurā norāda to ārpakalpojumu sniedzēju pienākumus, kurus kredītiestāde ir piesaistījusi kritisko finanšu pakalpojumu nodrošināšanai, un iesniedz šo plānu Latvijas Bankai. Kredītiestāde ne retāk kā reizi gadā pārskata un atjauno darbības nepārtrauktības plānu un to testē.
+
+(3) Latvijas Banka nosaka:
+
+1) kritērijus to kredītiestāžu noteikšanai, kuras izstrādā darbības nepārtrauktības plānu un nodrošina kritisko finanšu pakalpojumu pieejamību valsts apdraudējuma gadījumā;
+
+2) kritisko finanšu pakalpojumu (minimālo) apjomu valsts apdraudējuma gadījumā;
+
+3) kredītiestāžu darbības nepārtrauktības plānu izstrādes prasības.
+
+(4) Latvijas Banka:
+
+1) uzrauga un kontrolē kredītiestāžu darbības nepārtrauktības plānu izstrādi un īstenošanu valsts apdraudējuma gadījumā;
+
+2) izvērtē kredītiestāžu darbības nepārtrauktības plānu testēšanas rezultātus.
+
+(5) Šajā pantā minētos uzdevumus Latvijas Banka veic, ievērojot Padomes 2013. gada 15. oktobra regulas (ES) Nr. 1024/2013, ar ko Eiropas Centrālajai bankai uztic īpašus uzdevumus saistībā ar politikas nostādnēm, kas attiecas uz kredītiestāžu prudenciālo uzraudzību nosacījumus.
+
+*(20.05.2021. likuma redakcijā ar grozījumiem, kas izdarīti ar 06.10.2022. likumu, kas stājas spēkā 03.11.2022. Grozījumi otrajā, trešajā un piektajā daļā par vārdu "Finanšu un kapitāla tirgus komisija" (attiecīgā locījumā) aizstāšanu ar vārdiem "Latvijas Banka" un ceturtajā daļā par vārdu "Finanšu un kapitāla tirgus komisija, konsultējoties ar Latvijas Banku" aizstāšanu ar vārdiem "Latvijas Banka" stājas spēkā 01.01.2023. Sk. pārejas noteikumu 24. punktu)*
+
+### 22.<sup>4</sup> pants. Nacionālajai drošībai un valsts aizsardzībai svarīgas informācijas par nekustamā īpašuma objektiem aizsardzība
+
+(1) Lai novērstu potenciālu apdraudējumu valsts drošībai, var tikt ierobežota pieejamība nacionālajai drošībai un valsts aizsardzībai svarīgai informācijai (ģeotelpiskajai informācijai, tehniskajai dokumentācijai un datiem, kā arī citai objektu raksturojošai informācijai) valsts informācijas sistēmās par šādiem nekustamā īpašuma objektiem:
+
+1) kritiskās infrastruktūras, tajā skaitā Eiropas mērogā īpaši nozīmīgas kritiskās infrastruktūras, objektiem;
+
+2) Aizsardzības ministrijas, Iekšlietu ministrijas, Tieslietu ministrijas un to padotības institūciju objektiem.
+
+(2) Ministru kabinets nosaka:
+
+1) kārtību, kādā tiek noteiktas nacionālajai drošībai un valsts aizsardzībai svarīgas informācijas par nekustamā īpašuma objektiem datu kopas, kuru brīva pieejamība var radīt potenciālu apdraudējumu valsts drošībai;
+
+2) nacionālajai drošībai un valsts aizsardzībai svarīgas informācijas par nekustamā īpašuma objektiem pieejamības ierobežošanas apjomu;
+
+3) institūcijas un personas, kurām ir tiesības piekļūt nacionālajai drošībai un valsts aizsardzībai svarīgai informācijai par nekustamā īpašuma objektiem;
+
+4) nacionālajai drošībai un valsts aizsardzībai svarīgas informācijas par nekustamā īpašuma objektiem aprites kārtību.
+
+*(20.05.2021. likuma redakcijā ar grozījumiem, kas izdarīti ar 12.06.2025. likumu, kas stājas spēkā 28.06.2025.)*
+
+### 22.<sup>5</sup> pants. Krīze un krīzes vadība
+
+(1) Krīze ir neparedzēts valsti un sabiedrību apdraudošs notikums vai situācija, kad ikdienas spējas nav pietiekamas tās postošo apstākļu novēršanai un nepieciešama stratēģiska, adaptīva un savlaicīga reakcija, lai saglabātu valsts, sabiedrības, vides vai saimnieciskās darbības drošību vai cilvēku veselību un dzīvību.
+
+(2) Krīzes vadība ietver pasākumus krīzes vadības procesu plānošanai, ieviešanai, īstenošanai un sistēmiskai attīstīšanai. Krīzes vadību īsteno, ievērojot krīzes vadības satvara elementus un krīzes vadības principus.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 23. pants. Ministru kabineta atbildība
+
+(1) Ministru kabinets atbild par krīzes vadību un valsts apdraudējuma pārvarēšanu, kā arī par tā seku likvidēšanu. Krīzes vadības un valsts apdraudējuma pārvarēšanas jautājumus izskata Ministru kabineta krīzes vadības sēdē.
+
+(2) Ministru kabinets:
+
+1) pieņem lēmumus krīzes un valsts apdraudējuma gadījumā;
+
+2) likumā noteiktajos gadījumos izsludina pastiprinātu robežapsardzības sistēmas darbības režīmu, ārkārtējo situāciju, izņēmuma stāvokli un mobilizāciju;
+
+3) lemj par Ziemeļatlantijas līguma organizācijas un Eiropas Savienības dalībvalstu bruņoto spēku atbalsta nepieciešamību ārkārtējās situācijas vai izņēmuma stāvokļa laikā, kā arī valsts drošības un aizsardzības spēju pastiprināšanai miera laikā;
+
+4) pieņem lēmumu par Latvijas Republikas nostāju, ja cita Ziemeļatlantijas līguma organizācijas dalībvalsts pieprasa izskatīt jautājumu par Ziemeļatlantijas līguma organizācijas kolektīvās aizsardzības atbalstu (1949. gada 4. aprīļa Ziemeļatlantijas līguma 5. panta ietvaros);
+
+5) lemj par ministrijas, citas valsts institūcijas vai pašvaldības ierosinājumu pārņemt krīzes vadību, ja objektīvu apstākļu (ierobežotas pilnvaras, krīze skar vairākas nozares) dēļ tā nevar nodrošināt krīzes vadību;
+
+6) izskata vai apstiprina likumā noteiktās ar nacionālo drošību saistītās koncepcijas un plānus;
+
+7) lemj par jautājumiem, kas saistīti ar visaptverošas valsts aizsardzības un noturības plānošanu, īstenošanu un koordinēšanu;
+
+8) lemj par starptautiskās palīdzības lūgšanu vai sniegšanu;
+
+9) nosaka kārtību, kādā:
+
+a) Nacionālo bruņoto spēku komandieris vienojas par valsts, pašvaldību, fizisko vai juridisko personu un to apvienību īpašumā vai valdījumā esoša nekustamā īpašuma vai tā daļas pārņemšanu Nacionālo bruņoto spēku turējumā uz laiku vai pieņem attiecīgu lēmumu nolūkā novērst militāro darbību rezultātā izraisītu valsts apdraudējumu un par attiecīgā īpašuma vai tā daļas atdošanu atpakaļ īpašniekam vai valdītājam,
+
+b) persona pieprasa atlīdzību par zaudējumiem, kas nodarīti saistībā ar tās īpašumā vai valdījumā esoša nekustamā īpašuma vai tā daļas atrašanos Nacionālo bruņoto spēku turējumā, lai novērstu militāro darbību rezultātā izraisītu valsts apdraudējumu,
+
+c) novērtē un aprēķina zaudējumu atlīdzības apmēru, pieņem lēmumu par zaudējumu atlīdzību, tostarp izvērtējot atlīdzības prasījuma par atrauto peļņu pamatotību, un nosaka atlīdzības izmaksāšanas kārtību, ja zaudējumi nodarīti saistībā ar nekustamā īpašuma vai tā daļas atrašanos Nacionālo bruņoto spēku turējumā, lai novērstu militāro darbību rezultātā izraisītu valsts apdraudējumu.
+
+(3) Krīzes gadījumā Ministru kabinetam ir tiesības krīzes vadības sēdē pieņemt neatliekamus lēmumus par nepieciešamo resursu piesaisti, lai novērstu būtisku valsts, sabiedrības, vides vai saimnieciskās darbības drošības vai cilvēku veselības un dzīvības apdraudējumu.
+
+(4) Krīzes un valsts apdraudējuma gadījumā krīzes vadības un apdraudējuma pārvarēšanas pasākumus vada par attiecīgo nozari atbildīgā ministrija.
+
+(5) Krīzes un valsts apdraudējuma gadījumā Ministru kabinets ir tiesīgs pieņemt lēmumu par Nacionālo bruņoto spēku iesaistīšanu sabiedriskās kārtības uzturēšanā, apdraudējuma seku likvidēšanā un krīzes vadības pasākumos.
+
+(6) Slēpta militārā apdraudējuma pārvarēšanai miera laikā, ja tiek lietoti militāri līdzekļi, Ministru kabinets var uzdot Aizsardzības ministrijai saskaņā ar Valsts aizsardzības plānu vadīt apdraudējuma pārvarēšanas pasākumus ierobežotā teritorijā. Ja Ministru kabinets ir aizkavēts pildīt savas funkcijas, par to lemj Ministru prezidents. Ja Ministru prezidents ir aizkavēts pildīt savu amatu, par to lemj aizsardzības ministrs.
+
+(7) Lai paaugstināta militāra apdraudējuma gadījumā uzsāktu Valsts aizsardzības plāna un Valsts aizsardzības operatīvā plāna uzdevumu izpildi, Ministru kabinets ir tiesīgs pieņemt lēmumu par zemessargu un rezerves karavīru mobilizāciju ne ilgāk kā uz 72 stundām, nekavējoties par to informējot Saeimu. Ministru kabinets ir tiesīgs pieņemt lēmumu par daļēju zemessargu mobilizāciju, citus zemessargus pakļaujot paaugstinātas gatavības režīmam.
+
+(8) Ministru kabinetam, pamatojoties uz Nacionālo bruņoto spēku komandiera lūgumu, ir tiesības līdz 14 dienām pagarināt termiņu Nacionālo bruņoto spēku komandiera vai viņa pilnvarotas personas pieņemtam lēmumam par valsts, pašvaldību un personu īpašumā vai valdījumā esoša nekustamā īpašuma vai tā daļas pārņemšanu Nacionālo bruņoto spēku turējumā.
+
+*(29.05.2025. likuma redakcijā ar grozījumiem, kas izdarīti ar 03.09.2026. likumu, kas stājas spēkā 09.09.2026.)*
+
+### 23.<sup>1</sup> pants. Krīzes vadības centra pienākumi
+
+(1) Krīzes vadības centra vispārīgie pienākumi ir šādi:
+
+1) pildīt Ministru prezidenta un Ministru kabineta lēmumus krīzes vadības jomā;
+
+2) koordinēt Ministru prezidenta un Ministru kabineta lēmumu izpildi krīzes vadības jomā;
+
+3) balstoties uz neatkarīgiem un profesionāliem kritērijiem, konsultēt Ministru prezidentu un Ministru kabinetu krīzes vadības jomā;
+
+4) koordinēt nozaru darbības nepārtrauktības un noturības plānu izstrādi, kā arī krīzes vai tās draudu gadījumā koordinēt lēmumu vienotu un savlaicīgu izpildi;
+
+5) sagatavot Ministru kabinetam priekšlikumus par ārkārtējās situācijas, izņēmuma stāvokļa un mobilizācijas izsludināšanu;
+
+6) izvērtēt ministriju sagatavotos nozaru darbības nepārtrauktības un noturības plānus;
+
+7) vadīt un koordinēt vairākas nozares vai visu valsti skaroša apdraudējuma pārvaldīšanu un krīzes vadības procesus, kā arī sadarbību starp ministrijām, citām valsts institūcijām, pašvaldībām un fiziskajām un juridiskajām personām;
+
+8) sniegt atbalstu ministrijām, citām valsts institūcijām, pašvaldībām un sabiedriskajām organizācijām krīzes vadības pasākumu plānošanā, sagatavošanā un īstenošanā, kā arī atbalstu virspavēlniekam valsts aizsardzības vadībā kara laikā;
+
+9) sadarbībā ar kompetentajām institūcijām sistemātiski veikt risku un draudu monitoringu;
+
+10) sadarbībā ar kompetentajām institūcijām apzināt resursus un koordinēt to iesaistīšanu krīzes pārvarēšanā;
+
+11) izveidot un koordinēt krīzes vadības speciālo uzdevumu, profila un konsultāciju grupu darbību;
+
+12) īstenot pasākumu kopumu iespējamo risku un draudu identificēšanai, novērtēšanai un analīzei, kā arī izstrādāt un uzturēt nacionālo risku novērtējumu (Nacionālo risku katalogu);
+
+13) organizēt un sadarbībā ar kompetentajām institūcijām īstenot Ministru kabineta locekļu apmācību nacionālās drošības, tajā skaitā krīzes vadības, jomā ne vēlāk kā 30 dienas pēc attiecīgās amatpersonas apstiprināšanas Saeimā;
+
+14) koordinēt valsts līmeņa krīzes vadības mācību sagatavošanu un īstenošanu;
+
+15) pēc krīzes, kā arī pēc valsts līmeņa krīzes vadības mācībām koordinēt un kontrolēt visaptveroša izvērtējuma, secinājumu un priekšlikumu sagatavošanu un īstenošanu nepārtrauktai krīzes vadības uzlabošanai;
+
+16) sadarboties ar citu valstu krīzes vadības centriem un starptautiskajām organizācijām, tajā skaitā Ziemeļatlantijas līguma organizācijas un Eiropas Savienības struktūrām, krīzes vadības un noturības jautājumos.
+
+(2) Krīzes vadības centra pienākumi, pārņemot krīzes vadību, ir šādi:
+
+1) informēt Ministru prezidentu par nepieciešamību sasaukt Ministru kabineta krīzes vadības sēdi un lemt par ministrijas, citas valsts institūcijas vai pašvaldības ierosinājumu pārņemt krīzes vadību, ja objektīvu apstākļu (ierobežotas pilnvaras, krīze skar vairākas nozares) dēļ tā nevar nodrošināt krīzes vadību;
+
+2) pārņemt krīzes vadību atbilstoši Ministru kabineta lēmumam;
+
+3) nekavējoties informēt Ministru prezidentu un Ministru kabinetu, ja nepieciešams piesaistīt papildu resursus;
+
+4) saskaņā ar Ministru kabineta lēmumu iesaistīt ministrijas, citas valsts institūcijas, pašvaldības, kā arī juridisko un fizisko personu rīcībā esošos resursus krīzes pārvarēšanā;
+
+5) vadīt un koordinēt krīzes komunikāciju.
+
+(3) Krīzes vadības centram ir tiesības:
+
+1) pieprasīt un saņemt no ministrijām, citām valsts institūcijām, pašvaldībām, kā arī juridiskajām un fiziskajām personām to rīcībā esošo informāciju, kas nepieciešama krīzes vadības nodrošināšanai;
+
+2) ierosināt Ministru prezidentam sasaukt Ministru kabineta krīzes vadības sēdi un iekļaut tās darba kārtībā krīzes vadības jautājumus;
+
+3) pēc krīzes vadības pārņemšanas dot saistošus uzdevumus ministrijām, citām valsts institūcijām un pašvaldībām, kā arī kontrolēt to izpildi.
+
+(4) Ministru kabinets nosaka kārtību, kādā:
+
+1) Krīzes vadības centrs krīzes gadījumā iesaista tās pārvarēšanā juridiskās vai fiziskās personas rīcībā esošos resursus;
+
+2) juridiskajai vai fiziskajai personai kompensējami izdevumi un zaudējumi, kas radušies, krīzes gadījumā iesaistot tās pārvarēšanā personas rīcībā esošos resursus, kā arī kompensācijas aprēķināšanas kārtību.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 23.<sup>2</sup> pants. Ministriju un citu valsts institūciju pienākumi
+
+(1) Ministrijas:
+
+1) izveido krīzes vadības struktūrvienību vai norīko krīzes vadības darbiniekus krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai;
+
+2) pamatojoties uz Nacionālo risku katalogā ietvertajiem riskiem un apdraudējumiem, izstrādā nozares darbības nepārtrauktības un noturības plānu un iesniedz to izskatīšanai Ministru kabineta krīzes vadības sēdē pirms tam, kad to apstiprina attiecīgais Ministru kabineta loceklis;
+
+3) sadarbojas un sniedz Krīzes vadības centram krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai nepieciešamo atbalstu;
+
+4) informē Krīzes vadības centru par ārkārtēju notikumu vai krīzes situāciju, kas apdraud valsti un sabiedrību;
+
+5) ir tiesīgas lūgt Krīzes vadības centra atbalstu krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai;
+
+6) iesniedz Krīzes vadības centram pamatotu ierosinājumu, lai Ministru kabinets pārņem krīzes vadību, ja objektīvu apstākļu (ierobežotas pilnvaras, krīze skar vairākas nozares) dēļ tās nevar nodrošināt krīzes vadību.
+
+(2) Citas valsts institūcijas veic šā panta pirmās daļas 3., 4. un 6. punktā noteiktos pienākumus, un tām ir šā panta pirmās daļas 5. punktā noteiktās tiesības.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 23.<sup>3</sup> pants. Pašvaldību pienākumi
+
+(1) Pašvaldības:
+
+1) veic Ministru kabineta lēmumā par pastiprinātu robežapsardzības sistēmas darbības režīmu, lēmumā par ārkārtējo situāciju un lēmumā par izņēmuma stāvokli noteiktos pasākumus;
+
+2) izveido krīzes vadības struktūrvienību vai norīko krīzes vadības darbiniekus krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai;
+
+3) veic šā likuma 23.<sup>2</sup> panta pirmās daļas 3., 4. un 6. punktā noteiktos pienākumus.
+
+(2) Pašvaldības ir tiesīgas lūgt Krīzes vadības centra atbalstu krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 23.<sup>4</sup> pants. Sabiedrisko organizāciju pienākumi
+
+Sabiedriskās organizācijas sadarbojas ar Krīzes vadības centru un sniedz tam krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai nepieciešamo atbalstu.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+### 23.<sup>5</sup> pants. Visaptveroša valsts aizsardzība
+
+Lai kara, militāra iebrukuma vai okupācijas gadījumā īstenotu visaptverošu valsts aizsardzību līdz brīdim, kamēr tiek pilnībā atjaunotas likumīgās valsts varu un pārvaldi realizējošās institūcijas, Nacionālie bruņotie spēki, valsts pārvaldes un pašvaldību institūcijas, kā arī fiziskās un juridiskās personas veic pasākumus valsts militārai un civilai aizsardzībai un īsteno bruņotu pretošanos, pilsonisko nepakļaušanos un nesadarbošanos ar nelikumīgām pārvaldes institūcijām.
+
+*(04.10.2018. likuma redakcijā, kas stājas spēkā 30.10.2018.)*
+
+### 23.<sup>6</sup> pants. Militāro darbību rezultātā izraisītu valsti apdraudošu situāciju novēršana
+
+(1) Militāro darbību rezultātā izraisīta valsti apdraudoša situācija ir pret Latvijas Republiku īstenota pretlikumīga ārvalsts militārā darbība, tajā skaitā:
+
+1) militārās aviācijas gaisa kuģa, militārā bezpilota gaisa kuģa vai cita veida lidaparāta, karakuģa, militārās zemūdenes vai cita militārā zemūdens pārvietošanās līdzekļa, militārā transportlīdzekļa vai citas, tajā skaitā attālināti vadāmas, bezpilota militārās mehāniskās ierīces pretlikumīga iekļūšana vai atrašanās Latvijas Republikas teritorijā;
+
+2) izlūkošana vai pretlikumīga piekļuve informācijas sistēmām, elektronisko sakaru tīkliem, to darbības traucēšana vai elektromagnētiskā iejaukšanās Latvijas Republikas nacionālajai drošībai svarīgu objektu, nozīmīgu komercsabiedrību vai valsts īpašumā, valdījumā vai turējumā esošu objektu darbībā un militārās aviācijas gaisa kuģu un karakuģu darbībā un citas nekinētiskas militārās darbības;
+
+3) pretlikumīga militāro formējumu vai militāro formējumu bez pazīšanās zīmēm iekļūšana vai atrašanās Latvijas Republikas teritorijā.
+
+(2) Par militāro darbību rezultātā izraisītu valsti apdraudošu situāciju uzskata arī šā panta pirmajā daļā minētās darbības, kuras, izmantojot Latvijas Republikas teritoriju, ārvalsts pretlikumīgi veic pret citu Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības dalībvalsti vai kuras nav tieši vērstas pret Latvijas Republiku, bet rada valsts apdraudējumu.
+
+(3) Nacionālie bruņotie spēki sadarbībā ar kompetentajām tiesībaizsardzības iestādēm un valsts drošības iestādēm Valsts aizsardzības plānā un Valsts aizsardzības operatīvajā plānā noteiktajā kārtībā nekavējoties veic pasākumus, kurus uzskata par samērīgiem un nepieciešamiem, lai novērstu militāro darbību rezultātā izraisītu valsti apdraudošu situāciju, ieskaitot bruņota spēka pielietošanu.
+
+*(20.05.2021. likuma redakcijā ar grozījumiem, kas izdarīti ar 03.09.2026. likumu, kas stājas spēkā 09.09.2026.)*
+
+### 24.pants. Valsts prezidenta pilnvaras kara vai militāra iebrukuma gadījumā
+
+(1) Valstij pieteikta kara vai militāra iebrukuma gadījumā Valsts prezidents nekavējoties:
+
+1) rīkojas saskaņā ar Valsts aizsardzības plāna noteikumiem, izdod pavēles un rīkojumus Nacionālajiem bruņotajiem spēkiem, valsts, pašvaldību institūcijām un valsts iedzīvotājiem;
+
+2) sasauc Saeimu lēmuma pieņemšanai par kara pasludināšanu un uzsākšanu;
+
+3) (izslēgts ar 25.02.2016. likumu).
+
+(2) (Izslēgta ar 25.02.2016. likumu)
+
+*(Ar grozījumiem, kas izdarīti ar 21.04.2005. un 25.02.2016. likumu, kas stājas spēkā 23.03.2016.)*
+
+### 25.pants. Citu institūciju un amatpersonu pilnvaras kara vai militāra iebrukuma gadījumā
+
+(1) Negaidīta militāra iebrukuma gadījumā, ja valstī vai tās daļā iepriekš nav izsludināts izņēmuma stāvoklis:
+
+1) katras Nacionālo bruņoto spēku vienības komandieris saskaņā ar Valsts aizsardzības operatīvo plānu uzsāk militārās aizsardzības pasākumus, negaidot atsevišķu lēmumu par to;
+
+2) Nacionālo bruņoto spēku komandieris saskaņā ar Valsts aizsardzības operatīvo plānu nekavējoties uzsāk organizētas militārās aizsardzības darbības un informē par to aizsardzības ministru;
+
+3) aizsardzības ministrs saskaņā ar Valsts aizsardzības plānu nekavējoties uzsāk organizētas valsts aizsardzības darbības un informē par to Valsts prezidentu, Saeimas Prezidiju un Ministru prezidentu.
+
+(2) Kara, militāra iebrukuma vai okupācijas laikā nedrīkst aizliegt izrādīt bruņotu pretestību.
+
+(3) Ja likumīgās valsts varu un pārvaldi realizējošās institūcijas likvidētas nedemokrātiskā veidā vai citas valsts militāra iebrukuma rezultātā, tad neatkarības saglabāšanas vai atjaunošanas interesēs:
+
+1) Nacionālie bruņotie spēki, kā arī citas valsts institūcijas rīkojas saskaņā ar īpašu, situācijai atbilstošu Nacionālās drošības plānā un Valsts aizsardzības plānā noteiktu kārtību;
+
+2) pilnvaras pārstāvēt likumīgo valsts varu ir Latvijas pilnvarotajam vēstniekam Apvienoto Nāciju Organizācijā. Valsts aizsardzības plānā var paredzēt kārtību, kādā nododamas pilnvaras pārstāvēt likumīgo valsts varu;
+
+3) ārvalstīs esošās Latvijas valsts institūcijas un amatpersonas nekavējoties veic pasākumus valsts neatkarības atjaunošanai, izmantojot starptautisko organizāciju palīdzību;
+
+4) (izslēgts ar 04.10.2018. likumu).
+
+(4) Nacionālie bruņotie spēki uz brīvprātības un savstarpējas uzticības pamata var iesaistīt iedzīvotājus Nacionālās drošības plānā un Valsts aizsardzības plānā ietverto pasākumu sagatavošanas un īstenošanas atbalstīšanā.
+
+*(Ar grozījumiem, kas izdarīti ar 05.06.2014., 25.02.2016. un 04.10.2018. likumu, kas stājas spēkā 30.10.2018.)*
+
+### 25.<sup>1</sup> pants. Iedzīvotāju pienākumi un tiesības kara, militāra iebrukuma vai militāro darbību rezultātā izraisīta valsts apdraudējuma gadījumā
+
+(1) Īstenojot visaptverošu valsts aizsardzību, iedzīvotājiem ir šādi pienākumi:
+
+1) pildīt uzdevumus, ko dod Nacionālie bruņotie spēki un to uzdevumu izpildē atbalstu sniedzošās Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības dalībvalstu bruņoto spēku vienības, kuras īsteno Latvijas valsts militāro aizsardzību, kā arī citas par valsts apdraudējuma pārvarēšanu atbildīgās valsts pārvaldes un pašvaldību institūcijas;
+
+2) nesadarboties ar nelikumīgām pārvaldes institūcijām un agresora bruņotām vienībām, izņemot gadījumus, kad atteikums sadarboties apdraud personas vai tās ģimenes locekļu dzīvību vai brīvību.
+
+(2) Īstenojot visaptverošu valsts aizsardzību, iedzīvotājiem, ievērojot nacionālo un starptautisko tiesību normas, ir šādas tiesības:
+
+1) īstenot pilsonisko nepakļaušanos, pretdarbojoties nelikumīgām pārvaldes institūcijām un agresora bruņotām vienībām;
+
+2) izrādīt bruņotu pretošanos;
+
+3) sniegt visu veidu atbalstu pilsoniskās nepakļaušanās un bruņotas pretošanās dalībniekiem, kā arī Nacionālajiem bruņotajiem spēkiem un to uzdevumu izpildē atbalstu sniedzošo Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības dalībvalstu bruņoto spēku vienībām, kuras īsteno Latvijas valsts militāro aizsardzību.
+
+(3) Militāro darbību rezultātā izraisīta valsts apdraudējuma gadījumā iedzīvotājiem ir pienākums nodot to īpašumā vai valdījumā esošu nekustamo īpašumu vai tā daļu Nacionālo bruņoto spēku turējumā, ja ir pieņemts attiecīgs Nacionālo bruņoto spēku komandiera vai viņa pilnvarotas personas lēmums.
+
+*(04.10.2018. likuma redakcijā ar grozījumiem, kas izdarīti ar 03.09.2026. likumu, kas stājas spēkā 09.09.2026.)*
+
+### 25.<sup>2</sup> pants. Nekustamā īpašuma īslaicīga pārņemšana Nacionālo bruņoto spēku turējumā
+
+(1) Nacionālo bruņoto spēku komandieris militāro darbību rezultātā izraisīta valsts apdraudējuma gadījumā atbilstoši Ministru kabineta noteiktajai kārtībai vienojas par valsts, pašvaldību, fizisko vai juridisko personu un to apvienību īpašumā vai valdījumā esoša nekustamā īpašuma vai tā daļas pārņemšanu Nacionālo bruņoto spēku turējumā uz laiku nolūkā novērst valsts apdraudējumu. Ja, individuāli izvērtējot konkrēto gadījumu, ir secināts, ka nepastāv citas iespējas, kā savlaicīgi un vienlīdz efektīvi novērst vai mazināt militāro darbību izraisīta valsts apdraudējuma risku, Nacionālo bruņoto spēku komandieris var pieņemt lēmumu par valsts, pašvaldību un fizisko vai juridisko personu un to apvienību īpašumā vai valdījumā esoša nekustamā īpašuma vai tā daļas pārņemšanu Nacionālo bruņoto spēku turējumā uz laiku, kas nepārsniedz 14 dienas, un lēmumu par attiecīgā īpašuma atdošanu atpakaļ īpašniekam vai valdītājam. Ministru kabinets ir tiesīgs pagarināt minēto termiņu šā likuma 23. panta astotajā daļā noteiktajā kārtībā.
+
+(2) Nacionālo bruņoto spēku turējumā pārņemts nekustamais īpašums vai tā daļa vienošanās vai lēmuma darbības laikā iegūst militārā objekta statusu Nacionālo bruņoto spēku likuma 4.<sup>1</sup> panta pirmās daļas izpratnē.
+
+(3) Nacionālo bruņoto spēku komandieris ir tiesīgs pilnvarot citu amatpersonu pieņemt šā panta pirmajā daļā minēto lēmumu.
+
+(4) Šā panta pirmajā daļā minēto lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+
+(5) Personas ir tiesīgas pieprasīt atlīdzību par zaudējumiem, kas radušies saistībā ar šā panta pirmajā daļā minētā nekustamā īpašuma vai tā daļas pārņemšanu Nacionālo bruņoto spēku turējumā uz laiku. Lēmums par zaudējuma atlīdzinājumu nav apstrīdams, bet ir pārsūdzams tiesā saskaņā ar Administratīvā procesa likumu.
+
+*(03.09.2026. likuma redakcijā, kas stājas spēkā 09.09.2026.)*
+
+## V nodaļa Valsts apdraudējuma novēršanas koncepciju un plānu izstrādāšana un apstiprināšana
+
+### 26.pants. Valsts apdraudējuma analīze
+
+(1) Valsts apdraudējuma analīze ir visaptverošs izvērtējums, kura rezultātā tiek noteikti esošie un potenciālie specifiskie nacionālās drošības apdraudējumi vai riska faktori.
+
+(2) Valsts apdraudējuma analīzi:
+
+1) izstrādā Satversmes aizsardzības birojs sadarbībā ar Valsts drošības dienestu un Militārās izlūkošanas un drošības dienestu ne retāk kā reizi četros gados;
+
+2) saskaņo Valsts drošības iestāžu padome;
+
+3) izskata Ministru kabinets un Nacionālās drošības padome.
+
+*(Ar grozījumiem, kas izdarīti ar 07.04.2004., 18.06.2009., 15.05.2014. un 27.03.2024. likumu, kas stājas spēkā 24.04.2024.)*
+
+### 27.pants. Nacionālās drošības koncepcija
+
+(1) Nacionālās drošības koncepcija ir uz Valsts apdraudējuma analīzes pamata sagatavots dokuments, kurā noteikti valsts apdraudējuma novēršanas stratēģiskie pamatprincipi un prioritātes.
+
+(2) Nacionālās drošības koncepciju:
+
+1) sagatavo Krīzes vadības centrs, saskaņojot ar valsts drošības iestādēm;
+
+2) izskata Ministru kabinets, saņemot Nacionālās drošības padomes un Saeimas Nacionālās drošības komisijas viedokli;
+
+3) apstiprina Saeima ne retāk kā reizi katrā sasaukumā līdz sava pirmā darbības gada 1.oktobrim.
+
+*(Ar grozījumiem, kas izdarīti ar 15.05.2014. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+**28. pants.** **Militāro draudu analīze**
+
+(1) Militāro draudu analīze ir pret Latviju vērsta militāra iebrukuma iespējamības izvērtējums, kurā tiek noteikti esošie un potenciālie apdraudējumi un riska faktori, kā arī to iespējamā izpausme un ietekme.
+
+(2) Militāro draudu analīzi:
+
+1) katru gadu sagatavo Militārās izlūkošanas un drošības dienests;
+
+2) izskata Nacionālās drošības padome un Ministru kabinets.
+
+*(18.05.2017. likuma redakcijā, kas stājas spēkā 14.06.2017.)*
+
+### 29.pants. Valsts aizsardzības koncepcija
+
+(1) Valsts aizsardzības koncepcija ir uz Militāro draudu analīzes pamata sagatavots dokuments, kurā noteikti valsts militārās aizsardzības stratēģiskie pamatprincipi, prioritātes un pasākumi miera, valsts apdraudējuma un kara laikā.
+
+(2) Valsts aizsardzības koncepciju:
+
+1) sagatavo Aizsardzības ministrija;
+
+2) izskata Ministru kabinets, saņemot Nacionālās drošības padomes, Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisijas un Saeimas Nacionālās drošības komisijas viedokli;
+
+3) apstiprina Saeima ne retāk kā reizi katrā sasaukumā līdz sava otrā darbības gada 1.oktobrim.
+
+*(Ar grozījumiem, kas izdarīti ar 01.12.2005. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 30.pants. Nacionālās drošības plāns
+
+(1) Nacionālās drošības plāns balstās uz Nacionālās drošības koncepcijā noteikto stratēģiju un principiem. Tajā ietverti konkrēti valsts apdraudējuma neitralizācijas un novēršanas pasākumi.
+
+(2) Nacionālās drošības plānu:
+
+1) izstrādā Krīzes vadības centrs, saskaņojot ar valsts drošības iestādēm;
+
+2) apstiprina Ministru kabinets, saņemot Nacionālās drošības padomes un Saeimas Nacionālās drošības komisijas viedokli, gada laikā pēc Nacionālās drošības koncepcijas apstiprināšanas.
+
+(3) Ministru prezidents iepazīstina Nacionālās drošības padomi un Saeimas Nacionālās drošības komisiju ar Ministru kabineta apstiprināto Nacionālās drošības plānu.
+
+*(Ar grozījumiem, kas izdarīti ar 15.05.2014. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 31.pants. Valsts aizsardzības plāns
+
+(1) Valsts aizsardzības plānu izstrādā, pamatojoties uz Militāro draudu analīzi un Valsts aizsardzības koncepcijā noteiktajiem principiem. Tajā nosaka konkrētus valsts aizsardzības pasākumus, prioritātes un nepieciešamos resursus, kā arī Nacionālo bruņoto spēku, valsts varu un pārvaldi realizējošo institūciju, pašvaldību, fizisko un juridisko personu nepieciešamo gatavību un darbību valsts aizsardzībā.
+
+(2) Valsts aizsardzības plānu:
+
+1) izstrādā Aizsardzības ministrija;
+
+2) apstiprina Ministru kabinets, saņemot Nacionālās drošības padomes, Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisijas un Saeimas Nacionālās drošības komisijas viedokli.
+
+(3) Aizsardzības ministrs ar Valsts aizsardzības plānu iepazīstina Saeimas Aizsardzības, iekšlietu un korupcijas novēršanas komisiju.
+
+(4) Aizsardzības ministrs pēc saskaņošanas ar Satversmes aizsardzības biroju var iesaistīt valsts aizsardzības plāna izstrādē speciālistus no ārvalstīm, starptautiskajām organizācijām un to institūcijām, ar kurām noslēgts līgums par klasificētās informācijas aizsardzību.
+
+*(Ar grozījumiem, kas izdarīti ar 15.05.2003., 09.11.2006. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 32.pants. Nacionālo bruņoto spēku attīstības plāns
+
+*(Izslēgts ar 06.12.2001. likumu, kas stājas spēkā 01.01.2002.)*
+
+### 33.pants. Valsts aizsardzības operatīvais plāns
+
+(1) Valsts aizsardzības operatīvais plāns ietver operatīvās situācijas izvērtējumu, Nacionālo bruņoto spēku operatīvās kaujas gatavības izvērtējumu un darbības plānu. Tas nosaka operatīvās situācijas vadību, uzdevumus, pienākumus, to izpildes kārtību, paredzamo atbalstu, iespējamos sakarus un materiāltehnisko nodrošinājumu.
+
+(2) Valsts aizsardzības operatīvo plānu:
+
+1) izstrādā Nacionālo bruņoto spēku komandieris;
+
+2) apstiprina aizsardzības ministrs.
+
+(3) Valsts aizsardzības operatīvā plāna izpildi nodrošina Nacionālo bruņoto spēku komandieris.
+
+*(Ar grozījumiem, kas izdarīti ar 25.02.2016. likumu, kas stājas spēkā 23.03.2016.)*
+
+### 34.pants. Nacionālo bruņoto spēku mobilizācijas plāns
+
+*(Izslēgts ar 06.12.2001. likumu, kas stājas spēkā 01.01.2002.)*
+
+### 35.pants. Tautsaimniecības mobilizācijas plāns
+
+(1) Tautsaimniecības mobilizācijas plāns ietver valsts materiālo rezervju un tautsaimniecības objektu sagatavošanu un izmantošanu kara vai izņēmuma stāvokļa laikā.
+
+(2) Tautsaimniecības mobilizācijas plānu izstrādā Ekonomikas ministrija un apstiprina Ministru kabinets.
+
+*(Ar grozījumiem, kas izdarīti ar 25.02.2016. un 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 36.pants. Valsts civilās aizsardzības plāns
+
+(1) Valsts civilās aizsardzības plāns ietver valsts civilās aizsardzības sistēmas nodrošināšanas pasākumus, kā arī ārkārtējām situācijām paredzētus preventīvus, gatavības un reaģēšanas pasākumus un šādu situāciju seku likvidēšanas pasākumus, kā arī nosaka civilās aizsardzības sistēmas darbību militāra iebrukuma vai kara gadījumā.
+
+(2) Valsts civilās aizsardzības plānu:
+
+1) izstrādā Iekšlietu ministrija;
+
+2) apstiprina Ministru kabinets.
+
+*(Ar grozījumiem, kas izdarīti ar 29.05.2025. likumu, kas stājas spēkā 01.07.2025.)*
+
+### 36.<sup>1</sup> pants. Kritiskās infrastruktūras noturības stratēģija
+
+(1) Kritiskās infrastruktūras noturības stratēģiju izstrādā, lai noteiktu stratēģiskos mērķus un politikas pasākumus nolūkā sasniegt un uzturēt augstu kritiskās infrastruktūras noturības līmeni.
+
+(2) Kritiskās infrastruktūras noturības stratēģiju ne retāk kā reizi četros gados:
+
+1) izstrādā Iekšlietu ministrija sadarbībā ar citām ministrijām un valsts drošības iestādēm;
+
+2) apstiprina Ministru kabinets.
+
+(3) Kritiskās infrastruktūras noturības stratēģijas saturu nosaka Ministru kabinets.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+### 36.<sup>2</sup> pants. Valsts kritiskās infrastruktūras riska novērtējums
+
+(1) Valsts kritiskās infrastruktūras riska novērtējums ir visaptverošs izvērtējums, kura rezultātā tiek noteikta incidenta kritiskajā infrastruktūrā izraisītu zaudējumu vai traucējumu iespējamība, potenciālo incidentu veids un apjoms, kā arī tos veicinoši faktori.
+
+(2) Valsts kritiskās infrastruktūras riska novērtējumu ne retāk kā reizi četros gados:
+
+1) izstrādā Iekšlietu ministrija sadarbībā ar citām ministrijām un valsts drošības iestādēm;
+
+2) apstiprina Ministru kabinets.
+
+(3) Valsts kritiskās infrastruktūras riska novērtējuma saturu nosaka Ministru kabinets.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+## VI nodaļa Apdraudējuma novēršana nacionālajai drošībai nozīmīgām komercsabiedrībām, biedrībām un nodibinājumiem
+
+*(Nodaļa 23.03.2017. likuma redakcijā; nodaļas nosaukums 20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+### 37. pants. Nacionālajai drošībai nozīmīgas komercsabiedrības, biedrības un nodibinājumi
+
+Šajā nodaļā noteiktie ierobežojumi attiecas uz Latvijas Republikā reģistrētu komercsabiedrību, nodibinājumu un biedrību, ja tās īpašumā vai valdījumā atrodas A, B vai C kategorijas kritiskā infrastruktūra vai tā atbilst vismaz vienam no šādiem nosacījumiem:
+
+1) ir elektronisko sakaru komersants ar būtisku ietekmi tirgū, kuram noteiktas tarifu regulēšanas un izmaksu aprēķināšanas saistības Elektronisko sakaru likumā paredzētajā kārtībā;
+
+2) ir audiāls elektroniskais plašsaziņas līdzeklis, kura programmas aptveršanas zona, izmantojot zemes apraides tehniskos līdzekļus, atbilstoši Nacionālās elektronisko plašsaziņas līdzekļu padomes izsniegtajai apraides atļaujai ir Latvija vai vismaz 60 procenti no tās teritorijas, vai ir audiovizuāls elektroniskais plašsaziņas līdzeklis, kura programmas aptveršanas zona, izmantojot zemes apraides tehniskos līdzekļus, atbilstoši Nacionālās elektronisko plašsaziņas līdzekļu padomes izsniegtajai apraides atļaujai ir Latvija vai vismaz 95 procenti no tās teritorijas;
+
+3) ir Latvijas Republikā saņēmusi licenci dabasgāzes pārvadei, sadalei, uzglabāšanai vai tai pieder sašķidrinātās dabasgāzes iekārta, kas savienota ar pārvades vai sadales sistēmu;
+
+4) ir elektroenerģijas vai siltumenerģijas ražotājs, kura uzstādītā faktiskā jauda pārsniedz 50 megavatus;
+
+5) ir siltumenerģijas pārvades un sadales operators, kuram pieder siltumtīkli vismaz 100 kilometru garumā;
+
+6) ir Latvijas Republikā saņēmusi licenci elektroenerģijas pārvadei;
+
+7) ir Latvijas Republikā esošas meža zemes vismaz 10 000 hektāru platībā īpašniece;
+
+8) ir Latvijas Republikā esošas lauksaimniecības zemes vismaz 4000 hektāru platībā īpašniece;
+
+9) ir saņēmusi Aizsardzības ministrijas izsniegtu speciālo atļauju (licenci) komercdarbībai ar stratēģiskas nozīmes precēm vai militārā ražotāja sertifikātu, un tai ir spēkā esošs stratēģiskās partnerības līgums ar Aizsardzības ministriju;
+
+10) pēdējo divu gadu laikā ir bijusi Eiropas Parlamenta un Padomes 2021. gada 20. maija regulas (ES) 2021/821, ar ko izveido Savienības režīmu divējāda lietojuma preču eksporta, starpniecības, tehniskās palīdzības, tranzīta un pārvadājumu kontrolei I pielikumā minēto preču ražotāja un izstrādātāja, kas šādas divējāda lietojuma preces eksportē uz ārvalstīm, izņemot Eiropas Savienības dalībvalstis, Amerikas Savienotās Valstis, Kanādu, Austrāliju, Jaunzēlandi, Norvēģiju, Šveici, Japānu, Apvienoto Karalisti, Islandi un Lihtenšteinu;
+
+11) ir piekļuve vēlētāju personas datiem, kā arī deputātu kandidātu personas datiem, kuri nav publicējami saskaņā ar likumu;
+
+12) apstrādā valsts kritiskās infrastruktūras sistēmās iekļautās datu kopas, izņemot gadījumus, kad to veic finanšu tirgus dalībnieki;
+
+13) ir komercsabiedrība, kura ražo vai izstrādā Eiropas Parlamenta un Padomes 2021. gada 20. maija regulas (ES) 2021/821, ar ko izveido Savienības režīmu divējāda lietojuma preču eksporta, starpniecības, tehniskās palīdzības, tranzīta un pārvadājumu kontrolei I pielikumā minētās preces vai ražo vai izstrādā tehnoloģijas, piemēram, mākslīgā intelekta, robotikas, viedās un autonomās mobilitātes, kiberdrošības, enerģijas uzglabāšanas, kvantu tehnoloģijas, kodoltehnoloģijas, nanotehnoloģijas, biotehnoloģijas jomā un kuru Ministru kabinets, pamatojoties uz valsts drošības iestādes atzinumu, ir noteicis par nacionālajai drošībai nozīmīgu komercsabiedrību.
+
+*(23.03.2017. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.05.2021., 20.10.2022. un 12.06.2025. likumu, kas stājas spēkā 28.06.2025.)*
+
+### 38. pants. Ietekmes izvērtēšanas un ierobežošanas mehānismi
+
+(1) Lai novērstu nacionālo drošību apdraudošu vai potenciāli apdraudošu ietekmi nacionālajai drošībai nozīmīgā komercsabiedrībā, biedrībā vai nodibinājumā, Ministru kabinets nosaka nacionālajai drošībai nozīmīgām komercsabiedrībām, biedrībām vai nodibinājumiem šajā nodaļā minētos pienākumus un lemj par atļauju šādām darbībām:
+
+1) attiecībā uz kapitālsabiedrībām:
+
+a) būtiskas līdzdalības iegūšana,
+
+b) izšķirošas ietekmes iegūšana,
+
+c) uzņēmuma pāreja,
+
+d) akcionāra vai dalībnieka statusa saglabāšana vai tiesību izmantot netiešo līdzdalību saglabāšana, ja mainās patiesais labuma guvējs vai, ja nav iespējams noskaidrot patieso labuma guvēju un ir izmantoti visi iespējamie noskaidrošanas līdzekļi, kā arī izslēgtas šaubas, ka juridiskajai personai ir cits patiesais labuma guvējs, — kontroles ķēdē pēdējā juridiskā persona, kurai var konstatēt ietekmi nacionālajai drošībai nozīmīgā kapitālsabiedrībā (turpmāk — netiešās ietekmes ieguvējs),
+
+e) aizdevuma saņemšana;
+
+2) attiecībā uz personālsabiedrībām un biedrībām:
+
+a) jauna biedra iestāšanās,
+
+b) biedra statusa saglabāšana, ja mainās patiesais labuma guvējs vai, ja nav iespējams noskaidrot patieso labuma guvēju un ir izmantoti visi iespējamie noskaidrošanas līdzekļi, kā arī izslēgtas šaubas, ka juridiskajam veidojumam ir cits patiesais labuma guvējs, — kontroles ķēdē pēdējā juridiskā persona, kurai var konstatēt ietekmi nacionālajai drošībai nozīmīgā personālsabiedrībā vai biedrībā (turpmāk — netiešās ietekmes ieguvējs),
+
+c) aizdevuma saņemšana;
+
+3) attiecībā uz nodibinājumiem — aizdevuma saņemšana.
+
+(2) Krievijas Federācija vai Baltkrievijas Republika, tās pilsoņi vai juridiskās personas, kuras ir reģistrētas Krievijas Federācijā vai Baltkrievijas Republikā, (turpmāk — Krievijai vai Baltkrievijai piederīgās personas) nevar iegūt būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā kapitālsabiedrībā vai kļūt par nacionālajai drošībai nozīmīgas personālsabiedrības biedru, kā arī būt par nacionālajai drošībai nozīmīgas komercsabiedrības patieso labuma guvēju.
+
+(3) Šajā likumā jēdziens "būtiska līdzdalība" atbilst būtiskas līdzdalības jēdzienam Finanšu instrumentu tirgus likuma izpratnē, ja citā likumā nav noteikts mazāks līdzdalības īpatsvars vai citi papildu nosacījumi. Jēdziens "izšķiroša ietekme" atbilst izšķirošas ietekmes jēdzienam Koncernu likuma izpratnē. Jēdziens "patiesais labuma guvējs" atbilst patiesā labuma guvēja jēdzienam Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē, ievērojot šajā likumā noteikto līdzdalības apmēru.
+
+(4) Nosakot patieso labuma guvēju vai netiešās ietekmes ieguvēju, piemēro arī normatīvos aktus, kas izdoti, pamatojoties uz Finanšu instrumentu tirgus likuma 4.<sup>2</sup> pantu.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+### 39. pants. Nacionālajai drošībai nozīmīgas komercsabiedrības, biedrības vai nodibinājuma statusa iegūšanas tiesiskās sekas
+
+(1) Komercsabiedrība, biedrība vai nodibinājums piecu darbdienu laikā no dienas, kad tas atbilst kādam no šā likuma 37. pantā minētajiem nosacījumiem:
+
+1) iesniedz Latvijas Republikas Uzņēmumu reģistram (turpmāk — Uzņēmumu reģistrs) paziņojumu par savu atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības, biedrības vai nodibinājuma nosacījumiem;
+
+2) izdara akcionāru vai dalībnieku reģistrā ierakstu par kapitālsabiedrības statusu;
+
+3) informē attiecīgās kapitālsabiedrības dalībniekus vai akcionārus un personas, kuras izmanto netiešo līdzdalību, vai personālsabiedrības un biedrības biedrus par atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības vai biedrības nosacījumiem;
+
+4) informē Ministru kabineta noteikto institūciju:
+
+a) kapitālsabiedrība — par tās dibinātājiem, dalībniekiem, akcionāriem un patiesajiem labuma guvējiem vai, ja nav iespējams noskaidrot patieso labuma guvēju un ir izmantoti visi iespējamie noskaidrošanas līdzekļi, kā arī izslēgtas šaubas, ka juridiskajai personai ir cits patiesais labuma guvējs, — par netiešās ietekmes ieguvējiem,
+
+b) personālsabiedrība un biedrība — par tās dibinātājiem un biedriem, kā arī patiesajiem labuma guvējiem vai, ja nav iespējams noskaidrot patieso labuma guvēju un ir izmantoti visi iespējamie noskaidrošanas līdzekļi, kā arī izslēgtas šaubas, ka juridiskajam veidojumam ir cits patiesais labuma guvējs, — par netiešās ietekmes ieguvējiem,
+
+c) nodibinājums — par patiesajiem labuma guvējiem un saņemtajiem aizņēmumiem.
+
+(2) Uzņēmumu reģistrs informāciju par komercsabiedrības, biedrības vai nodibinājuma atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības, biedrības vai nodibinājuma nosacījumiem publicē Uzņēmumu reģistra tīmekļvietnē. Ja komercsabiedrība, biedrība vai nodibinājums nav izpildījis šā panta pirmās daļas 1. punktā minētās prasības, šā panta devītajā daļā norādītā institūcija nosūta Uzņēmumu reģistram reģistrēšanai un publicēšanai informāciju par komercsabiedrības, biedrības vai nodibinājuma atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības, biedrības vai nodibinājuma nosacījumiem.
+
+(3) Ja patiesie labuma guvēji ir:
+
+1) attiecīgās valsts kompetentās finanšu tirgus uzraudzības institūcijas uzraudzīta finanšu institūcija, ieguldījumu fonds, alternatīvo ieguldījumu fonds un tiem pielīdzināmu nodibinājumu ieguldītāji, — informācijā par patiesajiem labuma guvējiem var ietvert tikai ziņas par attiecīgo finanšu institūciju un tās darbības politiku;
+
+2) biedrība vai nodibinājums, — informācijā par patieso labuma guvēju ietver ziņas par attiecīgo biedrību vai nodibinājumu un tās darbības mērķi;
+
+3) tādas akciju sabiedrības akcionāri, kuras akcijas iekļautas regulētā tirgū, — informāciju sniedz tikai par tiem akcionāriem, kuri pārsniedz 10 procentus no attiecīgās akciju sabiedrības balsstiesīgo akciju kopskaita.
+
+(4) Ja šā panta pirmajā daļā minētajā kapitālsabiedrībā būtiska līdzdalība vai izšķiroša ietekme ir Krievijai vai Baltkrievijai piederīgajām personām vai šīs personas ir patiesie labuma guvēji, tad no dienas, kad kapitālsabiedrība iegūst nacionālajai drošībai nozīmīgas komercsabiedrības statusu, savas balsstiesības nav tiesīgi izmantot šādi dalībnieki vai akcionāri:
+
+1) Krievijai vai Baltkrievijai piederīgās personas;
+
+2) personas, kuras savu dalībnieka vai akcionāra tiesību realizāciju pilnībā vai daļēji nodevušas Krievijai vai Baltkrievijai piederīgajām personām;
+
+3) personas, ar kuru starpniecību Krievijai vai Baltkrievijai piederīgās personas kļuvušas par patiesajiem labuma guvējiem.
+
+(5) Ja šā panta pirmajā daļā minētās personālsabiedrības biedrs vai šā biedra patiesais labuma guvējs ir Krievijai vai Baltkrievijai piederīgā persona, tad šis biedrs no dienas, kad personālsabiedrība iegūst nacionālajai drošībai nozīmīgas komercsabiedrības statusu, nav tiesīgs pārstāvēt personālsabiedrību un kārtot tās lietvedību.
+
+(6) Ja Krievijai vai Baltkrievijai piederīgā persona ar Latvijas Republikā reģistrētas kapitālsabiedrības starpniecību kā tās dalībnieks vai akcionārs ir ieguvusi būtisku līdzdalību vai izšķirošu ietekmi šā panta pirmajā daļā minētajā kapitālsabiedrībā, tad šī persona no dienas, kad kapitālsabiedrība, kurā tai ir netieša būtiska līdzdalība vai izšķiroša ietekme, iegūst nacionālajai drošībai nozīmīgas komercsabiedrības statusu, nav tiesīga izmantot balsstiesības kapitālsabiedrībā, ar kuras starpniecību tiek realizēta dalība nacionālajai drošībai nozīmīgajā komercsabiedrībā.
+
+(7) Šā panta ceturtajā, piektajā un sestajā daļā noteiktie ierobežojumi tiek piemēroti līdz dienai, kad ir izpildīti šā likuma 38. panta otrajā daļā minētie nosacījumi.
+
+(8) Nosakot pārstāvības normu kapitālsabiedrībās, akcijas un kapitāla daļas, attiecībā uz kurām piemērojami šā panta ceturtajā un sestajā daļā noteiktie ierobežojumi, netiek ņemtas vērā.
+
+(9) Ministru kabinets nosaka institūciju, kurai iesniedzama šā panta pirmās daļas 4. punktā minētā informācija, iesniedzamās informācijas apjomu un tās iesniegšanas kārtību.
+
+(10) Ja komercsabiedrība, biedrība vai nodibinājums nav iesniedzis informāciju atbilstoši normatīvajiem aktiem, šā panta devītajā daļā minētajai institūcijai ir tiesības pieņemt lēmumu, ar kuru tā komercsabiedrībai, biedrībai vai nodibinājumam uzdod mēneša laikā no lēmuma spēkā stāšanās dienas iesniegt lēmumā norādīto informāciju.
+
+(11) Šā panta desmitajā daļā minēto lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+
+*(20.10.2022. likuma redakcijā ar grozījumiem, kas izdarīti ar 06.10.2022. likumu, kas stājas spēkā 03.11.2022. Grozījums trešās daļas 1. punktā par vārdu "un kapitāla" izslēgšanu stājas spēkā 01.01.2023. Sk. pārejas noteikumu 24. punktu)*
+
+### 40. pants. Atļaujas saņemšana būtiskas līdzdalības vai izšķirošas ietekmes iegūšanai
+
+(1) Ministru kabineta atļauja ir nepieciešama, pirms persona vai vairākas personas, kas rīkojas saskaņoti, iegūst būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā kapitālsabiedrībā vai kļūst par biedru nacionālajai drošībai nozīmīgā personālsabiedrībā vai biedrībā, vai arī iegūst ietekmi Latvijas Republikā reģistrētā kapitālsabiedrībā, kura ir nacionālajai drošībai nozīmīgas personālsabiedrības vai biedrības biedrs.
+
+(2) Ja citā likumā noteikts tiešs aizliegums konkrētiem tiesību subjektiem iegūt konkrēta veida līdzdalību kādā no nacionālajai drošībai nozīmīgām komercsabiedrībām vai biedrībām, šis aizliegums ir piemērojams neatkarīgi no Ministru kabineta atļaujas.
+
+(3) Pieteikumu atļaujas saņemšanai iesniedz persona, kura vēlas iegūt būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā kapitālsabiedrībā vai kļūt par biedru nacionālajai drošībai nozīmīgā personālsabiedrībā vai biedrībā.
+
+(4) Ministru kabinets, izsniedzot atļauju, ir tiesīgs noteikt ierobežojumus būtiskas līdzdalības vai izšķirošas ietekmes, vai līdzdalības īstenošanā, lai novērstu riskus nacionālajai drošībai.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+### 41. pants. Patiesā labuma guvēja un netiešās ietekmes ieguvēja maiņa
+
+(1) Nacionālajai drošībai nozīmīgas kapitālsabiedrības dalībniekam, akcionāram, personai, kura izmanto netiešo līdzdalību, personālsabiedrības vai biedrības biedram ir jāsaņem atļauja saglabāt līdzdalību vai palikt par biedru personālsabiedrībā vai biedrībā, ja mainās tās patiesais labuma guvējs vai netiešās ietekmes ieguvējs.
+
+(2) Pieteikumu atļaujas saņemšanai iesniedz attiecīgais nacionālajai drošībai nozīmīgās kapitālsabiedrības dalībnieks, akcionārs vai persona, kura izmanto netiešo līdzdalību, vai personālsabiedrības vai biedrības biedrs piecu darbdienu laikā no dienas, kad notikusi patiesā labuma guvēja vai netiešās ietekmes ieguvēja maiņa.
+
+(3) Ministru kabinets ir tiesīgs pieņemt lēmumu, ar kuru nosaka pienākumu šā panta otrajā daļā minētajai personai noteiktā termiņā attiecīgi atsavināt pamatkapitāla daļas vai akcijas vai izbeigt netiešo līdzdalību, vai izstāties no personālsabiedrības vai biedrības.
+
+(4) Ja persona nav veikusi darbības, kas noteiktas šā panta trešajā daļā minētajā lēmumā, tā nākamajā dienā pēc noteiktā termiņa beigām nav tiesīga:
+
+1) izmantot balsstiesības, kā arī saņemt no valdes informāciju par sabiedrības darbību un iepazīties ar visiem sabiedrības dokumentiem attiecīgajā kapitālsabiedrībā;
+
+2) izmantot balsstiesības, kā arī saņemt no valdes ziņas un dokumentus, kas attiecas uz biedrības darbību;
+
+3) pārstāvēt personālsabiedrību un kārtot tās lietvedību.
+
+(5) Ja Krievijai vai Baltkrievijai piederīgā persona kļūst par nacionālajai drošībai nozīmīgas kapitālsabiedrības patieso labuma guvēju, tad šīs sabiedrības akcionārs vai dalībnieks, ar kura starpniecību Krievijai vai Baltkrievijai piederīgā persona ir kļuvusi par patieso labuma guvēju, nav tiesīgs izmantot balsstiesības kapitālsabiedrībā. Nosakot pārstāvības normu nacionālajai drošībai nozīmīgā kapitālsabiedrībā, attiecīgās akcijas vai kapitāla daļas netiek ņemtas vērā.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+### 42. pants. Uzņēmuma pāreja
+
+(1) Ministru kabineta atļauja ir nepieciešama katrai uzņēmuma pārejai, kuras rezultātā cita persona iegūst īpašumā tādu uzņēmumu no nacionālajai drošībai nozīmīgas kapitālsabiedrības, kurā ietilpst aktīvi, kas tiek izmantoti šā likuma 37. pantā minētās darbības veikšanai.
+
+(2) Ministru kabineta noteiktajā kārtībā pieteikumu atļaujas saņemšanai iesniedz nacionālajai drošībai nozīmīga komercsabiedrība.
+
+*(23.03.2017. likuma redakcijā, kas stājas spēkā 29.03.2017.)*
+
+### 42.<sup>1</sup> pants. Aizdevums
+
+(1) Nacionālajai drošībai nozīmīgai komercsabiedrībai, biedrībai vai nodibinājumam ir nepieciešama Ministru kabineta atļauja aizdevuma saņemšanai, ja tā kopējā summa pārsniedz 10 procentus no aktīviem un tas tiek saņemts no fiziskās personas, kura ir ārvalsts valstspiederīgais, izņemot Eiropas Savienības, Eiropas Brīvās tirdzniecības asociācijas, Ziemeļatlantijas līguma organizācijas vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalsti, vai no juridiskās personas, kuras patiesais labuma guvējs ir ārvalsts valstspiederīgais, izņemot Eiropas Savienības, Eiropas Brīvās tirdzniecības asociācijas, Ziemeļatlantijas līguma organizācijas vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalsti.
+
+(2) Šā panta pirmajā daļā minēto prasību izpildei nacionālajai drošībai nozīmīga komercsabiedrība, biedrība vai nodibinājums pirms aizdevuma līguma noslēgšanas informāciju par patieso labuma guvēju iegūst no juridiskās personas, kas izsniedz aizdevumu.
+
+(3) Lai iegūtu atļauju aizdevuma saņemšanai, nacionālajai drošībai nozīmīga komercsabiedrība, biedrība vai nodibinājums Ministru kabineta noteiktajā kārtībā iesniedz pieteikumu.
+
+(4) Ministru kabinets, izsniedzot atļauju, ir tiesīgs noteikt ierobežojumus aizdevuma saņemšanā, lai novērstu riskus nacionālajai drošībai.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+### 43. pants. Ietekmes iegūšanas ierobežojumu izņēmumi
+
+Ministru kabineta atļauja nav nepieciešama, ja:
+
+1) likumā noteiktajos gadījumos pamatkapitāla daļas vai akcijas iegūst pati kapitālsabiedrība;
+
+2) tiek pārvaldītas valsts kapitālsabiedrības un valsts kapitāla daļas vai akcijas saskaņā ar Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumu;
+
+3) uzņēmums, pamatkapitāla daļas vai akcijas pāriet publiskas personas, publiskas personas kapitālsabiedrības vai publiski privātas kapitālsabiedrības īpašumā;
+
+4) Kriminālprocesa likumā noteiktajā kārtībā procesa virzītājs lemj par pamatkapitāla daļu vai akciju atdošanu likumīgajam īpašniekam;
+
+5) Kriminālprocesa likumā noteiktajā kārtībā tiesa lemj par pamatkapitāla daļu vai akciju konfiskāciju;
+
+6) aizdevumu saņem publiskas personas kapitālsabiedrība vai publiski privātā kapitālsabiedrība.
+
+*(23.03.2017. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.10.2022. likumu, kas stājas spēkā 14.11.2022.)*
+
+### 44. pants. Ministru kabineta lēmuma pieņemšanas un pārsūdzēšanas kārtība
+
+(1) Šā likuma 22.<sup>2</sup> panta septītajā daļā, 40. panta pirmajā daļā, 41. panta trešajā daļā, 42. panta pirmajā daļā un 42.<sup>1</sup> pantā minētajos gadījumos Ministru kabineta lēmums tiek pieņemts mēneša laikā no pieteikuma saņemšanas dienas. Šo termiņu var pagarināt līdz četriem mēnešiem.
+
+(2) Pieņemot lēmumu šajā nodaļā minētajos gadījumos, Ministru kabinets izvērtē personas tiesību ierobežojumu, tā samērīgumu ar nacionālās drošības interesēm un valsts drošības iestādes atzinumu, kā arī atbilstību tiesiskās paļāvības principam.
+
+(3) Šā likuma 22.<sup>2</sup> panta septītajā daļā, 40. panta pirmajā daļā, 41. panta trešajā daļā un 42. panta pirmajā daļā minēto lēmumu paziņo tā adresātam un nosūta paziņojumu par pieņemto lēmumu attiecīgajai nacionālajai drošībai nozīmīgai komercsabiedrībai, biedrībai vai nodibinājumam, ja tas nav lēmuma adresāts.
+
+(4) Ministru kabineta lēmumu var pārsūdzēt Administratīvajā apgabaltiesā. Lēmuma pārsūdzēšana neaptur tā darbību.
+
+(5) Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
+
+(6) Ja tiesai lietas apstākļu objektīvai noskaidrošanai ir nepieciešams pārbaudīt valsts noslēpumu saturošu informāciju, tad ar šādu informāciju iepazīstas un to izvērtē tikai tiesa. Nolēmumā tiesa norāda, ka šī informācija ir izvērtēta.
+
+(7) Ja Ministru kabinets šajā pantā noteiktajā termiņā nav pieņēmis lēmumu, tad uzskatāms, ka pēc termiņa izbeigšanās atļauja ir dota.
+
+(8) Ministru kabinets nosaka institūciju, kurai iesniedzams pieteikums šā likuma 22.<sup>2</sup>panta septītajā daļā, 40. panta pirmajā daļā, 41. panta pirmajā daļā un 42. panta pirmajā daļā minēto atļauju saņemšanai, iesniedzamās informācijas apjomu, tās iesniegšanas un izvērtēšanas, kā arī lēmuma par atļaujas izsniegšanu vai atteikumu to izsniegt pieņemšanas un lēmuma par šā likuma 41. panta trešajā daļā minēto pienākumu noteikšanu pieņemšanas un paziņošanas kārtību un paziņojumā par pieņemto lēmumu iekļaujamo informāciju.
+
+(9) Ministru kabinets nosaka institūciju, kura īsteno Eiropas Parlamenta un Padomes 2019. gada 19. marta regulā (ES) 2019/452, ar ko izveido regulējumu ārvalstu tiešo ieguldījumu Savienībā izvērtēšanai noteikto sadarbības mehānismu starp Eiropas Komisiju un dalībvalstīm, kā arī saņemtās informācijas un informācijas pieprasījumu apstrādes, izvērtēšanas, izpildes un nosūtīšanas kārtību.
+
+*(23.03.2017. likuma redakcijā ar grozījumiem, kas izdarīti ar 23.11.2020. un 20.10.2022. likumu, kas stājas spēkā 14.11.2022.)*
+
+### 45. pants. Ierobežojuma neievērošanas tiesiskās sekas
+
+(1) Ja persona vai vairākas personas, kas rīkojas saskaņoti, iegūst būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā komercsabiedrībā vai kļūst par šādas komercsabiedrības biedru, nesaņemot šā likuma 40. pantā vai 42.<sup>1</sup> panta pirmajā daļā minēto atļauju vai neievērojot šā likuma 38. panta 1.<sup>1</sup> daļā noteiktos ierobežojumus, tad darījums vai rīcība, kas bija par pamatu minēto tiesību iegūšanai, Latvijā nav spēkā no attiecīgā darījuma noslēgšanas vai attiecīgās rīcības brīža. Neatkarīgi no darījuma noslēgšanas vai rīcības vietas nacionālajai drošībai nozīmīga komercsabiedrība nav tiesīga veikt izmaiņas akcionāru vai dalībnieku reģistrā, ja nav saņemta šā likuma 40. pantā vai 42.<sup>1</sup> panta pirmajā daļā noteiktā atļauja.
+
+(2) Ja uzņēmuma pārejas rezultātā vai šā likuma 42.<sup>1</sup> panta pirmajā daļā minētajā gadījumā cita persona iegūst īpašumā tādu uzņēmumu no nacionālajai drošībai nozīmīgas kapitālsabiedrības, kurā ietilpst aktīvi, kas tiek izmantoti šā likuma 37. pantā minētās darbības veikšanai, nesaņemot šā likuma 42. pantā minēto atļauju, pāreja nav spēkā.
+
+(2<sup>1</sup>) Ja nacionālajai drošībai nozīmīga komercsabiedrība, biedrība vai nodibinājums nav saņēmis Ministru kabineta atļauju tāda aizdevuma saņemšanai, kura kopējā summa pārsniedz 10 procentus no aktīviem un kurš tiek saņemts no fiziskās personas, kura ir ārvalsts valstspiederīgais, izņemot Eiropas Savienības, Eiropas Brīvās tirdzniecības asociācijas, Ziemeļatlantijas līguma organizācijas vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalsti, vai no juridiskās personas, kuras patiesais labuma guvējs ir ārvalsts valstspiederīgais, izņemot Eiropas Savienības, Eiropas Brīvās tirdzniecības asociācijas, Ziemeļatlantijas līguma organizācijas vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalsti, tad darījums, kas bija par pamatu minētā aizdevuma izsniegšanai un saņemšanai, Latvijas Republikā nav spēkā no tā noslēgšanas brīža.
+
+(3) Nacionālajai drošībai nozīmīgas komercsabiedrības dalībnieku vai akcionāru sapulces lēmumi nav spēkā, ja par tiem ir balsojuši dalībnieki vai akcionāri, kuru līdzdalībai vai patiesā labuma guvēja vai netiešās ietekmes ieguvēja maiņai Ministru kabinets nav devis atļauju, vai tie ir pieņemti, pārkāpjot šajā nodaļā noteikto balsstiesību aizliegumu. Nav spēkā arī jebkāda biedra rīcība, ko tas veicis nacionālajai drošībai nozīmīgas komercsabiedrības vārdā, tādējādi pārkāpjot šajā likumā noteiktos pārstāvības un lietvedības kārtošanas ierobežojumus.
+
+(4) Šā panta pirmajā daļā noteiktajos gadījumos Ministru kabinets pieņem lēmumu, ar kuru uzliek par pienākumu konkrētiem attiecīgo:
+
+1) kapitālsabiedrību dalībniekiem vai akcionāriem atsavināt pamatkapitāla daļas vai akcijas vai izbeigt netiešo līdzdalību un aizliedz līdz šā pienākuma izpildei izmantot balsstiesības attiecīgajā kapitālsabiedrībā;
+
+2) personālsabiedrību biedriem izstāties no sabiedrības un aizliedz līdz šā pienākuma izpildei pārstāvēt sabiedrību un kārtot tās lietvedību.
+
+(5) Šā panta 2.<sup>1</sup> daļā minētajā gadījumā Ministru kabinets pieņem lēmumu, ar kuru uzliek par pienākumu nacionālajai drošībai nozīmīgai komercsabiedrībai, biedrībai vai nodibinājumam izbeigt līgumu, kas bija par pamatu aizdevuma izsniegšanai un saņemšanai.
+
+*(23.03.2017. likuma redakcijā ar grozījumiem, kas izdarīti ar 08.12.2021., 16.06.2022. un 20.10.2022. likumu, kas stājas spēkā 14.11.2022.)*
+
+## VII nodaļa Administratīvie pārkāpumi kritiskās infrastruktūras incidentu jomā un kompetence administratīvā pārkāpuma procesā
+
+*(Nodaļa 12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+### 46. pants. Neziņošana, nepienācīga vai nepatiesa ziņošana par incidentu kritiskajā infrastruktūrā
+
+Par neziņošanu, nepienācīgu vai nepatiesu ziņošanu par incidentu kritiskajā infrastruktūrā piemēro brīdinājumu vai naudas sodu kritiskās infrastruktūras īpašniekam vai tiesiskajam valdītājam — fiziskajai personai — līdz četrsimt naudas soda vienībām, bet juridiskajai personai — līdz četrtūkstoš naudas soda vienībām.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+### 47. pants. Kompetence administratīvā pārkāpuma procesā
+
+Administratīvā pārkāpuma procesu par šā likuma 46. pantā minēto pārkāpumu veic Nacionālo bruņoto spēku Militārā policija, ja kritiskā infrastruktūra atrodas Nacionālo bruņoto spēku valdījumā, un pārējos gadījumos — Valsts policija.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+## Pārejas noteikumi
+
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts aizsardzību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 2., 21.nr.; 1996, 6.nr.; 1997, 6.nr.; 1999, 24.nr.).
+
+2. Līdz attiecīgo Ministru kabineta noteikumu pieņemšanai, bet ne ilgāk kā līdz 2002.gada 1.jūlijam, ir spēkā šādi Ministru kabineta noteikumi, kas izdoti saskaņā ar likumu "Par valsts aizsardzību":
+
+1) 1997.gada 21.janvāra noteikumi nr.37 "Militārpersonu dienesta gaitas nolikums";
+
+2) 1997.gada 11.marta noteikumi nr.91 "Karavīru militārās disciplīnas reglaments".
+
+*(Ar grozījumiem, kas izdarīti ar 06.12.2001. likumu, kas stājas spēkā 01.01.2002.)*
+
+3. Likuma 7.panta pirmā daļa stājas spēkā līdz ar 8.Saeimas sanākšanu.
+
+4. Likuma 7.panta otrā daļa un 20.panta pirmā un trešā daļa stājas spēkā līdz ar attiecīgiem grozījumiem Valsts drošības iestāžu likumā un Satversmes aizsardzības biroja likumā.
+
+5. Likuma 19.panta trešā daļa stājas spēkā 2002.gada 1.janvārī.
+
+6. Saskaņā ar likuma 27.pantu sagatavotā Nacionālās drošības koncepcija un saskaņā ar 29.pantu sagatavotā Valsts aizsardzības koncepcija ir apstiprināma 7.Saeimas pilnvaru laikā līdz 2001.gada 1.oktobrim.
+
+7. Ministru kabinets līdz 2003.gada 1.janvārim apstiprina šā likuma 36.pantā minēto valsts civilās aizsardzības plānu.
+
+*(16.05.2002. likuma redakcijā, kas stājas spēkā 12.06.2002.)*
+
+8. Ministru kabinets līdz 2010.gada 31.decembrim apstiprina šā likuma 35.pantā minēto tautsaimniecības mobilizācijas plānu.
+
+*(15.05.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 02.12.2004. un 29.03.2007. likumu, kas stājas spēkā 01.05.2007.)*
+
+9. Saskaņā ar šo likumu noteikto atlīdzību (darba samaksu u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.
+
+*(12.12.2008. likuma redakcijā, kas stājas spēkā 01.01.2009.)*
+
+10. Pielīdzināt darbu Informācijas analīzes dienestā darbam valsts drošības iestādēs.
+
+*(18.06.2009. likuma redakcijā, kas stājas spēkā 03.07.2009.)*
+
+11. Tām Informācijas analīzes dienesta amatpersonām, kas šā dienesta likvidēšanas brīdī, ievērojot šo pārejas noteikumu 10.punktā noteikto, atbilst tām personām izvirzītajiem kritērijiem, kurām ir tiesības uz izdienas pensiju atbilstoši Satversmes aizsardzības biroja amatpersonu izdienas pensiju likumam, tiek piešķirta izdienas pensija. Informācijas analīzes dienesta amatpersonām izdienas pensijas tiek piešķirtas, aprēķinātas un izmaksātas atbilstoši Satversmes aizsardzības biroja amatpersonu izdienas pensiju likumā noteiktajai kārtībai.
+
+*(18.06.2009. likuma redakcijā, kas stājas spēkā 03.07.2009.)*
+
+12. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūnijam ir spēkā Ministru kabineta 2008.gada 10.jūnija noteikumi Nr.428 “Nacionālajai drošībai svarīgu objektu drošības pasākumu plānošanas un īstenošanas kārtība”.
+
+*(29.04.2010. likuma redakcijā, kas stājas spēkā 28.05.2010.)*
+
+13. Personām, kas uzsākušas dienēt ārvalstīs līdz 2017.gada 1.janvārim, šā likuma 3.<sup>1</sup> pantā paredzētais aizliegums piemērojams ar 2018.gada 1.janvāri.
+
+*(08.12.2016. likuma redakcijā, kas stājas spēkā 01.01.2017.)*
+
+14. Komercsabiedrības, kuras līdz ar šā likuma 37. panta spēkā stāšanos atbilst nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem, līdz 2017. gada 1. jūnijam izpilda šā likuma 39. panta pirmajā daļā noteiktos pienākumus.
+
+*(23.03.2017. likuma redakcijā, kas stājas spēkā 29.03.2017.)*
+
+15. Komercreģistra iestāde informācijas par nacionālajai drošībai nozīmīgām komercsabiedrībām publicēšanu komercreģistra iestādes mājaslapā internetā (39. panta otrā daļa) nodrošina no 2017. gada 15. jūnija.
+
+*(23.03.2017. likuma redakcijā, kas stājas spēkā 29.03.2017.)*
+
+16. Šā likuma 23. panta astotā daļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem Mobilizācijas likumā.
+
+*(04.10.2018. likuma redakcijā, kas stājas spēkā 30.10.2018.)*
+
+17. Finanšu un kapitāla tirgus komisija līdz 2021. gada 1. septembrim izdod šā likuma 22.<sup>3</sup> panta trešajā daļā minētos normatīvos aktus.
+
+*(20.05.2021. likuma redakcijā, kas stājas spēkā 15.06.2021.)*
+
+18. Ministru kabinets līdz 2021. gada 1. septembrim izdod šā likuma 22.<sup>2</sup> panta sestajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 1. septembrim ir spēkā Ministru kabineta 2010. gada 1. jūnija noteikumi Nr. 496 "Kritiskās infrastruktūras, tajā skaitā Eiropas kritiskās infrastruktūras, apzināšanas un drošības pasākumu plānošanas un īstenošanas kārtība", ciktāl tie nav pretrunā ar šo likumu.
+
+*(20.05.2021. likuma redakcijā, kas stājas spēkā 15.06.2021.)*
+
+19. Šā likuma 22.<sup>4</sup> pants stājas spēkā 2022. gada 1. janvārī. Līdz 2021. gada 31. decembrim Ministru kabinets izdod šā likuma 22.<sup>4</sup> panta otrajā daļā minētos noteikumus.
+
+*(20.05.2021. likuma redakcijā, kas stājas spēkā 15.06.2021.)*
+
+20. Personām, kuras saskaņā ar šā likuma 3.<sup>1</sup> panta pirmās daļas 1. punktu uzsāk dienēt Ukrainas dienestā, nekavējoties jāreģistrējas Nacionālo bruņoto spēku rezerves uzskaites struktūrvienībā, norādot vārdu, uzvārdu, personas kodu un dienesta veidu.
+
+*(28.02.2022. likuma redakcijā, kas stājas spēkā 01.03.2022.)*
+
+21. Ja šā likuma 38. panta 1.<sup>1</sup> daļas spēkā stāšanās brīdī Krievijai un Baltkrievijai piederīgajām personām ir būtiska līdzdalība vai izšķiroša ietekme nacionālajai drošībai nozīmīgā kapitālsabiedrībā vai šādas personas ir nacionālajai drošībai nozīmīgas kapitālsabiedrības patiesie labuma guvēji, tad ar šīs normas spēkā stāšanās brīdi šā likuma 39. panta 3.<sup>1</sup> daļas 1., 2. un 3. punktā minētie dalībnieki un akcionāri nav tiesīgi izmantot savas balsstiesības. Nosakot pārstāvības normu nacionālajai drošībai nozīmīgā kapitālsabiedrībā, attiecīgās akcijas vai kapitāla daļas netiek ņemtas vērā.
+
+*(16.06.2022. likuma redakcijā, kas stājas spēkā 23.06.2022.)*
+
+22. Ja šā likuma 38. panta 1.<sup>1</sup> daļas spēkā stāšanās brīdī Krievijai vai Baltkrievijai piederīgā persona ir personālsabiedrības biedrs vai šā biedra patiesais labuma guvējs ir Krievijai un Baltkrievijai piederīgā persona, tad ar šīs normas spēkā stāšanās brīdi attiecīgais personālsabiedrības biedrs nav tiesīgs pārstāvēt personālsabiedrību un kārtot tās lietvedību.
+
+*(16.06.2022. likuma redakcijā, kas stājas spēkā 23.06.2022.)*
+
+23. Statūtu noteikumi vai vienošanās, kas ir pretrunā ar šā likuma 38. panta 1.<sup>1</sup> daļā noteiktajiem ierobežojumiem, nav spēkā tajā daļā, kura neatbilst minētajai normai.
+
+*(16.06.2022. likuma redakcijā, kas stājas spēkā 23.06.2022.)*
+
+24. Šā likuma grozījumi par vārdu "Finanšu un kapitāla tirgus komisija" (attiecīgā locījumā) aizstāšanu ar vārdiem "Latvijas Banka" (attiecīgā locījumā) 22.<sup>3</sup> panta otrajā, trešajā un piektajā daļā un vārdu "Finanšu un kapitāla tirgus komisija, konsultējoties ar Latvijas Banku" aizstāšanu ar vārdiem "Latvijas Banka" 22.<sup>3</sup> panta ceturtajā daļā, kā arī vārdu "un kapitāla" izslēgšana 39. panta trešās daļas 1. punktā stājas spēkā 2023. gada 1. janvārī.
+
+*(06.10.2022. likuma redakcijā, kas stājas spēkā 03.11.2022.)*
+
+25. Biedrības un nodibinājumi, kuri līdz ar grozījumu šā likuma 37. pantā spēkā stāšanos atbilst nacionālajai drošībai nozīmīgas biedrības vai nodibinājuma nosacījumiem, mēneša laikā pēc attiecīgo grozījumu spēkā stāšanās izpilda šā likuma 39. panta pirmajā daļā noteiktos pienākumus.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+26. Komercsabiedrības, kuras līdz ar grozījumu šā likuma 37. pantā spēkā stāšanos, kas paredz noteikt par nacionālajai drošībai nozīmīgām komercsabiedrībām sabiedrības, kuru īpašumā vai valdījumā atrodas kritiskā infrastruktūra vai kuras atbilst šā likuma 37. panta 10., 11., 12. un 13. punktā minētajiem nosacījumiem, mēneša laikā pēc attiecīgo grozījumu spēkā stāšanās izpilda šā likuma 39. panta pirmajā daļā noteiktos pienākumus.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+27. Komercsabiedrības, kuras līdz dienai, kad stājas spēkā grozījumi šā likuma 38. panta pirmās daļas 1. punkta "d" apakšpunktā, 2. punkta "b" apakšpunktā un trešajā daļā, atbilst nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem, mēneša laikā pēc attiecīgo grozījumu spēkā stāšanās iesniedz precizētu šā likuma 39. panta pirmās daļas 4. punkta "a" un "b" apakšpunktā noteikto informāciju vai paziņojumu, ka iesniegto informāciju nav nepieciešams precizēt.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+28. Ministru kabinets līdz 2023. gada 1. jūlijam izdod šā likuma 18.<sup>1</sup> panta septītajā daļā minētos noteikumus.
+
+*(20.10.2022. likuma redakcijā, kas stājas spēkā 14.11.2022.)*
+
+29. Grozījums par šā likuma 10. panta pirmās daļas 10. punkta izslēgšanu stājas spēkā vienlaikus ar Aizsardzības industrijas likumu.
+
+*(27.03.2024. likuma redakcijā, kas stājas spēkā 24.04.2024. Grozījums par 10. panta pirmās daļas 10. punkta izslēgšanu iekļauts likuma redakcijā uz 24.04.2024.)*
+
+30. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos:
+
+1) tajos lietotais nosaukums "Krīzes vadības padome" atbilst šajā likumā lietotajam nosaukumam "Ministru kabinets";
+
+2) tajos lietotais nosaukums "Krīzes vadības padomes sekretariāts" atbilst šajā likumā lietotajam nosaukumam "Krīzes vadības centrs".
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+31. Ministru kabinets līdz 2026. gada 1. janvārim izdod šā likuma 23.<sup>1</sup> panta ceturtās daļas 1. un 2. punktā minētos noteikumus.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+32. Pašvaldības līdz 2026. gada 1. janvārim izveido krīzes vadības struktūrvienību vai norīko krīzes vadības darbiniekus krīzes vadības pasākumu plānošanai, sagatavošanai un īstenošanai.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025.)*
+
+33. Grozījums šā likuma 9. panta 2. punktā saistībā ar gadskārtējo ziņojumu par nacionālo drošību stājas spēkā vienlaikus ar attiecīgiem grozījumiem Saeimas kārtības rullī.
+
+*(29.05.2025. likuma redakcijā, kas stājas spēkā 01.07.2025. Minētais grozījums tiks iekļauts likuma redakcijā uz attiecīgu grozījumu Saeimas kārtības rullī spēkā stāšanās dienu)*
+
+34. Ministru kabinets līdz 2025. gada 30. septembrim izdod šā likuma 22.<sup>2</sup> panta sestajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2021. gada 6. jūlija noteikumi Nr. 508 "Kritiskās infrastruktūras, tajā skaitā Eiropas kritiskās infrastruktūras, apzināšanas, drošības pasākumu un darbības nepārtrauktības plānošanas un īstenošanas kārtība".
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+35. Ministru kabinets līdz 2026. gada 17. janvārim apstiprina šā likuma 36.<sup>1</sup> pantā minēto pirmo Kritiskās infrastruktūras noturības stratēģiju.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+36. Ministru kabinets līdz 2026. gada 17. janvārim apstiprina šā likuma 36.<sup>2</sup> pantā minēto pirmo Valsts kritiskās infrastruktūras riska novērtējumu.
+
+*(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)*
+
+## Informatīva atsauce uz Eiropas Savienības direktīvu(12.06.2025. likuma redakcijā, kas stājas spēkā 28.06.2025.)
+
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2557 par kritisko vienību noturību un Padomes direktīvas 2008/114/EK atcelšanu.
+
+Likums Saeimā pieņemts 2000.gada 14.decembrī.
+
+Valsts prezidente V.Vīķe-Freiberga
+
+Rīgā 2000.gada 29.decembrī

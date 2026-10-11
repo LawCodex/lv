@@ -96,3 +96,13 @@ def write_cache(kind, doc_id, text):
     with gzip.open(tmp, "wt", encoding="utf-8") as f:
         f.write(text)
     os.replace(tmp, p)
+
+
+def has_body(html):
+    """True if the page's document body actually contains text (some responses come back empty)."""
+    i = html.find('class="doc-body"')
+    if i < 0:
+        return False
+    j = html.find("pase-container", i)
+    txt = re.sub(r"<[^>]+>", "", html[i + 17:j if j > 0 else None])
+    return len(re.sub(r"\s+", " ", txt).strip()) >= 30

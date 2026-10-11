@@ -1,0 +1,54 @@
+---
+title: "Ģenētisko resursu izmantošanas likums"
+identifier: "likumi.lv 311262"
+likumi_lv_id: 311262
+type: act
+jurisdiction: lv
+language: lv
+issuer: "Saeima"
+date: 2019-11-21
+entry_into_force: 2019-12-24
+published: "Latvijas Vēstnesis, 248A, 10.12.2019."
+status: in_force
+source: "https://likumi.lv/ta/id/311262-genetisko-resursu-izmantosanas-likums"
+retrieved: 2026-10-12
+---
+
+# Ģenētisko resursu izmantošanas likums
+
+Saeima ir pieņēmusi un Valsts
+prezidents izsludina šādu likumu:
+
+**1. pants.** Likumā ir lietoti Eiropas Parlamenta un Padomes 2014. gada 16. aprīļa regulas (ES) Nr. 511/2014 par no Nagojas Protokola par piekļuvi ģenētiskajiem resursiem un to ieguvumu taisnīgu un godīgu sadali, kas gūti no šo resursu izmantošanas, izrietošiem atbilstības pasākumiem lietotājiem Savienībā (turpmāk — regula Nr. 511/2014) 3. pantā minētie termini.
+
+**2. pants.** Likuma mērķis ir nodrošināt ģenētisko resursu tiesisku izmantošanu, nosakot kompetento iestādi Latvijā, atsevišķus ģenētisko resursu lietotāju pienākumus un atbildību par regulas Nr. 511/2014 prasību neievērošanu.
+
+**3. pants.** Likumu piemēro ģenētiskajiem resursiem un ar ģenētiskajiem resursiem saistītām tradicionālajām zināšanām no ārvalstīm, kas ir Konvencijai par bioloģisko daudzveidību pievienotā 2010. gada 29. oktobra Nagojas Protokola par piekļuvi ģenētiskajiem resursiem un to ieguvumu taisnīgu un godīgu sadali, kas gūti no šo resursu izmantošanas, dalībvalstis.
+
+**4. pants.** Dabas aizsardzības pārvalde ir kompetentā iestāde regulas 6. panta 1. punkta izpratnē, kas atbildīga par regulas Nr. 511/2014 piemērošanu.
+
+**5. pants.** Saskaņā ar regulas Nr. 511/2014 7. panta 1. punktu un Komisijas 2015. gada 13. oktobra īstenošanas regulas (ES) 2015/1866, ar ko paredz sīki izstrādātus noteikumus par to, kā Eiropas Parlamenta un Padomes regulu (ES) Nr. 511/2014 īstenot attiecībā uz kolekciju reģistru, lietotāju atbilstības uzraudzību un paraugpraksi (turpmāk — īstenošanas regula Nr. 2015/1866) 5. pantu un II pielikumu lietotāji, kas saņem pētniecības finansējumu un pētniecībā izmanto ģenētiskos resursus un ar ģenētiskajiem resursiem saistītās tradicionālās zināšanas, kompetentajai iestādei iesniedz pienācīgas pārbaudes deklarāciju.
+
+**6. pants.** Regulas Nr. 511/2014 7. panta 1. un 2. punktā, kā arī īstenošanas regulas Nr. 2015/1866 5. un 6. pantā un II un III pielikumā noteiktās pienācīgas pārbaudes deklarācijas kompetentajai iestādei iesniedz, izmantojot Eiropas Komisijas informācijas sistēmu *DECLARE*.
+
+**7. pants.** (1) Par darbību veikšanu bez piekļuves atļaujas vai tai līdzvērtīga dokumenta gadījumos, kad attiecīgs dokuments ir nepieciešams, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+
+(2) Par ģenētisko resursu un ar ģenētiskajiem resursiem saistīto tradicionālo zināšanu nodošanu tālāk vai izmantošanu pretrunā regulas Nr. 511/2014 4. panta 2. punktam piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+
+(3) Par regulas Nr. 511/2014 4. panta 3. punktā norādītās dokumentācijas vai informācijas nenoskaidrošanu, neglabāšanu vai nenodošanu turpmākiem lietotājiem piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+
+(4) Par pienācīgas pārbaudes deklarācijas neiesniegšanu, ja persona ir pētniecības finansējuma saņēmēja, atbilstoši regulas Nr. 511/2014 7. panta 1. punktam piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+
+(5) Par pienācīgas pārbaudes deklarācijas neiesniegšanu produkta galīgās izstrādes posmā atbilstoši regulas Nr. 511/2014 7. panta 2. punktam piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+
+**8. pants.** Administratīvā pārkāpuma procesu par šā likuma 7. pantā minētajiem pārkāpumiem veic Dabas aizsardzības pārvalde.
+
+## Pārejas noteikums
+
+Šā likuma 7. un 8. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+
+Likums Saeimā pieņemts 2019. gada 21. novembrī.
+
+Valsts prezidents E. Levits
+
+Rīgā 2019. gada 10. decembrī

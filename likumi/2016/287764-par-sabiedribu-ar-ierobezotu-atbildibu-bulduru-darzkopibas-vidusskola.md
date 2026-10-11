@@ -1,0 +1,65 @@
+---
+title: "Par sabiedrību ar ierobežotu atbildību \"Bulduru Dārzkopības vidusskola\""
+identifier: "likumi.lv 287764"
+likumi_lv_id: 287764
+type: act
+jurisdiction: lv
+language: lv
+issuer: "Saeima"
+date: 2016-12-15
+entry_into_force: 2017-01-15
+published: "Latvijas Vēstnesis, 254, 29.12.2016."
+status: in_force
+source: "https://likumi.lv/ta/id/287764-par-sabiedribu-ar-ierobezotu-atbildibu-bulduru-darzkopibas-vidusskola"
+retrieved: 2026-10-12
+---
+
+# Par sabiedrību ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola"
+
+Saeima ir pieņēmusi un Valsts
+prezidents izsludina šādu likumu:
+
+**1. pants.** Likuma mērķis ir nodrošināt sabiedrības ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" (turpmāk arī — Bulduru Dārzkopības vidusskola) turpmāku darbību un finansēšanu.
+
+**2. pants.** Bulduru Dārzkopības vidusskola ir kapitālsabiedrība, kurā visas kapitāla daļas pieder atvasinātai publiskai personai — Latvijas Lauksaimniecības universitātei.
+
+**3. pants.** (1) Bulduru Dārzkopības vidusskolas darbības mērķis ir, uzturot un pilnveidojot savu mācību, metodisko, materiālo un organizatorisko bāzi, sagatavot kvalificētus speciālistus dārzkopībā un ar to saistītajās jomās.
+
+(2) Bulduru Dārzkopības vidusskolas pamatuzdevums ir nodrošināt iespēju personām pēc pamatizglītības vai vidējās izglītības ieguves apgūt profesionālās vidējās izglītības programmas dārzkopībā un ar to saistītajās jomās, radot iespēju turpināt izglītības ieguvi atbilstošās studiju programmās Latvijas Lauksaimniecības universitātē.
+
+**4. pants.** Valsts finansē Bulduru Dārzkopības vidusskolas profesionālās vidējās izglītības programmu īstenošanas izmaksas, ievērojot Ministru kabineta noteikto izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo un izglītojamo skaitu attiecīgajā izglītības programmā. Zemkopības ministrija nosaka valsts finansēto izglītojamo vietu skaitu Bulduru Dārzkopības vidusskolas profesionālās vidējās izglītības programmās.
+
+**5. pants.** Bulduru Dārzkopības vidusskola tai piederošos nekustamos īpašumus izmanto savām vajadzībām, kā arī lai gūtu ienākumus tās īstenotā izglītības procesa nodrošināšanai.
+
+**6. pants.** Bulduru Dārzkopības vidusskolai piederošo nekustamo īpašumu drīkst atsavināt, ieķīlāt vai citādi apgrūtināt ar lietu tiesībām, ja pieņemts Bulduru Dārzkopības vidusskolas valdes lēmums un attiecīgā darījuma veikšanai saņemta Latvijas Lauksaimniecības universitātes Senāta un Ministru kabineta piekrišana. Darījuma rezultātā iegūtos finanšu līdzekļus drīkst izmantot tikai Bulduru Dārzkopības vidusskolas infrastruktūras attīstībai.
+
+**7. pants.** Bulduru Dārzkopības vidusskolas likvidācijas gadījumā tai piederošie nekustamie īpašumi bez atlīdzības atdodami valstij.
+
+**8. pants.** Šā likuma 5., 6. un 7. panta noteikumi attiecas uz nekustamajiem īpašumiem, kas šā likuma spēkā stāšanās dienā pieder valsts sabiedrībai ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" un iekļauti tās pamatkapitālā.
+
+## Pārejas noteikumi
+
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts sabiedrību ar ierobežotu atbildību "Bulduru dārzkopības vidusskola", tās kapitāla daļām un nekustamajiem īpašumiem" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 22. nr.).
+
+2. Līdz 2017. gada 28. februārim sabiedrības ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" reģistrācijas dokumentos veicami un komercreģistram iesniedzami šā likuma 2. panta noteikumiem atbilstoši grozījumi.
+
+Likums stājas spēkā 2017. gada 15. janvārī.
+Likums Saeimā pieņemts 2016. gada 15. decembrī.
+
+Valsts prezidents R.Vējonis
+
+Rīgā 2016. gada 29. decembrī
+
+## Likuma "Par sabiedrību ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola"" pielikums
+
+### Sabiedrībai ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" piederošie nekustamie īpašumi
+
+1. Nekustamais īpašums "Valsts Bulduru dārzkopības tehnikums", kas atrodas Rīgas rajona Babītes pagastā un sastāv no zemesgabala (kadastra Nr. 8048 002 0046) 116,52 ha kopplatībā un uz tā esošām trijām ēkām.
+
+2. Nekustamais īpašums, kas atrodas Jūrmalā, Ķemeru ielā 76/84, un sastāv no zemesgabala (kadastra Nr. 1300 007 7813) 80 871 m<sup>2</sup> platībā un uz tā esošām 15 ēkām (būvēm).
+
+3. Nekustamais īpašums, kas atrodas Jūrmalā, Ganību ceļā 1/3, un sastāv no zemesgabala (kadastra Nr. 1300 007 7814) 12 527 m<sup>2</sup> platībā un uz tā esošas vienas ēkas (būves).
+
+4. Nekustamais īpašums, kas atrodas Jūrmalā, Viestura ielā 8, un sastāv no zemesgabala (kadastra Nr. 1300 007 7803) 24 364 m<sup>2</sup> platībā un uz tā esošas vienas ēkas (būves).
+
+5. Nekustamais īpašums, kas atrodas Jūrmalā, Viestura ielā 6, un sastāv no zemesgabala (kadastra Nr. 1300 007 7801) 143 224 m<sup>2</sup> platībā un uz tā esošām 20 ēkām (būvēm).

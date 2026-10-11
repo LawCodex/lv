@@ -1,0 +1,71 @@
+---
+title: "Dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijai izmantojamo savvaļas sugu dzīvnieku turēšanas.."
+identifier: "MK noteikumi Nr. 4"
+likumi_lv_id: 223852
+type: regulation
+jurisdiction: lv
+language: lv
+number: "4"
+issuer: "Ministru kabinets"
+date: 2011-01-04
+entry_into_force: 2011-01-07
+published: "Latvijas Vēstnesis, 3, 06.01.2011."
+status: in_force
+source: "https://likumi.lv/ta/id/223852-dzivnieku-izcelsmes-produktu-ieguvei-vai-sugas-selekcijai-izmantojamo-savvalas-sugu-dzivnieku-turesanas-kartiba-iezogotas"
+retrieved: 2026-10-12
+---
+
+# Dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijai izmantojamo savvaļas sugu dzīvnieku turēšanas..
+
+Ministru kabineta noteikumi Nr.4
+Rīgā 2011.gada 4.janvārī (prot. Nr.1 21.§)
+
+Izdoti saskaņā ar Dzīvnieku aizsardzības likuma 10.panta 10.punktu
+
+1. Noteikumi nosaka kārtību, kādā iežogotās platībās turami savvaļas sugu dzīvnieki, kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijai (turpmāk – dzīvnieki), un prasības šādu platību ierīkošanai.
+
+2. Noteikumi attiecināmi uz zīdītājiem un putniem.
+
+3. Iežogotās platības iedala:
+
+3.1. intensīvās audzēšanas zonā – iežogotas platības dzīvnieku turēšanai lauksaimniecības zemju un krūmāju teritorijās, kurās pieļaujamā meža platība ir līdz 30 procentiem;
+
+3.2. ekstensīvās audzēšanas zonā – iežogotas platības dzīvnieku turēšanai meža un lauksaimniecības zemju teritorijās, kurās dzīvniekiem nodrošina savvaļai līdzīgus dzīves apstākļus.
+
+4. Dzīvniekus drīkst pārvietot no intensīvās audzēšanas zonas uz ekstensīvās audzēšanas zonu un otrādi, nodrošinot zonu nodalījumu, lai novērstu dzīvnieku brīvu pārvietošanos starp zonām, kā arī to izbēgšanu.
+
+5. Ekstensīvās audzēšanas zonā ir pieļaujama vairāku sugu dzīvnieku izmitināšana, ja netiek pieļauta krustošanās starp atšķirīgo sugu dzīvniekiem.
+
+6. Dzīvnieku sugas un maksimāli pieļaujamais dzīvnieku skaits ekstensīvās audzēšanas zonā ir noteikts šo noteikumu pielikumā.
+
+7. Intensīvās audzēšanas zonu ierīko tā, lai dzīvnieks varētu patverties no nelabvēlīgiem laikapstākļiem. Ja krūmāju platības dzīvniekam nav pieejamas, ierīko nojumes vai aizslietņus.
+
+8. Uz iežogotās platībās turētu dzīvnieku nogalināšanu attiecas normatīvie akti par kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzību.
+
+9. Ekstensīvās audzēšanas zonā drīkst organizēt medības atbilstoši normatīvajiem aktiem par medībām.
+
+10. Iežogotās platībās dzīvniekus sagūsta pārvietošanai tā, lai netraucētu pārējos iežogotajā platībā dzīvojošos dzīvniekus.
+
+11. Mazuļu dzimšanas periodā iežogotajās platībās dzīvojošās mātītes un mazuļus ķert, sagūstīt un nogalināt ir aizliegts, izņemot gadījumus, ja tas ir nepieciešams, lai nodrošinātu veterināro prasību ievērošanu.
+
+Ministru prezidents V.Dombrovskis
+Zemkopības ministrs, vides aizsardzības un reģionālās attīstības ministra pienākumu izpildītājs J.Dūklavs
+
+## Pielikums Ministru kabineta 2011.gada 4.janvāra noteikumiem Nr.4
+
+### Dzīvnieku sugas un maksimālais dzīvnieku skaits ekstensīvās audzēšanas zonā
+
+| Nr. p.k. | Dzīvnieku suga | Dzīvnieku skaits ekstensīvās audzēšanas zonā<sup>*</sup> |
+| --- | --- | --- |
+| 1. | Staltbrieži | 1 pieaudzis dzīvnieks uz 1 ha |
+| 2. | Dambrieži vai mufloni | 2 pieauguši dzīvnieki uz 1 ha |
+| 3. | Mežacūkas (pieauguši dzīvnieki un sivēni) | 1 pieaudzis dzīvnieks uz 2 ha |
+| 4. | Staltbrieži un mežacūkas | 1 pieaudzis staltbriedis un 1 mežacūka vai sivēns uz 2 ha |
+| 5. | Staltbrieži un dambrieži | 1 staltbriedis un 1 dambriedis uz 2 ha |
+| 6. | Mežacūkas, dambrieži un mufloni | 1 mežacūka vai sivēns un 2 citas sugas dzīvnieki (dambriedis un muflons) uz 2 ha |
+
+Piezīme.
+
+* Audzējot šajā pielikumā minētās savvaļas zīdītāju sugas, ekstensīvās audzēšanas zona nedrīkst būt mazāka par 10 ha.
+
+Zemkopības ministrs, vides aizsardzības un reģionālās attīstības ministra pienākumu izpildītājs J.Dūklavs

@@ -1,0 +1,175 @@
+---
+title: "Digitālās drošības uzraudzības komitejas nolikums"
+identifier: "MK noteikumi Nr. 695"
+likumi_lv_id: 286009
+type: regulation
+jurisdiction: lv
+language: lv
+number: "695"
+issuer: "Ministru kabinets"
+date: 2016-11-01
+entry_into_force: 2016-11-04
+published: "Latvijas Vēstnesis, 215, 03.11.2016."
+status: in_force
+source: "https://likumi.lv/ta/id/286009-digitalas-drosibas-uzraudzibas-komitejas-nolikums"
+retrieved: 2026-10-12
+---
+
+# Digitālās drošības uzraudzības komitejas nolikums
+
+Ministru kabineta noteikumi Nr. 695
+Rīgā 2016. gada 1. novembrī (prot. Nr. 58 4. §)
+
+Izdoti saskaņā ar Fizisko personu elektroniskās identifikācijas likuma 17. panta septīto daļu,
+Informācijas tehnoloģiju drošības likuma 8.<sup>1</sup> panta pirmo daļu un
+Elektronisko dokumentu likuma 19. panta trešo daļu
+(MK 14.04.2020. noteikumu Nr. 220 redakcijā)
+
+## I. Vispārīgais jautājums
+
+1. Komiteja ir koleģiāla uzraudzības institūcija aizsardzības ministra pakļautībā, kuras mērķis ir:
+
+1.1. uzraudzīt un reģistrēt kvalificētus un kvalificētus paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējus un to sniegtos pakalpojumus kvalificētu elektroniskās identifikācijas pakalpojumu sniedzēju reģistrā (turpmāk – reģistrs);
+
+1.2. uzraudzīt un apstiprināt uzticamus sertifikācijas pakalpojumu sniedzējus un to sniegtos pakalpojumus un izveidot, uzturēt un publicēt uzticamības sarakstus;
+
+1.3. pārbaudīt un sertificēt parakstu vākšanas tiešsaistes sistēmas atbilstību drošības un tehniskajiem parametriem;
+
+1.4. uzraudzīt pamatpakalpojuma sniedzējus un digitālā pakalpojuma sniedzējus;
+
+1.5. izsniegt sertifikātu, kas apliecina, ka tiešsaistes sistēmai, ko izmanto paziņojumu vākšanai par atbalstu Eiropas pilsoņu iniciatīvai, ir tādi drošības un tehniskie parametri, kas nodrošina tiešsaistes sistēmas atbilstību Eiropas Parlamenta un Padomes 2011. gada 16. februāra Regulas (ES) Nr. 211/2011 par pilsoņu iniciatīvu 6. pantā noteiktajām prasībām.
+
+*(MK 26.09.2017. noteikumu Nr. 577 redakcijā, kas grozīta ar MK 17.07.2018. noteikumiem Nr. 419; MK 11.12.2018. noteikumiem Nr. 764; MK 08.04.2021. noteikumiem Nr. 211)*
+
+## II. Komitejas funkcijas un pienākumi
+
+2. Komiteja:
+
+2.1. veic Fizisko personu elektroniskās identifikācijas likumā noteiktās uzraudzības institūcijas funkcijas un uzdevumus;
+
+2.2. paziņo Eiropas Komisijai elektroniskās identifikācijas shēmas saskaņā ar Eiropas Parlamenta un Padomes 2014. gada 23. jūlija Regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ Direktīvu 1999/93/EK (turpmāk – regula Nr. 910/2014), 9. panta pirmo daļu;
+
+2.3. veic regulā Nr. 910/2014 un Elektronisko dokumentu likumā noteiktās uzraudzības iestādes funkcijas un uzdevumus;
+
+2.3.<sup>1</sup> veic Ministru kabineta 2014. gada 12. augusta noteikumos Nr. 471 "Parakstu vākšanas tiešsaistes sistēmu drošības un tehniskās prasības" noteiktos sertificējošās institūcijas uzdevumus;
+
+2.3.<sup>2</sup> veic Informācijas tehnoloģiju drošības likumā noteiktās pamatpakalpojuma sniedzēju un digitālā pakalpojuma sniedzēju uzraudzības funkcijas un uzdevumus;
+
+2.3.<sup>3</sup> veic likumā "Par tautas nobalsošanu, likumu ierosināšanu un Eiropas pilsoņu iniciatīvu" noteikto funkciju;
+
+2.4. atbilstoši kompetencei sniedz atbalstu valsts un pašvaldības iestādēm jautājumos, kas saistīti ar šajā punktā norādītajām komitejas funkcijām un pienākumiem;
+
+2.5. veic citus normatīvajos aktos noteiktos uzdevumus.
+
+*(MK 26.09.2017. noteikumu Nr. 577 redakcijā, kas grozīta ar MK 17.07.2018. noteikumiem Nr. 419; MK 11.12.2018. noteikumiem Nr. 764; MK 08.04.2021. noteikumiem Nr. 211)*
+
+## III. Komitejas sastāvs
+
+3. Komitejas priekšsēdētājs ir Aizsardzības ministrijas valsts sekretārs.
+
+4. Komitejai ir sekretariāts. Sekretariāta funkcijas nodrošina Aizsardzības ministrija. Komitejas sekretariātam ir vadītājs.
+
+5. Komitejas sastāvā ir:
+
+5.1. Aizsardzības ministrijas valsts sekretārs;
+
+5.2. Satiksmes ministrijas valsts sekretārs;
+
+5.3. Tieslietu ministrijas valsts sekretārs;
+
+5.4. Iekšlietu ministrijas valsts sekretārs;
+
+5.5. Vides aizsardzības un reģionālās attīstības ministrijas valsts sekretārs;
+
+5.6. Datu valsts inspekcijas vadītājs;
+
+5.7. Latvijas Universitātes Matemātikas un informātikas institūta struktūrvienības "Informācijas tehnoloģiju drošības incidentu novēršanas institūcija" (turpmāk – Informācijas tehnoloģiju drošības incidentu novēršanas institūcija) vadītājs;
+
+5.8. komitejas sekretariāta vadītājs.
+
+*(Grozīts ar MK 26.09.2017. noteikumiem Nr. 577)*
+
+6. Komitejas priekšsēdētāja pirmais vietnieks ir komitejas sekretariāta vadītājs.
+
+7. Komitejas priekšsēdētāja otrais vietnieks ir Informācijas tehnoloģiju drošības incidentu novēršanas institūcijas vadītājs.
+
+## IV. Komitejas sēžu darba organizācija
+
+8. Komitejas sēdes notiek ne retāk kā reizi pusgadā. Komitejas sēdi pēc nepieciešamības sasauc komitejas priekšsēdētājs vai trīs komitejas locekļi. Komitejas sēžu darba kārtību apstiprina komitejas priekšsēdētājs.
+
+9. Komitejas priekšsēdētājam vai komitejas loceklim ir tiesības uzaicināt piedalīties komitejas sēdē ekspertus vai speciālistus ar padomdevēja tiesībām, par to iepriekš informējot sekretariātu.
+
+*(Grozīts ar MK 17.07.2018. noteikumiem Nr. 419)*
+
+10. Komitejas sēdes ir slēgtas. Komitejas sēdē piedalās komitejas locekļi, pieaicinātās personas un komitejas sekretariāta pārstāvji. Komitejas locekļus un pieaicinātās personas uz komitejas sēdi uzaicina, elektroniski vai pa pastu nosūtot uzaicinājumu un sēdes darba kārtību.
+
+*(MK 17.07.2018. noteikumu Nr. 419 redakcijā)*
+
+11. Komitejas locekļiem ir tiesības rakstiski pilnvarot citu personu aizvietot viņus atsevišķās komitejas sēdēs. Personai, kura pilnvarota aizvietot komitejas locekli, ir balsstiesības uz pilnvarojumā noteikto laiku. Pilnvara jāuzrāda komitejas sēdē.
+
+12. Komitejas sēde ir lemttiesīga, ja tajā piedalās vismaz pieci komitejas locekļi vai pilnvarotās personas, kas viņus aizvieto. Katrs komitejas loceklis komitejas sēdē izskatāmo jautājumu vērtē kopumā, ne tikai savas kompetences ietvaros. Klātesošajiem komitejas locekļiem nav tiesību atteikties vai atturēties no balsojuma, izņemot gadījumus, ja saskaņā ar normatīvajiem aktiem persona var nonākt interešu konflikta situācijā.
+
+13. Komiteja lēmumus pieņem:
+
+13.1. ar klātesošo komitejas locekļu vienkāršu balsu vairākumu, atklāti balsojot "par" vai "pret". Ja balsu skaits sadalās vienādi, izšķirošā ir komitejas priekšsēdētāja balss;
+
+13.2. elektroniski, izmantojot elektronisko pastu.
+
+*(MK 17.07.2018. noteikumu Nr. 419 redakcijā)*
+
+13.<sup>1</sup> Ja lēmumu pieņem elektroniski, ievēro šādu kārtību:
+
+13.<sup>1</sup> 1. komitejas sekretariāts atbilstoši komitejas priekšsēdētāja uzdevumam informē komitejas locekļus par izskatāmo jautājumu, elektroniski nosūtot lēmuma pieņemšanai nepieciešamo informāciju un iespējamā lēmuma projektu, kā arī norādot viedokļa sniegšanas termiņu;
+
+13.<sup>1</sup> 2. lēmumu uzskata par pieņemtu, ja, beidzoties noteiktajam viedokļa sniegšanas termiņam, par lēmuma projektu nav saņemts neviens iebildums no komitejas locekļiem;
+
+13.<sup>1</sup> 3. ja procedūras ietvaros no komitejas locekļa ir saņemts iebildums, jautājumu virza izskatīšanai komitejas sēdē.
+
+*(MK 17.07.2018. noteikumu Nr. 419 redakcijā)*
+
+13.<sup>2</sup> Komitejas sekretariāts protokolē komitejas sēdes. Sēdes gaitu pilnā apjomā var fiksēt, izmantojot skaņu ierakstu vai citus tehniskos līdzekļus. Par to izdara attiecīgu atzīmi sēdes protokolā.
+
+*(MK 17.07.2018. noteikumu Nr. 419 redakcijā)*
+
+14. Komitejas izdotu administratīvo aktu vai faktisko rīcību var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+
+## V. Komitejas locekļu kompetence un komitejas darba nodrošināšana
+
+15. Komitejas priekšsēdētājs:
+
+15.1. vada komitejas sēdes;
+
+15.2. paraksta komitejas lēmumus, sēdes protokolus un citus komitejas dokumentus;
+
+15.3. pilnvaro komitejas locekļus parakstīt šo noteikumu 15.2. apakšpunktā minētos dokumentus;
+
+15.4. ir tiesīgs pieprasīt un saņemt no valsts un pašvaldību institūcijām un privātpersonām komitejas darbam nepieciešamo informāciju, atzinumus un paskaidrojumus;
+
+15.5. bez īpaša pilnvarojuma pārstāv komiteju.
+
+*(Grozīts ar MK 17.07.2018. noteikumiem Nr. 419)*
+
+16. Komitejas priekšsēdētāja pirmais vietnieks veic komitejas priekšsēdētāja pienākumus komitejas priekšsēdētāja prombūtnes laikā.
+
+17. Komitejas priekšsēdētāja otrais vietnieks veic komitejas priekšsēdētāja pienākumus komitejas priekšsēdētāja un viņa pirmā vietnieka prombūtnes laikā.
+
+18. Komitejas sekretariāts nodrošina komitejas darbu, tai skaitā:
+
+18.1. organizē komitejas sēžu darbu;
+
+18.2. nodrošina informācijas apmaiņu ar komitejas locekļiem par komitejas kompetences jautājumiem;
+
+18.3. nodrošina komitejas darbu komitejas sēžu starplaikos;
+
+18.4. sagatavo un saskaņo komitejas dokumentu (tai skaitā lēmumu, sēžu protokolu) projektus;
+
+18.5. komitejas uzdevumā veic citus pasākumus komitejas funkciju un uzdevumu izpildei (tai skaitā sagatavo iesniegtos materiālus izskatīšanai, publicē informāciju tīmekļvietnē un kontrolē komitejas lēmumu izpildi).
+
+*(Grozīts ar MK 17.07.2018. noteikumiem Nr. 419)*
+
+## Informatīva atsauce uz Eiropas Savienības direktīvu(MK 11.12.2018. noteikumu Nr. 764 redakcijā)
+
+Noteikumos iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2016. gada 6. jūlija Direktīvas (ES) 2016/1148 par pasākumiem nolūkā panākt vienādi augsta līmeņa tīklu un informācijas sistēmu drošību visā Savienībā.
+
+Ministru prezidents Māris Kučinskis
+Aizsardzības ministrs Raimonds Bergmanis

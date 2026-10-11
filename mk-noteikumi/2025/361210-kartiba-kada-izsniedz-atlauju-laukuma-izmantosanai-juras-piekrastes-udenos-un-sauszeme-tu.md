@@ -1,0 +1,45 @@
+---
+title: "Kārtība, kādā izsniedz atļauju laukuma izmantošanai jūras piekrastes ūdeņos un sauszemē tūrismam.."
+identifier: "MK noteikumi Nr. 346"
+likumi_lv_id: 361210
+type: regulation
+jurisdiction: lv
+language: lv
+number: "346"
+issuer: "Ministru kabinets"
+date: 2025-06-10
+entry_into_force: 2025-06-17
+published: "Latvijas Vēstnesis, 114, 16.06.2025."
+status: in_force
+source: "https://likumi.lv/ta/id/361210-kartiba-kada-izsniedz-atlauju-laukuma-izmantosanai-juras-piekrastes-udenos-un-sauszeme-turismam-un-rekreacijai-paredzetu"
+retrieved: 2026-10-12
+---
+
+# Kārtība, kādā izsniedz atļauju laukuma izmantošanai jūras piekrastes ūdeņos un sauszemē tūrismam..
+
+Ministru kabineta noteikumi Nr. 346
+Rīgā 2025. gada 10. jūnijā (prot. Nr. 23 23. §)
+
+Izdoti saskaņā ar Jūras vides aizsardzības un pārvaldības likuma
+19. panta ceturtās daļas 5. punktu
+
+1. Noteikumi nosaka kārtību, kādā izsniedzama, apturama vai anulējama atļauja laukuma jūrā izmantošanai tūrismam un rekreācijai paredzētu pirmajai un otrajai grupai atbilstošo inženierbūvju būvniecībai jūras piekrastes ūdeņos saskaņā ar būvniecību regulējošo normatīvo aktu prasībām, kā arī tādu pirmajai un otrajai grupai atbilstošo inženierbūvju būvniecībai jūras piekrastes ūdeņos, kuras ir saistītas ar sauszemi un veido tās turpinājumu (turpmāk – atļauja laukuma jūrā un sauszemē izmantošanai).
+
+2. Pašvaldība izvērtē šo noteikumu 1. punktā minēto inženierbūvju potenciālās būvniecības vietas atbilstību pašvaldības teritorijas attīstības plānošanas dokumentiem un tajos noteiktajiem mērķiem.
+
+3. Par šo noteikumu 1. punktā minēto inženierbūvju potenciālajām būvniecības vietām pašvaldība pieprasa atzinumus no Jūras vides aizsardzības un pārvaldības likuma 19. panta 3.<sup>2</sup> daļā noteiktajām institūcijām, Valsts vides dienesta un Dabas aizsardzības pārvaldes.
+
+4. Pēc atbildīgo institūciju atzinumu izvērtēšanas pašvaldība attiecīgi pieņem lēmumu par attīstības ieceres atbalstīšanu un konkursa rīkošanu vai attīstības ieceres noraidīšanu.
+
+5. Ja pašvaldība ir pieņēmusi lēmumu par attīstības ieceres atbalstīšanu, tā rīko atklātu konkursu par tiesībām izmantot jūras piekrastes ūdeņus un sauszemi atbilstoši publisko ūdeņu nomu regulējošo normatīvo aktu prasībām.
+
+6. Pašvaldība konkursa uzvarētājam izsniedz atļauju laukuma jūrā un sauszemē izmantošanai šo noteikumu 1. punktā minēto inženierbūvju būvniecībai konkrētajā būvniecības vietā uz laiku, ne ilgāku par 30 gadiem. Atļaujā laukuma jūrā un sauszemē izmantošanai iekļauj nepieciešamos nosacījumus būves ekspluatācijai, uzturēšanai un nojaukšanai pēc darbības izbeigšanas tūrisma vai rekreācijas jomā.
+
+7. Pašvaldība slēdz nomas līgumu ar konkursa uzvarētāju saskaņā ar publisko ūdeņu nomu regulējošajos normatīvajos aktos noteikto kārtību un prasībām. Nomas līguma termiņu nosaka atbilstoši atļaujas laukuma jūrā un sauszemē izmantošanai termiņam.
+
+8. Ja nomnieks pārkāpj atļaujas laukuma jūrā un sauszemē izmantošanai nosacījumus vai ja tiek konstatēti normatīvo aktu pārkāpumi būvniecības un vides aizsardzības jomās, atļauju laukuma jūrā un sauszemē izmantošanai var apturēt uz laiku līdz 12 mēnešiem.
+
+9. Atļauju laukuma jūrā un sauszemē izmantošanai var anulēt, ja nomnieka darbības vai bezdarbības dēļ pasliktinājušies jūras vides un ūdens ekoloģiskās kvalitātes rādītāji, ūdens bioloģisko resursu stāvoklis, samazinājusies bioloģiskā daudzveidība un pludmales publiskā pieejamība, radīts kaitējums cilvēku drošībai un veselībai vai atkārtoti pārkāpti atļaujas laukuma jūrā un sauszemē izmantošanai nosacījumi. Anulējot atļauju laukuma jūrā un sauszemē izmantošanai, tiek izbeigts nomas līgums.
+
+Ministru prezidente E. Siliņa
+Viedās administrācijas un reģionālās attīstības ministre I. Bērziņa

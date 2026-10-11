@@ -1,0 +1,54 @@
+---
+title: "Elektronisko sakaru tīklu, elektrisko tīklu, siltumtīklu, ūdensvadu un kanalizācijas tīklu, gāzes.."
+identifier: "MK noteikumi Nr. 1361"
+likumi_lv_id: 201237
+type: regulation
+jurisdiction: lv
+language: lv
+number: "1361"
+issuer: "Ministru kabinets"
+date: 2009-11-30
+entry_into_force: 2009-12-02
+published: "Latvijas Vēstnesis, 188, 01.12.2009."
+status: in_force
+source: "https://likumi.lv/ta/id/201237-elektronisko-sakaru-tiklu-elektrisko-tiklu-siltumtiklu-udensvadu-un-kanalizacijas-tiklu-gazes-vadu-gazapgades-iekartu"
+retrieved: 2026-10-12
+---
+
+# Elektronisko sakaru tīklu, elektrisko tīklu, siltumtīklu, ūdensvadu un kanalizācijas tīklu, gāzes..
+
+Ministru kabineta noteikumi Nr.1361
+Rīgā 2009.gada 30.novembrī (prot. Nr.85 6.§)
+
+Izdoti saskaņā ar Aizsargjoslu likuma 33.panta otro daļu
+
+1. Noteikumi nosaka kārtību, kādā saskaņo elektronisko sakaru tīklu, elektrisko tīklu, siltumtīklu, ūdensvadu un kanalizācijas tīklu, gāzes vadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju (turpmāk – objekts) būvniecību vai paplašināšanu, ja paredzēts, ka pēc tās objekta aizsargjosla aizņems zemi, kas ir daudzdzīvokļu mājas dzīvokļu īpašnieku kopīpašums (turpmāk – dzīvojamā māja).
+
+2. Šos noteikumus objekta būvniecībai un ierīkošanai nepiemēro, ja normatīvajos aktos objektu ierīkošanas jomā paredzēta to zemes īpašnieku informēšana (neveicot projekta saskaņošanu), uz kuru nekustamo īpašumu attiecas plānotā objekta aizsargjosla.
+
+3. Objekta būvniecības (ierīkošanas) vai paplašināšanas ierosinātājs (turpmāk – objekta būvniecības ierosinātājs) elektroniski sagatavo objekta un tā aizsargjoslas plāna projektu (turpmāk – projekts) (mērogā 1:500, vektordatu formā, Latvijas ģeodēziskajā koordinātu sistēmā LKS–92). Projekta izdruku objekta būvniecības ierosinātājs iesniedz saskaņošanai dzīvojamās mājas pārvaldītājam (dzīvojamās mājas īpašniekiem vai pārvaldniekam).
+
+4. Projektu saskaņo dzīvojamās mājas īpašnieki likumā "Par dzīvokļa īpašumu" noteiktajā kārtībā vai pārvaldītājs, ja ar viņu ir noslēgts līgums, kurā pārvaldītājs ir pilnvarots attiecīgās dzīvojamās mājas īpašnieku vietā pieņemt lēmumu par nekustamā īpašuma apgrūtinājumiem.
+
+5. Objekta būvniecības ierosinātājs iesniedz (nosūta ierakstītā vēstulē vai vēstulē ar elektronisko parakstu) šo noteikumu 4.punktā minētajām personām rakstisku uzaicinājumu saskaņot projektu. Uzaicinājumā norāda vietu un laiku, kur un kad dzīvojamās mājas īpašnieki un pārvaldītājs var iepazīties ar projektu, kā arī par projektu atbildīgo personu. Uzaicinājumam pievieno:
+
+5.1. saskaņošanas protokola projektu;
+
+5.2. informāciju par nekustamā īpašuma objekta apgrūtinājumiem pēc objekta izbūves;
+
+5.3. informāciju par vienreizējo atlīdzību dzīvojamās mājas īpašniekiem, kura aprēķināma un izmaksājama saskaņā ar normatīvajiem aktiem, kas nosaka atlīdzības noteikšanu par jaunu zemes platību aizņemšanu šo noteikumu 1.punktā minēto aizsargjoslu izveidei.
+
+6. Šo noteikumu 4.punktā minētās personas lēmumu par saskaņojumu pieņem 30 dienu laikā pēc uzaicinājuma saņemšanas. 10 dienu laikā pēc lēmuma pieņemšanas pārvaldītājs to iesniedz objekta būvniecības ierosinātājam. Ja 47 dienu laikā pārvaldītājs nav informējis objekta būvniecības ierosinātāju par lēmumu pieņemšanu, projekts uzskatāms par saskaņotu.
+
+7. Šo noteikumu 4.punktā minētās personas saskaņojumu apliecina ar parakstu uz projekta vai saskaņošanas protokolā. Dzīvojamās mājas īpašnieku lēmumu par saskaņojumu pievieno projektam.
+
+8. Strīdus, kas radušies starp objekta īpašnieku un dzīvojamās mājas īpašniekiem vai pārvaldītāju saistībā ar projekta saskaņošanu, izšķir civilprocesuālā kārtībā vispārējās jurisdikcijas tiesā.
+
+9. Pēc objekta izbūves datus par objektu un tā aizsargjoslām iesniedz un grafiski attēlo Apgrūtināto teritoriju informācijas sistēmas likumā noteiktajā kārtībā. Līdz Apgrūtināto teritoriju informācijas sistēmas likuma spēkā stāšanās dienai piemērojami Ministru kabineta 2006.gada 12.decembra noteikumi Nr.1002 "Aizsargjoslu datu bāzes izveides, uzturēšanas un informācijas aprites kārtība".
+
+10. Līdz 2010.gada 1.janvārim, kad stājas spēkā Dzīvojamo māju pārvaldīšanas likums, šo noteikumu 3., 4., 5., 6. un 8.punktā minētās pārvaldītāja darbības veic dzīvojamās mājas īpašnieki vai pārvaldnieks.
+
+11. Noteikumi piemērojami ar 2009.gada 1.decembri.
+
+Ministru prezidents V.Dombrovskis
+Ekonomikas ministrs A.Kampars

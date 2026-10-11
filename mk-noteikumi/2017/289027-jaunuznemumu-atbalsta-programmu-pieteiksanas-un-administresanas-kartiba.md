@@ -1,0 +1,660 @@
+---
+title: "Jaunuzņēmumu atbalsta programmu pieteikšanas un administrēšanas kārtība"
+identifier: "MK noteikumi Nr. 74"
+likumi_lv_id: 289027
+type: regulation
+jurisdiction: lv
+language: lv
+number: "74"
+issuer: "Ministru kabinets"
+date: 2017-02-07
+entry_into_force: 2017-03-01
+published: "Latvijas Vēstnesis, 44, 28.02.2017."
+status: in_force
+source: "https://likumi.lv/ta/id/289027-jaunuznemumu-atbalsta-programmu-pieteiksanas-un-administresanas-kartiba"
+retrieved: 2026-10-12
+---
+
+# Jaunuzņēmumu atbalsta programmu pieteikšanas un administrēšanas kārtība
+
+Ministru kabineta noteikumi Nr. 74
+Rīgā 2017. gada 7. februārī (prot. Nr. 6 3. §)
+
+Izdoti saskaņā ar Jaunuzņēmumu darbības atbalsta likuma 4. panta trešo daļu,
+13. panta otro daļu, 17. panta otro daļu un 21. panta trešo daļu
+(MK 18.02.2021. noteikumu Nr. 105 redakcijā)
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka:
+
+1.1. jaunuzņēmuma pieteikuma un ar to saistīto dokumentu formu un saturu dalībai Jaunuzņēmumu darbības atbalsta likumā noteiktajās atbalsta programmās;
+
+1.2. pieteikuma un apliecinājuma formu riska kapitāla investora iekļaušanai kvalificēto riska kapitāla investoru sarakstā;
+
+1.3. atbalsta programmu administrēšanas kārtību;
+
+1.4. kārtību, kādā jaunuzņēmumu darbības vērtēšanas komisija (turpmāk – komisija) pieprasa no jaunuzņēmumus pārstāvošajām organizācijām un izvērtē atzinumu par jaunuzņēmuma atbilstību Jaunuzņēmumu darbības atbalsta likuma 1. panta 5. punktā minētajām prasībām.
+
+*(Grozīts ar MK 18.02.2021. noteikumiem Nr. 105)*
+
+2. Noteikumos lietotie termini:
+
+2.1. atbalsta programma augsti kvalificētu darba ņēmēju piesaistei – atbalsta programma, kas tiek īstenota atbilstoši Ministru kabineta 2023. gada 7. novembra noteikumiem Nr. 644 "Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.2.1. specifiskā atbalsta mērķa "Pētniecības un inovāciju kapacitātes stiprināšana un progresīvu tehnoloģiju ieviešana uzņēmumiem" 1.2.1.4. pasākuma "Atbalsts tehnoloģiju pārneses sistēmas pilnveidošanai" īstenošanas noteikumi";
+
+2.2. *de minimis* atbalsts – komercdarbības atbalsts, ko sniedz saskaņā ar Eiropas Komisijas 2023. gada 13. decembra Regulu (ES) Nr. 2023/2831 par Līguma par Eiropas Savienības darbību 107. un 108. panta piemērošanu *de minimis* atbalstam (turpmāk – Komisijas regula Nr. 2023/2831);
+
+2.3. papildu atbalsts – atbalsta programmas periodā piešķirts jauns atbalsta programmu atbalsts vai izmaiņas jau piešķirtajā atbalstā.
+
+*(Grozīts ar MK 19.06.2018. noteikumiem Nr. 340; MK 13.08.2024. noteikumiem Nr. 510)*
+
+## II. Jaunuzņēmumu un riska kapitāla investoru pieteikuma dokumentācija
+
+3. Jaunuzņēmums dalībai Jaunuzņēmumu darbības atbalsta likumā noteiktajās atbalsta programmās par konkrētu biznesa ideju sagatavo un iesniedz komisijai:
+
+3.1. pieteikumu (1. pielikums) un šādus dokumentus:
+
+3.1.1. elektroniskajā *de minimis* atbalsta uzskaites sistēmā sagatavotās veidlapas identifikācijas numuru saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību;
+
+3.1.2. piesakot dalību atbalsta programmā augsti kvalificētu darba ņēmēju piesaistei, vismaz vienu no šādiem pieteiktā darba ņēmēja dokumentiem:
+
+3.1.2.1. atbilstošas augstākās izglītības dokumenta kopiju;
+
+3.1.2.2. darba ņēmēja profesionālās pieredzes aprakstu (*Curriculum Vitae*) un dokumentus, kas šo pieredzi apliecina;
+
+3.1.3. šo noteikumu 6. punktā minētos dokumentus, izņemot gadījumu, ja šo noteikumu 3.2. apakšpunktā minēto ieguldījumu veicis kvalificēto riska kapitāla investoru sarakstā iekļauts kvalificēts riska kapitāla investors;
+
+3.1.4. deklarāciju par komercsabiedrības atbilstību mazai (sīkai) vai vidējai komercsabiedrībai, kas sagatavota atbilstoši normatīvajiem aktiem par kārtību, kādā komercsabiedrības deklarē savu atbilstību mazās (sīkās) un vidējās komercsabiedrības statusam. Šī prasība attiecas uz jaunuzņēmumu, kas piesakās uz Jaunuzņēmumu darbības atbalsta likuma 7. pantā minēto atbalsta programmu;
+
+3.1.5. dokumentus, kas apliecina jaunuzņēmuma saistību ar tā norādīto mātes vai meitas sabiedrību;
+
+3.1.6. izziņu, ko izsniegusi tāda ārvalsts nodokļu administrācija, kurā jaunuzņēmuma mātes vai meitas sabiedrība ir rezidents, un kas apliecina, ka jaunuzņēmuma mātes vai meitas sabiedrības nodokļu parāds pieteikuma iesniegšanas dienā vai 30 dienu laikā pirms pieteikuma iesniegšanas dienas nepārsniedz Jaunuzņēmumu darbības atbalsta likuma 4. panta otrās daļas 2. punktā noteikto apmēru;
+
+3.1.7. dokumentus, kas apliecina jaunuzņēmuma mātes vai meitas sabiedrības atbilstību Jaunuzņēmumu darbības atbalsta likuma 4. panta otrās daļas 3. punktam;
+
+3.1.8. atzinumu no jaunuzņēmumus pārstāvošajām organizācijām, kurā tās pamato jaunuzņēmuma atbilstību Jaunuzņēmumu darbības atbalsta likuma 1. panta 4. un 5. punktam (ja attiecināms);
+
+3.1.9. ja plāno veikt atbalsta kumulāciju, ievērojot Jaunuzņēmumu darbības atbalsta likuma 9. panta trešo daļu, informāciju par plānoto un piešķirto komercdarbības atbalstu par tām pašām attiecināmajām izmaksām, norādot atbalsta piešķiršanas datumu, atbalsta sniedzēju, atbalsta pasākumu un plānoto vai piešķirto atbalsta summu;
+
+3.1.10. dokumentus, kas apliecina jaunuzņēmuma atbilstību Jaunuzņēmumu darbības atbalsta likuma 4. panta trešajai daļai (ja attiecināms);
+
+3.2. jaunuzņēmuma un riska kapitāla investora parakstītu apliecinājumu, kas satur informāciju, ka:
+
+3.2.1. kvalificētā riska kapitāla investora agrīnās stadijas riska kapitāla ieguldījums veikts Jaunuzņēmumu darbības atbalsta likuma 4. panta pirmās daļas 1. punktā vai 10. panta 1.<sup>1</sup> daļā noteiktajā apmērā;
+
+3.2.2. šo noteikumu 3.2.1. apakšpunktā minētais ieguldījums veikts ne vēlāk kā 24 mēnešus pirms jaunuzņēmuma pieteikuma iesniegšanas dalībai atbalsta programmās. Attiecībā uz konvertējamo aizdevumu par ieguldījuma veikšanas dienu tiek uzskatīta diena, kad noslēgts konvertējamā aizdevuma līgums;
+
+3.2.3. šo noteikumu 3.2.1. apakšpunktā minētais ieguldījums veikts pieteiktās biznesa idejas īstenošanai;
+
+3.2.4. jaunuzņēmuma mātes vai meitas sabiedrība atbilst Jaunuzņēmumu darbības atbalsta likuma 4. panta otrajā daļā minētajām prasībām, ja šo noteikumu 3.2.1. apakšpunktā minētais ieguldījums veikts tajā;
+
+3.3. šo noteikumu 3.2. apakšpunktā minētajam apliecinājumam pievienotu izrakstu no jaunuzņēmuma vai tā mātes vai meitas sabiedrības bankas konta, kas apstiprina ieguldījuma saņemšanu;
+
+3.4. (svītrots ar MK 19.06.2018. noteikumiem Nr. 340).
+
+*(Grozīts ar MK 19.06.2018. noteikumiem Nr. 340; MK 26.11.2019. noteikumiem Nr. 558; MK 20.10.2020. noteikumiem Nr. 644; MK 18.02.2021. noteikumiem Nr. 105; MK 13.08.2024. noteikumiem Nr. 510)*
+
+4. Jaunuzņēmums, piesakot papildu atbalstu saskaņā ar Jaunuzņēmumu darbības atbalsta likuma 11. panta otro daļu, sagatavo un iesniedz komisijai:
+
+4.1. pieteikumu (1. pielikums), aizpildot tās pieteikuma veidlapas sadaļas, uz kurām attiecas pieteiktais papildu atbalsts;
+
+4.2. šo noteikumu 3. punktā minētos dokumentus, kas attiecas uz pieteikto papildu atbalstu;
+
+4.3. informāciju, kas apliecina jaunuzņēmuma atbilstību *de minimis* atbalsta nosacījumiem.
+
+*(Grozīts ar MK 20.10.2020. noteikumiem Nr. 644; MK 13.08.2024. noteikumiem Nr. 510)*
+
+5. Jaunuzņēmums, atceļot dalību atbalsta programmās, sagatavo un iesniedz komisijai:
+
+5.1. brīvā formā sagatavotu iesniegumu, norādot dalības atcelšanas iemeslus;
+
+5.2. (svītrots ar MK 13.08.2024. noteikumiem Nr. 510).
+
+*(Grozīts ar MK 26.11.2019. noteikumiem Nr. 558; MK 13.08.2024. noteikumiem Nr. 510)*
+
+6. Riska kapitāla investors tā iekļaušanai kvalificēto riska kapitāla investoru sarakstā sagatavo un iesniedz komisijai:
+
+6.1. pieteikumu (3. pielikums);
+
+6.2. dokumenta kopiju, kas apliecina, ka riska kapitāla investors reģistrēts kā alternatīvo ieguldījumu fonds vai fonda pārvaldnieks, ja pieteikumu iesniedz Jaunuzņēmumu darbības atbalsta likuma 5. panta pirmās daļas 1. punktā minētais riska kapitāla investors;
+
+6.3. apliecinājumu par īstenotajiem trijiem akcelerācijas programmas pasākumiem, ja pieteikumu iesniedz Jaunuzņēmumu darbības atbalsta likuma 5. panta pirmās daļas 2. punktā minētais riska kapitāla investors;
+
+6.4. fiziskās personas komercdarbības pieredzes aprakstu par attiecīgās personas darbību kā kapitālsabiedrības vadītājam vai valdes loceklim, bankas kontu izrakstu, kas apliecina, ka ieguldījumi veikti no investoram piederošiem līdzekļiem, apliecinājumu par dalību starptautiskā riska kapitāla investoru tīklā, ja pieteikumu iesniedz Jaunuzņēmumu darbības atbalsta likuma 5. panta pirmās daļas 3. punktā minētais riska kapitāla investors. Par investoram piederošiem līdzekļiem nav uzskatāmi saņemtie aizņēmumi;
+
+6.5. investora apliecinājumu, ka investora kapitāla daļu turētāju ieguldījumi, kuriem kopā vai atsevišķi pieder vairāk nekā 50 procenti kapitāla daļu, atbilst Jaunuzņēmumu darbības atbalsta likuma 5. panta pirmās daļas 4. punktam, un apliecinājumu, ka ieguldījumi veikti no minētās personas līdzekļiem, apliecinājumu par investora vai tā kapitāla daļu turētāju, kuriem kopā vai atsevišķi pieder vairāk nekā 50 procenti kapitāla daļu, dalību starptautiskā riska kapitāla investoru tīklā.
+
+*(Grozīts ar MK 19.06.2018. noteikumiem Nr. 340; MK 26.11.2019. noteikumiem Nr. 558; MK 20.10.2020. noteikumiem Nr. 644; MK 13.08.2024. noteikumiem Nr. 510)*
+
+7. Jaunuzņēmums un riska kapitāla investors var administrējošajai iestādei pieprasīt informāciju par atbalsta programmu nosacījumiem, kā arī lūgt konsultāciju par šajā nodaļā minētās dokumentācijas sagatavošanu.
+
+8. Ja informācija jaunuzņēmuma vai riska kapitāla investora dokumentos ir nepilnīga vai neprecīza, administrējošā iestāde vai komisija rakstiski pieprasa iesniegt papildu informāciju vai precizēt esošo. Adresāts pēc vēstules saņemšanas administrējošās iestādes vai komisijas norādītajā termiņā, kas nav īsāks par piecām darbdienām, iesniedz nepieciešamo informāciju komisijas sekretariātā.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+9. Pieteikumu un ar to saistīto dokumentāciju iesniedz valsts platformā biznesa attīstībai www.business.gov.lv.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+## III. Administrējošās iestādes pienākumi un tiesības
+
+10. Atbalsta programmas administrējošai iestādei ir šādi pienākumi:
+
+10.1. sniegt informāciju jaunuzņēmumam un riska kapitāla investoram par atbalsta programmu nosacījumiem;
+
+10.2. konsultēt jaunuzņēmumu un riska kapitāla investoru par pieteikuma dokumentācijas sagatavošanu;
+
+10.3. izskatīt jaunuzņēmuma iesniegto pieteikumu un ar to saistītās dokumentācijas atbilstību Jaunuzņēmumu darbības atbalsta likuma 4. pantā noteiktajiem atbalsta programmu piešķiršanas kritērijiem, t. sk. pārbaudīt atbalsta programmu izmantošanas ierobežojumus, kā arī izskatīt riska kapitāla investora iesniegto pieteikumu un ar to saistītās dokumentācijas atbilstību Jaunuzņēmumu darbības atbalsta likuma 5. pantā minētajiem kvalifikācijas nosacījumiem;
+
+10.4. sagatavot un iesniegt komisijai argumentētu atzinumu, pamatojoties uz šo noteikumu 10.3. apakšpunktā minēto izvērtējumu;
+
+10.5. atbalsta programmu periodā uzraudzīt jaunuzņēmumu;
+
+10.6. informēt komisiju par konstatētajām izmaiņām jaunuzņēmuma atbilstības kritērijos atbalsta programmas periodā, kā arī par apstākļiem, kuru dēļ riska kapitāla investors neatbilst kvalifikācijas prasībām;
+
+10.7. sagatavot un iesniegt komisijai atzinumu par piešķiramo *de minimis* atbalsta apmēru;
+
+10.8. veikt atbalsta programmu ietvaros piešķirtā *de minimis* atbalsta uzskaiti, izmantojot elektronisko *de minimis* atbalsta uzskaites sistēmu, saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību;
+
+10.9. noteikt atbalsta programmu perioda beigās jaunuzņēmumam faktiski piešķirto *de minimis* atbalsta apmēru;
+
+10.10. izvērtēt jaunuzņēmuma norādītās atbalstāmās darbības atbalsta programmas augsti kvalificētu darba ņēmēju piesaistei un sniegt atzinumu par to atbilstību minētās programmas nosacījumiem;
+
+10.11. izvērtēt, vai jaunuzņēmums nedarbojas nozarēs vai neveic darbības, kas saskaņā ar Komisijas regulas Nr. 2023/2831 1. panta 1. punktu ir izslēgtas no šīs regulas darbības jomas;
+
+10.12. izstrādāt iekšējo kārtību, kādā administrējošā iestāde veic šo noteikumu 10.3., 10.4., 10.5., 10.6. un 10.7. apakšpunktā minēto pienākumu izpildi;
+
+10.13. atbilstoši Komisijas regulas Nr. 2023/2831 nosacījumiem izvērtēt jaunuzņēmumu uz atbalsta piešķiršanas brīdi.
+
+*(Grozīts ar MK 19.06.2018. noteikumiem Nr. 340; MK 26.11.2019. noteikumiem Nr. 558; MK 13.08.2024. noteikumiem Nr. 510)*
+
+10.<sup>1</sup> Valsts ieņēmumu dienests saskaņā ar starpresoru vienošanos nodrošina administrējošajai iestādei pieeju šādiem datiem par darba ņēmēju nodarbinātību:
+
+10.<sup>1</sup>1. informāciju par darba ņēmēja darba devēja nosaukumu un reģistrācijas numuru, lai izskatītu šo noteikumu 10.3. apakšpunktā minēto pieteikumu un ar to saistītās dokumentācijas atbilstību Jaunuzņēmumu darbības atbalsta likuma 11. panta pirmās daļas prasībām;
+
+10.<sup>1</sup>2. informāciju par darba ņēmēja darba devēja nosaukumu un reģistrācijas numuru, kā arī par darba ņēmēja darba ienākumiem un no tiem aprēķinātajiem nodokļiem, lai nodrošinātu šo noteikumu 10.9. apakšpunktā un 20. punktā minēto pienākumu izpildi.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+11. Administrējošajai iestādei pienākumu izpildē ir tiesības pieaicināt ekspertus un citus speciālistus.
+
+11.<sup>1</sup> Ja jaunuzņēmums ir iesniedzis pieteikumu dalībai atbalsta programmās, bet nav saņēmis agrīnas stadijas riska kapitāla ieguldījumu, administrējošā iestāde var pieprasīt atzinumu no jaunuzņēmumus pārstāvošajām organizācijām par jaunuzņēmuma atbilstību Jaunuzņēmumu darbības atbalsta likuma 1. panta 5. punkta prasībām.
+
+*(MK 20.10.2020. noteikumu Nr. 644 redakcijā)*
+
+## IV. Atbalsta programmu administrēšana
+
+12. Komisijas sekretariāts informē komisiju un administrējošo iestādi par šo noteikumu 9. punktā minētajā kārtībā iesniegto dokumentāciju.
+
+13. Administrējošā iestāde pirms komisijas sēdes sagatavo un iesniedz komisijai šo noteikumu 10.4. un 10.7. apakšpunktā minētos dokumentus.
+
+14. Komisija, izvērtējot jaunuzņēmuma un riska kapitāla investora pieteikuma dokumentāciju un administrējošās iestādes iesniegto dokumentāciju, pieņem vienu no šādiem lēmumiem:
+
+14.1. par atbalsta programmas vai papildu atbalsta piešķiršanu jaunuzņēmumam, ja tas atbilst visiem atbalsta programmu piešķiršanas kritērijiem un uz to neattiecas atbalsta programmu izmantošanas ierobežojumi;
+
+14.2. par atteikumu piešķirt atbalstu vai papildu atbalstu jaunuzņēmumam, ja tas neatbilst vismaz vienam no atbalsta programmas piešķiršanas kritērijiem vai uz to attiecas kāds no atbalsta programmu izmantošanas ierobežojumiem;
+
+14.3. par riska kapitāla investora atbilstību riska kapitāla investoru kvalifikācijas nosacījumiem un tā iekļaušanu kvalificēto riska kapitāla investoru sarakstā, ja tas atbilst visiem riska kapitāla investoru kvalifikācijas nosacījumiem;
+
+14.4. par riska kapitāla investora neatbilstību riska kapitāla investoru kvalifikācijas nosacījumiem un tā neiekļaušanu kvalificēto riska kapitāla investoru sarakstā, ja tas neatbilst vismaz vienam no riska kapitāla investoru kvalifikācijas nosacījumiem.
+
+*(Grozīts ar MK 13.08.2024. noteikumiem Nr. 510)*
+
+14.<sup>1</sup> Ja komisija, izvērtējot šo noteikumu 14. punktā minēto informāciju, konstatē, ka jaunuzņēmums atbilst Jaunuzņēmumu darbības atbalsta likuma 4. panta pirmās daļas 2. un 3. punktā noteiktajiem kritērijiem, bet nav saņēmis agrīnās stadijas riska kapitāla ieguldījumu, kā arī konstatē, ka jaunuzņēmuma un administrējošās iestādes iesniegtajā dokumentācijā nav atzinuma no jaunuzņēmumus pārstāvošajām organizācijām vai ka iesniegtais atzinums ir nepilnīgs vai nesatur nepieciešamo informāciju, lai komisija varētu pārliecināties par to, ka jaunuzņēmuma pamatdarbība ir saistīta ar inovatīvu produktu izstrādi, ražošanu vai attīstību, komisija pirms šo noteikumu 14. punktā minētā lēmuma pieņemšanas lemj par nepieciešamību pieprasīt no jaunuzņēmumus pārstāvošajām organizācijām atzinumu par jaunuzņēmuma atbilstību Jaunuzņēmumu darbības atbalsta likuma 1. panta 5. punktā minētajām prasībām. Pieprasījumu sniegt atzinumu, norādot jautājumus, par kādiem atzinums nepieciešams, un atzinuma sniegšanas termiņu, komisijas sekretariāts nosūta komisijas noteiktajai jaunuzņēmumus pārstāvošajai organizācijai vēstules formā.
+
+*(MK 18.02.2021. noteikumu Nr. 105 redakcijā)*
+
+14.<sup>2</sup> Komisija izvērtē pēc šo noteikumu 14.<sup>1</sup>punktā minētā pieprasījuma sniegto atzinumu kopā ar šo noteikumu 14. punktā minēto informāciju un pieņem vienu no šo noteikumu 14. punktā minētajiem lēmumiem. Ja minētais atzinums netiek saņemts, komisija vienu no šo noteikumu 14. punktā minētajiem lēmumiem pieņem, pamatojoties uz attiecīgā jaunuzņēmuma un administrējošās iestādes iesniegto dokumentāciju.
+
+*(MK 18.02.2021. noteikumu Nr. 105 redakcijā)*
+
+15. Administrējošā iestāde veic jaunuzņēmuma pārbaudes, lai uzraudzītu tā atbilstību atbalsta programmu piešķiršanas kritērijiem visā atbalsta periodā.
+
+16. (Svītrots ar MK 26.11.2019. noteikumiem Nr. 558)
+
+17. Administrējošā iestāde nodrošina šo noteikumu 15. punktā minēto pārbaužu dokumentēšanu un uzskaiti.
+
+*(Grozīts ar MK 26.11.2019. noteikumiem Nr. 558)*
+
+18. Ja, veicot šo noteikumu 15. punktā minētās pārbaudes, administrējošā iestāde konstatē, ka jaunuzņēmums neatbilst atbalsta programmu saņemšanas kritērijiem vai administrējošā iestāde konstatē, ka iestājies kāds no Jaunuzņēmumu darbības atbalsta likuma 24. panta pirmajā daļā noteiktajiem gadījumiem, administrējošā iestāde par to informē komisiju.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+19. Komisija, saņemot šo noteikumu 18. punktā minēto informāciju, izvērtē administrējošās iestādes konstatējumus un pieņem lēmumu:
+
+19.1. atbilstoši Jaunuzņēmumu darbības atbalsta likuma 20. pantam atcelt lēmumu par atbalsta programmas piešķiršanu;
+
+19.2. atbilstoši Jaunuzņēmumu darbības atbalsta likuma 24. pantam izslēgt investoru no kvalificēto riska kapitāla investoru saraksta.
+
+20. Administrējošā iestāde visā atbalsta programmas periodā nodrošina jaunuzņēmumam piešķirtā *de minimis* atbalsta uzskaiti atbilstoši normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību, kā arī pēc atbalsta programmas beigām informē jaunuzņēmumu par faktiski piešķirto *de minimis* apmēru.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+## V. Atbalsta apmērs
+
+21. Administrējošā iestāde saskaņā ar jaunuzņēmuma pieteikuma dokumentācijā norādīto informāciju un šo noteikumu 25. punktā minēto atbalsta aprēķina kārtību nosaka piešķiramā *de minimis* atbalsta apmēru un ievada elektroniskajā *de minimis* atbalsta uzskaites sistēmā informāciju par piešķirto *de minimis* atbalstu.
+
+*(Grozīts ar MK 26.11.2019. noteikumiem Nr. 558)*
+
+21.<sup>1</sup> Plānotais *de minimis* atbalsta apmērs kopā ar iepriekšējos trijos gados, skaitot no atbalsta piešķiršanas dienas, piešķirto *de minimis* atbalstu viena vienota uzņēmuma līmenī nepārsniedz Komisijas regulas Nr. 2023/2831 3. panta 2. punktā noteikto maksimālo *de minimis* atbalsta apmēru. Viens vienots uzņēmums ir uzņēmums, kas atbilst Komisijas regulas Nr. 2023/2831 2. panta 2. punktam.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+21.<sup>2</sup> *De minimis* atbalstu saskaņā ar Komisijas regulu Nr. 2023/2831 piešķir, ievērojot Komisijas regulas Nr. 2023/2831 1. panta 1. punktā minētos nozaru un darbību ierobežojumus. Ja jaunuzņēmums vienlaikus darbojas vienā vai vairākās Komisijas regulas Nr. 2023/2831 1. panta 1. punkta "a", "b", "c" un "d" apakšpunktā minētajās nozarēs, atbalstu drīkst piešķirt tikai tad, ja atbalsta saņēmējs nodrošina šo nozaru darbību vai uzskaites nodalīšanu, lai saskaņā ar Komisijas regulas Nr. 2023/2831 1. panta 2. punktu darbības izslēgtajās nozarēs negūst labumu no *de minimis* atbalsta, ko piešķir saskaņā ar šiem noteikumiem.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+21.<sup>3</sup> Par atbalsta piešķiršanas brīdi uzskata dienu, kad Komisija ir pieņēmusi lēmumu par atbalsta piešķiršanu vai sniegusi atzinumu par nosacījumu izpildi.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+21.<sup>4</sup> Šo noteikumu ietvaros piešķirto *de minimis* atbalstu drīkst kumulēt ar citu *de minimis* atbalstu, tai skaitā attiecībā uz vienām un tām pašām attiecināmajām izmaksām, līdz Komisijas regulas Nr. 2023/2831 3. panta 2. punktā noteiktajam attiecīgajam robežlielumam, kā arī drīkst kumulēt ar citu komercdarbības atbalstu, tai skaitā attiecībā uz vienām un tām pašām attiecināmajām izmaksām, vai citu komercdarbības atbalstu tam pašam riska finansējuma pasākumam, ja netiek pārsniegta attiecīgā maksimālā atbalsta intensitāte vai atbalsta summa, kāda noteikta komercdarbības atbalsta programmā, *ad-hoc* lēmumā vai Eiropas Komisijas lēmumā. *De minimis* atbalstu ar citu *de minimis* atbalstu par vienām un tām pašām izmaksām var apvienot, ja pēc atbalstu apvienošanas atbalsta vienībai vai izmaksu pozīcijai attiecīgā maksimālā atbalsta intensitāte nepārsniedz 100 %.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+22. Jaunuzņēmums 10 darbdienu laikā pēc atbalsta programmu perioda beigām administrējošajai iestādei iesniedz ziņojumu:
+
+22.1. par atbalsta periodā vispārējā nodokļu režīma ietvaros (t. i., režīmā, kas būtu jāpiemēro, ja jaunuzņēmums nepiedalītos Jaunuzņēmumu darbības atbalsta likumā paredzētajā atbalsta programmā) atbalsta programmā fiksētajam maksājumam pieteiktajiem darba ņēmējiem aprēķināmo:
+
+22.1.1. iedzīvotāju ienākuma nodokli;
+
+22.1.2. valsts obligātās sociālās apdrošināšanas iemaksas apmēru;
+
+22.2. (svītrots ar MK 19.06.2018. noteikumiem Nr. 340);
+
+22.3. par atbalsta periodā darba devēja veiktajām iemaksām valsts pensiju apdrošināšanai vai iemaksām privātajā brīvprātīgajā pensiju shēmā.
+
+22.<sup>1</sup> Jaunuzņēmums, kas saņēmis valsts atbalstu pēc 2021. gada 31. decembra, trīs gadus pēc atbalsta saņemšanas līdz katra secīgā kalendāra gada 31. maijam iesniedz administrējošajai iestādei šādu informāciju par projekta biznesa idejas īstenošanu un par to inovatīvo produktu vai pakalpojumu, kura radīšanai jaunuzņēmums saņēmis valsts atbalstu par iepriekšējo kalendāra gadu:
+
+22.<sup>1</sup>1. tirgus noieta raksturojums (vietējais vai ārvalstu tirgus, tirgus un pārdošanas apjoms skaitliski un naudas izteiksmē, attīstības perspektīvas);
+
+22.<sup>1</sup>2. peļņas un apgrozījuma rādītāji par projektu, papildus norādot jaunuzņēmuma kopējos darbības rādītājus;
+
+22.<sup>1</sup>3. piesaistītās vietējās un ārvalstu investīcijas, norādot ieguldījuma apjomu un valsti;
+
+22.<sup>1</sup>4. darbinieku skaits, bruto darba atalgojuma izmaiņas, samaksātais iedzīvotāju ienākuma nodoklis un valsts obligātās sociālās apdrošināšanas iemaksas.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+22.<sup>2</sup> Pienākums sniegt šo noteikumu 22.<sup>1</sup> punktā minēto informāciju neattiecas uz jaunuzņēmumiem, kuri iesnieguši administrējošajai iestādei informāciju par projekta izstrādes pārtraukšanu un tās pamatojumu.
+
+*(MK 09.08.2022. noteikumu Nr. 472 redakcijā)*
+
+23. (Svītrots ar MK 19.06.2018. noteikumiem Nr. 340)
+
+24. Administrējošā iestāde nosaka faktiski piešķirto atbalsta apmēru jaunuzņēmumam mēneša laikā pēc šo noteikumu 22. punktā minētā ziņojuma saņemšanas.
+
+25. Atbalsta programmu ietvaros *de minimis* atbalsta apmēru aprēķina:
+
+25.1. par katru atbalsta programmā augsti kvalificētu darba ņēmēju piesaistei pieteikto darba ņēmēju saskaņā ar Ministru kabineta 2023. gada 7. novembra noteikumu Nr. 644 "Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.2.1. specifiskā atbalsta mērķa "Pētniecības un inovāciju kapacitātes stiprināšana un progresīvu tehnoloģiju ieviešana uzņēmumiem" 1.2.1.4. pasākuma "Atbalsts tehnoloģiju pārneses sistēmas pilnveidošanai" īstenošanas noteikumi" 38. punktu un 81.4. apakšpunktu;
+
+25.2. par katru atbalsta programmā fiksētajam maksājumam pieteikto darba ņēmēju, no darba ņēmējam vispārējā nodokļu režīma ietvaros (t. i., režīmā, kas būtu jāpiemēro, ja jaunuzņēmums nepiedalītos Jaunuzņēmumu darbības atbalsta likumā paredzētajā atbalsta programmā) aprēķināmajiem nodokļiem (iedzīvotāju ienākuma nodoklis, valsts obligātās sociālās apdrošināšanas iemaksas) atņemot faktiski samaksāto fiksēto maksājumu un atbalsta programmas ietvaros samaksāto iedzīvotāju ienākuma nodokli;
+
+25.3. (svītrots ar MK 19.06.2018. noteikumiem Nr. 340).
+
+*(Grozīts ar MK 19.06.2018. noteikumiem Nr. 340; MK 13.08.2024. noteikumiem Nr. 510)*
+
+26. Faktiski piešķirtais atbalsts kopumā nevar pārsniegt komisijas lēmumā par atbalsta programmas piešķiršanu jaunuzņēmumam noteikto *de minimis* atbalsta apmēru.
+
+27. Ja ir pārkāptas Komisijas regulas Nr. 2023/2831 prasības, finansējuma saņēmējam ir pienākums atmaksāt atbalsta sniedzējam projekta ietvaros saņemto valsts atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no valsts atbalsta, atbilstoši Komercdarbības atbalsta kontroles likuma IV vai V nodaļas nosacījumiem.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+28. Jaunuzņēmums nodrošina informācijas pieejamību 10 gadus, skaitot no atbalsta piešķiršanas dienas. Administrējošā iestāde datus par *de minimis* atbalstu glabā 10 gadus, skaitot no pēdējās atbalsta piešķiršanas dienas, atbilstoši Komisijas regulas Nr. 2023/2831 6. panta 3. un 7. punktam.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+## VI. Noslēguma jautājums
+
+*(Nodaļa MK 09.08.2022. noteikumu Nr. 472 redakcijā)*
+
+29. Jaunuzņēmums, kura projekta biznesa idejas īstenošana pēc valsts atbalsta saņemšanas ir beigusies līdz 2021. gada 31. decembrim, šo noteikumu 22.<sup>1</sup> punktā minēto informāciju par periodu līdz 2024. gada 31. decembrim iesniedz administrējošajai iestādei līdz 2025. gada 1. jūnijam.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+30. Lēmumu par *de minimis* atbalsta piešķiršanu saskaņā ar Komisijas regulu Nr. 2023/2831 var pieņemt līdz šīs regulas darbības beigām.
+
+*(MK 13.08.2024. noteikumu Nr. 510 redakcijā)*
+
+Ministru prezidents Māris Kučinskis
+Ministru prezidenta biedrs,
+ekonomikas ministrs Arvils Ašeradens
+
+## 1. pielikums Ministru kabineta 2017. gada 7. februāra noteikumiem Nr. 74(Pielikums MK 13.08.2024. noteikumu Nr. 510 redakcijā)
+
+![](https://likumi.lv/wwwraksti/2024/158/BILDES/N_510.JPG)
+
+Pieteikuma veidlapa
+Jaunuzņēmumu darbības atbalsta likumā noteiktajām atbalsta programmām
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">1. Informācija par pieteikuma iesniedzēju</td></tr>
+<tr>
+<td>Nr.p.k.</td><td colspan="2">Norādāmā informācija</td></tr>
+<tr>
+<td>1.1.</td><td>Juridiskas personas nosaukums</td><td></td></tr>
+<tr>
+<td>1.2.</td><td>Reģistrācijas numurs</td><td></td></tr>
+<tr>
+<td>1.3.</td><td>Kontaktadrese, tai skaitā e-pasta adrese</td><td></td></tr>
+<tr>
+<td>1.4.</td><td>Projekta īstenošanas adrese</td><td></td></tr>
+<tr>
+<td>1.5.</td><td>Mājaslapa</td><td></td></tr>
+<tr>
+<td rowspan="4">1.6.</td><td>Kontaktpersona</td><td></td></tr>
+<tr>
+<td>Vārds, Uzvārds</td><td></td></tr>
+<tr>
+<td>Amats</td><td></td></tr>
+<tr>
+<td>Tālrunis, e-pasta adrese</td><td></td></tr>
+<tr>
+<td>1.7.</td><td>Pamatdarbības nozare (NACE 2.red.)</td><td>Kods:Nosaukums:</td></tr>
+<tr>
+<td>1.8.</td><td>Pieteiktās biznesa idejas īstenošanas nozare (NACE 2.red.)</td><td>Kods:Nosaukums:</td></tr>
+<tr>
+<td colspan="3"></td></tr>
+</tbody>
+</table>
+
+| 1.9. | Inovatīvā produkta un biznesa idejas apraksts |
+| --- | --- |
+
+|  |
+| --- |
+
+| 1.9.1. Lūdzam sniegt pamatinformāciju par biznesa idejas mērogojamību un izaugsmes potenciālu, tai skaitā aprakstot visas nepieciešamās darbības , kas nepieciešamas jaunā produkta ieviešanai ražošanā, kā arī par uzņēmuma inovatīvo produktu, pamatojot tā augsti, citstarp tehnoloģisko, pievienoto vērtību (līdz 2000 zīmēm). |
+| --- |
+
+|  |
+| --- |
+
+| 1.9.2. Ja atbalsts tiek pieprasīts Jaunuzņēmumu darbības atbalsta likuma 7.pantā noteiktajai atbalsta programmai, lūdzam norādīt, kādas būs plānotās darbības, tām nepieciešamo stundu skaitu un sasniedzamos rezultātus atbalsta saņemšanas periodā jauna produkta izstrādē (līdz 2000 zīmēm). |
+| --- |
+
+1.9.3. Komanda
+
+| Lūdzam sniegt informāciju par uzņēmuma komandu, norādot darbinieku skaitu, profesionālo pieredzi un kvalifikāciju (līdz 1000 zīmēm).<br><br> |
+| --- |
+
+1.9.4. Tirgus
+
+| Lūdzam sniegt informāciju par tirgu un tirgus daļu, kurā tiks pārdots jaunais produkts un to kāds ir tā tirgus potenciāls (līdz 2000 zīmēm).<br><br> |
+| --- |
+
+1.9.5. Konkurence
+
+| Lūdzam sniegt informāciju par uzņēmuma konkurentiem un uzņēmuma konkurences priekšrocībām attiecībā pret tiem (līdz 2000 zīmēm).<br><br> |
+| --- |
+
+|  |
+| --- |
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">1.10.</td><td>Informācija, kas apliecina, ka jaunuzņēmums nodarbojas ar inovatīva produkta izstrādi, ražošanu vai attīstību<sup>1</sup></td></tr>
+<tr>
+<td></td></tr>
+</tbody>
+</table>
+
+Piezīme. <sup>1</sup> Aizpilda, ja jaunuzņēmums nav saņēmis agrīnās stadijas riska kapitāla ieguldījumu.
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">1.11. Informācija par pieteikuma iesniedzēja mātes vai meitas sabiedrību, kurā veikts agrīnās stadijas riska kapitāla ieguldījums (ja attiecināms)</td></tr>
+<tr>
+<td>Nr. p. k.</td><td colspan="2">Norādāmā informācija</td></tr>
+<tr>
+<td>1.11.1.</td><td>Sabiedrības nosaukums</td><td></td></tr>
+<tr>
+<td>1.11.2.</td><td>Reģistrācijas numurs</td><td></td></tr>
+<tr>
+<td>1.11.3.</td><td>Juridiskā adrese</td><td></td></tr>
+<tr>
+<td>1.11.4.</td><td>Informācija par tirgu/tirgiem, kur sabiedrība darbojas</td><td></td></tr>
+<tr>
+<td>1.11.5.</td><td>Iespēja pārliecināties, ka sabiedrībai nav pasludināts maksātnespējas process(<i>Lūdzam sniegt informāciju par publiski ticamas informācijas iegūšanas avotu vai piekrišanu sniegt attiecīgus dokumentus pēc pieprasījuma</i>)</td><td></td></tr>
+<tr>
+<td>1.11.6.</td><td>Iespēja pārliecināties, ka sabiedrības nodokļu parāds nepārsniedz 150 <i>euro</i>(<i>Lūdzam sniegt informāciju par publiski ticamas informācijas iegūšanas avotu vai piekrišanu sniegt attiecīgus dokumentus pēc pieprasījuma</i>)</td><td></td></tr>
+</tbody>
+</table>
+
+|  |
+| --- |
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">2. Piesaistītais riska kapitāla investors</td></tr>
+<tr>
+<td>Nr.p.k.</td><td colspan="2">Norādāmā informācija</td></tr>
+<tr>
+<td>2.1.</td><td>Riska kapitāla investora nosaukums / vārds</td><td></td></tr>
+<tr>
+<td>2.2.</td><td>Reģistrācijas numurs / personas kods</td><td></td></tr>
+<tr>
+<td>2.3.</td><td>Juridiskā adrese</td><td></td></tr>
+<tr>
+<td>2.4.</td><td>Mājaslapa</td><td></td></tr>
+<tr>
+<td rowspan="4">2.5.</td><td>Atbildīgā persona/ kontaktpersona</td><td></td></tr>
+<tr>
+<td>Vārds, Uzvārds</td><td></td></tr>
+<tr>
+<td>Amats</td><td></td></tr>
+<tr>
+<td>Tālrunis, e-pasta adrese</td><td></td></tr>
+<tr>
+<td>2.6.</td><td>Riska kapitāla investora ieguldījuma apmērs pieteikuma 1.9. punktā aprakstītās jaunuzņēmuma biznesa idejas īstenošanai.</td><td>__________________ veids__________________ EUR<br>__________________ daļas %<br>__________________.gads</td></tr>
+</tbody>
+</table>
+
+|  |
+| --- |
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">3. Dalība atbalsta programmās</td></tr>
+<tr>
+<td>Nr.<br>p. k.</td><td>Atbalsta programmas veids</td><td>Norādāmā informācija<sup>1</sup></td></tr>
+<tr>
+<td rowspan="2">3.1.</td><td colspan="2">Atbalsta programmai fiksēta maksājuma veikšanai pieteiktie darba ņēmēji:</td></tr>
+<tr>
+<td>3.1.1. darba ņēmēja vārds, uzvārds, personas kods</td><td>Darba ņēmēja amats, darbības joma/kompetence, pienākumu saistība ar pieteiktās biznesa idejas īstenošanu (norādot konkrēti veicamo darba uzdevumu/risināmo problēmu)</td></tr>
+<tr>
+<td>3.2.</td><td colspan="2">Atbalsta programma augsti kvalificētu darba ņēmēju piesaistei:</td></tr>
+<tr>
+<td></td><td>3.2.1. darba ņēmēja vārds, uzvārds, personas kods</td><td>Darba ņēmēja amats (nosaukums un kods atbilstoši profesiju klasifikatoram),darbības joma/kompetence, pienākumu saistība ar jaunā produkta vai tehnoloģijas izstrādi, norādot konkrētus veicamos darba uzdevumus – konkrētas pētnieciskas aktivitātes tehnoloģisku problēmu risināšanā vai jaunu vai būtiski uzlabotu produktu vai tehnoloģiju izstrādē un uzdevumu veikšanai nepieciešamo laiku stundās</td></tr>
+<tr>
+<td rowspan="2">3.3.</td><td colspan="2">Darba ņēmēja iedzīvotāju ienākuma nodokļa atvieglojumi</td></tr>
+<tr>
+<td colspan="2">3.3.1. darba ņēmēja vārds, uzvārds, personas kods</td></tr>
+</tbody>
+</table>
+
+Piezīme. <sup>1</sup> Aizpilda par katru darba ņēmēju. Ja nepieciešams, tabulu var paplašināt.
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">4. Pieprasītā atbalsta aprēķins</td></tr>
+<tr>
+<td>4.1. Pieprasītais atbalsts fiksētam nodokļu maksājumam un iedzīvotāju ienākuma nodokļa atlaidei<sup>1</sup></td><td>Pieprasītais atbalsts: ________ <i>euro</i>Lūdzam norādīt pieprasītā atbalsta kopsummu, katra atbalstam pieteiktā darbinieka plānoto bruto darba algu un atbalsta periodu mēnešos. Lūdzam ņemt vērā, ka aprēķinot pieprasīto atbalstu attiecībā uz iedzīvotāju ienākuma nodokli nevar piemērot neapliekamo minimumu un atvieglojumu par apgādībā esošu personu.</td></tr>
+<tr>
+<td>4.2. Pieprasītais atbalsts augsti kvalificētu darbinieku iesaistei<sup>2</sup></td><td>Pieprasītais atbalsts ______ <i>euro</i></td></tr>
+<tr>
+<td>4.3. Elektroniskajā <i>de minimis</i> sistēmā aizpildītās veidlapas numurs</td><td></td></tr>
+<tr>
+<td>4.4. Informācija par plānoto atbalsta programmas izmaksu kumulāciju</td><td><i>Lūdzam norādīt, vai atbalsta programmas ievaros plānots veikt kumulāciju</i><img src="https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF" alt=""> Nē<br><img src="https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF" alt=""> Jā<br>Ja plānots veikt kumulāciju, lūdzam norādīt vai informāciju par īstenotajiem vai plānotajiem projektiem, kuros saņemtais valsts vai cita veida atbalsts tiek kumulēts ar šīs atbalsta programmas ietvaros pieprasīto finansējumu.</td></tr>
+</tbody>
+</table>
+
+Piezīmes.
+
+1. (Par katru darba ņēmēju vispārējā nodokļu režīma ietvaros aprēķināmais IIN x mēneši + par katru darba ņēmēju vispārējā nodokļu režīma ietvaros aprēķināmās VSAOI<sub>(darba ņēmēja un darba devēja)</sub> x mēneši) – fiksētais maksājums x darbinieku skaits x mēneši – atbalsta programmas ietvaros par katru darba ņēmēju faktiski samaksātais IIN* x mēneši = pieprasītais atbalsts, *euro*
+
+* Ja jaunuzņēmums piesakās iedzīvotāju ienākuma nodokļa atvieglojumam 100% apmērā, faktiski samaksātais iedzīvotāju ienākuma nodoklis ir 0.
+
+2. Ʃ = ((L x h)a + (L x h)b +(L x h)…) x 45%, kur
+
+Ʃ - atbalsta apjoma summa;
+
+L - likme, pēc kuras nosaka attiecināmās izmaksas par katra atbalstam pieteiktā darbinieka vienu nostrādātu pilnu darba stundu;
+
+h – atbalsta darbiniekam plānotās darba stundas kopā visā pieteikumā paredzētajā īstenošanas laikā, tam uzdoto uzdevumu paveikšanai (skatīt 4.pielikumu);
+
+a; b; … – norāde, ka aprēķinu "(L x h)" veic par katru atbalstam pieteikto darbinieku;
+
+45% –atbalsta intensitāte.
+
+5. Es, pieteikuma iesniedzēja
+
+|  |
+| --- |
+| (pieteikuma iesniedzēja nosaukums) |
+
+atbildīgā amatpersona
+
+|  |
+| --- |
+| (amats) |
+| , |
+| (vārds, uzvārds) |
+
+apliecinu, ka:
+
+5.1. atbalsta programmu īstenošanas periodā viena vienota uzņēmuma līmenī tiks ievērots *de minimis* slieksnis;
+
+5.2. piesakoties atbalsta programmai augsti kvalificētu darba ņēmēju piesaistei, jaunuzņēmums nav sniedzis nepatiesu informāciju vai tīši maldinājis Latvijas Investīciju un attīstības aģentūru vai citu Eiropas Savienības fondu administrējošu iestādi saistībā ar Eiropas Savienības fondu līdzfinansēto projektu īstenošanu;
+
+5.3. īstenojot projektu, jaunuzņēmums nodrošinās atsevišķu ar projekta īstenošanu saistīto saimniecisko darījumu ieņēmumu un izdevumu grāmatvedības uzskaiti atbilstoši normatīvajiem aktiem par gada pārskatiem un konsolidētajiem gada pārskatiem;
+
+5.4. atbalsta periodā un trīs gadus pēc projekta īstenošanas jaunuzņēmums iesniegs pārskatus par pētniecības, attīstības un inovāciju izmaksām Centrālajai statistikas pārvaldei tās noteiktajā formā un termiņā;
+
+5.5. trīs gadus pēc valsts atbalsta saņemšanas līdz katra secīgā kalendāra gada 1.martam iesniedz administrējošajai iestādei informāciju par projekta biznesa idejas īstenošanu un par pašu inovatīvo produktu vai pakalpojumu, kura radīšanai jaunuzņēmums saņēmis valsts atbalstu par iepriekšējo kalendāra gadu atbilstoši Ministru kabineta 2017.gada 7.februāra noteikumu Nr.74 "Jaunuzņēmumu atbalsta programmu pieteikšanas un administrēšanas kārtība" 22.<sup>1</sup> punkta prasībām.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+## 2. pielikums Ministru kabineta 2017. gada 7. februāra noteikumiem Nr. 74
+
+### Atbalsta programmām pieteiktās biznesa idejas izstrādes un attīstības plāns
+
+*(Pielikums svītrots ar MK 19.06.2018. noteikumiem Nr. 340)*
+
+## 3. pielikums Ministru kabineta 2017. gada 7. februāra noteikumiem Nr. 74(Pielikums MK 13.08.2024. noteikumu Nr. 510 redakcijā)
+
+### Pieteikuma veidlapa riska kapitāla investora iekļaušanai kvalificēto riska kapitāla investoru sarakstā
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">1. Informācija par pieteikuma iesniedzēju</td></tr>
+<tr>
+<td>1.1.</td><td>Juridiskās personas nosaukums / fiziskās personas vārds, uzvārds</td><td></td></tr>
+<tr>
+<td>1.2.</td><td>Reģistrācijas numurs/personas kods</td><td></td></tr>
+<tr>
+<td>1.3.</td><td>Nodokļu maksātāja reģistrācijas kods</td><td></td></tr>
+<tr>
+<td>1.4.</td><td>Juridiskā forma</td><td></td></tr>
+<tr>
+<td>1.5.</td><td>Juridiskā adrese/deklarētā adrese</td><td></td></tr>
+<tr>
+<td>1.6.</td><td>Faktiskā adrese, tai skaitā e-pasta adrese</td><td></td></tr>
+<tr>
+<td>1.7.</td><td>Mājaslapa</td><td></td></tr>
+<tr>
+<td rowspan="4">1.8.</td><td>Atbildīgā persona/ kontaktpersona</td><td></td></tr>
+<tr>
+<td>Vārds, uzvārds</td><td></td></tr>
+<tr>
+<td>Amats</td><td></td></tr>
+<tr>
+<td>Tālrunis, e-pasta adrese</td><td></td></tr>
+<tr>
+<td>1.9.</td><td>Informācija par iepriekšējiem pieteikumiem</td><td>Iesniedz pieteikumu 1.reizi <img src="https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF" alt="">Iesniedz pieteikumu atkārtoti <img src="https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF" alt=""></td></tr>
+</tbody>
+</table>
+
+|  |
+| --- |
+
+<table>
+<tbody>
+<tr>
+<td colspan="7">2. Informācija par veiktajiem ieguldījumiem</td></tr>
+<tr>
+<td rowspan="2">Nr.p.k.</td><td rowspan="2">Komercsabiedrības nosaukums, reģistrācijas numurs un datums</td><td colspan="2"><b>Ieguldījuma veids</b><br><i>Lūdzam ar "X" atzīmējiet ieguldījuma veidu</i></td><td rowspan="2">Ieguldījuma apjoms, <i>euro</i></td><td rowspan="2">Kapitāldaļu skaits (%)</td><td rowspan="2">Ieguldījuma veikšanas datums</td></tr>
+<tr>
+<td>konvertējamais aizdevums<sup>1</sup></td><td>ieguldījums pamatkapitālā</td></tr>
+<tr>
+<td>2.1.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.2.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>2.3.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+Piezīme. 1. Konvertējamais aizdevums ir kvazikapitāla ieguldījums, kurš līgumā noteiktā kārtībā paredz iespēju pret ieguldījumu īpašumā saņemt jaunuzņēmuma pamatkapitāla daļas (akcijas) un tiek izsniegts pēc noteikumiem, kas ir labvēlīgāki, nekā noteikumi uz kādiem minēto aizdevumu izsniegtu savstarpēji nesaistīti uzņēmumi, un kura līgumā ir paredzēta iespēja neatmaksāto aizdevuma daļu konvertēt tai atbilstoša skaita jaunuzņēmuma (aizņēmēja) pamatkapitāla daļās (akcijās), līdz konvertācijai veicot aizdevumu procentu un pamatsummas maksājumus. Konvertējamā aizdevuma līgumā paredz kopējo aizdevuma summu, aizdevuma termiņu, izsniegšanas kārtību, procentu likmi, neatmaksātās aizdevuma daļas konvertēšanas noteikumus (principus), pamatkapitāla daļas (akcijas) konvertācijas cenu vai tās noteikšanas kārtību, atmaksas noteikumus, ja aizdevums netiek konvertēts.
+
+| 3. Pieteikuma iesniedzēja apliecinājums |
+| --- |
+
+Es, pieteikuma iesniedzēja
+
+|  |
+| --- |
+| (pieteikuma iesniedzēja nosaukums/ vārds, uzvārds) |
+
+atbildīgā amatpersona
+
+|  |
+| --- |
+| (vārds, uzvārds, ja pieteikumu iesniedz juridiska persona) |
+|  |
+| (amats) |
+
+ar parakstu apliecinu, ka
+
+|  |
+| --- |
+| (dd./mm./gggg.) |
+
+3.1. pieteikuma iesniedzējs atbilst Jaunuzņēmumu darbības atbalsta likuma 5.panta pirmajā daļā noteiktajām kvalificēta riska kapitāla investora prasībām;
+
+3.2. veiktie ieguldījumi nav atzīti par noziedzīgi iegūtiem līdzekļiem Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē;
+
+3.3. veikto ieguldījumu avots nav saņemtie aizdevumi;
+
+3.4. pieteikumā norādītā informācija ir spēkā un atbilst patiesībai.
+
+| Atbildīgā amatpersona |  |
+| --- | --- |
+|  | (*vārds, uzvārds, amats*) |
+|  |  |
+|  | (*amats*) |
+| Datums |  |
+|  | (*dd./mm./gggg.*) |
+| Vieta |  |
+| *Paraksts |  |
+
+Pieteikuma iesniedzējs:
+
+|  |  |  |
+| --- | --- | --- |
+| *(paraksts) |  | (vārds, uzvārds) |
+
+*DOKUMENTS PARAKSTĪTS AR DROŠU ELEKTRONISKO PARAKSTU UN SATUR LAIKA ZĪMOGU

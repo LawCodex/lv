@@ -1,0 +1,60 @@
+---
+title: "E-lietas uzraudzības padomes nolikums"
+identifier: "MK noteikumi Nr. 216"
+likumi_lv_id: 331414
+type: regulation
+jurisdiction: lv
+language: lv
+number: "216"
+issuer: "Ministru kabinets"
+date: 2022-04-05
+entry_into_force: 2022-04-08
+published: "Latvijas Vēstnesis, 69, 07.04.2022."
+status: in_force
+source: "https://likumi.lv/ta/id/331414-e-lietas-uzraudzibas-padomes-nolikums"
+retrieved: 2026-10-12
+---
+
+# E-lietas uzraudzības padomes nolikums
+
+Ministru kabineta noteikumi Nr. 216
+Rīgā 2022. gada 5. aprīlī (prot. Nr. 19 16. §)
+
+Izdoti saskaņā ar Procesu norises elektroniskā vidē valsts platformas likuma 11. panta sestās daļas 1. punktu
+
+1. Noteikumi nosaka E-lietas uzraudzības padomes (turpmāk – padome) funkcijas un darba organizāciju.
+
+2. Padomes funkcijas:
+
+2.1. nodrošināt vienotas nacionāla līmeņa e-lietas attīstību, apstiprinot Procesu norises elektroniskā vidē valsts platformas likuma 11. panta sestās daļas 2. punktā minētās darba grupas izstrādāto un aktualizēto vienoto nacionāla līmeņa e-lietas koncepciju, vienoto e-lietas arhitektūru, e-lietas ieviešanas rīcības plānu, citus dokumentus pēc nepieciešamības un minētajos dokumentos norādīto finansēšanas avotu;
+
+2.2. uzraudzīt vienotās nacionāla līmeņa e-lietas koncepcijas un vienotās e-lietas arhitektūras īstenošanu un aktualizēšanu un vienotu e-lietas kvalitatīvu ieviešanu un attīstību atbilstoši e‑lietas ieviešanas rīcības plānam.
+
+3. Padomes priekšsēdētājs:
+
+3.1. vada padomes darbu;
+
+3.2. sasauc padomes sēdes un ierosina to darba kārtību;
+
+3.3. pārstāv padomi;
+
+3.4. paraksta padomes lēmumus un citus dokumentus.
+
+4. Padomes priekšsēdētājs sasauc padomes sēdi ne retāk kā divas reizes gadā.
+
+5. Padomes sēdes laiku un darba kārtību padomes locekļiem un uzaicinātajām valsts institūciju amatpersonām un darbiniekiem, nevalstisko organizāciju pārstāvjiem, ekspertiem un citiem speciālistiem elektroniski izziņo ne vēlāk kā 10 darbdienas pirms sēdes.
+
+6. Padome ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no padomes locekļiem.
+
+7. Padome lēmumus pieņem, atklāti balsojot. Katram padomes loceklim ir viena balss. Balsīm sadaloties vienādi, izšķirošā ir padomes priekšsēdētāja balss.
+
+8. Padome var pieņemt lēmumus rakstveida procedūrā, nesasaucot padomes sēdi.
+
+9. Padomes priekšsēdētāja prombūtnes laikā padomes sēdes vada padomes priekšsēdētāja pilnvarots pārstāvis.
+
+10. Valsts institūciju amatpersonas un darbinieki, nevalstisko organizāciju pārstāvji, eksperti un citi padomes priekšsēdētāja uzaicinātie speciālisti padomes sēdē piedalās kā padomdevēji bez balsstiesībām.
+
+11. Tieslietu ministrija pilda padomes sekretariāta funkcijas.
+
+Ministru prezidents A. K. Kariņš
+Ministru prezidenta biedrs, tieslietu ministrs J. Bordāns

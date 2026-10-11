@@ -1,0 +1,214 @@
+---
+title: "Invaliditātes lietu nacionālās padomes nolikums"
+identifier: "MK noteikumi Nr. 699"
+likumi_lv_id: 347978
+type: regulation
+jurisdiction: lv
+language: lv
+number: "699"
+issuer: "Ministru kabinets"
+date: 2023-12-05
+entry_into_force: 2023-12-07
+published: "Latvijas Vēstnesis, 236, 06.12.2023."
+status: in_force
+source: "https://likumi.lv/ta/id/347978-invaliditates-lietu-nacionalas-padomes-nolikums"
+retrieved: 2026-10-12
+---
+
+# Invaliditātes lietu nacionālās padomes nolikums
+
+Ministru kabineta noteikumi Nr. 699
+Rīgā 2023. gada 5. decembrī (prot. Nr. 60 9. §)
+
+Izdoti saskaņā ar Valsts pārvaldes iekārtas likuma 13. pantu
+
+## I. Vispārīgie jautājumi
+
+1. Invaliditātes lietu nacionālā padome (turpmāk – padome) ir konsultatīva institūcija, kas izveidota, lai īstenotu saskaņotu starpresoru sadarbību, izstrādājot un īstenojot vienlīdzīgu iespēju politiku personām ar invaliditāti (turpmāk – vienlīdzīgu iespēju politika).
+
+2. Padomes lēmumiem ir ieteikuma raksturs.
+
+## II. Padomes funkcija, uzdevumi un tiesības
+
+3. Padomes funkcija ir veicināt vienlīdzīgu iespēju politikas attīstību, sniedzot priekšlikumus nozaru politiku tiesību aktu projektu un attīstības plānošanas dokumentu sagatavošanai, īstenošanai un aktualizēšanai.
+
+4. Padomei ir šādi uzdevumi:
+
+4.1. izskatīt jautājumus, kas saistīti ar vienlīdzīgu iespēju un tiesību īstenošanu personām ar invaliditāti, un sniegt priekšlikumus valsts, pašvaldību un citu institūciju, kā arī nevalstisko organizāciju darbību pilnveidošanai attiecīgajā jomā, lai sekmētu personu ar invaliditāti interešu ievērošanu;
+
+4.2. veicināt sabiedrības iesaistīšanos personu ar invaliditāti vienlīdzīgu iespēju un tiesību īstenošanā, popularizējot vienlīdzīgu iespēju politiku;
+
+4.3. starpnozaru līmenī koordinēt Apvienoto Nāciju Organizācijas Konvencijas par personu ar invaliditāti tiesībām īstenošanu;
+
+4.4. sniegt konsultatīvu atbalstu, īstenojot Eiropas Savienības fondu ietvaros projektus, kas saistīti ar vienlīdzīgu iespēju politiku.
+
+5. Padomei ir tiesības:
+
+5.1. veidot darba grupas padomes kompetencē esošo jautājumu sagatavošanai, lai analizētu un risinātu jautājumus par vienlīdzīgām iespējām un tiesībām personām ar invaliditāti;
+
+5.2. pieaicināt jomas ekspertus informācijas un viedokļa sniegšanai par kādu no sēdes darba kārtībā ietvertajiem jautājumiem;
+
+5.3. paust padomes viedokli plašsaziņas līdzekļos;
+
+5.4. izvērtēt padomes lēmumu īstenošanas gaitu un rezultātus;
+
+5.5. ierosināt izmaiņas padomes sastāvā.
+
+## III. Padomes sastāvs
+
+6. Padomes sastāvā ir:
+
+6.1. labklājības ministrs (padomes priekšsēdētājs);
+
+6.2. izglītības un zinātnes ministrs;
+
+6.3. ekonomikas ministrs;
+
+6.4. klimata un enerģētikas ministrs;
+
+6.5. satiksmes ministrs;
+
+6.6. veselības ministrs;
+
+6.7. viedās administrācijas un reģionālās attīstības ministrs;
+
+6.7.<sup>1</sup> kultūras ministrs;
+
+6.8. biedrības "Latvijas Pašvaldību savienība" priekšsēdis;
+
+6.9. biedrības "Latvijas Nedzirdīgo savienība" prezidents;
+
+6.10. biedrības "Latvijas Neredzīgo biedrība" centrālās valdes priekšsēdētājs;
+
+6.11. biedrības "Rīgas pilsētas "Rūpju bērns"" valdes priekšsēdētājs;
+
+6.12. nodibinājuma "Invalīdu un viņu draugu apvienība "Apeirons"" valdes priekšsēdētājs;
+
+6.13. Sabiedrības integrācijas fonda sekretariāta direktors;
+
+6.14. Latvijas Brīvo arodbiedrību savienības priekšsēdētājs;
+
+6.15. biedrības "Latvijas Paralimpiskā komiteja" prezidents;
+
+6.16. biedrības "Resursu centrs cilvēkiem ar garīgiem traucējumiem "Zelda"" direktors;
+
+6.17. biedrības "Latvijas Darba devēju konfederācija" ģenerāldirektors.
+
+*(Grozīts ar MK 24.03.2026. noteikumiem Nr. 154)*
+
+7. Padomes sēdēs ar padomdevēja tiesībām var piedalīties tiesībsargs vai viņa pilnvarota persona.
+
+8. Padomes priekšsēdētājs:
+
+8.1. sasauc padomes sēdes, nosūtot uzaicinājumu padomes locekļiem;
+
+8.2. vada padomes darbu;
+
+8.3. bez īpaša pilnvarojuma pārstāv padomi;
+
+8.4. apstiprina padomes sēdes darba kārtību, gada darba plānu un sēžu gada pārskatu;
+
+8.5. paraksta padomes sēžu protokolus, padomes lēmumus un citus padomes dokumentus.
+
+9. Padomes priekšsēdētāja prombūtnes laikā viņa pienākumus veic priekšsēdētāja norīkots padomes loceklis.
+
+10. Padomes locekļi:
+
+10.1. deleģē personu sadarbībai ar padomes sekretāru;
+
+10.2. piedalās padomes sēdēs un lēmumu sagatavošanā un pieņemšanā;
+
+10.3. sagatavo un iesniedz padomes sekretāram priekšlikumus un informāciju par personu ar invaliditāti vienlīdzīgu iespēju politikas īstenošanu;
+
+10.4. informē padomi par attiecīgā padomes locekļa pārstāvētajā jomā plānotajiem, sagatavošanā esošajiem vai īstenotajiem attīstības plānošanas dokumentiem un tiesību aktiem, kas ietekmēs personas ar invaliditāti;
+
+10.5. atbilstoši kompetencei konsultē citus padomes locekļus;
+
+10.6. analizē padomes darbības un funkciju īstenošanas rezultātus un sekmē to efektivitāti;
+
+10.7. ir tiesīgi iesniegt papildu jautājumus iekļaušanai darba kārtībā padomes sekretāram.
+
+11. Ja padomes loceklis nevar piedalīties padomes sēdē, viņa pārstāvētā institūcija dalībai sēdē deleģē citu institūcijas pārstāvi un par to elektroniski informē padomes sekretāru, norādot informāciju par institūciju pārstāvošo personu ne vēlāk kā trīs darbdienas pirms padomes sēdes.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+## IV. Padomes darbība
+
+12. Padomes sēdes klātienē vai attālinātā veidā sasauc padomes priekšsēdētājs ne retāk kā reizi ceturksnī.
+
+13. Pēc padomes priekšsēdētāja ierosinājuma vai cita padomes locekļa ierosinājuma var sasaukt ārkārtas padomes sēdi, pamatojot tās nepieciešamību.
+
+14. Padomes sēdes ir atklātas un padome ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no padomes locekļiem.
+
+15. Padomes darbību materiāltehniski nodrošina Labklājības ministrija (turpmāk – ministrija).
+
+16. Padomes darbu organizē padomes sekretārs, kas ir ministrijas amatpersona.
+
+17. Padomes sekretārs sadarbībā ar šo noteikumu 10.1. apakšpunktā minētajām deleģētajām personām:
+
+17.1. sagatavo padomes gada darba plāna projektu un sēdes darba kārtības projektu un iesniedz to apstiprināšanai padomes priekšsēdētājam;
+
+17.2. sagatavo iesniegtos jautājumus un materiālus izskatīšanai padomes sēdē, tostarp šo noteikumu 10.3. apakšpunktā minētos padomes locekļu priekšlikumus;
+
+17.3. koordinē un apkopo informāciju par padomes lēmumu izpildi;
+
+17.4. nodrošina informācijas apmaiņu starp institūcijām un amatpersonām, kuras iesaistītas padomes kompetencē esošo jautājumu risināšanā.
+
+18. Padomes sekretārs:
+
+18.1. elektroniski nosūta padomes locekļiem un uzaicinātajām personām padomes sēdes darba kārtību un sēdes materiālus;
+
+18.2. protokolē padomes sēdes, norādot darba kārtības jautājumus, personas, kuras piedalījās sēdē, un personas, kuras izteica viedokli par izskatāmajiem jautājumiem, kā arī pieņemtos lēmumus;
+
+18.3. sagatavo un elektroniski nosūta padomes locekļiem saskaņošanai padomes sēdes protokolu, padomes sēžu gada pārskatu un gada darba plānu;
+
+18.4. paraksta padomes sēžu protokolus un padomes priekšsēdētāja apstiprināto padomes gada darba plānu un gada pārskatu.
+
+19. Padome lēmumus pieņem ar vienkāršu balsu vairākumu. Ja balsu skaits sadalās vienādi, izšķirošā ir padomes priekšsēdētāja balss.
+
+19.<sup>1</sup> Padomes loceklis nepiedalās lēmuma pieņemšanā un rakstveidā informē padomes sekretāru, ja viņa dalība padomes lēmuma pieņemšanā rada interešu konfliktu vai neatbilst ētikas normām atbilstoši likumam "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+20. Ja padomes loceklis nepiekrīt padomes lēmumam, viņa viedokli pēc pieprasījuma ieraksta padomes sēdes protokolā.
+
+21. Ministrija padomes sēdes protokolu un tā pielikumus sabiedrības informēšanas nolūkā publicē oficiālajā tīmekļvietnē. Padomes sēdes protokols un tā pielikumi tiek glabāti piecus gadus no to publicēšanas dienas.
+
+## IV<sup>1</sup>. Padomes lēmuma pieņemšana rakstveida procedūrā
+
+*(Nodaļa MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>1</sup> Padome var izskatīt jautājumu un pieņemt lēmumu rakstveida procedūrā.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>2</sup> Padomes sekretārs sagatavo un elektroniski nosūta padomes locekļiem protokollēmuma projektu un lēmuma pieņemšanai nepieciešamos dokumentus.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>3</sup> Padomes loceklis piecu darbdienu laikā pēc protokollēmuma projekta un lēmuma pieņemšanai nepieciešamo dokumentu saņemšanas elektroniski nosūta padomes sekretāram saskaņojumu vai iebildumus un priekšlikumus.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>4</sup> Ja par protokollēmuma projektu ir saņemti iebildumi vai priekšlikumi, padomes sekretārs tos apkopo un nosūta padomes locekļiem precizētu protokollēmuma projektu atkārtotai saskaņošanai.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>5</sup> Padomes loceklis triju darbdienu laikā izskata precizēto protokollēmuma projektu un elektroniski nosūta padomes sekretāram saskaņojumu vai iebildumus un priekšlikumus.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>6</sup> Padomes rakstveida procedūrā pieņemto lēmumu paraksta padomes priekšsēdētājs.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+21.<sup>7</sup> Padomes sekretārs piecu darbdienu laikā nosūta padomes locekļiem rakstveida procedūrā pieņemto lēmumu.
+
+*(MK 24.03.2026. noteikumu Nr. 154 redakcijā)*
+
+## V. Noslēguma jautājums
+
+22. Atzīt par spēku zaudējušiem Ministru kabineta 2004. gada 29. jūnija noteikumus Nr. 561 "Invaliditātes lietu nacionālās padomes nolikums" (Latvijas Vēstnesis, 2004, 103. nr.; 2009, 172. nr.; 2011, 82. nr.; 2016, 87. nr.; 2020, 212. nr.).
+
+Ministru prezidente E. Siliņa
+Labklājības ministrs U. Augulis

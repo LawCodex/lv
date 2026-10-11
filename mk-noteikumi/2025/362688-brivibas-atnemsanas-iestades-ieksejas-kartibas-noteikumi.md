@@ -1,0 +1,932 @@
+---
+title: "Brīvības atņemšanas iestādes iekšējās kārtības noteikumi"
+identifier: "MK noteikumi Nr. 523"
+likumi_lv_id: 362688
+type: regulation
+jurisdiction: lv
+language: lv
+number: "523"
+issuer: "Ministru kabinets"
+date: 2025-08-26
+entry_into_force: 2025-08-28
+published: "Latvijas Vēstnesis, 164, 27.08.2025."
+status: in_force
+source: "https://likumi.lv/ta/id/362688-brivibas-atnemsanas-iestades-ieksejas-kartibas-noteikumi"
+retrieved: 2026-10-12
+---
+
+# Brīvības atņemšanas iestādes iekšējās kārtības noteikumi
+
+Ministru kabineta noteikumi Nr. 523
+Rīgā 2025. gada 26. augustā (prot. Nr. 33 30. §)
+
+Izdoti saskaņā ar Latvijas Sodu izpildes kodeksa 11. panta piekto daļu, 47. panta pirmo daļu un 47.<sup>1</sup> panta otro daļu
+
+## I. Vispārīgais jautājums
+
+1. Noteikumi nosaka brīvības atņemšanas iestādes iekšējo kārtību.
+
+## II. Notiesātā pieņemšana brīvības atņemšanas iestādē
+
+2. Ja personai ir piespriests sods – brīvības atņemšana (turpmāk – notiesātais), tās identifikāciju un pieņemšanu brīvības atņemšanas iestādē organizē brīvības atņemšanas iestādes amatpersona.
+
+3. Pieņemot notiesāto brīvības atņemšanas iestādē, brīvības atņemšanas iestādes amatpersona un darbinieks (turpmāk – nodarbinātais):
+
+3.1. reģistrē notiesāto Ieslodzījuma vietu pārvaldes informācijas sistēmā, norādot notiesātā vārdu, uzvārdu, personas kodu (ja personas koda nav – dzimšanas gadu, dienu, mēnesi), no tiesas nolēmuma izrietošo soda izciešanas termiņa sākumu un beigas;
+
+3.2. iepazīstina notiesāto viņam saprotamā valodā ar viņa tiesībām un pienākumiem, brīvības atņemšanas iestādes dienas kārtību un ugunsdrošības noteikumiem un informē par personas datu apstrādi brīvības atņemšanas iestādē. Notiesātais un brīvības atņemšanas iestādes amatpersona, kura veica iepazīstināšanu, parakstās par veikto iepazīstināšanu;
+
+3.3. nodrošina notiesātajam iespēju paziņot ģimenei vai citai notiesātā izvēlētai personai par savu atrašanos brīvības atņemšanas iestādē un tās adresi, nosūtot par brīvības atņemšanas iestādes līdzekļiem paziņojumu (1. pielikums). Paziņojuma kopiju pievieno notiesātā personas lietai;
+
+3.4. veic notiesātā medicīnisko apskati un sanitāro apstrādi;
+
+3.5. veic notiesātā pārmeklēšanu, notiesātā mantu apskati un uzskaiti.
+
+4. Ja nepilngadīgam notiesātajam likumā noteiktā kārtībā ir nodrošināta ārpusģimenes aprūpe, brīvības atņemšanas iestādes administrācija paziņojumu nosūta likumiskajam pārstāvim un attiecīgajai bāriņtiesai. Paziņojuma kopiju pievieno notiesātā personas lietai.
+
+5. Notiesātā sanitārā apstrāde ietver:
+
+5.1. mazgāšanos;
+
+5.2. apstrādi pret pedikulozi un kašķi (ja tā nepieciešama);
+
+5.3. pēc brīvības atņemšanas iestādes ārstniecības personas norādījuma:
+
+5.3.1. apģērba, veļas un personīgo mantu dezinfekciju;
+
+5.3.2. matu, ūsu un bārdas apgriešanu vai skūšanu (ja tā nepieciešama);
+
+5.4. notiesātā apģērba, veļas un personīgo mantu mazgāšanu, ja nav nepieciešama to dezinfekcija.
+
+6. Notiesātā medicīniskā apskate ietver:
+
+6.1. aptauju (slimību anamnēze, aktīvas sūdzības apskates brīdī, lietoto medikamentu anamnēze, kaitīgo ieradumu anamnēze);
+
+6.2. antropometriju (svars, augums);
+
+6.3. veselības pārbaudes objektīvos datus;
+
+6.4. pirmreizējo diagnozi;
+
+6.5. izmeklējuma plānu;
+
+6.6. ārstēšanas plānu.
+
+7. Medicīniskās apskates laikā brīvības atņemšanas iestādes ārstniecības persona noformē jaunu vai papildina esošo notiesātā ambulatorā pacienta medicīnisko karti, kurā izdara ierakstus par notiesātā veselības stāvokli. Ja apskates laikā notiesātajam konstatē miesas bojājumus, brīvības atņemšanas iestādes ārstniecības persona rīkojas atbilstoši normatīvajiem aktiem par apcietināto un notiesāto personu veselības aprūpes īstenošanas kārtību.
+
+8. Medicīniskās apskates laikā brīvības atņemšanas iestādes ārstniecības persona piedāvā notiesātajam veikt izmeklēšanu HIV, C hepatīta, B hepatīta, kā arī citu infekcijas slimību noteikšanai. Gaisa pilienu bīstamo infekciju izmeklēšana ir obligāta.
+
+9. Notiesātais nodod brīvības atņemšanas iestādei glabāšanā personu apliecinošos dokumentus, kā arī mantas, kas nav minētas to priekšmetu un pārtikas produktu sarakstā, kurus notiesātajam ir atļauts glabāt, vai pārsniedz atļauto skaitu (daudzumu) (2. pielikums). Notiesāto brīdina par mantu izņemšanu un iznīcināšanu labprātīgas nenodošanas gadījumā. Notiesātā mantas uzglabā brīvības atņemšanas iestādes noliktavā. Par noliktavā nodotajām mantām noformē aktu divos eksemplāros, kuru paraksta notiesātais un brīvības atņemšanas iestādes amatpersona, kas mantas pieņem. Notiesātais saņem parakstītu akta eksemplāru.
+
+10. Par notiesātā nodoto naudu tiek izdarīts ieraksts notiesātā naudas uzskaites kartē, un attiecīgā naudas summa tiek pārskaitīta Ieslodzījuma vietu pārvaldes Valsts kasē atvērtajā deponēto līdzekļu kontā.
+
+11. To priekšmetu kopējais svars (bez personiskās sadzīves tehnikas), kurus notiesātajam ir atļauts glabāt brīvības atņemšanas iestādē, nedrīkst pārsniegt 50 kilogramus, no kuriem kamerā vai dzīvojamajā telpā ir atļauts glabāt priekšmetus līdz 30 kilogramiem.
+
+12. Pārmeklēšanas laikā pie notiesātā atrastos priekšmetus, izstrādājumus un vielas, kuras aizliegts glabāt brīvības atņemšanas iestādē un kuras netika labprātīgi nodotas, atsavina un iznīcina un par to noformē aktu.
+
+13. Naudu, kuru nepilngadīgs notiesātais nav nodevis labprātīgi, nodod nepilngadīgā notiesātā likumiskajam pārstāvim.
+
+14. Notiesātā mantas ar brīvības atņemšanas iestādes priekšnieka atļauju var nodot radiniekiem, laulātajam, partnerim vai citām personām.
+
+15. Notiesātos ārvalstniekus brīvības atņemšanas iestādē pēc iespējas izvieto tā, lai vienā valodā runājošie notiesātie varētu sazināties savā starpā.
+
+## III. Notiesātā apgāde un nodrošināšana
+
+16. Kamerās vai dzīvojamās telpās, kurās uzturas notiesātie, nodrošina dabisko apgaismojumu, bet diennakts tumšajā laikā – mākslīgo apgaismojumu, kā arī gaisa temperatūru, kas nav zemāka par +18° C, un ventilāciju.
+
+17. Notiesātais valkā sezonai atbilstošu personisko apģērbu vai brīvības atņemšanas iestādes administrācijas nodrošināto apģērbu ar piestiprinātu atpazīšanas zīmi (3. pielikums). Atpazīšanas zīmē iekļauj notiesātā fotogrāfiju, vārdu, uzvārdu, dzimšanas dienu, mēnesi un gadu, kā arī vienības numuru. Atklātajos cietumos notiesātais valkā personisko apģērbu vai brīvības atņemšanas iestādes administrācijas nodrošināto apģērbu ar piestiprinātu atpazīšanas zīmi, ārpus brīvības atņemšanas iestādes – bez piestiprinātas atpazīšanas zīmes.
+
+18. Notiesātais par viņa naudas uzskaites kartē esošajiem līdzekļiem var iegādāties pārtikas produktus un priekšmetus (turpmāk – preces) (4. pielikums) komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā.
+
+## IV. Notiesātā higiēnas prasību nodrošināšana un ievērošana
+
+19. Brīvības atņemšanas iestādes administrācija nodrošina notiesātā higiēnas prasību ievērošanu un sanitāro apstrādi šo noteikumu 5. punktā norādītajā apjomā.
+
+20. Notiesātajam jābūt koptam, kārtīgam un jāievēro personiskās higiēnas prasības.
+
+21. Brīvības atņemšanas iestādes administrācija notiesātajam nodrošina mazgāšanos dušā ne retāk kā divas reizes septiņās dienās un gultas veļas maiņu ne retāk kā vienu reizi septiņās dienās.
+
+22. Brīvības atņemšanas iestādes administrācija ne retāk kā reizi mēnesī nodrošina notiesātā apģērba mazgāšanu.
+
+23. Notiesātajām sievietēm ir pieejamas personiskās higiēnas telpas atbilstoši notiesāto dienas kārtībai.
+
+## V. Notiesātā dienas kārtība
+
+24. Dienas kārtībā ietver resocializācijas, garīgās aprūpes un režīma pasākumus, ēdienreizes, skaitliskās pārbaudes, ikdienas pastaigas, atpūtas laiku, kā arī nepārtrauktu astoņu stundu naktsmieru.
+
+25. Notiesātais ar garīdznieku tiekas dienas kārtībā noteiktajā laikā.
+
+26. Brīvības atņemšanas iestādes priekšnieka noteikta amatpersona ne retāk kā reizi mēnesī pārbauda notiesātā ārējo izskatu, apģērbu, apavus un gultas piederumus.
+
+27. Dienas kārtībā noteiktajā laikā divas reizes dienā – no rīta un vakarā, bet, ja nepieciešams, arī citā laikā – veic notiesāto skaitlisko pārbaudi. Skaitlisko pārbaudi organizē brīvības atņemšanas iestādes amatpersona.
+
+28. Skaitliskās pārbaudes laikā notiesātie nostājas ierindā speciāli pārbaudei paredzētā vietā. Sliktos laikapstākļos saskaņā ar brīvības atņemšanas iestādes amatpersonas lēmumu notiesāto skaitlisko pārbaudi veic dzīvojamā telpā vai kamerā.
+
+29. Notiesātos pārbauda atrašanās vietā, ja viņi:
+
+29.1. pilda darbu, kam ir nepārtraukts cikls;
+
+29.2. atrodas satikšanās telpā;
+
+29.3. atrodas resocializācijas pasākumā;
+
+29.4. atrodas brīvības atņemšanas iestādes ārstniecības iestādē, ārstniecības iestādē ārpus brīvības atņemšanas iestādes vai viņiem ir noteikts gultas režīms;
+
+29.5. atrodas soda vai disciplinārajā izolatorā;
+
+29.6. izcieš sodu slēgtā cietuma soda izciešanas režīma zemākajā pakāpē;
+
+29.7. atrodas brīvības atņemšanas iestādes uzņemšanas nodaļā.
+
+30. Ja notiesāto ievieto kamerā vai dzīvojamā telpā vai izved no tās, notiesātais nostājas speciāli tam paredzētā vietā vai brīvības atņemšanas iestādes amatpersonas norādītā vietā.
+
+31. Notiesātajiem, kuri slimo ar tuberkulozi aktīvā formā, dienas kārtībā paredz laiku ārstēšanai un ne mazāk kā divas stundas dienā pastaigām vai sporta spēlēm svaigā gaisā.
+
+32. Brīvības atņemšanas iestādes administrācija nodrošina notiesātajiem iespēju iepazīties ar oficiāliem izdevumiem un sistematizētiem tiesību aktiem, kā arī ar Ieslodzījuma vietu pārvaldes priekšnieka rīkojumā noteiktajās tīmekļvietnēs iekļauto informāciju.
+
+33. Šo noteikumu 32. punktā minēto iespēju nodrošina:
+
+33.1. rindas kārtībā;
+
+33.2. dienas kārtībā paredzētajā laikā;
+
+33.3. atbilstoši brīvības atņemšanas iestādes tehniskajām iespējām.
+
+34. Iepazīšanos ar šo noteikumu 32. punktā minēto informāciju nodrošina, izmantojot brīvības atņemšanas iestādes datoru ar ierobežotu piekļuvi informācijai un bez pieejas internetam.
+
+35. Notiesātais, kas vēlas izmantot šo noteikumu 32. punktā minēto iespēju, iesniedz rakstveida iesniegumu brīvības atņemšanas iestādes priekšniekam.
+
+## VI. Notiesātā garīgā aprūpe
+
+36. Lai nodrošinātu notiesātā garīgo aprūpi, kapelāni brīvības atņemšanas iestādēs organizē Latvijas Republikā likumīgi reģistrēto reliģisko organizāciju reliģisko darbību.
+
+37. Brīvības atņemšanas iestādes administrācija organizē notiesātajiem garīga un reliģiska satura pasākumus – dievkalpojumus, programmas, lekcijas, diskusijas, audzinošas pārrunas, muzikālus priekšnesumus un citus pasākumus.
+
+38. Reliģisko organizāciju reliģiskās darbības (izņemot grēksūdzi) un tikumiskās audzināšanas pasākumi notiek brīvības atņemšanas iestādes amatpersonas klātbūtnē.
+
+39. Notiesāto, kurš ir ievietots soda vai disciplinārajā izolatorā, garīdznieks apmeklē tikai ar brīvības atņemšanas iestādes priekšnieka atļauju un brīvības atņemšanas iestādes amatpersonas vizuālās kontroles apstākļos.
+
+40. Saņemot brīvības atņemšanas iestādes priekšnieka atļauju, notiesātais kamerā vai dzīvojamā telpā var glabāt reliģiskos priekšmetus un reliģisko literatūru.
+
+41. Brīvības atņemšanas iestādes priekšnieks 30 dienu laikā no dienas, kad saņemts notiesātā iesniegums, kurā izteikts lūgums atļaut glabāt reliģisko priekšmetu vai reliģisko literatūru, izvērtē individuālos apstākļus un, ņemot vērā brīvības atņemšanas iestādes kapelāna atzinumu, pieņem lēmumu par attiecīgā reliģiskā priekšmeta vai reliģiskās literatūras glabāšanu. Brīvības atņemšanas iestādes priekšnieka lēmums nav apstrīdams vai pārsūdzams.
+
+42. Brīvības atņemšanas iestādes kapelāns šo noteikumu 41. punktā minētajā atzinumā norāda:
+
+42.1. kādai reliģijai vai ticībai notiesātais pievērsies;
+
+42.2. vai reliģiskais priekšmets un reliģiskā literatūra ir nepieciešama ar attiecīgo reliģiju vai ticību saistītu rituālu veikšanai.
+
+43. Ja notiesātais reliģisko priekšmetu vai reliģisko literatūru izmanto soda izciešanas režīma pārkāpuma izdarīšanai, to izņem. Izņemto reliģisko priekšmetu vai reliģisko literatūru nodod glabāšanā brīvības atņemšanas iestādei.
+
+44. Brīvības atņemšanas iestādes priekšnieka lēmums par atļauju glabāt attiecīgu reliģisko priekšmetu vai reliģisko literatūru ir spēkā, pārvietojot notiesāto uz citu ieslodzījuma vietu.
+
+## VII. Notiesātā sadzīves tehnikas glabāšana un lietošana
+
+45. Saņemot brīvības atņemšanas iestādes priekšnieka atļauju, notiesātais var glabāt un dienas kārtībā noteiktajā laikā lietot šādu personisko sadzīves tehniku:
+
+45.1. televizoru bez papildu funkcijām;
+
+45.2. videospēļu iekārtas, kuras nerada neatļautas saziņas risku;
+
+45.3. radiouztvērēju bez papildu funkcijām;
+
+45.4. ledusskapi;
+
+45.5. elektrisko tējkannu;
+
+45.6. elektrisko pagarinātāju;
+
+45.7. mazās austiņas ar vadu bez papildu funkcijām, atklātajā cietumā arī bezvadu austiņas;
+
+45.8. elektrisko bārdas skujamo aparātu;
+
+45.9. elektrisko matu griežamo mašīnu;
+
+45.10. elektrisko galda ventilatoru bez papildu funkcijām;
+
+45.11. palīglīdzekli augstākās izglītības apguvei;
+
+45.12. matu žāvēšanas ierīci;
+
+45.13. matu ieveidošanas ierīci.
+
+*(Grozīts ar MK 27.01.2026. noteikumiem Nr. 35)*
+
+46. Šo noteikumu 45. punktā minētās sadzīves tehnikas tehniskos parametrus (piemēram, izmēru, kontaktligzdu skaitu), funkcionalitāti un izmantošanas sezonalitāti nosaka Ieslodzījuma vietu pārvaldes priekšnieks ar rīkojumu.
+
+47. Izdevumus par personiskās sadzīves elektroiekārtas patērēto elektroenerģiju sedz notiesātais, apmaksājot attiecīgu Ieslodzījuma vietu pārvaldes maksas pakalpojumu.
+
+48. Ja notiesātajam ir piemērots sods – aizliegt izmantot atļauto personisko sadzīves tehniku –, brīvības atņemšanas iestādes administrācija izņem šo priekšmetu un nodod glabāšanā brīvības atņemšanas iestādes noliktavā. Par noliktavā nodotajām mantām noformē aktu divos eksemplāros, kuru paraksta notiesātais un brīvības atņemšanas iestādes amatpersona, kas nodod mantas noliktavā. Notiesātais saņem vienu parakstītu akta eksemplāru.
+
+## VIII. Notiesātā uzvedības noteikumi
+
+49. Notiesātajam ir tiesības:
+
+49.1. glabāt priekšmetus un pārtikas produktus šo noteikumu 2. pielikumā noteiktajā sortimentā un daudzumā;
+
+49.2. vērsties pie brīvības atņemšanas iestādes nodarbinātā ar mutisku vai rakstisku iesniegumu;
+
+49.3. uz pieņemšanu pie brīvības atņemšanas iestādes nodarbinātā dienas kārtības noteiktajā laikā. Pēc notiesātā lūguma nodarbinātais viņu pieņem bez citu personu klātbūtnes;
+
+49.4. lūgt kapelānu, lai viņš pieaicina notiesātā konfesijas garīdznieku;
+
+49.5. sniegt rakstisku paskaidrojumu par soda izciešanas režīma pārkāpuma izdarīšanas apstākļiem vai citos gadījumos.
+
+50. Notiesātajam ir pienākums:
+
+50.1. ievērot noteikto dienas kārtību un ugunsdrošības noteikumus;
+
+50.2. saudzīgi izturēties pret brīvības atņemšanas iestādes īpašumu;
+
+50.3. uzturēt kārtībā kameras, dzīvojamās telpas, koplietošanas telpas un darba vietas;
+
+50.4. ievērot personisko higiēnu;
+
+50.5. noteiktā rindas kārtībā uzkopt kameras, dzīvojamās telpas un koplietošanas telpas, kurās uzturas;
+
+50.6. no celšanās brīža līdz naktsmieram uzturēt savu guļamvietu atbilstoši brīvības atņemšanas iestādē noteiktajam vienotajam paraugam;
+
+50.7. saņemt brīvības atņemšanas iestādes priekšnieka atļauju lietot personisko sadzīves tehniku;
+
+50.8. saņemt brīvības atņemšanas iestādes priekšnieka atļauju glabāt reliģiskos priekšmetus un reliģisko literatūru;
+
+50.9. būt pieklājīgam saskarsmē ar citām personām;
+
+50.10. nostāties norādītajā vietā, ja notiesāto kamerā vai dzīvojamā telpā apmeklē brīvības atņemšanas iestādes nodarbinātais;
+
+50.11. saskaņā ar brīvības atņemšanas iestādes ārstniecības personas norādījumiem pakļauties nepieciešamajai medicīniskajai izmeklēšanai, apsekošanai, sanitārajai apstrādei un medicīniskajām darbībām infekcijas slimības izplatības ierobežošanai;
+
+50.12. lietot medikamentus tūlīt pēc to saņemšanas brīvības atņemšanas iestādes nodarbinātā klātbūtnē;
+
+50.13. izpildīt brīvības atņemšanas iestādes nodarbinātā likumīgās prasības;
+
+50.14. pakļauties pārbaudei, lai konstatētu, vai nav lietots alkohols, narkotiskās vai citas apreibinošās vielas;
+
+50.15. pakļauties pārmeklēšanai;
+
+50.16. apmaksāt Ieslodzījuma vietu pārvaldes sniegtos maksas pakalpojumus normatīvajos aktos par Ieslodzījuma vietu pārvaldes maksas pakalpojumu cenrādi noteiktajā kārtībā un apmērā;
+
+50.17. nesāt atpazīšanas zīmi.
+
+51. Notiesātajam ir aizliegts:
+
+51.1. patvaļīgi atstāt nodaļas (iecirkņa) teritoriju, dzīvojamo telpu vai kameru;
+
+51.2. patvaļīgi atrasties objektos vai telpās, kurās viņš nestrādā, nemācās, nedzīvo vai nepiedalās resocializācijas pasākumā;
+
+51.3. iegādāties, izgatavot, lietot vai glabāt priekšmetus, izstrādājumus un vielas, kas brīvības atņemšanas iestādē ir aizliegtas, priekšmetus, kas pārsniedz brīvības atņemšanas iestādē atļauto skaitu (daudzumu), kā arī bojātas elektroierīces un mantas, kuru lietošana apdraud notiesātā vai apkārtējo veselību vai dzīvību;
+
+51.4. smēķēt ārpus brīvības atņemšanas iestādes priekšnieka noteiktās vietas vai neievērojot noteikto laiku;
+
+51.5. atsavināt vai nodot lietošanā citiem personiskās mantas, izstrādājumus vai vielas, kā arī iegādāties vai pieņemt tās no citiem;
+
+51.6. spēlēt galda spēles vai citas spēles, lai gūtu materiālu vai cita veida labumu;
+
+51.7. tetovēt sevi vai citu notiesāto;
+
+51.8. lietot lamuvārdus;
+
+51.9. izvietot dzīvojamā telpā, kamerā vai vienībā attēlus, izņemot fotogrāfijas ietvarā;
+
+51.10. aizklāt savu guļamvietu vai veikt citas darbības, kas traucē veikt notiesāto uzraudzību;
+
+51.11. patvaļīgi iekārtot guļamvietu citā telpā, kā arī savstarpēji apmainīties guļamvietām ar citu notiesāto;
+
+51.12. patvaļīgi mainīt dzīvojamās telpas vai kameras aprīkojuma izvietojumu;
+
+51.13. patvaļīgi pārvietot brīvības atņemšanas iestādes īpašumu;
+
+51.14. tīši kaitēt cita ieslodzītā veselībai;
+
+51.15. fiziski iespaidot vai citādā veidā pazemot citas personas;
+
+51.16. izmantot brīvības atņemšanas iestādē neatļautus saziņas veidus un līdzekļus;
+
+51.17. iegādāties, glabāt un izmantot informāciju par cīņas sporta veidiem, ieročiem vai pornogrāfiju vai tādu informāciju, kas slavina militāro agresiju vai kara noziegumus;
+
+51.18. traucēt apkārtējo mieru.
+
+*(Grozīts ar MK 27.01.2026. noteikumiem Nr. 35)*
+
+52. Notiesātais ar brīvības atņemšanas iestādes priekšnieka atļauju var izmantot un glabāt personiskos mūzikas instrumentus, materiālus un instrumentus māksliniecisko un lietišķās mākslas izstrādājumu izgatavošanai, kā arī citus priekšmetus, kas nepieciešami notiesātā jaunrades iniciatīvu īstenošanai.
+
+## IX. Pienesumu un sūtījumu saņemšanas un izsniegšanas kārtība
+
+53. Pienesumus un sūtījumus reģistrē un uzskaita brīvības atņemšanas iestādes administrācija.
+
+54. Pienesumā un sūtījumā notiesātajam atļauts saņemt priekšmetus saskaņā ar šo noteikumu 5. pielikumu​.
+
+55. Pienesumu nodošanai iekārto telpu, kurā persona, kura notiesātajam atnesusi pienesumu (turpmāk – pienesuma piegādātājs), var brīvi ieiet brīvības atņemšanas iestādes administrācijas noteiktajā laikā.
+
+56. Šo noteikumu 55. punktā minētajā telpā novieto galdu, rakstāmpiederumus, krēslu vai solu un kastīti, kurā ievietot sūdzības un iesniegumus.
+
+57. Šo noteikumu 55. punktā minētajā telpā redzamā vietā izvieto attiecīgo normatīvo aktu izrakstus, kuros noteikts pienesumos atļautais priekšmetu sortiments, pienesuma pieņemšanas kārtība, kā arī informācija par personas atbildību par neatļautu priekšmetu, izstrādājumu un vielu nodošanu vai saņemšanu.
+
+58. Pienesuma piegādātājs, nododot pienesumu, iesniedz iesniegumu par pienesumu (6. pielikums​) divos eksemplāros un uzrāda derīgu personu apliecinošu dokumentu.
+
+59. Brīvības atņemšanas iestādes amatpersona pienesuma piegādātāja klātbūtnē pārbauda pienesuma saturu. Pēc pienesuma pārbaudes brīvības atņemšanas iestādes amatpersona vienu iesnieguma eksemplāru izsniedz pienesuma piegādātājam, bet otru notiesātais paraksta pēc pienesuma saņemšanas.
+
+60. Ja pienesumā ietilpst plombēta sadzīves tehnika, tā tiek pieņemta tikai tad, ja pienesuma piegādātājs rakstiski apliecina atļauju noņemt plombu sadzīves tehnikas apskatei.
+
+61. Priekšmetus, kas nav minēti šo noteikumu 5. pielikumā norādītajā sarakstā vai kuru glabāšanai šajos noteikumos minētajos gadījumos nav saņemta brīvības atņemšanas iestādes priekšnieka atļauja, vai kuru skaits (daudzums) pārsniedz atļauto skaitu (daudzumu), izsniedz atpakaļ pienesuma piegādātājam.
+
+62. Ja pienesumā vai sūtījumā atklāj ievietotus neatļautus priekšmetus, izstrādājumus vai vielas, ieročus vai ieročiem līdzīgus priekšmetus, narkotiskās vai citas nezināmas izcelsmes vielas vai zāles, pienesumu vai sūtījumu aiztur un veic neatliekamās izmeklēšanas darbības. Pēc tam lietas materiālus nodod pēc piekritības.
+
+63. Notiesātajam, kurš pārvietots uz citu ieslodzījuma vietu, sūtījumu pārsūta par Ieslodzījuma vietu pārvaldes līdzekļiem.
+
+64. Ja notiesātajam nav tiesību saņemt viņam adresēto sūtījumu vai notiesātais ir atbrīvots vai miris, sūtījumu nosūta atpakaļ nosūtītājam ar atzīmi "Sūtījumu nodot nevar".
+
+65. Sūtījumu atver un pārbauda tā notiesātā klātbūtnē, kuram sūtījums ir adresēts.
+
+66. No sūtījuma izņemtos priekšmetus, izstrādājumus un vielas, kuras nav minētas šo noteikumu 5. pielikumā vai kuru glabāšanai šajos noteikumos minētajos gadījumos nav saņemta brīvības atņemšanas iestādes priekšnieka atļauja, vai kuru skaits (daudzums) pārsniedz atļauto skaitu (daudzumu), vai kuras neatbilst brīvības atņemšanas iestādes darbību reglamentējošo normatīvo aktu prasībām, pieņem glabāšanā un par to paziņo nosūtītājam. Ja nosūtītājs triju mēnešu laikā mantas un pārtikas produktus no brīvības atņemšanas iestādes noliktavas nav izņēmis, noformē aktu par to iznīcināšanu un izņemtās mantas un pārtikas produktus iznīcina. Pārtikas produktus, kas ātri bojājas, iznīcina nekavējoties, bet ne vēlāk kā nākamajā darba dienā.
+
+67. Ja sūtījumā vai pienesumā pieņem notiesātajam paredzētos mācību materiālus, preses izdevumus vai normatīvos aktus, tos neuzskata par pienesumu vai sūtījumu.
+
+## X. Notiesātā apmeklēšana
+
+68. Satikšanās vai apmeklējuma atļauju piešķir brīvības atņemšanas iestādes priekšnieks, pamatojoties uz notiesātā iesniegumu, kurā norādīts vēlamais tikšanās datums, apmeklētāju dati un radniecības pakāpe. Notiesātajiem likumā noteiktās satikšanās organizē un nodrošina rindas kārtībā. Brīvības atņemšanas iestādes nodarbinātais Fizisko personu reģistrā pārbauda iesniegumā norādītās personas deklarētās dzīvesvietas adresi, papildu adresi, radniecību ar notiesāto, bet Sodu reģistrā – informāciju par personas sodāmību.
+
+69. Satikšanās vai apmeklējuma ilgumu nosaka brīvības atņemšanas iestādes priekšnieks. Notiesātais vai viņa apmeklētājs var saīsināt satikšanās vai apmeklējuma laiku.
+
+70. Katru mēnesi līdz desmitajam datumam brīvības atņemšanas iestādes priekšnieks apstiprina īslaicīgo un ilglaicīgo satikšanos grafiku nākamajam mēnesim. Notiesāto informē par satikšanās piešķiršanu.
+
+71. Pirms satikšanās vai apmeklējuma apmeklētājs uzrāda derīgu personu apliecinošu dokumentu, nepilngadīgā persona līdz 15 gadu vecumam – dzimšanas apliecību vai derīgu personu apliecinošu dokumentu.
+
+72. Nepilngadīga persona var satikties ar notiesāto tikai likumīgā pārstāvja vai likumīgā pārstāvja pilnvarotas personas klātbūtnē. Ja nepilngadīga persona ir ieradusies uz satikšanos ar notiesāto kopā ar personu, kura nav likumiskais pārstāvis, ir jāuzrāda notariāli apliecināta pilnvara, ar kuru likumiskais pārstāvis atļauj nepilngadīgajai personai satikties ar notiesāto.
+
+73. Pirms satikšanās vai apmeklējuma apmeklētājs parakstās par to, ka ir informēts par atbildību, kas var iestāties, saņemot vai nododot notiesātajam priekšmetus, izstrādājumus vai vielas, kuras ir aizliegtas brīvības atņemšanas iestādē. Apmeklētājam izskaidro brīvības atņemšanas iestādes iekšējās kārtības noteikumus. Ja apmeklētājs brīvības atņemšanas iestādes noteikto kārtību pārkāpj, apmeklējumu vai satikšanos pārtrauc.
+
+74. Pirms satikšanās vai apmeklējuma veic apmeklētāja pārmeklēšanu vai mantu un apģērba apskati.
+
+75. Satikšanos vai apmeklējumu aizliedz šādos gadījumos:
+
+75.1. apmeklētājs atsakās no mantu un apģērba apskates vai pārmeklēšanas vai atsakās nodot brīvības atņemšanas iestādē neatļautos priekšmetus, izstrādājumus un vielas;
+
+75.2. apskates vai pārmeklēšanas laikā tiek izņemti no pārbaudes slēpti priekšmeti, izstrādājumi, vielas vai pārtikas produkti, kurus apmeklētājam ir aizliegts ienest;
+
+75.3. apmeklētājs atrodas alkohola, narkotisko vai citu apreibinošo vielu ietekmē vai atsakās pakļauties pārbaudei, kuras mērķis ir konstatēt alkohola, narkotisko vai citu apreibinošo vielu ietekmi;
+
+75.4. apmeklētājs atsakās uzrādīt derīgu personu apliecinošu dokumentu, nepilngadīgā persona līdz 15 gadu vecumam – dzimšanas apliecību vai derīgu personu apliecinošu dokumentu;
+
+75.5. apmeklētājs atsakās apliecināt, ka ir iepazinies ar šo noteikumu 73. punktā minēto atbildību par brīvības atņemšanas iestādes noteiktās kārtības pārkāpšanu.
+
+76. Satikšanās vai apmeklējuma laikā kopā ar notiesāto vienlaikus var uzturēties līdz 4 personām, no kurām vismaz viena ir pilngadīga, ņemot vērā attiecīgās brīvības atņemšanas iestādē pieejamo infrastruktūru.
+
+77. Notiesātajam, kurš ārstējas Latvijas Cietumu slimnīcā, īslaicīgo satikšanos atļauj, ja nav saņemts ārstējošā ārsta norādījums īslaicīgo satikšanos aizstāt ar videosaziņu vai atlikt to.
+
+78. Notiesāto pārmeklē pirms un pēc satikšanās vai apmeklējuma. Uz ilglaicīgo satikšanos notiesātais drīkst ņemt līdzi tikai higiēnas un smēķēšanas piederumus.
+
+79. Ilglaicīgās satikšanās telpā apmeklētājs drīkst ienest tikai tādus priekšmetus un pārtikas produktus, kurus notiesātajiem ir atļauts glabāt, bet notiesātie tos nedrīkst iznest no satikšanās telpas. Ilglaicīgās satikšanās telpā apmeklētājam ir aizliegts ienest personīgo gultas veļu.
+
+80. Īslaicīgās satikšanās laikā tās dalībnieki sarunājas viņu izvēlētajā valodā. Ja brīvības atņemšanas iestādes administrācijas pārstāvis šo valodu neprot, sarunas satura kontrolei var pieaicināt tulku.
+
+81. Īslaicīgās satikšanās vai apmeklējuma laikā aizliegts nodot notiesātajam vai apmeklētājam jebkādus priekšmetus, izstrādājumus, vielas, dokumentus, vēstules, piezīmes, shēmas, rasējumus un pierakstus.
+
+82. Pirmo satikšanos notiesātajam var atļaut dienas kārtībā noteiktajā laikā tūlīt pēc viņa ievietošanas brīvības atņemšanas iestādē. Turpmākās satikšanās piešķir ar intervālu, kas ir skaitļa 12 dalījums ar attiecīgajā režīma pakāpē paredzēto satikšanos skaitu gadā.
+
+83. Notiesātajam, kas pārvietots no citas brīvības atņemšanas iestādes, nākamā satikšanās piešķirama, ņemot vērā iepriekšējā brīvības atņemšanas iestādē piešķirto satikšanos skaitu.
+
+84. Satikšanās vai apmeklējuma laikā brīvības atņemšanas iestādes administrācija atbrīvo notiesāto no citiem pasākumiem.
+
+85. Satikšanos vai apmeklējumu nepiešķir vai to var pārtraukt apdraudējuma situācijas, katastrofas vai tās draudu gadījumu, ārkārtējās situācijas vai izņēmuma stāvokļa dēļ, kā arī stihisku nelaimju dēļ.
+
+86. Nav atļauts sadalīt vienas satikšanās laiku vairākās reizēs. Pārtrauktu vai saīsinātu satikšanos turpināt nevar.
+
+87. Satikšanās reģistrē un uzskaita brīvības atņemšanas iestādes administrācija.
+
+## XI. Notiesātā iespēja īslaicīgi atstāt brīvības atņemšanas iestādi
+
+88. Notiesātajam, kuram atļauts īslaicīgi atstāt brīvības atņemšanas iestādi, izsniedz personas pagaidu apliecību (7. pielikums). Notiesātais, atgriežoties brīvības atņemšanas iestādē, pagaidu apliecību nodod brīvības atņemšanas iestādes amatpersonai. Minēto apliecību glabā notiesātā personas lietā. Apliecība nav nepieciešama, ja notiesātais, kurš izcieš sodu atklātajā nodaļā, īslaicīgi atstāj brīvības atņemšanas iestādi brīvības atņemšanas iestādes nodarbinātā pavadībā.
+
+89. Ja notiesātais, kurš sodu izcieš atklātajā cietumā, strādā vai iegūst izglītību ārpus brīvības atņemšanas iestādes teritorijas, personas pagaidu apliecību izsniedz regulārai brīvības atņemšanas iestādes teritorijas atstāšanai. Laikā, kad notiesātais atrodas brīvības atņemšanas iestādes teritorijā, apliecība glabājas pie brīvības atņemšanas iestādes administrācijas. Pēc apliecības derīguma termiņa beigām apliecību pievieno personas lietai.
+
+90. Brīvības atņemšanas iestādes priekšnieks vai viņa pilnvarota persona dod notiesātajam norādījumus par rīcību vai uzvedību, kas jāievēro, īslaicīgi atstājot brīvības atņemšanas iestādes teritoriju.
+
+91. Brīvības atņemšanas iestādes priekšnieks uz laiku līdz trijiem mēnešiem var neatļaut notiesātajam īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju, ja notiesātais:
+
+91.1. bez attaisnojoša iemesla brīvības atņemšanas iestādē ir atgriezies ar nokavēšanos;
+
+91.2. pēc noteiktā termiņa beigām ir nogādāts brīvības atņemšanas iestādē un ja šis gadījums nav kvalificējams kā bēgšana no ieslodzījuma vietas;
+
+91.3. ir atgriezies brīvības atņemšanas iestādē alkohola, narkotisko vai citu apreibinošo vielu ietekmē;
+
+91.4. īslaicīgās prombūtnes laikā ir izdarījis administratīvo pārkāpumu.
+
+## XII. Pamudinājumu un disciplinārsodu piemērošana notiesātajam
+
+92. Brīvības atņemšanas iestādes priekšnieks notiesātajam disciplinārsodu un pamudinājumu piemēro ar rakstisku lēmumu.
+
+93. Brīvības atņemšanas iestādes priekšnieks lēmumu par soda nepiemērošanu noformē rezolūcijas veidā uz ziņojuma par notiesātā izdarīto soda izciešanas režīma pārkāpumu. Ar lēmumu par soda nepiemērošanu iepazīstina notiesāto, kurš ar parakstu apliecina, ka ir iepazinies ar lēmumu.
+
+94. Notiesāto iepazīstina ar brīvības atņemšanas priekšnieka lēmumu par soda piemērošanu un vienas darbdienas laikā izsniedz viņam apliecinātu lēmuma kopiju bez maksas. Lēmuma saņemšanu notiesātais apliecina ar parakstu lēmuma attiecīgajā sadaļā.
+
+95. Notiesātajam, kuru ievieto soda vai disciplinārajā izolatorā, atļauts ņemt līdzi personiskās higiēnas piederumus, netonētās optiskās brilles, kontaktlēcas un to kopšanas līdzekļus, rakstāmpiederumus, aploksnes, vienu grāmatu un ar tiesvedību saistītos dokumentus un pierakstus, kā arī ar brīvības atņemšanas iestādes ārstniecības personas atļauju – medicīniskās preces un zāles. Grāmatu var apmainīt reizi nedēļā.
+
+96. Brīvības atņemšanas iestādes priekšnieka prombūtnes laikā brīvības atņemšanas amatpersona, kas ir atbildīga par diennakts uzraudzību un apsardzi, dod rīkojumu par notiesātā izolēšanu uz laiku, kas nepārsniedz 64 stundas, ja notiesātā pārkāpumu var pārtraukt tikai ar notiesātā ievietošanu soda vai disciplinārajā izolatorā.
+
+## XIII. Drošības pasākumi
+
+97. Brīvības atņemšanas iestādes amatpersonai ir tiesības pārmeklēt notiesāto un viņa mantas, apmeklētāju un viņa mantas, kā arī brīvības atņemšanas iestādes teritoriju, ēkas un telpas, kā arī citus nodarbinātos. Brīvības atņemšanas iestādes amatpersona pārmeklēšanā var izmantot tehniskos līdzekļus un dienesta suni.
+
+98. Kameras, dzīvojamās telpas vai citas telpas, kurās izvietoti notiesātie, naktsmiera laikā pārmeklē tikai tad, ja ir pamatotas aizdomas, ka tiek apdraudēta brīvības atņemšanas iestādes drošība vai personas dzīvība vai veselība.
+
+99. Veicot kameras vai dzīvojamās telpas un tajā esošo mantu pārmeklēšanu, notiesātos izved uz atsevišķu telpu, atstājot vienu notiesāto, kura klātbūtnē veic telpu un tajā esošo mantu pārmeklēšanu. Ja notiesātais kamerā vai dzīvojamā telpā ievietots viens pats, kameras vai dzīvojamās telpas un tajā esošo mantu pārmeklēšanu veic notiesātā klātbūtnē.
+
+100. Ja pārmeklēšanas laikā nepieciešama pārmeklējamās personas izģērbšanās, nodrošina pārmeklējamās personas privātumu.
+
+101. Ja personas pilnīgas pārmeklēšanas laikā ir nepieciešams pārbaudīt personas ķermeņa dobumus, protēzes vai medicīniskās saites, brīvības atņemšanas iestādes amatpersona nodrošina pārmeklējamās personas privātumu un, ja nepieciešams, pieaicina brīvības atņemšanas iestādes ārstniecības personu.
+
+102. Notiesāto un viņa mantas pārmeklē:
+
+102.1. notiesātajam ierodoties brīvības atņemšanas iestādē vai atstājot brīvības atņemšanas iestādes teritoriju;
+
+102.2. notiesāto ievietojot dzīvojamā telpā vai kamerā, ievietojot soda vai disciplinārajā izolatorā vai izvedot no tā;
+
+102.3. ja radušās aizdomas, ka notiesātais glabā brīvības atņemšanas iestādē neatļautus priekšmetus, vielas vai izstrādājumus;
+
+102.4. pirms un pēc apmeklējuma vai satikšanās;
+
+102.5. veicot notiesātā dzīvojamās telpas vai kameras pārmeklēšanu;
+
+102.6. ja ir pamatotas aizdomas, ka tiek apdraudēta brīvības atņemšanas iestādes drošība vai personas dzīvība vai veselība.
+
+103. Var veikt pilnīgu (ar personas pilnu izģērbšanu) vai daļēju (bez personas pilnas izģērbšanas) notiesātā pārmeklēšanu.
+
+104. Brīvības atņemšanas iestādes amatpersona noformē pārmeklēšanas protokolu par pilnīgas pārmeklēšanas veikšanu. Par daļēju pārmeklēšanu pārmeklēšanas protokolu noformē tad, ja tiek atrasti neatļauti priekšmeti, vielas vai izstrādājumi.
+
+105. Veicot notiesātā daļēju pārmeklēšanu:
+
+105.1. notiesātajam piedāvā labprātīgi nodot neatļautos priekšmetus, vielas un izstrādājumus;
+
+105.2. pārbauda notiesātā apģērbu, mantas, galvassegu un apavus;
+
+105.3. liek notiesātajam pacelt rokas uz augšu, pagriezties ar seju pret sienu, atspiežoties ar rokām pret sienu, un novietot kājas plecu platumā;
+
+105.4. no mugurpuses pārmeklē apģērbu no augšas uz leju;
+
+105.5. ņem vērā notiesātā fiziskās spējas, ja pārmeklē notiesāto ar kustību traucējumiem vai acīmredzamām invaliditātes pazīmēm.
+
+106. Veicot notiesātā pilnīgu pārmeklēšanu:
+
+106.1. notiesātajam piedāvā labprātīgi nodot neatļautos priekšmetus, vielas un izstrādājumus un pēc tam izģērbties;
+
+106.2. pārmeklē notiesātā apģērbu, mantas, galvassegu un apavus, ja nepieciešams, atārdot šuves vai citas apģērba un apavu detaļas, kurās varētu būt paslēpti neatļautie priekšmeti, vielas un izstrādājumi;
+
+106.3. pārbauda notiesātā ķermeni, protēzes un medicīniskās ierīces (ja tas nepieciešams, pārbaudi veic brīvības atņemšanas iestādes ārstniecības personas klātbūtnē);
+
+106.4. ņem vērā notiesātā fiziskās spējas, ja pārmeklē notiesāto ar kustību traucējumiem vai acīmredzamām invaliditātes pazīmēm.
+
+107. Ja brīvības atņemšanas iestādes amatpersonai, veicot notiesātā daļēju pārmeklēšanu, rodas pamatotas aizdomas par neatļautu priekšmetu, vielu vai izstrādājumu glabāšanu, brīvības atņemšanas iestādes amatpersona veic notiesātā pilnīgu pārmeklēšanu.
+
+108. Pārmeklēšanas laikā atrastos neatļautos priekšmetus, izstrādājumus un vielas, kas netika labprātīgi nodoti, atsavina un iznīcina un par to noformē aktu.
+
+109. Brīvības atņemšanas iestādes teritorijā un koplietošanas telpās veic videonovērošanu, lai notiesātos un citas personas, kuras atrodas brīvības atņemšanas iestādē vai tās teritorijā, atturētu no prettiesisku darbību veikšanas, kā arī lai nodrošinātu viņu apsardzi, drošību un uzraudzību.
+
+110. Individuāli izvērtējot apstākļus, videonovērošanu var veikt notiesāto kamerā vai dzīvojamā telpā.
+
+## XIV. Rīcība notiesātā nāves gadījumā
+
+111. Brīvības atņemšanas iestādes amatpersona, kas ir atbildīga par diennakts uzraudzību un apsardzi, par notiesātā nāvi nekavējoties telefoniski ziņo Ieslodzījuma vietu pārvaldes atbildīgajai amatpersonai, brīvības atņemšanas iestādes priekšniekam un Ieslodzījuma vietu pārvaldes centrālā aparāta amatpersonai, kura ir atbildīga par izmeklēšanas veikšanu.
+
+112. Par notiesātā nāvi brīvības atņemšanas iestādes priekšnieks vienas darbdienas laikā:
+
+112.1. rakstveidā informē Ieslodzījuma vietu pārvaldes priekšnieku par notiesātā nāves apstākļiem;
+
+112.2. rakstveidā informē prokuratūru;
+
+112.3. normatīvajos aktos noteiktajā kārtībā paziņo Dzimtsarakstu nodaļai, kuras darbības teritorijā atrodas brīvības atņemšanas iestāde, nosūtot rakstisku paziņojumu par notiesātā miršanas faktu;
+
+112.4. rakstveidā, kā arī telefoniski, ja tas ir iespējams, paziņo mirušā notiesātā radiniekiem, laulātajam vai partnerim un informē par mirušā atrašanās vietu, kā arī par mirušā notiesātā personīgajām mantām, dokumentiem, kas glabājas brīvības atņemšanas iestādē, un viņa naudas uzskaites kartē un atbrīvošanas fondā esošajiem naudas līdzekļiem.
+
+113. Mirušā notiesātā dokumentus un mantas izsniedz viņa mantiniekiem. Pamatojoties uz mirušā notiesātā mantinieka iesniegumu un uzrādot mantojuma apliecību, mirušā notiesātā naudas uzskaites kartē un atbrīvošanas fondā esošos naudas līdzekļus pārskaita uz minētā mantinieka kontu, kas atvērts pie maksājumu pakalpojumu sniedzēja. Par naudas, dokumentu un mantu izsniegšanu noformē aktu (8. pielikums) un to pievieno mirušā notiesātā personas lietai.
+
+114. Mirušā notiesātā miršanas apliecību un dzimšanas apliecību, ja tā ir brīvības atņemšanas iestādes rīcībā, var izsniegt viņa radiniekiem, laulātajam vai partnerim, ja saņemts pamatots iesniegums ar lūgumu izsniegt minētos dokumentus.
+
+115. Mirušā notiesātā pārtikas produktus iznīcina triju darba dienu laikā un par to noformē aktu.
+
+116. Ja mirušajam notiesātajam nav mantinieku vai divu gadu laikā mirušā notiesātā mantinieki nav vērsušies pie brīvības atņemšanas iestādes administrācijas ar lūgumu izsniegt mirušā notiesātā mantas, dokumentus un uzkrātos naudas līdzekļus:
+
+116.1. notiesātā naudas uzskaites kartē un atbrīvošanas fondā esošos naudas līdzekļus pārskaita valsts budžeta ieņēmumos;
+
+116.2. par pārējo mantu noformē aktu un mantu iznīcina.
+
+## XV. Prasības, kas jāievēro notiesātajiem atklātajos cietumos
+
+117. Notiesātajam ir pienākums nekavējoties rakstveidā informēt brīvības atņemšanas iestādes priekšnieku par viņa rīcībā esošu personisko datortehniku un mobilo telefonu, kā arī to sastāvdaļām, norādot tā nosaukumu, modeli, IMEI kodu un sērijas numuru, un to uzrādīt brīvības atņemšanas iestādes administrācijai.
+
+118. Notiesātajam ir atļauts viņa rīcībā esošo personisko datortehniku un mobilo telefonu lietot dienas kārtībā paredzētajā laikā.
+
+119. Notiesātajam un apmeklētājam pēc brīvības atņemšanas iestādes priekšnieka atļaujas saņemšanas ir atļauts veikt video un audio ierakstus un fotografēt brīvības atņemšanas iestādes teritorijā. Veiktie ieraksti un uzņemtās fotogrāfijas tiek pakļautas pārbaudei.
+
+120. Notiesāto un apmeklētāju tikšanos organizē saskaņā ar brīvības atņemšanas iestādes priekšnieka apstiprinātu grafiku un norādītajā vietā vai telpā.
+
+121. Ja notiesātais apmeklē veikalu ārpus brīvības atņemšanas iestādes teritorijas, pirms veikala apmeklējuma notiesātais vēršas ar iesniegumu pie brīvības atņemšanas iestādes priekšnieka, kurā norāda teritorijas atstāšanas mērķi, datumu, laiku, apmeklējamā veikala adresi, nosaukumu, plānoto pārvietošanās maršrutu un veidu.
+
+122. Pēc brīvības atņemšanas iestādes amatpersonas mutiska pieprasījuma notiesātais, atgriežoties no veikala apmeklējuma, uzrāda iegādātās preces un preču pirkuma čeku.
+
+## XVI. Noslēguma jautājumi
+
+123. Šajos noteikumos noteikto dokumentu veidlapu paraugus ar rīkojumu nosaka Ieslodzījuma vietu pārvaldes priekšnieks.
+
+124. Notiesātais ar brīvības atņemšanas iestādes priekšnieka atļauju var nodot paša izgatavotos mākslinieciskos, lietišķās mākslas izstrādājumus vai jaunrades iniciatīvu procesā tapušos izstrādājumus radiniekiem, laulātajam, partnerim vai citām personām.
+
+125. Atzīt par spēku zaudējušiem Ministru kabineta 2006. gada 30. maija noteikumus Nr. 423 "Brīvības atņemšanas iestādes iekšējās kārtības noteikumi" (Latvijas Vēstnesis, 2006, 86. nr.; 2009, 78. nr.; 2011, 176. nr.).
+
+Ministru prezidente E. Siliņa
+Tieslietu ministre I. Lībiņa-Egnere
+
+## 1. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523
+
+|  |  |
+| --- | --- |
+|  | (adresāta vārds, uzvārds) |
+|  |  |
+|  | (adrese) |
+|  |  |
+
+PAZIŅOJUMS
+
+| Es, |  | , atrodos brīvības atņemšanas iestādē |
+| --- | --- | --- |
+|  | (vārds, uzvārds) |  |
+
+|  |
+| --- |
+|  |
+| (nosaukums) |
+|  |
+| (adrese) |
+
+Saskaņā ar Latvijas Sodu izpildes kodeksu un Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523 "Brīvības atņemšanas iestādes iekšējās kārtības noteikumi" man ir tiesības:
+
+1) saņemt un nosūtīt vēstules (bez skaita ierobežojuma);
+
+2) īslaicīgi satikties ar radiniekiem un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes no pusotras stundas līdz divām stundām ______ reizes gadā;
+
+3) ilglaicīgi satikties ar radiniekiem un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes no 12 līdz 48 stundām ______ reizes gadā, uzturoties dienesta viesnīcas telpās;
+
+4) par saviem vai adresāta līdzekļiem veikt telefonsarunas;
+
+5) saņemt 12 sūtījumus vai pienesumus gadā;
+
+6) saņemt naudas pārvedumus bez apjoma ierobežojuma, kā arī sūtīt naudas pārvedumus radiniekiem, bet ar brīvības atņemšanas iestādes administrācijas atļauju – arī citām personām.
+
+Rekvizīti naudas ieskaitīšanai:
+
+Saņēmējs
+
+Reģistrācijas Nr.
+
+Konta Nr.
+
+Bankas kods
+
+Maksājuma mērķis (notiesātās personas vārds, uzvārds, personas kods)
+
+(Vieta vēstules tekstam)
+
+## 2. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523(Pielikums MK 27.01.2026. noteikumu Nr. 35 redakcijā)
+
+### Priekšmeti un pārtikas produkti, kurus notiesātajam ir atļauts glabāt
+
+1. Virtuves piederumi – šķīvis un bļodiņa diametrā līdz 25 cm, krūze tilpumā līdz 0,5 l (viena), karotes (ne vairāk kā divas), plastmasas dakšiņas (ne vairāk kā divas) un mehāniskā vienpusēja vai četrpusēja dārzeņu rīve (viena).
+
+2. Sezonai atbilstošs apģērbs, galvassega un apavi.
+
+3. Apakšveļa, zeķes, cimdi (viens pāris), dvielis.
+
+4. Istabas un sporta čības (pa vienam pārim).
+
+5. Personiskās higiēnas un sadzīvē nepieciešamas mantas: tualetes un saimniecības ziepes (divi gabali), veļas mazgāšanas līdzeklis (viens iepakojums), trauku mazgāšanas līdzeklis (viens iepakojums), šampūns, dušas želeja, sejas, ķermeņa un roku krēmi, zobu pasta (divas tūbiņas), zobu suka (viena), zobu diegs (viens), mazgāšanas sūklis, skujamā aparāta kasete, manikīra standziņas, manikīra šķērītes (garumā līdz 10 cm), plastmasas nagu vīle, plastmasas ķemme, ziepju trauks, drēbju un apavu suka, apavu krēms, plastmasas apavu lāpstiņa, diegi, šujamadatas, spogulis (ne lielāks par 20x30 cm), papīra salvetes (vienreiz lietojamās), kā arī:
+
+5.1. vīriešiem – kosmētikas līdzekļi, kas nesatur etilspirtu (etanolu), kasešu, mehāniskais vai elektriskais bārdas skujamais aparāts (viens), krēms lietošanai pirms un pēc skūšanās;
+
+5.2. sievietēm – kosmētikas līdzekļi un dekoratīvā kosmētika, kas nesatur etilspirtu (etanolu), personīgās higiēnas piederumi, matu gumijas, matu sprādzes, un manikīra piederumi.
+
+6. Netonētas optiskās brilles, kontaktlēcas un to kopšanas līdzekļi, protēzes, tehniskie palīglīdzekļi, plāksteri virspusēju ādas bojājumu aizsardzībai, uztura bagātinātāji, bezrecepšu vitamīni un izņēmuma gadījumā ar brīvības atņemšanas iestādes ārsta atļauju – medicīniskās preces un zāles neatliekamajai medicīniskajai palīdzībai.
+
+7. Rakstāmpapīrs, burtnīcas (piecas), zīmuļi, pildspalvas, teksta marķieri, flomāsteri, dzēšgumijas, līmes zīmuļi, zīmuļu asināmie, lineāli, palielināmie stikli, aploksnes, pastmarkas, avīzes, žurnāli, grāmatas (septiņas), bukleti, brošūras (izņemot par cīņas sporta veidiem, ieročiem, erotiku un pornogrāfiju), mācību burtnīcas un grāmatas, ne vairāk kā 15 fotogrāfijas (izmērā līdz 10x15 cm) tām paredzētā albumā (izmērā līdz 12x17x1,5 cm) un vēstules.
+
+8. Dokumenti un piezīmes saistībā ar tiesvedību notiesātā lietās, akti par glabāšanā nodoto naudu, mantām un vērtslietām, ar resocializāciju saistīti dokumenti, pirkuma čeki un personīgā sarakste.
+
+9. Tabakas izstrādājumi (200 cigaretes, tinamā tabaka (140 grami), mehāniskā cigarešu veidošanas ierīce, cigarešu papīrs, cigarešu čaulītes).
+
+10. Fiksēto sakaru priekšapmaksas kartes.
+
+11. Ūdens filtra krūze ar maināmu filtru, ūdens filtrēšanas krūzes filtri, iepirkuma maisiņi.
+
+12. Pārtikas produkti un priekšmeti, kas iegādāti komersanta izveidotajā pastāvīgās tirdzniecības vietā brīvības atņemšanas iestādes teritorijā.
+
+13. Ar brīvības atņemšanas iestādes priekšnieka atļauju atļauts glabāt:
+
+13.1. reliģiskos priekšmetus un reliģisko literatūru;
+
+13.2. palīglīdzekli augstākās izglītības apguvei;
+
+13.3. televizoru bez papildu funkcijām;
+
+13.4. videospēļu iekārtas, kuras nerada neatļautas saziņas risku;
+
+13.5. ledusskapi;
+
+13.6. radiouztvērēju bez papildu funkcijām;
+
+13.7. mazās austiņas ar vadu bez papildu funkcijām, atklātajā cietumā arī bezvadu austiņas;
+
+13.8. elektrisko galda ventilatoru bez papildu funkcijām;
+
+13.9. elektrisko tējkannu;
+
+13.10. elektrisko pagarinātāju (vienu);
+
+13.11. elektrisko bārdas skujamo aparātu un tā aksesuārus;
+
+13.12. elektrisko matu griežamo ierīci un tās aksesuārus;
+
+13.13. vienreizējās lietošanas baterijas bez atkārtotas uzlādēšanas iespējām;
+
+13.14. galda un rokas pulksteni (bez papildu funkcijām);
+
+13.15. galda spēles;
+
+13.16. matu žāvēšanas ierīci;
+
+13.17. matu ieveidošanas ierīci.
+
+14. Gāzes šķiltavas un sērkociņus notiesātais glabā brīvības atņemšanas iestādes priekšnieka noteiktā vietā.
+
+## 3. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523
+
+### Notiesātā atpazīšanas zīmes paraugs
+
+![](https://likumi.lv/wwwraksti/2025/164/BILDES/MK_NOT_523/IMAGE001.JPG)
+
+Atpazīšanas zīmes izmērs ir 85 x 53 mm.
+
+## 4. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523(Pielikums MK 27.01.2026. noteikumu Nr. 35 redakcijā)
+
+### Priekšmeti un pārtikas produkti, ko notiesātais var iegādāties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā
+
+1. Maize, maizes un konditorejas izstrādājumi bez krēma pildījuma, čipsi.
+
+2. Piens un piena produkti.
+
+3. Žāvēta, pusžāvēta un kūpināta gaļa, tās izstrādājumi, vārītās gaļas izstrādājumi (cīsiņi, desas, sardeles)*, speķis, dzīvnieku izcelsmes tauki.
+
+4. Sālītas, žāvētas un kūpinātas zivis.
+
+5. Augu tauki un eļļas.
+
+6. Visu veidu konservi (piena, gaļas, zivju, sēņu, dārzeņu un augļu) un mērces (kečupi, sinepes, mārrutki) ar pašatveramiem vākiem.
+
+7. Cukurs, cukura aizvietotājs, sāls, garšvielas un garšvielu maisījumi (izņemot piparus).
+
+8. Svaigi un termiski apstrādāti dārzeņi.
+
+9. Svaigi un žāvēti augļi, biezeņi, džemi, ievārījumi.
+
+10. Medus.
+
+11. Rieksti un attīrītas sēklas.
+
+12. Tēja, kafija, kakao, sausais buljons un citi ēdienu koncentrāti.
+
+13. Dzeramais ūdens, minerālūdens, sula un bezalkoholiskie dzērieni.
+
+14. Bezrecepšu vitamīni un uztura bagātinātāji.
+
+15. Netonētas optiskās brilles un plāksteri virspusēju ādas bojājumu aizsardzībai.
+
+16. Kancelejas preces:
+
+16.1. rakstāmlietas (pildspalva, teksta marķieris, zīmuļi, flomāsteri);
+
+16.2. papīrs un papīra preces, aploksnes, pastmarkas;
+
+16.3. rakstāmgalda piederumi (dzēšgumijas, līmes zīmuļi, zīmuļu asināmie, lineāli, palielināmie stikli);
+
+16.4. mācību grāmatas un mācību materiāli.
+
+17. Virtuves piederumi (šķīvji un bļodiņas diametrā līdz 25 cm, karotes, plastmasas dakšiņas, krūzītes tilpumā līdz 0,5 l) un mehāniskās vienpusējas un četrpusējas dārzeņu rīves.
+
+18. Sērkociņi, gāzes šķiltavas un tabakas izstrādājumi (cigaretes, tinamā tabaka (140 grami), mehāniskā cigarešu veidošanas mašīna, cigarešu papīrs, cigarešu čaulītes).
+
+19. Apģērbu un apavu kopšanas līdzekļi, izņemot etilspirtu (etanolu) saturošus, un kopšanas piederumi. Diegi un šujamadatas. Spoguļi (ne lielāki par 20x30 cm).
+
+20. Ķermeņa kopšanas un kosmētikas līdzekļi, izņemot etilspirtu (etanolu) saturošus. Personiskās higiēnas piederumi, papīra salvetes (vienreiz lietojamās).
+
+21. Ūdens filtra krūze ar maināmu filtru, ūdens filtrēšanas krūzes filtri.
+
+22. Fiksēto sakaru priekšapmaksas kartes.
+
+23. Apģērbs un apavi.
+
+24. Iepirkuma maisiņi.
+
+25. Foto albums (izmērā līdz 12x17x1,5 cm).
+
+26. Ar brīvības atņemšanas iestādes priekšnieka atļauju:
+
+26.1. televizors bez papildu funkcijām;
+
+26.2. videospēļu iekārtas, kuras nerada neatļautas saziņas risku;
+
+26.3. radiouztvērējs bez papildu funkcijām;
+
+26.4. ledusskapis;
+
+26.5. elektriskā tējkanna;
+
+26.6. elektriskais pagarinātājs;
+
+26.7. mazās austiņas ar vadu bez papildu funkcijām, atklātajā cietumā arī bezvadu austiņas;
+
+26.8. elektriskais bārdas skujamais aparāts un tā aksesuāri;
+
+26.9. elektriskā matu griežamā ierīce un tās aksesuāri;
+
+26.10. elektriskais galda ventilators bez papildu funkcijām;
+
+26.11. galda spēles;
+
+26.12. galda un rokas pulkstenis (bez papildu funkcijām);
+
+26.13. vienreizējās lietošanas baterijas bez atkārtotas uzlādēšanas iespējām.
+
+Piezīme. *Ieslodzījuma vietu pārvalde var pārtraukt vārītas gaļas izstrādājumu realizāciju komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā no 15. maija līdz 15. septembrim.
+
+## 5. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523(Pielikums MK 27.01.2026. noteikumu Nr. 35 redakcijā)
+
+### Priekšmeti, kurus atļauts nodot sūtījumos un pienesumos
+
+1. Virtuves piederumi – šķīvis un bļodiņa diametrā līdz 25 cm, krūze tilpumā līdz 0,5 l (viena), karotes (ne vairāk kā divas), plastmasas dakšiņas (ne vairāk kā divas).
+
+2. Sezonai atbilstošs apģērbs, galvassega un apavi.
+
+3. Apakšveļa, zeķes, cimdi (viens pāris), dvielis (2 gab.).
+
+4. Istabas un sporta čības (pa vienam pārim).
+
+5. Personiskās higiēnas un sadzīvē nepieciešamas mantas: tualetes un saimniecības ziepes (divi gabali), veļas mazgāšanas līdzeklis (viens iepakojums), trauku mazgāšanas līdzeklis (viens iepakojums), šampūns, dušas želeja, sejas, ķermeņa un roku krēmi, zobu pasta (divas tūbiņas), zobu suka (viena), zobu diegs (viens), mazgāšanas sūklis, skujamā aparāta kasete, manikīra standziņas, manikīra šķērītes (garumā līdz 10 cm), plastmasas nagu vīlīte, plastmasas ķemme, ziepju trauks, drēbju un apavu suka, apavu krēms, plastmasas apavu lāpstiņa, diegi, šujamadatas, spogulis (ne lielāks par 20x30 cm), kā arī:
+
+5.1. vīriešiem – kosmētikas līdzekļi, kas nesatur etilspirtu (etanolu), kasešu, mehāniskais vai elektriskais bārdas skujamais aparāts (viens), krēms lietošanai pirms un pēc skūšanās;
+
+5.2. sievietēm – kosmētikas līdzekļi un dekoratīvā kosmētika, kas nesatur etilspirtu (etanolu), personīgās higiēnas piederumi, matu gumijas, matu sprādzes un manikīra piederumi.
+
+6. Netonētas optiskās brilles, kontaktlēcas un to kopšanas līdzekļi, protēzes, tehniskie palīglīdzekļi; ja ir brīvības atņemšanas iestādes ārsta atļauja – medicīniskās preces un zāles neatliekamajai medicīniskajai palīdzībai.
+
+7. Rakstāmpapīrs, burtnīcas (piecas), zīmuļi, pildspalvas, dzēšgumijas, zīmuļu asināmie, lineāli, aploksnes, pastmarkas, avīzes, žurnāli, grāmatas (septiņas), bukleti, brošūras (izņemot par cīņas sporta veidiem, ieročiem, erotiku un pornogrāfiju), mācību burtnīcas un grāmatas, ne vairāk kā 15 fotogrāfijas (izmērā līdz 10x15 cm) un foto albums (izmērā līdz 12x17x1,5 cm).
+
+8. Ar brīvības atņemšanas iestādes priekšnieka atļauju:
+
+8.1. reliģiskie priekšmeti un reliģiskā literatūra;
+
+8.2. palīglīdzeklis augstākās izglītības apguvei;
+
+8.3. televizors bez papildu funkcijām;
+
+8.4. videospēļu iekārtas, kuras nerada neatļautas saziņas risku;
+
+8.5. ledusskapis;
+
+8.6. radiouztvērējs bez papildu funkcijām;
+
+8.7. mazās austiņas ar vadu bez papildu funkcijām, atklātajā cietumā arī bezvadu austiņas;
+
+8.8. elektriskais galda ventilators bez papildu funkcijām;
+
+8.9. elektriskā tējkanna;
+
+8.10. elektriskais pagarinātājs (viens);
+
+8.11. elektriskais bārdas skujamais aparāts un tās aksesuāri;
+
+8.12. elektriskā matu griežamā ierīce un tās aksesuāri;
+
+8.13. galda un rokas pulkstenis (bez papildu funkcijām);
+
+8.14. vienreizējās lietošanas baterijas bez atkārtotas uzlādēšanas iespējām;
+
+8.15. matu žāvēšanas ierīce;
+
+8.16. matu ieveidošanas ierīce;
+
+8.17. personiskie mūzikas instrumenti, materiāli un instrumenti māksliniecisko un lietišķās mākslas izstrādājumu izgatavošanai, kā arī citi priekšmeti, kas nepieciešami notiesātā jaunrades iniciatīvu īstenošanai.
+
+## 6. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523
+
+|  |  |
+| --- | --- |
+|  | (piegādātāja vārds, uzvārds, personas kods) |
+|  |  |
+|  | (dzīvesvietas adrese, tālruņa numurs) |
+|  |  |
+
+Iesniegums par pienesumu
+
+| Lūdzu pieņemt notiesātajam |  | pienesumu. |
+| --- | --- | --- |
+|  | (notiesātā vārds, uzvārds, dzimšanas gads) |  |
+
+Pienesuma saturs
+
+| Nr. p. k. | Priekšmeta nosaukums | Svars | Skaits | Piezīmes |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | Kopā (kg, gab.) |  |  |  |
+
+Piekrītu plombētas sadzīves tehnikas plombu noņemšanai un tehnikas apskatei.
+
+|  |  |  |
+| --- | --- | --- |
+|  | (piegādātāja paraksts) |  |
+
+Apliecinu, ka pienesums ne atklātā, ne slēptā veidā nesatur vielas, priekšmetus vai izstrādājumus, kas nav atļauti brīvības atņemšanas vietā. Juridiskās sekas par šo noteikumu pārkāpumu man ir zināmas.
+
+|  |  |  |
+| --- | --- | --- |
+|  | (piegādātāja paraksts) |  |
+
+|  |  |
+| --- | --- |
+| Pienesumu pieņēma |  |
+|  | (amatpersonas paraksts un tā atšifrējums) |
+
+202__.gada ___. ________________
+
+| Pienesumu saņēmu |  |
+| --- | --- |
+|  | (notiesātā paraksts un tā atšifrējums) |
+
+202_.gada ___. _________________
+
+## 7. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523
+
+### Personas pagaidu apliecības paraugs
+
+![](https://likumi.lv/wwwraksti/2025/164/BILDES/MK_NOT_523/IMAGE002.JPG)
+
+Personas pagaidu apliecības izmērs ir 6 x 9 cm.
+
+## 8. pielikums Ministru kabineta 2025. gada 26. augusta noteikumiem Nr. 523
+
+### Mantu un dokumentu nodošanas akts Nr. _______
+
+<table>
+<tbody>
+<tr>
+<td>20___ . ___. ________________</td><td>________________ cietums</td></tr>
+<tr>
+<td colspan="2"></td></tr>
+<tr>
+<td colspan="2">(notiesātā vārds, uzvārds, personas kods)</td></tr>
+</tbody>
+</table>
+
+Personas lieta Nr._________
+
+Izsniegtas šādas mantas:
+
+| Nr. p. k. | Mantas/dokumenta nosaukums | Mantas pazīmes vai apraksts, dokumenta Nr. | Daudzums/skaits | Piezīmes* |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+<table>
+<tbody>
+<tr>
+<td></td><td colspan="3"></td></tr>
+<tr>
+<td>Mantas pieņēma</td><td colspan="3"></td></tr>
+<tr>
+<td></td><td colspan="3">(datums, amats, paraksts, vārds, uzvārds)</td></tr>
+<tr>
+<td colspan="2">Piekrītu aktā ierakstītajam</td><td colspan="2"></td></tr>
+<tr>
+<td colspan="2"></td><td colspan="2">(datums, mantinieka paraksts, vārds, uzvārds)</td></tr>
+<tr>
+<td>Mantas izsniedza</td><td colspan="3"></td></tr>
+<tr>
+<td></td><td colspan="3">(datums, amats, paraksts, vārds, uzvārds)</td></tr>
+<tr>
+<td colspan="3">Sarakstā norādītās mantas saņēmu</td><td></td></tr>
+<tr>
+<td colspan="3"></td><td>(datums, mantinieka paraksts, vārds, uzvārds)</td></tr>
+</tbody>
+</table>
+
+Piezīme. * Ja mantiniekam izsniedz daļu no aktā norādītajām mantām, par to izdara atzīmi sadaļā "Piezīmes" un mantinieks parakstās par konkrētas mantas saņemšanu.

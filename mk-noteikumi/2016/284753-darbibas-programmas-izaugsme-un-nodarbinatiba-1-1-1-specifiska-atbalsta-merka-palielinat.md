@@ -1,0 +1,1603 @@
+---
+title: "Darbības programmas \"Izaugsme un nodarbinātība\" 1.1.1. specifiskā atbalsta mērķa \"Palielināt Latvijas.."
+identifier: "MK noteikumi Nr. 562"
+likumi_lv_id: 284753
+type: regulation
+jurisdiction: lv
+language: lv
+number: "562"
+issuer: "Ministru kabinets"
+date: 2016-08-16
+entry_into_force: 2016-09-17
+published: "Latvijas Vēstnesis, 180, 16.09.2016."
+status: in_force
+source: "https://likumi.lv/ta/id/284753-darbibas-programmas-izaugsme-un-nodarbinatiba-1-1-1-specifiska-atbalsta-merka-palielinat-latvijas-zinatnisko-instituciju"
+retrieved: 2026-10-12
+---
+
+# Darbības programmas "Izaugsme un nodarbinātība" 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas..
+
+Ministru kabineta noteikumi Nr. 562
+Rīgā 2016. gada 16. augustā (prot. Nr. 40 55. §)
+
+Izdoti saskaņā ar Eiropas Savienības struktūrfondu
+un Kohēzijas fonda 2014.–2020. gada plānošanas perioda
+vadības likuma 20. panta 6. un 13. punktu
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka:
+
+1.1. kārtību, kādā īsteno darbības programmas "Izaugsme un nodarbinātība" prioritārā virziena "Pētniecība, tehnoloģiju attīstība un inovācijas" 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas zinātnisko institūciju pētniecisko un inovatīvo kapacitāti un spēju piesaistīt ārējo finansējumu, ieguldot cilvēkresursos un infrastruktūrā" 1.1.1.4. pasākumu "P&A infrastruktūras attīstīšana viedās specializācijas jomās un zinātnisko institūciju institucionālās kapacitātes stiprināšana" (turpmāk – pasākums);
+
+1.2. pasākuma mērķi;
+
+1.3. pasākumam pieejamo finansējumu;
+
+1.4. prasības Eiropas Reģionālās attīstības fonda projekta iesniedzējam un sadarbības partnerim;
+
+1.5. atbalstāmo darbību un izmaksu attiecināmības nosacījumus;
+
+1.6. vienkāršoto izmaksu piemērošanas nosacījumus un kārtību;
+
+1.7. vienošanās par projekta īstenošanu vienpusēja uzteikuma nosacījumus.
+
+2. Noteikumos lietoti šādi termini:
+
+2.1. apakšprojekts – projekta daļa, ko īsteno finansējuma saņēmējs vai sadarbības partneris. Apakšprojekts ir sadarbības līguma neatņemama sastāvdaļa;
+
+2.2. attīstības stratēģija – zinātniskās institūcijas attīstības un resursu konsolidācijas vidējā termiņa stratēģija, kas izstrādāta atbilstoši zinātnisko institūciju darbības starptautiskā novērtējuma rekomendācijām, ko 2013. gadā veica Ziemeļu Ministru padomes sekretariāts Latvijā, analizējot Latvijas zinātnes situāciju saistībā ar Eiropas Savienības Kopīgo pētniecības telpu un sadarbību pētniecībā, Latvijas viedās specializācijas stratēģijas mērķiem un šo noteikumu 1. pielikumā noteiktajam;
+
+2.3. darba sākums – saistības, kas atbilst Eiropas Komisijas 2014. gada 17. jūnija Regulas Nr. 651/2014, ar ko noteiktas atbalsta kategorijas atzīst par saderīgām ar iekšējo tirgu, piemērojot Līguma 107. un 108. pantu (turpmāk – Komisijas regula Nr. 651/2014), 2. panta 23. punktā noteiktajai definīcijai;
+
+2.4. darbība, kurai nav saimnieciska rakstura, – pētniecības organizācijas darbība, kura neietilpst Līguma par Eiropas Savienības darbību 107. panta 1. punktā noteiktajā darbības jomā, tai skaitā:
+
+2.4.1. izglītības pasākumi, lai panāktu personāla skaita un kvalifikācijas pieaugumu;
+
+2.4.2. neatkarīga pētniecība un izstrāde, lai gūtu vairāk zināšanu un labāku izpratni, tostarp kopīga pētniecība un izstrāde, pētniecības organizācijai iesaistoties efektīvā sadarbībā;
+
+2.4.3. pētniecības rezultātu izplatīšana bez ekskluzivitātes un diskriminēšanas, piemēram, izmantojot mācīšanu, brīvas piekļuves datubāzes, atklātās publikācijas vai atklātā pirmkoda programmatūru;
+
+2.4.4. zināšanu un tehnoloģiju pārnese, ja:
+
+2.4.4.1. zināšanu un tehnoloģiju pārneses darbības veic pētniecības organizācijas nodaļa vai pētniecības organizācijas meitas uzņēmums (tāda komercsabiedrība, kurā mātes uzņēmuma līdzdalības daļa pārsniedz 50 procentu vai kurā mātes uzņēmumam ir balsu vairākums un kura atbilst pētniecības organizācijas definīcijai), pētniecības organizācija kopīgi ar citām pētniecības organizācijām vai pētniecības organizācija ar trešajām pusēm, atklātā konkursā slēdzot līgumus par noteiktiem pakalpojumiem;
+
+2.4.4.2. visa peļņa no šādas darbības tiek atkal ieguldīta pētniecības organizācijas pamatdarbībās;
+
+2.5. papildinoša saimnieciskā darbība – pētniecības organizācijas vai pētniecības infrastruktūras saimnieciskā darbība, kas ir vienīgi papildinoša un atbilst šādiem kritērijiem:
+
+2.5.1. tā ir tieši saistīta ar pētniecības organizācijas vai pētniecības infrastruktūras darbību un izmantošanu ar saimniecisku darbību nesaistītā jomā;
+
+2.5.2. tai tiek patērēti tādi paši resursi (piemēram, materiāli, aprīkojums, darbaspēks un pamatkapitāls) kā ar saimniecisku darbību nesaistītām pamatdarbībām;
+
+2.5.3. tai katru gadu piešķirtā finansiālā kapacitāte nepārsniedz 20 procentus no pētniecības organizācijas kopējās gada finansiālās vai laika resursu kapacitātes;
+
+2.6. jauna funkcionālā vienība – zinātnisko institūciju reorganizācijas rezultātā izveidota jauna vienība, tai skaitā zinātniskais institūts, zinātniskā grupa vai cita vienība, ko izveido, apvienojot, sadalot vai nododot reorganizētās zinātniskās institūcijas, to dibinātos zinātniskos institūtus, struktūrvienības vai zinātniskās grupas;
+
+2.7. konsolidējamā funkcionālā vienība – reorganizējamā zinātniskā institūcija, zinātniskās institūcijas dibināts zinātniskais institūts (atvasināta publiska persona, publiska aģentūra vai struktūrvienība), privāto tiesību juridiskā persona, kuru plānots pievienot vai nodot zinātniskajai institūcijai, kas noteikta šo noteikumu 11. punktā;
+
+2.8. lielais komersants – komersants, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 24. punktā noteiktajai definīcijai;
+
+2.9. līdzējs – finansējuma saņēmējs, sadarbības partneris un projekta ietvaros izveidotās pētniecības infrastruktūras lietotājs, kas noslēguši sadarbības līgumu par minētās pētniecības infrastruktūras koplietošanu;
+
+2.10. materiālie aktīvi – aktīvi, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 29. punktā noteiktajai definīcijai;
+
+2.11. nemateriālie aktīvi – aktīvi, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 30. punktā noteiktajai definīcijai;
+
+2.12. pārredzama atbalsta kategorija – atbalsta veids, kas atbilst Komisijas regulas Nr. 651/2014 5. panta 2. punkta nosacījumiem un ko sniedz dotāciju veidā;
+
+2.13. pētniecības infrastruktūra – iekārtas, resursi un saistītie pakalpojumi, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 91. punktā noteiktajai definīcijai;
+
+2.13.<sup>1</sup> pētniecības infrastruktūras amortizācijas periods – projekta ietvaros modernizēto aktīvu lietderīgās lietošanas laiks, kuru nosaka:
+
+2.13.<sup>1</sup> 1. atbilstoši noteikumiem par grāmatvedības uzskaites kārtību budžeta iestādēs, ja projekta ietvaros veic šo noteikumu 30.2. apakšpunktā minēto materiālo aktīvu iegādi vai izveidi;
+
+2.13.<sup>1</sup> 2. ievērojot šo noteikumu 26.1. apakšpunktā noteikto projekta dzīves cikla periodu, ja projekta ietvaros veic šo noteikumu 30.1. apakšpunktā minēto būvniecību;
+
+2.14. pētniecības organizācija – institūcija, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 83. punktā noteiktajai definīcijai;
+
+2.14.<sup>1</sup> projekta dzīves cikls – projekta ekonomiski derīgais laikposms, kas atbilst Komisijas 2014. gada 3. marta Deleģētās regulas (ES) Nr. 480/2014, ar kuru papildina Eiropas Parlamenta un Padomes Regulu (ES) Nr. 1303/2013, ar ko paredz kopīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu, Kohēzijas fondu, Eiropas Lauksaimniecības fondu lauku attīstībai un Eiropas Jūrlietu un zivsaimniecības fondu un vispārīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu, Kohēzijas fondu un Eiropas Jūrlietu un zivsaimniecības fondu, 15. panta 2. punktā un I pielikumā noteiktajam projekta pārskata periodam;
+
+2.15. publiskā finansējuma intensitāte – kopējais Eiropas Reģionālās attīstības fonda finansējuma un valsts budžeta finansējuma apmērs procentos no projekta kopējām attiecināmajām izmaksām;
+
+2.16. rezultātu vadības sistēma – uz rezultātu orientēta institūcijas vadības sistēma, kas attiecina institūcijas stratēģiskos mērķus gan uz darbības rādītājiem struktūrvienību un zinātnisko grupu līmenī, gan uz strādājošo ikdienas darba uzdevumiem individuālā līmenī (mērķu kaskāde), sakārtojot institūcijas iekšējos darba procesus atbilstoši galvenajiem institūcijas darbības mērķiem un sasniedzamajiem rezultātiem, kā arī veicinot darbinieku mērķtiecīgu darbu institūcijas galveno uzdevumu izpildei. Rezultātu pārvaldības sistēma ietver vismaz šādus elementus:
+
+2.16.1. plānošanas un organizatoriskās vadības sistēma;
+
+2.16.2. personāla motivācijas sistēma, kas balstīta uz rezultāta rādītājiem zinātniskās grupas vai zinātniskā darbinieka līmenī;
+
+2.16.3. darba izpildes uzraudzības sistēma;
+
+2.17. saimnieciskā darbība – jebkura darbība, kas ietver preču vai pakalpojumu piedāvāšanu tirgū, tai skaitā pētniecības infrastruktūras iznomāšana, komersantu uzdevumā īstenoti pakalpojumi vai līgumpētījumi;
+
+2.18. sīkais (mikro), mazais un vidējais komersants – komersants, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 2. punktā noteiktajai definīcijai;
+
+2.19. tehniskā priekšizpēte – darbības, kas atbilst Komisijas regulas Nr. 651/2014 2. panta 87. punktā noteiktajai definīcijai;
+
+2.19.<sup>1</sup> tirgus cena – cena par pakalpojuma sniegšanu, ievērojot tirgus nosacījumus. Kompensācija par pakalpojuma sniegšanu ir uzskatāma par līdzvērtīgu tirgus cenai, ja ir izpildīts viens no šādiem nosacījumiem:
+
+2.19.<sup>1</sup> 1. cenā iekļauj pilnas pakalpojuma izmaksas un uzcenojumu, kas noteikts, pamatojoties uz tādiem uzcenojumiem, ko piemēro saimnieciskās darbības veicēji, kuri darbojas attiecīgā pakalpojuma nozarē;
+
+2.19.<sup>1</sup> 2. cena ir godīgas konkurences sarunu rezultāts, ko pētniecības organizācija vai pētniecības infrastruktūra risina kā pakalpojuma sniedzēja, lai iegūtu maksimālo saimniecisko labumu brīdī, kad tiek noslēgts līgums, un tā sedz vismaz robežizmaksas;
+
+2.20. (svītrots ar MK 12.05.2020. noteikumiem Nr. 286);
+
+2.20.<sup>1</sup> valsts atbalsta piešķiršanas diena – diena, kad tiek pieņemts lēmums par kombinēta atbalsta projekta iesnieguma apstiprināšanu vai izdots atzinums par lēmumā noteikto nosacījumu izpildi, ja iepriekš pieņemts lēmums par kombinēta atbalsta projekta iesnieguma apstiprināšanu ar nosacījumu;
+
+2.21. zināšanu un tehnoloģiju pārnese – jebkurš process, kura mērķis ir iegūt, apkopot un izplatīt skaidras un vārdos neizteiktas zināšanas, tostarp prasmes un kompetenci gan saimnieciskajās darbībās, gan darbībās, kurām nav saimnieciska rakstura, piemēram, pētniecības sadarbībā, konsultācijās, licencēšanā, jaunu uzņēmumu veidošanā, publikācijās un pētnieku un citu darbinieku mobilitātē, kuri iesaistīti šajās darbībās. Papildus zinātnes un tehnikas atziņām tā ietver citu veidu zināšanas, piemēram, zināšanas par to standartu un noteikumu lietošanu, kuros tie iekļauti, par reālās dzīves darbības vides apstākļiem, par organizatoriskās inovācijas metodēm, kā arī to zināšanu pārvaldību, kas saistītas ar nemateriālo aktīvu noteikšanu, iegūšanu, aizsardzību, aizstāvību un izmantošanu;
+
+2.22. zinātniskais darbinieks – zinātnieks, zinātniskais personāls, zinātnes apkalpojošais personāls un zinātnes tehniskais personāls;
+
+2.23. zinātniskais personāls – atbilstoši zinātnisko darbību reglamentējošiem normatīvajiem aktiem ievēlētie un Nacionālās Zinātniskās darbības informācijas sistēmas Zinātniskā personāla datubāzē iekļautie vadošie pētnieki, pētnieki un zinātniskie asistenti, kā arī komercsabiedrībā strādājošās personas, kas veic vadošā pētnieka, pētnieka un zinātniskā asistenta pienākumus;
+
+2.24. zinātniskā grupa – zinātnisko darbinieku grupa, kas izveidota pētniecības īstenošanai konkrētā zinātnes nozarē vai apakšnozarē;
+
+2.25. zinātniskās institūcijas reorganizācija – reģistrā reģistrētas zinātniskās institūcijas reorganizācija, apvienojot vai nododot to citai reģistrā reģistrētai zinātniskajai institūcijai, kas atbilst šo noteikumu 11. punkta nosacījumiem. Reorganizāciju veic:
+
+2.25.1. nododot reorganizējamo institūciju atvasinātai publiskai personai – zinātniskā institūcija turpina pastāvēt kā pastarpinātās pārvaldes iestāde vai jauna funkcionālā vienība;
+
+2.25.2. apvienojot reorganizējamo institūciju ar citu zinātnisko institūciju vai vairākām zinātniskajām institūcijām un uz reorganizējamo institūciju bāzes izveidojot jaunu funkcionālo vienību;
+
+2.25.3. nododot reorganizējamās institūcijas struktūrvienību vai vairākas struktūrvienības citai zinātniskajai institūcijai vai vairākām zinātniskajām institūcijām un izveidojot jaunu funkcionālu vienību (sadalāmā institūcija turpina pastāvēt);
+
+2.26. zinātnisko institūciju konsolidācija – zinātnisko institūciju reorganizācija, kas sekmē šo noteikumu 25. punktā minēto virzienu attīstību un pētniecības resursu koncentrēšanu;
+
+2.27. zinātniskās institūcijas līdzfinansējums – finansējums, ko nodrošina finansējuma saņēmējs un sadarbības partneris:
+
+2.27.1. ar saimniecisku darbību nesaistītam projektam no finansējuma saņēmēja un sadarbības partnera rīcībā esošā saimnieciskās darbības rezultātā gūtā privātā finansējuma, kredītresursu līdzekļiem, citiem finanšu resursiem vai finansējuma, ko piešķir saskaņā ar normatīvajiem aktiem par kārtību, kādā paredzami valsts budžeta līdzekļi valsts zinātniskās institūcijas pamatdarbību īstenošanai;
+
+2.27.2. ar saimniecisku darbību saistītai kombinēta atbalsta projekta daļai no finansējuma saņēmēja un sadarbības partnera rīcībā esošā saimnieciskās darbības rezultātā gūtā privātā finansējuma, kredītresursu līdzekļiem vai citiem privātiem finanšu resursiem, par kuriem nav saņemts nekāds publiskais atbalsts, tai skaitā nav saņemts valsts vai pašvaldību galvojums vai valsts vai pašvaldību kredīts ar atvieglotiem nosacījumiem.
+
+*(Grozīts ar MK 15.10.2019. noteikumiem Nr. 474; MK 03.11.2020. noteikumiem Nr. 658; MK 22.09.2026. noteikumiem Nr. 568)*
+
+3. Pasākuma mērķis ir zinātnisko institūciju institucionālās kapacitātes stiprināšana un pētniecības resursu koncentrācija konkurētspējīgās zinātniskajās institūcijās, pilnveidojot zinātnisko institūciju pārvaldības un resursu vadības efektivitāti un modernizējot pētniecības infrastruktūru Latvijas viedās specializācijas jomu ietvaros, tādējādi veicinot zinātnisko institūciju iesaisti Eiropas Savienības līmeņa infrastruktūrās un zinātnisko institūciju rīcībā esošās pētniecības infrastruktūras izmantošanu praktisku tautsaimniecības problēmu risināšanai.
+
+4. Pasākuma ietvaros atbalstu sniedz projektiem, kas sekmē Latvijas viedās specializācijas stratēģijā noteikto tautsaimniecības transformācijas virzienu un izaugsmes prioritāšu īstenošanu un specializācijas jomu attīstību:
+
+4.1. zināšanu ietilpīga bioekonomika;
+
+4.2. biomedicīna, medicīnas tehnoloģija, biofarmācija un biotehnoloģija;
+
+4.3. viedie materiāli, tehnoloģijas un inženiersistēmas;
+
+4.4. viedā enerģētika;
+
+4.5. informācijas un komunikācijas tehnoloģijas.
+
+5. Pasākuma mērķa grupa ir:
+
+5.1. zinātnisko institūciju reģistrā reģistrētas zinātniskās institūcijas;
+
+5.2. pētniecībā nodarbinātais personāls.
+
+6. Pasākuma ietvaros ir sasniedzami šādi uzraudzības rādītāji:
+
+6.1. iznākuma rādītājs:
+
+6.1.1. līdz 2023. gada 31. decembrim to pētnieku skaits pilna laika ekvivalenta izteiksmē, kuri strādā uzlabotos pētniecības infrastruktūras objektos, – 2 031;
+
+6.1.2. līdz 2018. gada 31. decembrim izsludināti iepirkuma konkursi 30 procentu apmērā no kopējā plānoto darbu apjoma;
+
+6.2. finanšu rādītājs – līdz 2018. gada 31. decembrim sertificēti izdevumi 17 499 122 *euro* apmērā;
+
+6.3. rezultāta rādītāji, kas sasniedzami līdz 2023. gada 31. decembrim darbības programmas "Izaugsme un nodarbinātība" prioritārā virziena "Pētniecība, tehnoloģiju attīstība un inovācijas" 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas zinātnisko institūciju pētniecisko un inovatīvo kapacitāti un spēju piesaistīt ārējo finansējumu, ieguldot cilvēkresursos un infrastruktūrā" koprezultātā:
+
+6.3.1. vidējais zinātnisko publikāciju skaits uz vienu zinātniskā personāla pilna darba laika ekvivalentu gadā – 0,48;
+
+6.3.2. valsts un augstākās izglītības sektora piesaistītais ārējais finansējums zinātniski pētnieciskajam darbam – 160 600 000 *euro*;
+
+6.4. specifiskais iznākuma rādītājs:
+
+6.4.1. zinātnisko institūciju skaits, kuras līdz 2023. gada 31. decembrim atbilstoši institūcijas attīstības stratēģijai, kas saskaņota ar Izglītības un zinātnes ministriju, ieviesušas zinātniskās institūcijas pārvaldības, tai skaitā rezultātu vadības, cilvēkresursu un pētniecības resursu pārvaldības, uzlabojumus, – 14;
+
+6.4.2. līdz 2023. gada 31. decembrim to pētnieku skaits, kuri strādā uzlabotos pētniecības infrastruktūras objektos, – 2 163.
+
+*(Grozīts ar MK 03.11.2020. noteikumiem Nr. 658)*
+
+7. Pasākumu īsteno ierobežotas projektu iesniegumu atlases veidā.
+
+8. Pasākuma ietvaros atbildīgās iestādes funkcijas pilda Izglītības un zinātnes ministrija (turpmāk – atbildīgā iestāde).
+
+9. Pasākumam pieejamais kopējais attiecināmais publiskais finansējums:
+
+9.1. šo noteikumu 16. punktā minētajos gadījumos ir ne vairāk kā 115 533 508 *euro*, tai skaitā Eiropas Reģionālās attīstības fonda finansējums – ne vairāk kā 98 203 482 *euro* un valsts budžeta līdzfinansējums – ne vairāk kā 17 330 026 *euro*;
+
+9.2. šo noteikumu 18. un 18.<sup>1</sup> punktā minētajos gadījumos ir ne vairāk kā 133 488 295 *euro*, tai skaitā Eiropas Reģionālās attīstības fonda finansējums – ne vairāk kā 111 692 482 *euro*, valsts budžeta līdzfinansējums – ne vairāk kā 17 330 026 *euro* un zinātnisko institūciju līdzfinansējums – ne mazāk kā 4 465 787 *euro*.
+
+*(MK 03.11.2020. noteikumu Nr. 658 redakcijā)*
+
+10. Pasākumu īsteno vienā projektu iesniegumu atlases kārtā par visu pasākumam pieejamo finansējumu.
+
+## II. Prasības projekta iesniedzējam un sadarbības partnerim
+
+11. Pasākuma ietvaros projekta iesniedzējs ir zinātniskā institūcija, kas atbilst pētniecības organizācijas definīcijai.
+
+12. Pasākuma ietvaros projektu var iesniegt šādas zinātniskās institūcijas, ja tās pamato atbilstību pētniecības organizācijas definīcijai:
+
+12.1. Daugavpils Universitāte;
+
+12.2. Elektronikas un datorzinātņu institūts;
+
+12.3. Latvijas Biomedicīnas pētījumu un studiju centrs;
+
+12.4. Latvijas Biozinātņu un tehnoloģiju universitāte;
+
+12.5. Latvijas Organiskās sintēzes institūts;
+
+12.6. Latvijas Universitāte;
+
+12.7. Latvijas Universitātes Cietvielu fizikas institūts;
+
+12.8. Latvijas Valsts koksnes ķīmijas institūts;
+
+12.9. Latvijas Valsts mežzinātnes institūts "Silava";
+
+12.10. Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR";
+
+12.11. Rīgas Stradiņa universitāte;
+
+12.12. Rīgas Tehniskā universitāte;
+
+12.13. Ventspils Augstskola;
+
+12.14. Vidzemes Augstskola.
+
+*(Grozīts ar MK 22.09.2026. noteikumiem Nr. 568)*
+
+13. Projekta iesniedzējs projekta iesniegumu iesniedz un projektu īsteno individuāli vai sadarbībā ar citu zinātnisko institūciju, tai skaitā ar projekta iesniedzēja dibinātu zinātnisko institūtu (atvasinātu publisku personu) vai zinātnisko institūciju, ar kuru plānots īstenot šo noteikumu 22.3. apakšpunktā minēto zinātnisko institūciju konsolidāciju atbilstoši šo noteikumu 16.1., 16.4. un 16.14. apakšpunktā noteiktajam.
+
+14. Ja īsteno sadarbības projektu:
+
+14.1. projekta iesniegumu iesniedz projekta iesniedzējs, kas atbilst šo noteikumu 11. un 12. punkta nosacījumiem. Projekta iesniedzējs ir atbildīgs par projekta īstenošanu;
+
+14.2. projekta iesniedzējs ar sadarbības partneri pirms projekta iesniegšanas sadarbības iestādē noslēdz sadarbības līgumu par sadarbības projekta kopīgu izpildi, par pienākumu un atbildības sadali rezultātu sasniegšanas nodrošināšanai un rezultātu izmantošanas tiesībām (turpmāk – sadarbības līgums). Sadarbības līgumā papildus informācijai, kas noteikta normatīvajos aktos par kārtību, kādā Eiropas Savienības struktūrfondu un Kohēzijas fonda vadībā iesaistītās institūcijas nodrošina plānošanas dokumentu sagatavošanu un šo fondu ieviešanu 2014.–2020. gada plānošanas periodā, iekļauj šādu informāciju:
+
+14.2.1. sadarbības mērķus un principus;
+
+14.2.2. kopējo sadarbības projekta finansējumu, finansējuma saņēmēja un sadarbības partnera apakšprojekta finansējumu, finansējuma saņēmēja un sadarbības partnera līdzfinansējuma apmēru, publiskā finansējuma intensitāti, ko nosaka atbilstoši šo noteikumu 2. pielikumā minētajai vidējās svērtās publiskā finansējuma intensitātes aprēķināšanas metodikai;
+
+14.2.3. projekta finanšu plūsmas nodrošināšanas kārtību;
+
+14.2.4. no projekta ietvaros veiktās darbības izrietošo intelektuālā īpašuma tiesību sadales principus;
+
+14.2.5. sankcijas, ja netiek izpildītas sadarbības līgumā minētās saistības.
+
+15. Pasākuma ietvaros projekta iesniedzējs, kas pēc projekta iesnieguma apstiprināšanas kļūst par finansējuma saņēmēju:
+
+15.1. sagatavo vienu projekta iesniegumu atbilstoši šo noteikumu 16. vai 18. punktā minētajam finansējuma apmēram un saskaņā ar projektu iesniegumu atlases nolikuma prasībām Kohēzijas politikas fondu vadības informācijas sistēmā 2014.–2020. gadam iesniedz to sadarbības iestādē;
+
+15.2. projekta iesniegumam pievieno:
+
+15.2.1. projekta izmaksu un ieguvumu analīzi, kas izstrādāta atbilstoši šo noteikumu 26. punkta nosacījumiem;
+
+15.2.2. vidējās svērtās publiskā finansējuma intensitātes aprēķināšanas pamatojumu un vidējās svērtās publiskā finansējuma intensitātes aprēķinu (2. pielikums), ko veic atbilstoši šo noteikumu 3. pielikumā minētajai vidējās svērtās publiskā finansējuma intensitātes aprēķināšanas metodikai, ja plāno īstenot kombinēta atbalsta projektu;
+
+15.2.3. šo noteikumu 14.2. apakšpunktā minēto sadarbības līgumu, ja plāno īstenot sadarbības projektu;
+
+15.2.4. šo noteikumu 32. punktā minēto ar attiecīgo nozaru asociācijām saskaņotu pētniecības infrastruktūras attīstības plānu, ja projekta ietvaros plāno veikt šo noteikumu 30.1.1. apakšpunktā minētās darbības.
+
+15.<sup>1</sup> Pēc pozitīva Eiropas Komisijas Pētniecības izpildaģentūras lēmuma saņemšanas par Eiropas Savienības pētniecības un inovāciju pamatprogrammas "Apvārsnis 2020" apakšprogrammas "WIDESPREAD-01-2018-2019: Teaming Phase 2" projektu "Baltijas Biomateriālu ekselences centrs – BBCE" (*The Baltic Biomaterials Centre of Excellence*) (turpmāk – BBCE projekts) šo noteikumu 12.5., 12.11. un 12.12. apakšpunktā minētie finansējuma saņēmēji izstrādā un iesniedz sadarbības iestādē vienošanās grozījumus atbilstoši šo noteikumu 18.<sup>1</sup> punktā minētajam finansējuma apmēram.
+
+*(MK 15.10.2019. noteikumu Nr. 474 redakcijā)*
+
+16. Projektam pieejamais publiskais finansējums, kas aprēķināts atbilstoši šo noteikumu 4. pielikumā minētajai publiskā finansējuma sadalījuma metodikai (izņemot šo noteikumu 16.5., 16.7., 16.11. un 16.12. apakšpunktā minētos gadījumus) un ko veido Eiropas Reģionālās attīstības fonda finansējums un valsts budžeta finansējums, ir šāds:
+
+16.1. Daugavpils Universitātei – 2 916 200 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 2 478 770 *euro* un valsts budžeta līdzfinansējums – 437 430 *euro*), ja īsteno šo noteikumu 22.3. apakšpunktā minēto zinātnisko institūciju konsolidāciju ar Latvijas Hidroekoloģijas institūtu un nodrošina šo noteikumu 20.8. apakšpunktā minēto nosacījumu izpildi;
+
+16.2. Elektronikas un datorzinātņu institūtam – ne vairāk kā 892 034 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – ne vairāk kā 758 228 *euro* un valsts budžeta līdzfinansējums – ne vairāk kā 133 806 *euro*);
+
+16.3. Latvijas Biomedicīnas pētījumu un studiju centram – 3 100 037 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 2 635 031 *euro* un valsts budžeta līdzfinansējums – 465 006 *euro*);
+
+16.4. Latvijas Biozinātņu un tehnoloģiju universitātei – 15 873 719 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 13 492 662 *euro* un valsts budžeta līdzfinansējums – 2 381 057 *euro*), ja īsteno šo noteikumu 22.3. apakšpunktā minēto zinātnisko institūciju konsolidāciju ar sabiedrību ar ierobežotu atbildību "Latvijas Augu aizsardzības pētniecības centrs" un nodrošina šo noteikumu 20.8. apakšpunktā minēto nosacījumu izpildi;
+
+16.5. Latvijas Organiskās sintēzes institūtam – 9 585 297 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 8 147 502 *euro* un valsts budžeta līdzfinansējums – 1 437 795 *euro*), ja Eiropas Komisijas Pētniecības izpildaģentūra neapstiprina BBCE projektu;
+
+16.6. Latvijas Universitātei – 28 254 823 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 24 016 606 *euro* un valsts budžeta līdzfinansējums – 4 238 217 *euro*);
+
+16.7. Latvijas Universitātes Cietvielu fizikas institūtam – 8 320 196 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 7 072 166 *euro* un valsts budžeta līdzfinansējums – 1 248 030 *euro*), ja Eiropas Komisijas Pētniecības izpildaģentūra neapstiprina Eiropas Savienības pētniecības un inovāciju pamatprogrammas "Apvārsnis 2020" apakšprogrammas "WIDESPREAD 1-2014: Teaming" projektu "Viedo materiālu pētījumu un tehnoloģiju pārneses ekselences centrs – CAMART2" (*The Excellence Centre of Advanced Material Research and Technology Transfer*) (turpmāk – CAMART2 projekts);
+
+16.8. Latvijas Valsts koksnes ķīmijas institūtam – 3 519 493 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 2 991 569 *euro* un valsts budžeta līdzfinansējums – 527 924 *euro*);
+
+16.9. Latvijas Valsts mežzinātnes institūtam "Silava" – 6 068 271 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 5 158 030 *euro* un valsts budžeta līdzfinansējums – 910 241 *euro*);
+
+16.10. Pārtikas drošības, dzīvnieku veselības un vides zinātniskajam institūtam "BIOR" – 6 128 121 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 5 208 902 *euro* un valsts budžeta līdzfinansējums – 919 219 *euro*);
+
+16.11. Rīgas Stradiņa universitātei – 3 545 200 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 3 013 420 *euro* un valsts budžeta līdzfinansējums – 531 780 *euro*), ja Eiropas Komisijas Pētniecības izpildaģentūra neapstiprina BBCE projektu;
+
+16.12. Rīgas Tehniskajai universitātei – ne vairāk kā 25 230 312 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – ne vairāk kā 21 445 764 *euro* un valsts budžeta līdzfinansējums – ne vairāk kā 3 784 548 *euro*), ja Eiropas Komisijas Pētniecības izpildaģentūra neapstiprina BBCE projektu;
+
+16.13. Ventspils Augstskolai – 1 567 694 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 1 332 539 *euro* un valsts budžeta līdzfinansējums – 235 155 *euro*);
+
+16.14. Vidzemes Augstskolai – ne vairāk kā 532 111 *euro* (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – ne vairāk kā 452 293 *euro* un valsts budžeta līdzfinansējums – ne vairāk kā 79 818 *euro*), ja īsteno šo noteikumu 22.3. apakšpunktā minēto zinātnisko institūciju konsolidāciju ar Vidzemes Augstskolas aģentūru "Sociotehnisko sistēmu inženierijas institūts" un nodrošina šo noteikumu 20.8. apakšpunktā minēto nosacījumu izpildi.
+
+*(Grozīts ar MK 08.08.2017. noteikumiem Nr. 442; MK 15.10.2019. noteikumiem Nr. 474; MK 12.05.2020. noteikumiem Nr. 286; MK 03.11.2020. noteikumiem Nr. 658; MK 22.09.2026. noteikumiem Nr. 568)*
+
+17. Ja šo noteikumu 16.1., 16.4. vai 16.14. apakšpunktā minētās zinātniskās institūcijas nenodrošina šo noteikumu 20.8. apakšpunktā minēto nosacījumu izpildi:
+
+17.1. atbildīgā iestāde pārrēķina šo noteikumu 16. punktā minētā publiskā finansējuma apmēru un veic nepamatoti piešķirtā publiskā finansējuma pārdali (ja attiecināms) (turpmāk – pārrēķins) atbilstoši šo noteikumu 3. pielikumā minētajai publiskā finansējuma sadalījuma aprēķināšanas metodikai, un piecu darbdienu laikā informē šo noteikumu 12. punktā minētās zinātniskās institūcijas un sadarbības iestādi par izmaiņām šo noteikumu 9.1. apakšpunktā un 16. punktā minētā publiskā finansējuma sadalē;
+
+17.2. sadarbības iestāde saskaņā ar projektu iesniegumu atlases nolikuma prasībām šo noteikumu 16.14. apakšpunktā minēto zinātnisko institūciju neuzaicina iesniegt šo noteikumu 15.1. apakšpunktā minēto projekta iesniegumu.
+
+18. Ja Eiropas Komisijas Pētniecības izpildaģentūra apstiprina CAMART2 projektu un piešķir finansējumu tā īstenošanai, šo noteikumu 12.7. apakšpunktā minētā projekta iesniedzēja projekta kopējās attiecināmās izmaksas ir 15 320 196 *euro*, ko veido publiskais finansējums 13 320 196 *euro* apmērā (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 12 072 166 *euro* un valsts budžeta līdzfinansējums – 1 248 030 *euro*) un zinātniskās institūcijas līdzfinansējums 2 000 000 *euro* apmērā.
+
+*(Grozīts ar MK 15.10.2019. noteikumiem Nr. 474)*
+
+18.<sup>1</sup> Ja Eiropas Komisijas Pētniecības izpildaģentūra apstiprina BBCE projektu un piešķir finansējumu tā īstenošanai:
+
+18.<sup>1</sup> 1. šo noteikumu 12.5. apakšpunktā minētā finansējuma saņēmēja projekta kopējās attiecināmās izmaksas ir ne mazāk kā 12 235 602 *euro*, ko veido publiskais finansējums 11 623 822 *euro* apmērā (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 10 186 027 *euro* un valsts budžeta līdzfinansējums – 1 437 795 *euro*) un zinātniskās institūcijas līdzfinansējums ne mazāk kā 611 780 *euro* apmērā;
+
+18.<sup>1</sup> 2. šo noteikumu 12.11. apakšpunktā minētā finansējuma saņēmēja projekta kopējās attiecināmās izmaksas ir 4 390 862 *euro*, ko veido publiskais finansējums 4 171 318 *euro* apmērā (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 3 639 538 *euro* un valsts budžeta līdzfinansējums – 531 780 *euro*) un zinātniskās institūcijas līdzfinansējums 219 544 *euro* apmērā;
+
+18.<sup>1</sup> 3. šo noteikumu 12.12. apakšpunktā minētā finansējuma saņēmēja projekta kopējās attiecināmās izmaksas ir ne vairāk kā 32 689 132 *euro*, ko veido publiskais finansējums ne vairāk kā 31 054 669 *euro* apmērā (tai skaitā Eiropas Reģionālās attīstības fonda finansējums – 27 270 121 *euro* un valsts budžeta līdzfinansējums – 3 784 548 *euro*) un zinātniskās institūcijas līdzfinansējums 1 634 463 *euro* apmērā.
+
+*(MK 15.10.2019. noteikumu Nr. 474 redakcijā, kas grozīta ar MK 12.05.2020. noteikumiem Nr. 286; MK 03.11.2020. noteikumiem Nr. 658)*
+
+19. Šo noteikumu 16.6. un 16.12. apakšpunktā minētie finansējuma saņēmēji nodrošina šo noteikumu 55.3. apakšpunktā minētā nosacījuma izpildi.
+
+20. Projekta iesniedzējam un sadarbības partnerim (ja attiecināms) noteiktas šādas prasības:
+
+20.1. ja paredzēts kombinēta atbalsta projekts:
+
+20.1.1. tas nav grūtībās nonācis komersants atbilstoši Komisijas regulas Nr. 651/2014 2. panta 18. punktā noteiktajai definīcijai;
+
+20.1.2. uz to neattiecas līdzekļu atgūšanas rīkojums, kas minēts Komisijas regulas Nr. 651/2014 1. panta 4. punkta "a" apakšpunktā;
+
+20.2. tā nodokļu parādu, valsts sociālās apdrošināšanas obligāto iemaksu un citu valsts noteikto obligāto maksājumu parādu apmērs nepārsniedz 150 *euro*;
+
+20.3. tas sadarbības iestādei, atbildīgajai iestādei vai citai kompetentai institūcijai nav sniedzis nepatiesu informāciju saistībā ar Eiropas Savienības struktūrfondu līdzfinansēto projektu īstenošanu;
+
+20.4. tas nav saņēmis un neplāno saņemt finansējumu no valsts vai Eiropas Savienības līdzekļiem vai citiem finanšu resursiem par tām pašām attiecināmajām izmaksām vai pētniecības rezultātiem;
+
+20.5. projekta iesniedzējs atbilstoši zinātnisko darbību reglamentējošiem normatīvajiem aktiem atbildīgajā iestādē ir iesniedzis publiskos pārskatus par zinātnisko darbību par pēdējiem trim noslēgtajiem pārskata gadiem, apgrozījuma pārskatus un finanšu vadības un grāmatvedības politikas aprakstu, kas pamato zinātniskās institūcijas atbilstību pētniecības organizācijas definīcijai;
+
+20.6. ja kāda no nozarēm, kurā darbojas projekta iesniedzējs un sadarbības partneris, nav atbalstāma un projekta iesniedzējs un sadarbības partneris pretendē uz projekta īstenošanu atbalstāmajā nozarē, projekta iesniedzējs un sadarbības partneris projekta ietvaros skaidri nodala darbības atbalstāmajās nozarēs un ar to īstenošanu saistītās finanšu plūsmas no citu nozaru darbībām un finanšu plūsmām projekta īstenošanas laikā un piecus gadus pēc noslēguma maksājuma veikšanas;
+
+20.7. ja projekta iesniedzējs un sadarbības partneris veic gan saimnieciskas darbības, gan darbības, kurām nav saimnieciska rakstura, tas nodala darbību veidus un to izmaksas, finansējumu un ieņēmumus tā, lai efektīvi novērstu saimnieciskās darbības šķērssubsidēšanu;
+
+20.8. lai saņemtu sadarbības iestādes uzaicinājumu iesniegt šo noteikumu 15.1. apakšpunktā minēto projekta iesniegumu, projekta iesniedzējs 20 darbdienu laikā pēc šo noteikumu spēkā stāšanās dienas atbildīgajā un sadarbības iestādē iesniedz:
+
+20.8.1. projekta iesniedzēja finanšu vadības un grāmatvedības politikas aprakstu un apgrozījuma pārskatus (5. pielikums) par pēdējiem trim noslēgtajiem pārskata gadiem, kas pamato projekta iesniedzēja atbilstību pētniecības organizācijas definīcijai;
+
+20.8.2. zinātnisko institūciju reorganizācijas plānu un reorganizējamo institūciju lēmējinstitūciju (augstskolas senāta vai zinātniskā institūta zinātniskās padomes, ievērojot projekta iesniedzēja un sadarbības partnera juridisko statusu) lēmumus par zinātnisko institūciju reorganizāciju, kuros iekļauta informācija par konsolidējamajām un jaunajām funkcionālajām vienībām, kuras plānots izveidot pēc zinātnisko institūciju reorganizācijas, ja projekta iesniedzējs un sadarbības partneris pretendē uz šo noteikumu 22.3. apakšpunktā minēto atbalstu;
+
+20.8.3. Latvijas Zinātnes padomes atzinumu par valsts zinātniskā institūta reorganizāciju, ja projekta iesniedzējs un sadarbības partneris pretendē uz šo noteikumu 22.3. apakšpunktā minēto atbalstu;
+
+20.9. projekta iesniedzējs un sadarbības partneris, kas atbilst pētniecības organizācijas definīcijai, nodala:
+
+20.9.1. ar saimniecisko darbību nesaistītās pamatdarbības (un ar tām saistītās finanšu plūsmas) no saimnieciskajām pamatdarbībām;
+
+20.9.2. pamatdarbības un ar tām saistītās finanšu plūsmas no pārējām zinātniskās institūcijas darbībām un ar tām saistītajām finanšu plūsmām;
+
+20.10. projekta iesniedzējs un sadarbības partneris sniedz datus par tā rīcībā esošo un projekta ietvaros izveidoto vai iegādāto pētniecības infrastruktūru Nacionālajā zinātniskās darbības informācijas sistēmā.
+
+*(Grozīts ar MK 12.05.2020. noteikumiem Nr. 286)*
+
+21. Pasākuma ietvaros var īstenot šādus projektus:
+
+21.1. ar saimniecisku darbību nesaistītu projektu, ja finansējuma saņēmējs un sadarbības partneris atbilst pētniecības organizācijas definīcijai un projekta ietvaros modernizēto infrastruktūru tās amortizācijas periodā izmanto šādu darbību īstenošanai:
+
+21.1.1. pētniecības organizācijas darbībai, kurai nav saimnieciska rakstura;
+
+21.1.2. papildinošai saimnieciskajai darbībai;
+
+21.1.3. papildpakalpojumiem, tai skaitā ēdināšanas, autostāvvietu, kopēšanas un citiem pakalpojumiem, kurus sniedz pētniecībā nodarbinātam personālam, lai finansējuma saņēmējs vai sadarbības partneris īstenotu ar saimniecisku darbību nesaistītas pamatdarbības, ja minētie papildpakalpojumi neietekmē tirdzniecību starp Eiropas Savienības dalībvalstīm (pakalpojumi ir vietēji);
+
+21.2. kombinēta atbalsta projektu, kuru veido šādi apakšprojekti:
+
+21.2.1. ar saimniecisku darbību nesaistīta projekta daļa, uz kuru attiecināmi ar saimniecisku darbību nesaistīta projekta nosacījumi, tai skaitā šo noteikumu 21.1.2. un 21.1.3. apakšpunkts;
+
+21.2.2. ar saimniecisku darbību saistīta projekta daļa, kuras ietvaros modernizēto infrastruktūru tās amortizācijas periodā izmanto pētniecības organizācijas saimnieciskajā pamatdarbībā.
+
+*(MK 03.11.2020. noteikumu Nr. 658 redakcijā, kas grozīta ar MK 22.09.2026. noteikumiem Nr. 568)*
+
+21.<sup>1</sup> Finansējuma saņēmējs un sadarbības partneris ar saimniecisku darbību nesaistīta projekta vai projekta daļas ietvaros modernizēto infrastruktūru izmanto, ievērojot šādus nosacījumus:
+
+21.<sup>1</sup> 1. pakalpojumu sniedz par pašizmaksu, neietverot to nolietojuma izmaksu daļu, kas tiek segta no publiskā finansējuma, un neiekļaujot uzcenojumu, ja pētniecības infrastruktūras lietotājs (trešā puse) ir zinātnisko institūciju reģistrā reģistrēta zinātniskā institūcija, kas atbilst pētniecības organizācijas definīcijai un pētniecības infrastruktūru izmanto ar saimniecisku darbību nesaistītas pamatdarbības veikšanai;
+
+21.<sup>1</sup> 2. pakalpojumu sniedz par tirgus cenu, ja pētniecības infrastruktūras lietotājs (trešā puse) pētniecības infrastruktūru izmanto saimnieciskās pamatdarbības veikšanai.
+
+*(MK 03.11.2020. noteikumu Nr. 658 redakcijā)*
+
+21.<sup>2</sup> Finansējuma saņēmējs un sadarbības partneris institūcijas finanšu vadības un grāmatvedības politikas aprakstā ietver kārtību, kādā institūcija nodrošina projekta atbilstību šo noteikumu 2.5. apakšpunktā, 21. un 21.<sup>1</sup> punktā minētajiem nosacījumiem.
+
+*(MK 03.11.2020. noteikumu Nr. 658 redakcijā)*
+
+21.<sup>3</sup> Šo noteikumu 21.1.2. apakšpunktā minētajā gadījumā sadarbības iestāde saskaņā ar atbildīgās iestādes izstrādāto ikgadējo publiskā finansējuma uzraudzības un atgūšanas mehānismu nodrošina uzraudzību attiecībā uz veikto investīciju atbilstību papildinošas saimnieciskās darbības nosacījumiem visā projekta dzīves ciklā. Finansējuma saņēmējs visā projekta dzīves ciklā katru gadu sagatavo pārskatu par papildinošas saimnieciskās darbības apjomu un nodrošina šajā punktā minēto pārskatu un aprēķinus pamatojošo dokumentu pieejamību papildinošas saimnieciskās darbības uzraudzībai. Ja finansējuma saņēmējs konstatē, ka ir pārsniegts 20 procentu ierobežojums no infrastruktūras gada jaudas laika vai finanšu izteiksmē vai ka veiktās investīcijas tiek izmantotas citai saimnieciskajai darbībai, kas nav uzskatāma par papildinošu saimniecisko darbību, tas saskaņā ar vienošanos par projekta īstenošanu noteiktajā termiņā iesniedz sadarbības iestādē ziņojumu par konstatēto pārkāpumu.
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā; sk. 71. punktu)*
+
+21.<sup>4</sup> Sadarbības iestādei ir tiesības projekta dzīves cikla laikā pieprasīt finansējuma saņēmējam papildinošas saimnieciskās darbības pārskatus, tai skaitā gadījumā, ja no finansējuma saņēmēja, kompetentajām iestādēm vai trešajām personām saņemta informācija par papildinošas saimnieciskās darbības nosacījumu pārkāpumu.
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+## III. Atbalstāmās darbības un vispārīgie finansēšanas nosacījumi
+
+22. Pasākuma ietvaros atbalstāmas šādas darbības:
+
+22.1. projekta tehniskā priekšizpēte;
+
+22.2. pētniecības infrastruktūras attīstība;
+
+22.3. zinātnisko institūciju konsolidācija (darbībām nav saimnieciska rakstura);
+
+22.4. projekta īstenošanas informācijas un publicitātes pasākumi;
+
+22.5. projekta vadība un īstenošana.
+
+23. Šo noteikumu 12.2., 12.3., 12.5., 12.6., 12.7., 12.8., 12.9., 12.10., 12.11., 12.12. un 12.13. apakšpunktā minētā zinātniskā institūcija var īstenot šo noteikumu 22.1., 22.2., 22.4. un 22.5. apakšpunktā minētās darbības.
+
+24. Šo noteikumu 16.1., 16.4. un 16.14. apakšpunktā minētās zinātniskās institūcijas var īstenot šo noteikumu 22. punktā minētās darbības.
+
+25. Projekta īstenošanas rezultātā sagaidāma šādu finansējuma saņēmēja attīstības stratēģijā noteikto virzienu attīstība:
+
+25.1. cilvēkresursu attīstība, ko raksturo zinātniskā personāla skaita pieaugums;
+
+25.2. zinātniskās kapacitātes un konkurētspējas attīstība, ko raksturo viens vai vairāki šādi rezultāta rādītāji:
+
+25.2.1. zinātnisko rakstu skaita pieaugums *Web of Science* datubāzēs un *Scopus* žurnālos;
+
+25.2.2. to zinātnisko rakstu skaita pieaugums, kuru citēšanas indekss sasniedz vismaz 50 procentus no nozares vidējā citēšanas indeksa;
+
+25.2.3. pētniecībai paredzētā ārvalstu finansējuma īpatsvara pieaugums;
+
+25.2.4. sekmības rādītāja (procentos) pieaugums, lai piedalītos Eiropas Savienības pētniecības un inovācijas programmu un tehnoloģiju ierosmju ietvaros izsludinātajos konkursos;
+
+25.3. pētniecības atbilstība tautsaimniecības vajadzībām un pētniecības rezultātu komercializācija:
+
+25.3.1. tehnoloģiju tiesību (zinātība un citas tiesības vai to kombinācija, tostarp minēto tiesību pieteikumi vai reģistrācijas pieteikumi, kas atbilst Eiropas Komisijas 2014. gada 21. marta Regulas Nr. 316/2014 par Līguma par Eiropas Savienības darbību 101. panta 3. punkta piemērošanu tehnoloģiju nodošanas nolīgumu kategorijām (turpmāk – Komisijas regula Nr. 316/2014) 1. panta "b" apakšpunktā noteiktajai definīcijai) reģistrāciju skaita pieaugums;
+
+25.3.2. noslēgto intelektuālā īpašuma (tehnoloģiju tiesību) licences līgumu skaita pieaugums.
+
+26. Pasākuma ietvaros atbalstu sniedz, ja projekta iesniegumam pievienotā projekta izmaksu un ieguvumu analīze pamato projekta finanšu ilgtspēju un sociālekonomisko atdevi. Izmaksu un ieguvumu analīzi veic, ievērojot šādus nosacījumus:
+
+26.1. projekta dzīves cikls ir 20 gadi;
+
+26.2. finansiālo un ekonomisko diskonta likmi nosaka atbilstoši aktuālajām makroekonomikas prognozēm;
+
+26.3. finanšu plūsmas aprēķinus (investīcijas, ieņēmumus, sociālekonomiskos ieguvumus ((monetārā izteiksmē) un izdevumus) pamato aktuālajai tirgus situācijai atbilstoši pieņēmumi;
+
+26.4. finanšu plūsmas prognozes pamato neatkarīgu trešo personu sagatavoti statistikas dati;
+
+26.5. finanšu plūsmas aprēķinos ietver:
+
+26.5.1. projekta ieņēmumu un sociālekonomisko ieguvumu prognozes ar cenu līmeņa analīzi, pieprasījuma un piedāvājuma analīzi, konkurentu analīzi un nozares attīstības prognozēm;
+
+26.5.2. projekta investīciju un izdevumu prognozes, tai skaitā detalizētu izmaksu identifikāciju, ko pamato izmaksu līmeņa analīze un turpmākās dinamikas prognoze;
+
+26.5.3. detalizētu un pamatotu investīciju plānu ar tehnisko priekšlikumu vai tehnisko plānu un iekārtu (aprīkojuma) tirgus cenu analīzi;
+
+26.5.4. detalizētu finansēšanas plānu, tai skaitā kredīta saņemšanas un atmaksāšanas plānu ar procentu maksājumu aprēķinu, ja plānots piesaistīt īstermiņa vai ilgtermiņa kredītu finansējumu;
+
+26.6. finanšu plūsmā iekļauj 1.1.1.4. pasākuma projekta un saistītā 8.1.1. specifiskā atbalsta mērķa "Palielināt modernizēto STEM, tajā skaitā medicīnas un radošās industrijas, studiju programmu skaitu" projekta (ja attiecināms) investīcijas, ieņēmumus, sociālekonomiskos ieguvumus (monetārā izteiksmē) un izdevumus, aprēķinot abu saistīto projektu sociālekonomisko atdevi un pamatojot saistīto projektu finansiālo ilgtspēju.
+
+27. Projekta ietvaros var plānot šādus izmaksu veidus:
+
+27.1. tiešās attiecināmās izmaksas;
+
+27.2. netiešās attiecināmās izmaksas;
+
+27.3. neparedzētās izmaksas ar saimniecisku darbību nesaistītu projektu īstenošanai;
+
+27.4. neattiecināmās izmaksas.
+
+*(MK 20.06.2017. noteikumu Nr. 342 redakcijā)*
+
+28. Šo noteikumu 22.1. apakšpunktā minētās projekta tehniskās priekšizpētes ietvaros atbalstāmas šādas darbības:
+
+28.1. projekta izmaksu un ieguvumu analīzes izstrāde, kas ietver finanšu analīzi, sociālekonomisko analīzi un jutīguma analīzi;
+
+28.2. būvdarbu tehniskās dokumentācijas izstrāde un saskaņošana būvniecību regulējošos normatīvajos aktos paredzētajā kārtībā;
+
+28.3. pētniecības infrastruktūras lietotāju stratēģijas izstrāde, kurā sniegta informācija par jautājumiem, kas saistīti ar intelektuālā īpašuma tiesību sadalījumu, savstarpējo norēķinu kārtību, pētniecības infrastruktūras pieejas nosacījumiem un noslodzes sadalījumu, kā arī iegūto zināšanu un datu izmantošanas nosacījumiem;
+
+28.4. zinātniskās institūcijas attīstības stratēģijas izstrāde vai pilnveide atbilstoši zinātnes ārējā novērtējuma rekomendācijām, viedās specializācijas stratēģijai un šo noteikumu 1. pielikuma nosacījumiem, ja finansējuma saņēmējs un sadarbības partneris nav saņēmis atbalstu ES struktūrfondu 2007.–2013. gada plānošanas perioda 2.1.1.3.3. apakšaktivitātes "Zinātnisko institūciju institucionālās kapacitātes attīstība" ietvaros;
+
+28.5. pētniecības infrastruktūras pilnveides vai modernizācijas iepirkumu dokumentācijas izstrāde.
+
+29. Projekta tehniskās priekšizpētes ietvaros tiešās attiecināmās izmaksas var veidot šādas izmaksu pozīcijas:
+
+29.1. projekta izmaksu un ieguvumu analīzes izstrādes izmaksas;
+
+29.2. būvdarbu tehniskās dokumentācijas izstrādes izmaksas, tai skaitā:
+
+29.2.1. būvprojekta izstrāde;
+
+29.2.2. būvprojekta minimālā stadijā izmaksas, kas nepieciešamas būvatļaujas saņemšanai, tehniskā projekta izstrādes izmaksas un tehniskā projekta ekspertīzes izmaksas;
+
+29.2.3. inženierizpētes (ģeodēziskā un topogrāfiskā izpēte, ģeotehniskā izpēte, hidrometeroloģiskā izpēte) un energosertifikācijas izmaksas;
+
+29.3. pētniecības infrastruktūras lietotāju (līdzēju) stratēģijas izstrādes izmaksas;
+
+29.4. zinātniskās institūcijas (tai skaitā jaunās funkcionālās vienības) attīstības stratēģijas izstrādes vai pilnveides izmaksas, ievērojot šo noteikumu 28.4. apakšpunkta nosacījumus;
+
+29.5. pētniecības infrastruktūras pilnveides vai modernizācijas iepirkumu dokumentācijas izstrādes izmaksas.
+
+*(Grozīts ar MK 20.06.2017. noteikumiem Nr. 342)*
+
+30. Šo noteikumu 22.2. apakšpunktā minētās pētniecības infrastruktūras attīstības ietvaros atbalstāmas šādas darbības:
+
+30.1. būvniecība, tai skaitā:
+
+30.1.1. jaunas būves būvniecība;
+
+30.1.2. būves atjaunošana, būves restaurācija, ēku vai telpu pārbūve vai atjaunošana;
+
+30.1.3. ēku un telpu pielāgošana pētniecības aprīkojuma un aparatūras uzstādīšanai;
+
+30.1.4. būvuzraudzība un autoruzraudzība;
+
+30.2. zinātniskās aparatūras, aprīkojuma, instrumentu komplektu, informācijas un komunikāciju tehnoloģiju un citu materiālo aktīvu iegāde vai izveide, piegāde, uzstādīšana, testēšana un apkalpojošā personāla instruktāža;
+
+30.3. zinātnisko institūciju bilancē uzņemto materiālo aktīvu demontāža, pārvietošana, uzstādīšana vai pielāgošana, ja plānots īstenot šo noteikumu 31.1. apakšpunktā minēto darbību;
+
+30.4. nemateriālo aktīvu iegāde vai izveide;
+
+30.5. resursu un rezultātu vadības sistēmas izveide vai pilnveide.
+
+31. Pētniecības infrastruktūras attīstības ietvaros noteiktās tiešās attiecināmās izmaksas var veidot šādas izdevumu pozīcijas:
+
+31.1. būvdarbu izmaksas, tai skaitā:
+
+31.1.1. jaunas būves būvniecība;
+
+31.1.2. būves atjaunošana (būves nesošo elementu vai konstrukciju nomaiņa vai funkcionāli vai tehniski uzlabojumi, nemainot būves apjomu vai nesošo elementu nestspēju);
+
+31.1.3. būves restaurācija (zinātniski pamatota būves vai tās daļas atjaunošana, lietojot oriģinālam atbilstošus materiālus, paņēmienus vai tehnoloģijas);
+
+31.1.4. ēku vai telpu pārbūve (būves vai tās daļas apjoma maiņa vai nesošo elementu vai konstrukciju pastiprināšana, mainot vai nemainot lietošanas veidu) vai atjaunošana;
+
+31.1.5. ēku un telpu pielāgošana pētniecības aprīkojuma un aparatūras uzstādīšanai;
+
+31.1.6. būvobjekta teritorijas labiekārtošana, kas nodrošina modernizētās pētniecības infrastruktūras nodošanu ekspluatācijā (darbībām nav saimnieciska rakstura);
+
+31.2. zinātniskās aparatūras, aprīkojuma, instrumentu komplektu, informācijas un komunikāciju tehnoloģijas infrastruktūras un citu materiālo aktīvu iegādes vai izveides izmaksas;
+
+31.3. nemateriālo aktīvu iegādes vai izveides izmaksas, ja darījums ir veikts konkurences apstākļos un nav bijis slepenu norunu;
+
+31.4. darba vietu aprīkojuma (mēbeles un tehnika, datorprogrammas un licences) izmaksas zinātniskajam personālam ne vairāk kā 3000 *euro* apmērā vienai darba vietai. Ja zinātniskais personāls ir nodarbināts nepilnu darba laiku vai daļlaiku, darba vietas aprīkojuma iegādes izmaksas ir attiecināmas proporcionāli slodzes procentuālajam sadalījumam;
+
+31.5. ar pētniecības infrastruktūras izveidi vai iegādi saistītās pakalpojumu izmaksas:
+
+31.5.1. būvuzraudzības un autoruzraudzības izmaksas;
+
+31.5.2. materiālo aktīvu piegādes, uzstādīšanas, testēšanas, kalibrēšanas, standartizācijas, validācijas un aprobācijas izmaksas un apkalpojošā personāla instruktāžas izmaksas, kas nav uzturēšanas izmaksas un kas ir saistītas ar ilgtermiņa ieguldījuma (materiālo aktīvu) sagatavošanu izmantošanai paredzētajiem mērķiem līdz brīdim, kad to nodod ekspluatācijā;
+
+31.5.3. materiālo aktīvu demontāžas, pārvietošanas un ar pētniecības rezultātu atkārtojamības nodrošināšanu saistītu pakalpojumu izmaksas šo noteikumu 31.1. apakšpunktā minētajā gadījumā.
+
+32. Finansējuma saņēmējs šo noteikumu 30.1.1. apakšpunktā minētās jaunas ēkas būvniecības nepieciešamību pamato, balstoties uz zinātniskās institūcijas attīstības stratēģijā iekļautajiem pētniecības infrastruktūras attīstības plāniem, kas saskaņoti ar attiecīgās nozares asociāciju.
+
+33. Šo noteikumu 29.2. un 31.5.1. apakšpunktā minētās izmaksas nepārsniedz 10 procentus no būvdarbu līguma summas.
+
+34. Šo noteikumu 22.3. apakšpunktā minētās zinātnisko institūciju konsolidācijas ietvaros finansējumu piešķir šādām atbalstāmajām darbībām:
+
+34.1. zinātniskās institūcijas funkciju un uzdevumu ārējais audits un institucionālās pārvaldības modeļa izstrāde;
+
+34.2. zinātniskās institūcijas resursu un rezultātu vadības sistēmas pilnveide, tai skaitā:
+
+34.2.1. uz rezultātu orientētas motivācijas (tai skaitā atalgojuma) sistēmas ieviešana;
+
+34.2.2. projekta ietvaros pilnveidotās finanšu vadības un grāmatvedības politikas gala (*ex-post*) audits;
+
+34.2.3. finanšu vadības un grāmatvedības programmatūras iegāde, izveide, funkcionalitātes paplašināšana vai savietošana un lietošanas instruktāža;
+
+34.3. zinātnisko institūciju reorganizācijai nepieciešamo juridiska rakstura dokumentu izstrāde, tai skaitā nekustamo īpašumu inventarizācija, kustamās un nekustamās mantas pārreģistrēšana, zinātniskās institūcijas dokumentācijas arhivēšana.
+
+35. Zinātnisko institūciju konsolidācijas pasākumu ietvaros tiešās attiecināmās izmaksas var veidot šādas izmaksu pozīcijas:
+
+35.1. ārējo pakalpojumu izmaksas:
+
+35.1.1. konsultantu un ekspertu atlīdzība un ar to saistītās izmaksas;
+
+35.1.2. zvērināta revidenta pakalpojumi;
+
+35.1.3. audita pakalpojumi;
+
+35.1.4. finanšu vadības un grāmatvedības pakalpojumi;
+
+35.1.5. juridiskie pakalpojumi;
+
+35.1.6. tulkošanas pakalpojumi;
+
+35.1.7. materiālo aktīvu demontāžas, pārvietošanas, uzstādīšanas, testēšanas, kalibrēšanas un citi ar pētniecības rezultātu atkārtojamības nodrošināšanu saistīti pakalpojumi;
+
+35.1.8. finansējuma saņēmēja un sadarbības partnera attīstības stratēģijā paredzētā attīstības projekta tehniskās dokumentācijas sagatavošana;
+
+35.1.9. arhivēšanas pakalpojumi;
+
+35.2. zinātniskās institūcijas resursu un rezultātu vadības sistēmas pilnveides izmaksas, tai skaitā:
+
+35.2.1. uz rezultātu orientētas motivācijas (tai skaitā atalgojuma) sistēmas ieviešanas izmaksas;
+
+35.2.2. finanšu vadības un grāmatvedības programmatūras iegāde, izveide, funkcionalitātes paplašināšana vai savietošana un tās lietošanas instruktāža.
+
+36. Ar saimniecisku darbību nesaistītam projektam un kombinēta atbalsta projekta ar saimniecisko darbību nesaistītajai daļai šo noteikumu 27.2. apakšpunktā minētās netiešās attiecināmās izmaksas plāno kā vienu izmaksu pozīciju, piemērojot netiešo izmaksu vienoto likmi 15 procentu apmērā no šo noteikumu 38.1. un 38.2. apakšpunktā minētajām projekta tiešajām attiecināmajām personāla atlīdzības izmaksām.
+
+37. Pasākuma ietvaros attiecināmas informācijas un publicitātes izmaksas atbilstoši normatīvajiem aktiem par kārtību, kādā Eiropas Savienības struktūrfondu un Kohēzijas fonda ieviešanā 2014.–2020. gada plānošanas periodā nodrošināma komunikācijas un vizuālās identitātes prasību ievērošana šo noteikumu 22.4. apakšpunktā minētās atbalstāmās darbības īstenošanai:
+
+37.1. pilnā apmērā, ja īsteno ar saimniecisku darbību nesaistītu projektu;
+
+37.2. daļēji, ja īsteno kombinēta atbalsta projektu. Šajā gadījumā attiecināmo informācijas un publicitātes izmaksu apmēru nosaka atbilstoši šo noteikumu 3. pielikumam.
+
+38. Šo noteikumu 22.5. apakšpunktā minētās atbalstāmās darbības nodrošināšanai tiešās attiecināmās izmaksas var veidot šādas izmaksu pozīcijas:
+
+38.1. projekta vadības personāla atlīdzības izmaksas, izņemot virsstundas;
+
+38.2. projekta īstenošanas personāla atlīdzības izmaksas (izņemot virsstundas). Ja īstenošanas personāla iesaiste projektā ir nodrošināta saskaņā ar daļlaika attiecināmības principu, attiecināma ir ne mazāk kā 30 procentu noslodze noteiktā laikposmā (vismaz viens mēnesis);
+
+38.3. jaunu darba vietu radīšanai vai esošo darba vietu atjaunošanai nepieciešamā aprīkojuma (biroja mēbeles un tehnika, datorprogrammas un licences) iegādes izmaksas. Darba vietas aprīkojuma iegādes izmaksas, tai skaitā aprīkojuma uzturēšanas un remonta izmaksas, attiecināmas ne vairāk kā 3000 *euro* apmērā vienai darba vietai visā projekta īstenošanas laikā. Ja projekta vadības un īstenošanas personāls ir nodarbināts normālo darba laiku, darba vietas aprīkojuma iegādes izmaksas ir attiecināmas 100 procentu apmērā. Ja personāls ir nodarbināts nepilnu darba laiku vai daļlaiku, darba vietas aprīkojuma iegādes izmaksas ir attiecināmas proporcionāli slodzes procentuālajam sadalījumam.
+
+39. Plānojot šo noteikumu 38.1. apakšpunktā minētās projekta vadības personāla atlīdzības izmaksas, ievēro šādus nosacījumus:
+
+39.1. finansējuma saņēmējs nodrošina, ka projekta vadības personāls uz darba līguma pamata ir nodarbināts projektā normālo darba laiku vai nepilnu darba laiku ne mazāk kā 30 procentu apmērā no normālā darba laika, attiecīgi veicot projekta vadības personāla darba laika uzskaiti par veiktajām funkcijām un nostrādāto laiku. Ja personāla iesaiste projektā ir nodrošināta saskaņā ar daļlaika attiecināmības principu, attiecināma ir ne mazāk kā 30 procentu noslodze;
+
+39.2. attiecībā uz projekta vadības personāla izmaksu apmēru ievēro šādus ierobežojumus:
+
+39.2.1. projektiem ar tiešajām attiecināmajām izmaksām 5 000 000 *euro* un vairāk – līdz 56 580 *euro* gadā;
+
+39.2.2. projektiem ar tiešajām attiecināmajām izmaksām līdz 5 000 000 *euro* ierobežojumu aprēķina ar minimālo izmaksu bāzi 24 426 *euro* gadā, pieskaitot 0,64 procentus no projekta tiešajām attiecināmajām izmaksām, bet neieskaitot projekta vadības personāla izmaksas;
+
+39.2.3. par nepilnu kalendāra gadu fiksēto summu aprēķina proporcionāli projekta mēnešu skaitam.
+
+40. Slēdzot pakalpojuma (uzņēmuma) līgumus, darba devēja valsts sociālās apdrošināšanas obligāto iemaksu izmaksas ir attiecināmas, ja:
+
+40.1. pakalpojuma sniedzējs ir fiziska persona, kas nav reģistrējusies Valsts ieņēmumu dienestā kā pašnodarbināta persona;
+
+40.2. pakalpojuma sniedzējs ir reģistrēts Valsts ieņēmumu dienestā kā finansējuma saņēmēja darba ņēmējs.
+
+41. Pasākuma ietvaros nav attiecināmas šādas izmaksas:
+
+41.1. izmaksas, kas radušās pēc projekta īstenošanas termiņa beigām vai par kurām maksājumi veikti vēlāk nekā 20 darbdienas pēc projekta īstenošanas termiņa beigām;
+
+41.2. izmaksas, kas nav tieši saistītas ar finansējuma saņēmēja projekta ietvaros veiktajām darbībām un nav pamatotas ar izmaksas attaisnojošiem dokumentiem vai ir radušās normatīvo aktu prasību neievērošanas dēļ;
+
+41.3. izmaksas, kas neatbilst pamatotas finanšu vadības principiem, īpaši naudas vērtībai un izmaksu efektivitātei;
+
+41.4. samaksa par aizdevuma izskatīšanu, noformēšanu, rezervēšanu un apkalpošanu, maksa par finanšu darījumiem, nokavējuma procenti, līgumsodi un tiesvedības izdevumi;
+
+41.5. finansējuma saņēmēja projekta un pētniecības pieteikuma īstenošanai nepieciešamā konta atvēršanas un uzturēšanas izmaksas;
+
+41.6. izmaksas, kas radušās laikposmā, kas neatbilst šo noteikumu 56. un 59. punkta nosacījumiem;
+
+41.7. izmaksas, kas pārsniedz šo noteikumu 33., 36., 38. un 39. punktā minētos ierobežojumus.
+
+42. Pievienotās vērtības nodoklis ir attiecināmās izmaksas, ja tas nav atgūstams atbilstoši Latvijas Republikas normatīvajiem aktiem nodokļu politikas jomā.
+
+43. Finansējuma saņēmējs nodrošina, ka:
+
+43.1. būvprojekta izstrāde tiek veikta atbilstoši būvniecībai pieejamajam izmaksu apjomam, tostarp analizējot materiālu, ēku vai telpu tehnoloģiskos un funkcionālos risinājumus;
+
+43.2. būvprojekts tiek izstrādāts vairākās kārtās, nosakot prioritāru darbu veikšanas secību, vienlaikus nodrošinot zinātniskās institūcijas attīstības stratēģijā un pētniecības programmā plānoto projekta mērķu sasniegšanu;
+
+43.3. būvdarbu iepirkuma dokumentācijā tiek paredzēta kārtība, kā rīkoties, ja piedāvātā līgumcena pārsniedz plānoto līgumcenu, vienlaikus nodrošinot zinātniskās institūcijas attīstības stratēģijā un pētniecības programmā plānoto projekta mērķu sasniegšanu;
+
+43.4. būvdarbu līgumā tiek iekļauti preventīvi pasākumi izmaksu sadārdzinājuma riska novēršanai;
+
+43.5. ir izstrādāts mehānisms pētniecības specifisko prasību apzināšanai un nodrošināšanai iepirkuma dokumentācijas izstrādē un būvdarbu īstenošanā.
+
+44. Pasākuma projektu īstenošanā finansējuma saņēmējs un sadarbības partneris var izmantot vides prasību integrāciju preču, pakalpojumu un būvdarbu iepirkumos (zaļais publiskais iepirkums).
+
+## IV. Ar saimniecisku darbību nesaistīta projekta īstenošanas nosacījumi
+
+45. Ar saimniecisku darbību nesaistītam projektam maksimālais attiecināmais publiskā finansējuma apmērs ir 95 procenti, ievērojot, ka Eiropas Reģionālās attīstības fonda un valsts budžeta finansējums nepārsniedz šo noteikumu 16. vai 18. punktā un 18.<sup>1</sup> punktā minēto publiskā finansējuma apmēru.
+
+*(MK 15.10.2019. noteikumu Nr. 474 redakcijā)*
+
+46. Ar saimniecisku darbību nesaistīta projekta ietvaros:
+
+46.1. nepieciešamo līdzfinansējumu 5 procentu apmērā finansējuma saņēmējs un sadarbības partneris nodrošina no finansējuma saņēmēja un sadarbības partnera rīcībā esošā saimnieciskās darbības rezultātā gūtā privātā finansējuma, kredītresursu līdzekļiem, citiem finanšu resursiem vai finansējuma, ko piešķir saskaņā ar normatīvajiem aktiem par kārtību, kādā paredzami valsts budžeta līdzekļi valsts zinātniskās institūcijas pamatdarbību īstenošanai;
+
+46.2. var īstenot šo noteikumu 22. punktā minētās darbības;
+
+46.3. attiecināmas ir šo noteikumu 29., 31., 35., 37. un 38. punktā minētās izmaksas.
+
+47. (Svītrots ar MK 03.11.2020. noteikumiem Nr. 658)
+
+47.<sup>1</sup> Ja šo noteikumu 21.1. un 21.2.1. apakšpunktā minētajā gadījumā pasākuma ietvaros īstenotais projekts kļūst par projektu, kurš ir saistīts ar saimniecisko darbību un kuram piešķirtais atbalsts kvalificējas kā komercdarbības atbalsts, finansējuma saņēmējam vai sadarbības partnerim ir pienākums atmaksāt sadarbības iestādei projekta ietvaros saņemto nelikumīgo komercdarbības atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atbilstoši Komercdarbības atbalsta kontroles likuma IV vai V nodaļas nosacījumiem.
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+48. (Svītrots ar MK 03.10.2023. noteikumiem Nr. 557)
+
+## V. Kombinēta atbalsta projekta īstenošanas nosacījumi
+
+49. Publisko finansējumu ar saimniecisku darbību saistītas kombinēta atbalsta projekta daļas īstenošanai piešķir saskaņā ar Komisijas regulas Nr. 651/2014 26. pantu.
+
+50. Ar saimniecisku darbību saistītas kombinēta atbalsta projekta daļas maksimālais attiecināmais publiskā finansējuma apmērs saskaņā ar Komisijas regulas Nr. 651/2014 26. panta 6. punktu ir 50 procenti.
+
+51. Ar saimniecisku darbību saistītas kombinēta atbalsta projekta daļas īstenošanai nepieciešamo līdzfinansējumu 50 procentu apmērā finansējuma saņēmējs un sadarbības partneris nodrošina no finansējuma saņēmēja un sadarbības partnera rīcībā esošā saimnieciskās darbības rezultātā gūtā privātā finansējuma, kredītresursu līdzekļiem vai citiem privātiem finanšu resursiem, par kuriem nav saņemts nekāds publiskais atbalsts, tai skaitā nav saņemts valsts vai pašvaldību galvojums vai valsts vai pašvaldību kredīts ar atvieglotiem nosacījumiem (turpmāk – privātais līdzfinansējums).
+
+*(Grozīts ar MK 15.10.2019. noteikumiem Nr. 474)*
+
+52. Īstenojot kombinēta atbalsta projektu, projekta iesniedzējs projekta iesniegumā atbilstoši šo noteikumu 2. un 3. pielikumam ietver:
+
+52.1. projekta vidējās svērtās publiskā finansējuma atbalsta intensitātes un publiskā finansējuma apmēra aprēķinu;
+
+52.2. detalizētu projekta vidējās svērtās publiskā finansējuma intensitātes aprēķina pamatojumu, kurā:
+
+52.2.1. norāda informāciju par projekta ietvaros plānoto ieguldījumu sadali starp projekta iesniedzēju un vienu vai vairākiem sadarbības partneriem;
+
+52.2.2. norāda procentuālo apmēru, kādā materiālos un nemateriālos aktīvus finansējuma saņēmējs un sadarbības partneris plāno izmantot ar saimniecisku darbību saistītām pamatdarbībām un ar saimniecisku darbību nesaistītām pamatdarbībām;
+
+52.2.3. veic šo noteikumu 27.2. un 31.5. apakšpunktā, 29., 37. un 38. punktā minēto izmaksu vidējās svērtās ar saimniecisku darbību nesaistītās projekta daļas (procentos) un ar saimniecisku darbību saistītās projekta daļas (procentos) aprēķinu, ņemot vērā vidējo svērto procentuālo apmēru, kādā projekta ietvaros iegādātos vai izveidotos materiālos un nemateriālos aktīvus projekta iesniedzējs un sadarbības partneris (ja attiecināms) plāno izmantot ar saimniecisku darbību nesaistītām pamatdarbībām;
+
+52.2.4. aprēķina projekta īstenošanai nepieciešamā privātā līdzfinansējuma apmēru atbilstoši šo noteikumu 3. pielikumā minētajai metodikai.
+
+53. Kombinēta atbalsta projektam publiskā finansējuma apmēru un publiskā finansējuma intensitāti nosaka, ņemot vērā šādus nosacījumus:
+
+53.1. ar saimniecisku darbību nesaistītajai projekta daļai, kuras ietvaros plānotos ieguldījumus paredzēts izmantot finansējuma saņēmēja vai sadarbības partnera ar saimniecisku darbību nesaistītā pamatdarbībā vai papildinošā saimnieciskajā darbībā, piemēro ar saimniecisku darbību nesaistīta projekta īstenošanas nosacījumus. Šo noteikumu 35. punktā minētās izmaksas pilnā apmērā iekļauj ar saimniecisku darbību nesaistītajā projekta daļā;
+
+53.2. ar saimniecisku darbību saistītajai projekta daļai, kuras ietvaros plānotos ieguldījumus paredzēts izmantot finansējuma saņēmēja vai sadarbības partnera saimnieciskajā pamatdarbībā, piemēro ieguldījumu atbalstu pētniecības infrastruktūrai, kuru piešķir saskaņā ar Komisijas regulas Nr. 651/2014 26. pantu;
+
+53.3. ar saimniecisku darbību nesaistītās projekta daļas ietvaros:
+
+53.3.1. ir atbalstāmas šo noteikumu 22. punktā minētās darbības;
+
+53.3.2. ir attiecināmas šo noteikumu 29., 31., 35., 37. un 38. punktā minētās izmaksas;
+
+53.4. ar saimniecisku darbību saistītās projekta daļas ietvaros:
+
+53.4.1. nav atbalstāmas šo noteikumu 22.3., 22.4., 28.1., 28.3., 28.4., 28.5. apakšpunktā un 34. punktā minētās darbības;
+
+53.4.2. nav attiecināmas šo noteikumu 29.1., 29.3., 29.4., 29.5., 31.1.6., 38.3. apakšpunktā, 35. un 37. punktā minētās izmaksas;
+
+53.5. ir attiecināmas šo noteikumu 29.2., 31.5.1., 38.1. un 38.2. apakšpunktā minētās izmaksas, ja:
+
+53.5.1. izmaksas veido šo noteikumu 31.1., 31.2., 31.3., 31.4. un 31.5.3. apakšpunktā minēto un projekta saimnieciskās daļas ietvaros izveidoto vai iegādāto aktīvu vērtību;
+
+53.5.2. finansējuma saņēmējs ievēro šo noteikumu 54.1.3. apakšpunktā minētos stimulējošas ietekmes nosacījumus un darbības ir uzsāktas pēc šo noteikumu 15.1. apakšpunktā minētā projekta iesnieguma iesniegšanas sadarbības iestādē;
+
+53.5.3. izmaksu attiecināmo daļu nosaka, ņemot vērā šo noteikumu 52.2.3. apakšpunktā minēto aprēķinu;
+
+53.6. šo noteikumu 29.1., 29.3., 29.4., 29.5., 38.3. apakšpunktā un 37. punktā minēto izmaksu attiecināmo daļu, kas saistīta ar šo noteikumu 53.1. apakšpunktā minētās projekta daļas īstenošanu, nosaka, ņemot vērā šo noteikumu 52.2.3. apakšpunktā minēto aprēķinu.
+
+*(Grozīts ar MK 22.09.2026. noteikumiem Nr. 568)*
+
+54. Finansēšanas nosacījumi kombinēta atbalsta projekta ar saimniecisko darbību saistītas projekta daļas ietvaros:
+
+54.1. finansējumu sniedz:
+
+54.1.1. pārredzamām atbalsta kategorijām dotācijas veidā atbilstoši Komisijas regulas Nr. 651/2014 5. panta 2. punkta "a" apakšpunktam;
+
+54.1.2. šo noteikumu 22.1., 22.2. un 22.5. apakšpunktā minētajām darbībām, ievērojot šo noteikumu 52., 53. punkta un 3. pielikuma nosacījumus;
+
+54.1.3. ja projekta iesniedzējs pamato projekta ietvaros plānotā publiskā finansējuma stimulējošo ietekmi atbilstoši Komisijas regulas Nr. 651/2014 6. panta 2. un 3. punkta nosacījumiem;
+
+54.2. nav atbalstāmas darbības un nozares, kas atbilst Komisijas regulas Nr. 651/2014 1. panta 2. punktā un 3. punkta "c" un "d" apakšpunktā noteiktajam;
+
+54.3. finansējuma saņēmējs un sadarbības partneris nodrošina Komisijas regulas Nr. 651/2014 26. panta 2. un 3. punktā noteikto nosacījumu izpildi.
+
+55. Ar saimniecisku darbību saistītas kombinēta atbalsta projekta daļas ietvaros:
+
+55.1. piešķirto publisko finansējumu neapvieno ar citas atbalsta programmas vai individuālā atbalsta projekta atbalstu;
+
+55.2. piekļuve jaunizveidotai pētniecības infrastruktūrai ir nodrošināta vairākiem lietotājiem, un to piešķir pārredzamā un nediskriminējošā veidā. Komersantiem, kuri ir finansējuši vismaz 10 procentus no pētniecības infrastruktūras ieguldījumu izmaksām, var piešķirt privileģētu piekļuvi ar izdevīgākiem nosacījumiem atbilstoši Komisijas regulas Nr. 651/2014 26. panta 4. punktam. Lai novērstu pārmērīgu kompensāciju, nodrošina, ka šī piekļuve ir samērīga ar uzņēmuma daļu ieguldījumu izmaksās un attiecīgie nosacījumi ir publiskoti;
+
+55.3. publiskais atbalsts vienai pētniecības infrastruktūrai nepārsniedz Komisijas regulas Nr. 651/2014 4. panta 1. punkta "j" apakšpunktā noteikto paziņošanas robežvērtību.
+
+55.<sup>1</sup> Ja, īstenojot ar saimniecisku darbību saistītu projektu vai tā daļu, ir pārkāpti Komisijas regulas Nr. 651/2014 nosacījumi, finansējuma saņēmējam vai sadarbības partnerim ir pienākums atmaksāt sadarbības iestādei projekta ietvaros saņemto nelikumīgo komercdarbības atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atbilstoši Komercdarbības atbalsta kontroles likuma IV vai V nodaļas nosacījumiem.
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+## VI. Projekta īstenošanas vispārīgie nosacījumi
+
+56. Pasākuma ietvaros, izņemot šo noteikumu 56.<sup>1</sup> punktā minēto gadījumu, projektu īsteno saskaņā ar vienošanos par projekta īstenošanu, bet ne ilgāk kā līdz 2023. gada 31. decembrim.
+
+*(MK 03.10.2023. noteikumu Nr. 557 redakcijā)*
+
+56.<sup>1</sup> Ja finansējuma saņēmējs nevar pilnībā pabeigt projektā plānotās aktivitātes un sasniegt projektā plānotos iznākuma rādītājus līdz termiņam, kas noteikts Eiropas Parlamenta un Padomes 2013. gada 17. decembra Regulas (ES) Nr. 1303/2013, ar ko paredz kopīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu, Kohēzijas fondu, Eiropas Lauksaimniecības fondu lauku attīstībai un Eiropas Jūrlietu un zivsaimniecības fondu un vispārīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu, Kohēzijas fondu un Eiropas Jūrlietu un zivsaimniecības fondu (turpmāk – regula (ES) Nr. 1303/2013), 65. panta 2. punktā, un sadarbības iestāde un atbildīgā iestāde atbilstoši kompetencei sniedz pozitīvu atzinumu par projekta termiņa pagarināšanu, finansējuma saņēmējs projektu pilnībā pabeidz par saviem līdzekļiem un pamatojošo dokumentāciju par pabeigtajām aktivitātēm iesniedz sadarbības iestādē līdz 2024. gada 31. oktobrim, nodrošinot projekta mērķa sasniegšanu un tā funkcionalitāti.
+
+*(MK 03.10.2023. noteikumu Nr. 557 redakcijā)*
+
+57. Projekta īstenošanas vieta ir Latvijas Republikas teritorija.
+
+58. Pasākuma ietvaros ieguldījumus pētniecības infrastruktūrā (ēkas, telpas) var veikt:
+
+58.1. projekta iesniedzēja vai sadarbības partnera īpašumā;
+
+58.2. īpašumā, kas nodots projekta iesniedzēja vai sadarbības partnera valdījumā vai lietošanā, vai ja projekta iesniedzējam vai sadarbības partnerim uz infrastruktūru ir ilgtermiņa nomas tiesības vismaz piecus gadus pēc noslēguma maksājuma veikšanas un tās ir reģistrētas zemesgrāmatā. Ja no projekta iesniedzēja apliecinājumā sniegtās informācijas konstatējams, ka tiesības veikt būvdarbus uz attiecīgās zemes vienības iegūtas līdz 2016. gada 31.decembrim, par attiecināmu uzskatāms arī nomas līgums.
+
+*(Grozīts ar MK 20.06.2017. noteikumiem Nr. 342)*
+
+59. Projekta izmaksas ir attiecināmas:
+
+59.1. sākot ar šo noteikumu spēkā stāšanās dienu, ja īsteno:
+
+59.1.1. ar saimniecisko darbību nesaistītu projektu;
+
+59.1.2. ar saimniecisko darbību nesaistītu kombinēta atbalsta projekta daļu;
+
+59.1.3. šo noteikumu 28. punktā minētās darbības;
+
+59.2. pēc tam, kad ar sadarbības iestādi ir noslēgta vienošanās par projekta īstenošanu, ja īsteno ar saimniecisko darbību saistīto kombinēta atbalsta projekta daļu, izņemot šo noteikumu 28. punktā minētās darbības.
+
+60. Pasākuma ietvaros atbalstu sniedz, ja finansējuma saņēmējs un sadarbības partneris nodrošina šādu nosacījumu izpildi:
+
+60.1. finansējuma saņēmējs un sadarbības partneris nodrošina projekta īstenošanas finanšu plūsmas skaidru nodalīšanu no citām finansējuma saņēmēja un sadarbības partnera darbības finanšu plūsmām projekta īstenošanas laikā un trīs gadus pēc noslēguma maksājuma veikšanas, ja finansējuma saņēmējs un sadarbības partneris atbilst sīkā (mikro), mazā vai vidējā komersanta definīcijai, vai piecus gadus pēc noslēguma maksājuma veikšanas, ja finansējuma saņēmējs un sadarbības partneris atbilst lielā komersanta definīcijai vai pētniecības organizācijas definīcijai;
+
+60.2. īstenojot projektu, ir nodrošināta atsevišķa ar projekta īstenošanu saistīto saimniecisko darījumu ieņēmumu un izdevumu grāmatvedības uzskaite, kā arī darbību un ar to īstenošanu saistīto finanšu plūsmu nodalīšana atbilstoši normatīvajiem aktiem par kārtību, kādā finanšu pārskatos atspoguļojams valsts, pašvaldību, ārvalstu, Eiropas Savienības, citu starptautisko organizāciju un institūciju finansiālais atbalsts (finanšu palīdzība), ziedojumi un dāvinājumi naudā vai natūrā.
+
+61. Pasākuma ietvaros finansē tikai tādas attiecināmās izmaksas, kuras ir tieši saistītas ar projekta ietvaros veiktajām darbībām, ir samērīgas, pamatotas un atbilst Eiropas Parlamenta un Padomes 2024. gada 23. septembra Regulai (ES, Euratom) 2024/2509 par finanšu noteikumiem, ko piemēro Savienības vispārējam budžetam (pārstrādāta redakcija).
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+62. Pēc tam kad noslēgts līgums par projekta īstenošanu, sadarbības iestāde, pamatojoties uz finansējuma saņēmēja rakstisku avansa pieprasījumu, atbilstoši normatīvajam aktam par valsts budžeta līdzekļu plānošanu Eiropas Savienības struktūrfondu un Kohēzijas fonda projektu īstenošanai un maksājumu veikšanu 2014.–2020. gada plānošanas periodā nodrošina finansējuma saņēmējam avansa maksājumus. Avansu var izmaksāt pa daļām, un viens avansa maksājums nedrīkst pārsniegt 30 procentus no projektam piešķirtā Eiropas Reģionālās attīstības fonda un valsts budžeta līdzfinansējuma kopsummas. Avansa un starpposma maksājumu kopsumma nedrīkst pārsniegt 90 procentus no projektam piešķirtā Eiropas Reģionālās attīstības fonda finansējuma un valsts budžeta līdzfinansējuma kopsummas.
+
+*(MK 05.11.2018. noteikumu Nr. 674 redakcijā)*
+
+62.<sup>1</sup> Finansējuma saņēmējs būvdarbu izpildītājam vai piegādātājam var paredzēt avansa maksājumu līdz 30 procentiem no būvdarbu vai piegāžu līgumcenas. Lai saņemtu avansa maksājumu, būvdarbu izpildītājs vai piegādātājs finansējuma saņēmējam iesniedz Eiropas Savienībā reģistrētas kredītiestādes vai apdrošināšanas sabiedrības izsniegtu pirmā pieprasījuma avansa atmaksāšanas garantiju, kas ir vienāda ar avansa summu un ir spēkā līdz pilnīgai avansa summas atmaksai.
+
+*(MK 20.06.2017. noteikumu Nr. 342 redakcijā)*
+
+63. Īstenojot projektu, finansējuma saņēmējs nodrošina informācijas un publicitātes pasākumus, kas noteikti regulā (ES) Nr. 1303/2013 un normatīvajos aktos par kārtību, kādā Eiropas Savienības struktūrfondu un Kohēzijas fonda ieviešanā 2014.–2020. gada plānošanas periodā nodrošināma komunikācijas un vizuālās identitātes prasību ievērošana.
+
+*(MK 03.10.2023. noteikumu Nr. 557 redakcijā)*
+
+63.<sup>1</sup> Lai ievērotu Komisijas regulas Nr. 651/2014 26. panta 7. punkta un šo noteikumu 47.<sup>1</sup>, 55.<sup>1</sup> punkta nosacījumus, atbildīgā iestāde izstrādā ikgadēju publiskā finansējuma uzraudzības un atgūšanas mehānismu, kuru sadarbības iestāde piemēro visā infrastruktūras amortizācijas periodā šādos gadījumos:
+
+63.<sup>1</sup> 1. ja konstatē, ka noteikumu 21.1.2. un 21.2.1. apakšpunktā minētajā gadījumā tiek pārsniegti šo noteikumu 2.5. apakšpunktā minētie ierobežojumi;
+
+63.<sup>1</sup> 2. ja konstatē, ka šo noteikumu 21.2.2. apakšpunktā minētajā gadījumā saimnieciskās darbības īpatsvars ir lielāks, nekā valsts atbalsta piešķiršanas dienā prognozēts.
+
+*(MK 03.11.2020. noteikumu Nr. 658 redakcijā)*
+
+64. Ja īsteno kombinēta atbalsta projektu:
+
+64.1. sadarbības iestāde nodrošina informācijas publicēšanu atbilstoši Komisijas regulas Nr. 651/2014 9. panta 1. un 4. punktam;
+
+64.2. sadarbības iestāde un atbildīgā iestāde nodrošina informācijas pieejamību 10 gadus, skaitot no pēdējā lēmuma par atbalsta piešķiršanu, atbilstoši Komisijas regulas Nr. 651/2014 12. pantam un finansējuma saņēmējs un sadarbības partneris nodrošina informācijas pieejamību 10 gadus no dienas, kad piešķirts atbalsts saskaņā ar Komisijas regulas Nr. 651/2014 26. pantu.
+
+64.3. (svītrots ar MK 03.11.2020. noteikumiem Nr. 658).
+
+*(Grozīts ar MK 12.05.2020. noteikumiem Nr. 286; MK 22.09.2026. noteikumiem Nr. 568)*
+
+65. Finansējuma saņēmējs savā tīmekļvietnē ne retāk kā reizi trijos mēnešos ievieto aktuālu informāciju par projekta īstenošanu.
+
+66. Finansējuma saņēmējs veic šādu ar projekta īstenošanu saistītu datu uzskaiti:
+
+66.1. projekta ietekme uz horizontālā principa "Ilgtspējīga attīstība" rādītājiem "Projekta publisko iepirkumu politika" un "Projekta ietekme uz ilgtspējīgu attīstību" (ja attiecināms);
+
+66.2. šo noteikumu 6. punktā minētie uzraudzības rādītāji un 25. punktā minēto attīstības virzienu rezultāta rādītāji.
+
+67. Sadarbības iestādei ir tiesības vienpusēji atkāpties no vienošanās par projekta īstenošanu jebkurā no šādiem gadījumiem:
+
+67.1. finansējuma saņēmējs un sadarbības partneris nepilda līgumu par projekta īstenošanu, tai skaitā projekta īstenošana nenotiek atbilstoši projektā noteiktajiem termiņiem, netiek nodrošināta šo noteikumu 60. vai 63. punktā minēto nosacījumu izpilde vai ir iestājušies citi apstākļi, kas ietekmē vai var ietekmēt šo noteikumu 3. punktā minētā pasākuma mērķa, šo noteikumu 6. punktā minēto uzraudzības rādītāju sasniegšanu un 25. punktā minēto virzienu attīstību;
+
+67.2. citos gadījumos, kas noteikti līgumā par projekta īstenošanu.
+
+68. Sadarbības iestāde lēmumu par publiskā finansējuma piešķiršanu ar saimniecisko darbību saistītajām kombinēta atbalsta projekta daļām pieņem līdz 2021. gada 30. jūnijam.
+
+69. Projektiem, kuri atbilst šo noteikumu 56.<sup>1</sup> punktā minētajam gadījumam, sadarbības iestāde apstiprina izdevumus, kas veikti līdz 2023. gada 31. decembrim, un veic maksājumus par tiem.
+
+*(MK 03.10.2023. noteikumu Nr. 557 redakcijā)*
+
+70. Ja finansējuma saņēmējs šo noteikumu 56.<sup>1</sup> punktā minētajā termiņā nepabeidz par saviem līdzekļiem visas projektā plānotās aktivitātes un nesasniedz visus projektā plānotos iznākuma rādītājus, finansējuma saņēmējam ir pienākums atmaksāt sadarbības iestādei visu projektā saņemto atbalsta finansējumu saskaņā ar vienošanās nosacījumiem.
+
+*(MK 03.10.2023. noteikumu Nr. 557 redakcijā)*
+
+## VII. Noslēguma jautājums
+
+*(Nodaļa MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+71. Šo noteikumu 21.<sup>3</sup> punktā minētā kārtība par pārskatu par papildinošas saimnieciskās darbības apjomu sagatavošanu, pieejamības nodrošināšanu un turpmāku rīcību šo noteikumu 21.<sup>3</sup> punktā minēto nosacījumu pārkāpumu gadījumā piemērojama, sākot ar finansējuma saņēmēja sagatavotu 2024. gada pārskatu par papildinošas saimnieciskās darbības apjomu.
+
+*(MK 22.09.2026. noteikumu Nr. 568 redakcijā)*
+
+Ministru prezidents Māris Kučinskis
+Izglītības un zinātnes ministrs Kārlis Šadurskis
+
+## 1. pielikums Ministru kabineta 2016. gada 16. augusta noteikumiem Nr. 562
+
+### Zinātniskās institūcijas attīstības stratēģijas izstrādes nosacījumi
+
+1. Zinātniskās institūcijas attīstības stratēģiju izstrādā atbilstoši Latvijas viedās specializācijas stratēģijas mērķiem. Tā ietver vismaz šādas sadaļas:
+
+1.1. zinātniskās institūcijas pētniecības programma;
+
+1.2. institucionālās attīstības plāns zinātniskās institūcijas veiktspējas un pārvaldības efektivitātes uzlabošanai;
+
+1.3. zinātniskās institūcijas cilvēkresursu attīstības plāns – zinātnisko darbinieku piesaistes un attīstības plāns, kas izstrādāts atbilstoši pētniecības programmai.
+
+2. Zinātniskās institūcijas pētniecības programma ietver šādas sadaļas:
+
+2.1. zinātniskās institūcijas pētniecības specializācijas apraksts, pieprasījuma un konkurentu analīze un līdzšinējās darbības SVID analīze (metode, ar kuras palīdzību novērtē savas stiprās un vājās puses, kā arī iespējas vai iespējamos draudus);
+
+2.2. saistīto zinātnes un tautsaimniecības nozaru attīstības iespēju apraksts;
+
+2.3. mērķsadarbības pilnveides plāns ar pētniecības organizācijām (augstskolām, zinātniskajiem institūtiem), komersantiem un sociālā pasūtījuma devējiem sadalījumā pa partnerības veidiem:
+
+2.3.1. zināšanu partnerība:
+
+2.3.1.1. zinātniskā institūta (trešā puse) vadošo pētnieku dalība augstskolas promocijas darbu vadīšanā un promocijas padomju darbībā, kā arī dalība augstskolas studiju programmu vai studiju virzienu padomju darbībā, tai skaitā definējot sasniedzamos rezultātus;
+
+2.3.1.2. vadošo pētnieku vai profesoru iesaiste zinātniskā institūta zinātniskās padomes darbā;
+
+2.3.2. partnerība kopīga mērķa īstenošanai;
+
+2.3.3. resursu partnerība:
+
+2.3.3.1. piekļuves nodrošināšana pētniecības infrastruktūrai;
+
+2.3.3.2. cilvēkresursu partnerība, tai skaitā viespētnieku piesaiste un citas aktivitātes, lai nodrošinātu pētniecības programmā definēto mērķu sasniegšanu;
+
+2.3.4. kombinēta partnerība, kas ietver vairākus partnerības veidus;
+
+2.4. vidēja termiņa prioritāro pētniecības virzienu apraksts, ko pamato tautsaimniecības attīstības vajadzības, zināšanu bāzes nodrošinājuma pieprasījuma un nozares attīstības iespēju priekšizpēte un mērķsadarbības pilnveides plāns;
+
+2.5. instrumenti pētniecības mērķu un rezultātu sasniegšanai:
+
+2.5.1. plāns dalībai Eiropas Savienības pētniecības un inovācijas pamatprogrammas "Apvārsnis 2020" konkursos un citās pētniecības un inovācijas atbalsta programmās un tehnoloģiju ierosmēs;
+
+2.5.2. rīcības plāns, lai palielinātu starptautisko publikāciju skaitu (publikācijām žurnālos, kuru citēšanas indekss sasniedz vismaz 50 procentus no nozares vidējā citēšanas indeksa);
+
+2.5.3. zināšanu pārneses pilnveides plāns, sekmējot pētniecības rezultātu pārnesi tautsaimniecībā un komercializāciju;
+
+2.6. pētniecības programmas īstenošanai nepieciešamās pētniecības infrastruktūras attīstības plāns;
+
+2.7. pētniecības mērķi, rezultāta radītāji un to skaitliskās vērtības īstermiņā, vidējā termiņā un ilgtermiņā:
+
+2.7.1. zinātnes nozares specifiskie mērķi un rezultāta rādītāji;
+
+2.7.2. Eiropas Savienības inovāciju monitoringa ietvara rādītāji.
+
+3. Institūcijas institucionālās attīstības plāns zinātniskās institūcijas veiktspējas un pārvaldības efektivitātes uzlabošanai ietver šādas sadaļas:
+
+3.1. infrastruktūras attīstības plāns;
+
+3.2. resursu vadības sistēmas pilnveides plāns:
+
+3.2.1. finanšu un grāmatvedības vadības sistēmas pilnveides plāns;
+
+3.2.2. intelektuālā īpašuma pārvaldības pilnveides plāns;
+
+3.2.3. resursu koncentrēšanas plāns;
+
+3.3. pamatdarbības rezultātu vadības un uzraudzības sistēmas pilnveides plāns.
+
+4. Zinātniskās institūcijas cilvēkresursu attīstības plāns – zinātnisko darbinieku piesaistes un attīstības plāns, kas izstrādāts atbilstoši pētniecības programmai, ietver vismaz šādas sadaļas:
+
+4.1. plāns studējošo un kvalifikāciju ieguvušo personu skaita palielināšanai;
+
+4.2. ārvalsts zinātnisko institūciju vadošo zinātnieku piesaistes plāns;
+
+4.3. zinātnisko un akadēmisko darbinieku motivācijas sistēmas pilnveides plāns;
+
+4.4. zinātniskā un akadēmiskā personāla kapacitātes attīstības plāns, tai skaitā karjeras attīstības plāns;
+
+4.5. personāla starptautiskās mobilitātes plāns;
+
+4.6. akadēmiskās integritātes un ētiskas pētniecības nodrošināšanas plāns.
+
+5. Zinātniskās institūcijas pētniecības programmas izstrādes kārtība:
+
+5.1. pētniecības programmas izstrādē un ieviešanā ir iesaistīta projekta iesniedzēja institūcijā izveidota starptautiska konsultatīva padome (*International Advisory Board*) (ja attiecināms), kurā iekļauj ārvalsts zinātnisko institūciju, uzņēmumu vai darba devēju pārstāvjus;
+
+5.2. pētniecības programmu izstrādā atbilstoši Eiropas Komisijas stratēģijā "Eiropa 2020: stratēģija gudrai, ilgtspējīgai un iekļaujošai izaugsmei" noteiktajām pamatiniciatīvām, Zinātnes, tehnoloģiju attīstības un inovācijas pamatnostādnēm 2014.–2020. gadam, Latvijas viedās specializācijas stratēģijā noteiktajiem mērķiem, izaugsmes prioritātēm un specializācijas jomām;
+
+5.3. pētniecības programmā nosaka zinātniskās institūcijas īstermiņa, vidēja termiņa un ilgtermiņa pētniecības mērķus, rezultatīvos rādītājus, rezultāta rādītāju skaitliskās vērtības institūcijas un viena zinātniskā personāla pārstāvja līmenī sadalījumā pa zinātņu virzieniem (nozarēm);
+
+5.4. pētniecības programmā norāda instrumentus pētniecības mērķu un rezultātu sasniegšanai.
+
+6. Zinātniskās institūcijas attīstības stratēģiju saskaņo ar Izglītības un zinātnes ministriju un nozares ministriju (ja attiecināms).
+
+Izglītības un zinātnes ministrs Kārlis Šadurskis
+
+## 2. pielikums Ministru kabineta 2016. gada 16. augusta noteikumiem Nr. 562
+
+### Darbības programmas "Izaugsme un nodarbinātība" 1.1.1.4. pasākuma "P&A infrastruktūras attīstīšanas viedās specializācijas jomās un zinātnisko institūciju institucionālās kapacitātes stiprināšana" kombinēta atbalsta projekta vidējās svērtās publiskā finansējuma intensitātes aprēķināšana
+
+**1. Pamatojums vidējās svērtās publiskā finansējuma intensitātes aprēķināšanai kombinēta atbalsta projekta ietvaros** *(Pamatojumā sniedz informāciju par visām apakšprojekta izdevumu pozīcijām. Pamatojumu pievieno projekta iesniegumam un gala maksājuma pieprasījumam. Pamatojumu sagatavo un iesniedz Microsoft EXCEL datnes formātā, nodrošinot veikto aprēķinu caurskatāmību.)*
+
+<table>
+<tr>
+<td rowspan="3">Labuma guvējs</td><td rowspan="3">Objekts</td><td rowspan="3">Skaits</td><td colspan="11">IZMAKSAS</td><td colspan="2">IEGULDĪJUMI</td></tr>
+<tr>
+<td rowspan="2">bez PVN, EUR</td><td rowspan="2">ar PVN, EUR</td><td colspan="3">NPD<sup>1</sup></td><td colspan="3">SPD<sup>2</sup></td><td rowspan="2">Attiecināmās kopā, EUR</td><td rowspan="2">Neattiecināmās izmaksas, EUR</td><td rowspan="2">Kopā, EUR</td><td rowspan="2">PF kopā, EUR</td><td rowspan="2">Privātais līdzfinansējums, EUR</td></tr>
+<tr>
+<td>%</td><td>EUR<br>attiecināmās</td><td>t. sk. PF<sup>3</sup>, EUR</td><td>%</td><td>EUR<br>attiecināmās</td><td>t. sk. PF, EUR</td></tr>
+<tr>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td>[7] = [5] x [6]</td><td>[8] = [7] x 0,95</td><td>[9] = 100 - [6]</td><td>[10] = [4] x [9]</td><td>[11] = [10] x 0,5</td><td>[12] = [7] + [10]</td><td>[13] = [10] x PVN</td><td>[14] = [13] + [12]</td><td>[15] = [8] + [11]</td><td>[16] = [14] – [15]</td></tr>
+<tr>
+<td rowspan="17">Labuma guvējs [nosaukums]</td><td colspan="2">Projekta kopsavilkums</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs 1]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs 2]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>….</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs n]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Konsolidācijas izmaksas</td><td>n/a</td><td></td><td></td><td>100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Būvobjekta teritorijas labiekārtošanas izmaksas, kas nodrošina modernizētās pētniecības infrastruktūras nodošanu ekspluatācijā</td><td></td><td></td><td></td><td>100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Tehniskā priekšizpēte</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Izmaksu un ieguvumu analīzes izstrāde</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta publicitātes pasākumi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta vadība un īstenošna</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta vadības personāla atlīdzības izmaksas</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Būvuzraudzība, autoruzraudzība</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Pakalpojumi, kas saistīti ar ilgtermiņa ieguldījumu sagatavošanu ekspluatācijai</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+Piezīmes.
+
+<sup>1</sup> Ar saimniecisku darbību nesaistīta pamatdarbība.
+
+<sup>2</sup> Saimnieciska pamatdarbība.
+
+<sup>3</sup> Publiskais finansējums (valsts budžeta finansējums un Eiropas Reģionālās attīstības fonda finansējums)
+
+2. Kombinēta atbalsta projekta vidējās svērtās publiskā finansējuma intensitātes aprēķināšana
+
+<table>
+<tr>
+<td rowspan="2">Nr.<br>p. k.</td><td rowspan="2">Labuma guvējs</td><td colspan="2" rowspan="2">Ieguldījumu izmantošanas veids</td><td>Kopējās attiecināmās izmaksas (<i>euro</i>)</td><td>PF atbalsta intensitāte (%)</td></tr>
+<tr>
+<td>[a]</td><td>[b]</td></tr>
+<tr>
+<td>1.</td><td rowspan="3">Labuma guvējs Nr. 1 <i>[nosaukums]</i></td><td colspan="2">A1. Ar saimniecisku darbību nesaistīta projekta daļa (NSP)</td><td></td><td>95</td></tr>
+<tr>
+<td>2.</td><td>SPD</td><td>B1. Ieguldījumu atbalsts pētniecības infrastruktūrai</td><td></td><td>50</td></tr>
+<tr>
+<td>3.</td><td colspan="2">Apakšprojekts Nr. 1</td><td></td><td></td></tr>
+<tr>
+<td>4.</td><td rowspan="3">Labuma guvējs Nr. 2 <i>[nosaukums]</i></td><td colspan="2">A2. Ar saimniecisku darbību nesaistīta projekta daļa (NSP)</td><td></td><td>95</td></tr>
+<tr>
+<td>5.</td><td>SPD</td><td>B2. Ieguldījumu atbalsts pētniecības infrastruktūrai</td><td></td><td>50</td></tr>
+<tr>
+<td>6.</td><td colspan="2">Apakšprojekts Nr. 2</td><td></td><td></td></tr>
+<tr>
+<td>7.</td><td colspan="3">Projekta raksturlielumi:</td><td></td><td></td></tr>
+</table>
+
+Izglītības un zinātnes ministrs Kārlis Šadurskis
+
+## 3. pielikums Ministru kabineta 2016. gada 16. augusta noteikumiem Nr. 562(Pielikums MK 22.09.2026. noteikumu Nr. 568 redakcijā)
+
+### Kombinēta atbalsta veida projekta, finansējuma saņēmēja un sadarbības partnera apakšprojekta vidējās svērtās publiskā finansējuma intensitātes aprēķināšanas metodika
+
+Kombinēta atbalsta veida projekta (turpmāk – projekts), finansējuma saņēmēja un sadarbības partnera (ja attiecināms) (turpmāk – labuma guvējs) apakšprojekta (turpmāk – apakšprojekts) vidējās svērtās publiskā finansējuma intensitātes (turpmāk – publiskā finansējuma intensitāte) aprēķināšana darbības programmas "Izaugsme un nodarbinātība" prioritārā virziena "Pētniecība, tehnoloģiju attīstība un inovācijas" 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas zinātnisko institūciju pētniecisko un inovatīvo kapacitāti un spēju piesaistīt ārējo finansējumu, ieguldot cilvēkresursos un infrastruktūrā" 1.1.1.4. pasākuma "P&A infrastruktūras attīstīšana Viedās specializācijas jomās un zinātnisko institūciju institucionālās kapacitātes stiprināšana" (turpmāk – pasākums) ietvaros.
+
+I. Vispārīgie jautājumi
+
+1. Publiskā finansējuma intensitāti aprēķina, ņemot vērā Komisijas 2014. gada 17. jūnija Regula (ES) Nr. 651/2014, ar ko noteiktas atbalsta kategorijas atzīst par saderīgām ar iekšējo tirgu, piemērojot Līguma 107. un 108. pantu (Eiropas Savienības Oficiālais Vēstnesis, 2014. gada 26. jūnijs, Nr. L 187) (turpmāk – Regula Nr. 651/2014) 26. panta un Ministru kabineta noteikumu par pasākuma īstenošanu (turpmāk – noteikumi) nosacījumus.
+
+2. Projekta un labuma guvēja apakšprojekta vidējās svērtās publiskā finansējuma intensitātes aprēķini ietver šādas komponentes:
+
+2.1. pamatojums projekta un katra labuma guvēja apakšprojekta vidējās svērtās publiskā finansējuma intensitātes noteikšanai (turpmāk – noteikumu 2. pielikuma 1. punkts);
+
+2.2. projekta un labuma guvēja apakšprojekta vidējās svērtās publiskā finansējuma intensitātes aprēķināšana (turpmāk – publiskā finansējuma intensitātes aprēķins). publiskā finansējuma intensitātes aprēķinu ietver noteikumu 3. pielikuma 2. punktā "Vidējās svērtās atbalsta intensitātes aprēķināšana" (turpmāk – noteikumu 2. pielikuma 2. punkts).
+
+3. Projekta vidējo svērto publiskā finansējuma intensitāti (*I<sub>P</sub>)* aprēķina, izmantojot šādu formulu:
+
+*I<sub>P</sub>= ROUND(SUMPRODUCT(a;b)/SUM(a);4)*, kur:
+
+*I<sub>P</sub>*– projekta vidējā svērtā publiskā finansējuma intensitāte (%) (precizitāte – četras zīmes aiz komata);
+
+*a* – visas atbilstošās komponentes "labuma guvēja apakšprojekta kopējās attiecināmās izmaksas" 3. pielikuma 2. punkta kolonā [a];
+
+*b* – visas atbilstošās komponentes "labuma guvēja apakšprojekta vidējā svērtā atbalsta intensitāte" (precizitāte – vismaz četras zīmes aiz komata) 3. pielikuma 2. punkta kolonā [b];
+
+*ROUND(…;4)* – *Microsoft Excel* funkcija, kas aprēķinu skaitliskās vērtības izsaka četras zīmes aiz komata;
+
+*SUMPRODUCT* – *Microsoft Excel* funkcija, kas reizina visas atbilstošās komponentes kolonā [a] un [b], pēc tam saskaita rezultātus;
+
+*SUM* – *Microsoft Excel* funkcija*,* kas saskaita visas atbilstošās komponentes kolonā [a].
+
+4. Labuma guvēja apakšprojekta vidējo svērto publiskā finansējuma intensitāti (*I<sub>LGP</sub>*) aprēķina, izmantojot šādu formulu (skat. šīs metodikas 1. tabulu):
+
+*I<sub>LGP</sub>= ROUND(SUMPRODUCT(a1:a<sub>n</sub>;b1:b<sub>n</sub>)/SUM(a1:a<sub>n</sub>);4)*, kur;
+
+*I<sub>LGP</sub>* – labuma guvēja apakšprojekta vidējā svērtā publiskā finansējuma intensitāte (%) (precizitāte – četras zīmes aiz komata);
+
+*a* – visas atbilstošās komponentes noteikumu 2. pielikuma 2. punkta kolonā [a];
+
+*b* – visas atbilstošās komponentes noteikumu 2. pielikuma 2. punkta kolonā [b];
+
+*ROUND(…;4)* – *Microsoft Excel* funkcija, kas aprēķinu skaitliskās vērtības izsaka četras zīmes aiz komata;
+
+*SUMPRODUCT* – *Microsoft Excel* funkcija, kas reizina visas atbilstošās komponentes kolonās [a] un [b] un pēc tam saskaita rezultātus;
+
+*SUM* – *Microsoft Excel* funkcija*,* kas saskaita visas atbilstošās komponentes kolonā [a].
+
+5. Publiskā finansējuma intensitātes aprēķina (noteikumu 2. pielikuma 2. punkta) aizpildīšanas kārtība:
+
+5.1. kolonā [a] norāda šādas attiecināmās izmaksas, kuru apmēru pamato noteikumu 3. pielikuma 1. punktā veiktie aprēķini:
+
+5.1.1. projekta kopējās attiecināmās izmaksas;
+
+5.1.2. labuma guvēja apakšprojekta kopējās attiecināmās izmaksas;
+
+5.1.3. katra labuma guvēja apakšprojekta ar saimniecisku darbību nesaistītās projekta daļas (turpmāk – projekta ne–saimnieciskā daļa, NPD) un ar saimniecisku darbību saistītās projekta daļas (turpmāk – projekta saimnieciskā daļa, SPD) attiecināmās izmaksas saskaņā ar Regulas Nr. 651/2014 26. pantu;
+
+5.2. 2. pielikuma 2. punkta kolonā [b] norāda publiskā finansējuma intensitāti, kas noteikta atbilstoši ieguldījumu izmantošanas veidam:
+
+5.2.1. ar saimniecisku darbību nesaistīta pamatdarbība – 95 procenti;
+
+5.2.2. ar saimniecisku darbību saistīta pamatdarbība (ieguldījumu atbalsts pētniecības infrastruktūrai) – 50 procenti.
+
+1. tabula
+
+Vidējās svērtās publiskā finansējuma intensitātes aprēķināšana
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2"><b>Nr.p.k.</b></td><td rowspan="2"><b>Labuma guvējs</b></td><td colspan="2" rowspan="2"><b>Ieguldījumu izmantošanas veids</b></td><td><b>Kopējās attiecināmās izmaksas (<i>euro</i>)</b></td><td><b>Publiskā finansējuma intensitāte (%)</b></td></tr>
+<tr>
+<td><b>[a]</b></td><td><b>[b]</b></td></tr>
+<tr>
+<td>1.</td><td rowspan="3">Labuma guvējs Nr.1 <i>[nosaukums]</i></td><td colspan="2">A1. Ar saimniecisku darbību nesaistīta projekta daļa (NPD)</td><td></td><td>95</td></tr>
+<tr>
+<td>2.</td><td>SPD</td><td>B1. Ieguldījumu atbalsts pētniecības infrastruktūrai (SPD)</td><td></td><td>50</td></tr>
+<tr>
+<td>4.</td><td colspan="2">Apakšprojekts Nr. 1</td><td></td><td></td></tr>
+<tr>
+<td>5.</td><td rowspan="3">Labuma guvējs Nr.2 <i>[nosaukums]</i></td><td colspan="2">A2. Ar saimniecisku darbību nesaistīta projekta daļa (NPD)</td><td></td><td>95</td></tr>
+<tr>
+<td>6.</td><td>SPD</td><td>B2. Ieguldījumu atbalsts pētniecības infrastruktūrai (SPD)</td><td></td><td>50</td></tr>
+<tr>
+<td>8.</td><td colspan="2">Apakšprojekts Nr. 2</td><td></td><td></td></tr>
+<tr>
+<td>9.</td><td colspan="3">Projekts:</td><td></td><td></td></tr>
+</tbody>
+</table>
+
+II. Pamatojums vidējās svērtās publiskā finansējuma intensitātes aprēķināšanai
+
+6. Publiskā finansējuma intensitātes aprēķinu pamatojuma (noteikumu 2. pielikuma 1. punkta) aizpildīšanas kārtība (skat. šīs metodikas 2. tabulu):
+
+6.1. 2. tabulas kolonā [Objekts] norāda visas projekta izdevumu pozīcijas (turpmāk – budžeta pozīcijas) sadalījumā pa labuma guvējiem, nodrošinot atbilstību noteikumu nosacījumiem. Budžeta pozīcijas var ietvert:
+
+6.1.1. pētniecības infrastruktūras objektus (turpmāk – aktīvi):
+
+6.1.1.1. materiālie aktīvi – zinātniskās iekārtas, aprīkojums, tai skaitā darba vietas aprīkojums, ēkas, būves, telpas, resursu un rezultātu vadības sistēmas elementi, t. sk. finanšu un grāmatvedības programmatūra;
+
+6.1.1.2. nemateriālie aktīvi (aktīvi, kas nav konkretizēti fiziskā vai finanšu formā, piemēram, patenti, licences, zinātība vai cits intelektuālais īpašums);
+
+6.1.2. zinātnisko institūciju konsolidāciju (turpmāk – konsolidācijas) saistītas budžeta pozīcijas;
+
+6.1.3. citas budžeta pozīcijas (CIP), tai skaitā:
+
+6.1.3.1. projekta tehniskā priekšizpēte;
+
+6.1.3.2. projekta informācijas un publicitātes pasākumi;
+
+6.1.3.3. netiešās izmaksas;
+
+6.1.3.4. noteikumu 31.5. apakšpunktā minētie ar pētniecības infrastruktūras izveidi vai iegādi saistīti pakalpojumi (tai skaitā būvuzraudzība un autoruzraudzība, materiālo aktīvu piegāde, uzstādīšana, instruktāža, testēšanas, validācijas, aprobācijas un kalibrēšanas pakalpojumi, demontāžas, pārvietošanas un citi pakalpojumi);
+
+6.1.3.5. projekta vadība un īstenošana;
+
+6.2. kolonā [IZMAKSAS/bez PVN, *euro*] norāda katras budžeta pozīcijas kopējās izmaksas (bez PVN), *euro*;
+
+6.3. kolonā [IZMAKSAS/ar PVN, *euro*] norāda katras budžeta pozīcijas kopējās izmaksas (ar PVN), *euro*;
+
+6.4. ne-saimnieciskā projekta daļa (NPD):
+
+6.4.1. kolonā [IZMAKSAS/NPD/%] norāda katrai budžeta pozīcijai atbilstošo ne-saimnieciskās daļas procentuālo apmēru, ņemot vērā šādus nosacījumus:
+
+6.4.1.1. aktīvi – norāda, kādu daļu procentos no konkrētā aktīva ekspluatācijas vai izmantošanas laika plānots izmantot ar saimniecisku darbību nesaistītu pamatdarbību vai papildinošu saimniecisko darbību īstenošanai (turpmāk – [IZMAKSAS/NPD/%_ MA]);
+
+6.4.1.2. konsolidācija – ne-saimnieciskā projekta daļa NPD<sub>-K</sub>=100%;
+
+6.4.1.3. citas budžeta pozīcijas (CIP) – ne-saimnieciskās daļas vidējo svērto procentuālo apmēru [IZMAKSAS/NPD/%_CIP] aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/NPD/%_CIP] =
+= SUMPRODUCT([IZMAKSAS/ar PVN, euro_MA_K];[IZMAKSAS/NPD/%_MA_K])/SUM(([IZMAKSAS/ar PVN, euro_MA_K])*, kur:
+
+*[IZMAKSAS/NPD/%_CIP*] – citu budžeta pozīciju izmaksu ne-saimnieciskā daļa (%);
+
+*[IZMAKSAS/ar PVN, euro_MA_K*] – atbilstošo aktīvu, noteikumu 31.1.6. apakšpunktā minētās labiekārtošanas izmaksas un konsolidācijas izmaksas (ar PVN);
+
+*[IZMAKSAS/NPD/%_MA_K]* – atbilstošo aktīvu, labiekārtošanas un konsolidācijas ne-saimnieciskās daļas procentuālais apmērs;
+
+6.4.1.4. labuma guvēja apakšprojekta ne-saimnieciskās daļas vidējo svērto procentuālo apmēru [IZMAKSAS/NPD/%_LGP] aprēķina, ņemot vērā visu apakšprojektam atbilstošo aktīvu izmaksas, citu budžeta pozīciju (CIP) izmaksas (*euro*) (kolonna [IZMAKSAS/ar PVN, *euro*]) un minētajām budžeta pozīcijām atbilstošo ne-saimniecisko daļu procentuālo apmēru, piemērojot *Microsoft Excel* funkcijas "SUMPRODUCT" / "SUM";
+
+6.5. kolonā [IZMAKSAS/NPD/*euro attiecināmās*] norāda budžeta pozīcijas ne-saimnieciskās daļas attiecināmās izmaksas, kuras aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/NPD/euro attiecināmās] = [IZMAKSAS/ar PVN, euro] x [IZMAKSAS/NPD/%]*, kur:
+
+*[IZMAKSAS/ar PVN, euro]* – budžeta pozīcijas kopējās izmaksas (ar PVN), *euro*;
+
+*[IZMAKSAS/NPD/%]* – budžeta pozīcijas ne-saimnieciskās daļas procentuālais apmērs;
+
+6.6. kolonā [IZMAKSAS/NPD/t.sk. PF, *euro*] norāda budžeta pozīcijas ne-saimnieciskās daļas publisko finansējumu, kuru aprēķina, ievērojot noteikumu nosacījumus un izmantojot šādu formulu:
+
+*[IZMAKSAS/NPD/t.sk. PF, euro] = [IZMAKSAS/NPD/euro attiecināmās] x 0.95*, kur:
+
+*[IZMAKSAS/NPD/t.sk. PF, euro]* – budžeta pozīcijas ne-saimnieciskās daļas publiskais finansējums, *euro*;
+
+*[IZMAKSAS/NPD/euro attiecināmās]* – budžeta pozīcijas ne-saimnieciskās daļas attiecināmās izmaksas, *euro*;
+
+*0,95* – ne-saimnieciskās daļas publiskā finansējuma intensitāte;
+
+6.7. ar saimniecisku darbību saistītā projekta daļa (SPD) – valsts atbalsta daļa:
+
+6.7.1. kolonā [IZMAKSAS/SPD/%] norāda budžeta pozīcijai atbilstošo saimnieciskās daļas procentuālo apmēru (aktīviem norāda, kādu daļu (%) no aktīvu ekspluatācijas vai lietošanas laika plānots izmantot saimniecisko pamatdarbību īstenošanai), kuru aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/SPD/%] = 100% – [IZMAKSAS/NPD/%],* kur:
+
+*[IZMAKSAS/SPD/%]* – budžeta pozīcijai atbilstošā saimnieciskā daļa (%);
+
+*[IZMAKSAS/NPD/%] –* budžeta pozīcijai atbilstošā ne-saimnieciskā daļa (%);
+
+6.7.2. kolonā [IZMAKSAS/SPD/*euro attiecināmās*] norāda aktīvu saimnieciskās daļas attiecināmās izmaksas, kuras aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/SPD/euro attiecināmās] = [IZMAKSAS/bez PVN, euro] x [IZMAKSAS/SPD/%]*, kur:
+
+*[IZMAKSAS/SPD/euro attiecināmās]* – budžeta pozīcijas saimnieciskās daļas attiecināmās izmaksas, euro;
+
+*[IZMAKSAS/bez PVN, euro]* – budžeta pozīcijas izmaksas (bez PVN), *euro*;
+
+*[IZMAKSAS/SPD/%]* – budžeta pozīcijas saimnieciskā daļa (%);
+
+6.7.3. kolonā [IZMAKSAS/SPD/t.sk. PF, *euro*] norāda projekta saimnieciskās daļas publisko finansējumu, kuru aprēķina, ievērojot noteikumu nosacījumus un izmantojot šādu formulu:
+
+*[IZMAKSAS/SPD/t.sk. PF, euro] = [IZMAKSAS/SPD/euro attiecināmās] x 0,5*, kur:
+
+*[IZMAKSAS/SPD/t.sk. PF, euro]* – budžeta pozīcijas saimnieciskās daļas publiskais finansējums, *euro*;
+
+*[IZMAKSAS/SPD/euro attiecināmās] –* budžeta pozīcijas saimnieciskās daļas attiecināmās izmaksas, *euro*;
+
+*0.5* – aktīvu saimnieciskās daļas publiskā finansējuma intensitāte;
+
+6.8. kolonā [IZMAKSAS/Kopējās attiecināmās, *euro*] norāda budžeta pozīcijas kopējās attiecināmās izmaksas, kuras aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/Kopējās attiecināmās, euro] =
+=[IZMAKSAS/NPD/euro attiecināmās]+[IZMAKSAS/SPD/euro attiecināmās],* kur:
+
+*[IZMAKSAS/Kopējās attiecināmās, euro] –* budžeta pozīcijas kopējās attiecināmās izmaksas, *euro*;
+
+*[IZMAKSAS/NPD/euro attiecināmās] –* budžeta pozīcijas ne-saimnieciskās daļas attiecināmās izmaksas, *euro*;
+
+*[IZMAKSAS/SPD/euro attiecināmās] –* budžeta pozīcijas saimnieciskās daļas attiecināmās izmaksas, *euro;*
+
+6.9. kolonā [IZMAKSAS/Neattiecināmās, *euro*] norāda šādas budžeta pozīcijas neattiecināmās izmaksas:
+
+6.9.1. budžeta pozīcijas saimnieciskās valsts atbalsta daļas atgūstamais pievienotās vērtības nodoklis (PVN), kuru aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/Neattiecināmās, euro_PVN] =
+= [IZMAKSAS/SPD/euro] x ([IZMAKSAS/arPVN,euro]/[IZMAKSAS/bezPVN,euro]-1)*,
+
+kur:
+
+*[IZMAKSAS/Neattiecināmās, euro_PVN] –* budžeta pozīcijas neattiecināmās izmaksas, ko veido pozīcijas saimnieciskās daļas atgūstamais PVN;
+
+*[IZMAKSAS/SPD/euro] –* budžeta pozīcijas saimnieciskās daļas izmaksas (ar PVN), *euro*;
+
+*[IZMAKSAS/arPVN,EURO] –* budžeta pozīcijas kopējās izmaksas (ar PVN), *euro*;
+
+*[IZMAKSAS/bezPVN,euro]-1) –* budžeta pozīcijas izmaksas (bez PVN), *euro*;
+
+6.9.2. citu budžeta pozīciju saimnieciskās daļas neattiecināmās izmaksas *[IZMAKSAS/Neattiecināmā<sup>2</sup>, euro_NIP]*, tai skaitā
+
+6.9.2.1. projekta izmaksu-ieguvumu ekonomiskās analīzes izstrādes izmaksas;
+
+6.9.2.2. pētniecības infrastruktūras lietotāju (līdzēju) stratēģijas izstrādes izmaksas;
+
+6.9.2.3. zinātniskās institūcijas (tai skaitā jaunās funkcionālās vienības) Stratēģijas izstrādes vai pilnveides izmaksas, ievērojot šo noteikumu 28.4. apakšpunkta nosacījumus;
+
+6.9.2.4. pētniecības infrastruktūras pilnveides vai modernizācijas iepirkumu dokumentācijas izstrādes izmaksas.
+
+6.9.2.5. projekta īstenošanas informācijas un publicitātes pasākumu izdevumu pozīcijas;
+
+6.9.2.6. ar projekta vadību un īstenošanu saistīto jaunu darba vietu radīšanu saistītās izdevumu pozīcijas;
+
+6.9.2.7. netiešo izmaksu pozīcijas.
+
+6.10. kolonā [IZMAKSAS/Kopā, *euro*] norāda budžeta pozīcijas kopējās izmaksas, kuras aprēķina, izmantojot šādu formulu:
+
+*[IZMAKSAS/Kopā, euro] =
+= [IZMAKSAS/Kopējās attiecināmās, euro]+[IZMAKSAS/Neattiecināmās, euro]*, kur:
+
+*[IZMAKSAS/Kopā, euro] –* budžeta pozīcijas kopējās izmaksas, *euro*;
+
+*[IZMAKSAS/Kopējās attiecināmās, euro] –* budžeta pozīcijas kopējās attiecināmās izmaksas, *euro*;
+
+*[IZMAKSAS/Neattiecināmās, euro] –* budžeta pozīcijas kopējās neattiecināmās izmaksas, *euro*;
+
+6.11. kolonā [IEGULDĪJUMI/PF kopā, *euro*] norāda kopējo PF finansējumu, kuru aprēķina, izmantojot šādu formulu:
+
+*[IEGULDĪJUMI/PF kopā, euro] =
+= [IZMAKSAS/NPD/t.sk. PF, euro] +[IZMAKSAS/SPD/t.sk. PF, euro]*, kur:
+
+*[IEGULDĪJUMI/PF kopā, euro] –* budžeta pozīcijas kopējais publiskais finansējums, *euro*;
+
+*[IZMAKSAS/NPD/t.sk. PF, euro] –* budžeta pozīcijas ne-saimnieciskās daļas publiskais finansējums, *euro*;
+
+*[IZMAKSAS/SPD/t.sk. PF, euro] –* budžeta pozīcijas saimnieciskās daļas publiskais finansējums, *euro*;
+
+6.12. kolonā [IEGULDĪJUMI/privātais finansējums/kopā, *euro*] norāda privāto līdzfinansēju, kuru aprēķina, izmantojot šādu formulu:
+
+[IEGULDĪJUMI/privātais finansējums/kopā, *euro*] *=
+=* [IZMAKSAS/Kopā, *euro*] *– [IEGULDĪJUMI/PF kopā, euro]*, kur:
+
+*[IEGULDĪJUMI/labuma guvēja līdzfinansējums/kopā, euro] –* labuma guvējs līdzfinansējums, *euro*;
+
+[IZMAKSAS/Kopā, *euro*] *–* budžeta pozīcijas kopējās izmaksas, *euro*;
+
+*[IEGULDĪJUMI/PF kopā, euro] –* budžeta pozīcijas publiskais līdzfinansējums, *euro*
+
+III. Nosacījumi vidējās svērtās atbalsta intensitātes aprēķināšanai
+
+7. Aprēķinot publiskā finansējumaa intensitāti, nodrošina šādu nosacījumu izpildi:
+
+7.1. nodrošina publiskā finansējuma apmēra atbilstību noteikumu 16. punktā vei 18.1. apakšpunktā noteiktajam;
+
+7.2. nodrošina budžeta pozīciju izmaksu atbilstību ar Projekta budžeta kopsavilkumā norādītajām izmaksām;
+
+7.3. katrai budžeta pozīcijai atbilstošās aprēķinu skaitliskās vērtības izsaka ar precizitāti divas zīmes aiz komata, piemērojot *Microsoft Excel* funkciju "=ROUND(A;2)";
+
+7.4. nodrošina pozīciju [IZMAKSAS/ar PVN, *euro*] un [IZMAKSAS, Kopā, *euro*] savstarpēju atbilstību;
+
+7.5. projekta un katra labuma guvēja apakšprojekta kopsavilkumam atbilstošās izmaksu skaitliskās vērtības izsaka ar precizitāti divas zīmes aiz komata, piemērojot *Microsoft Excel* funkciju "=ROUND(A;2)".
+
+2. tabula
+
+Pamatojums vidējās svērtās publiskā finansējuma intensitātes aprēķināšanai kombinēta atbalsta veida projekta ietvaros
+
+(Pamatojumu sagatavo un iesniedz Microsoft EXCEL datnes formātā, nodrošinot veikto aprēķinu caurskatāmību.)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Labuma guvējs</td><td rowspan="3">Objekts</td><td rowspan="3">Skaits</td><td colspan="11">IZMAKSAS</td><td colspan="2">IEGULDĪJUMI</td></tr>
+<tr>
+<td rowspan="2">bez PVN, EUR</td><td rowspan="2">ar PVN, EUR</td><td colspan="3">NPD<sup>1</sup></td><td colspan="3">SPD<sup>2</sup></td><td rowspan="2">Attiecināmās kopā, EUR</td><td rowspan="2">Neattiecināmās izmaksas, EUR</td><td rowspan="2">Kopā, EUR</td><td rowspan="2">PF kopā, EUR</td><td rowspan="2">Privātais līdzfinansējums, EUR</td></tr>
+<tr>
+<td>%,</td><td>EUR attiecināmās</td><td>t.sk. PF<sup>3</sup>, EUR</td><td>%</td><td>EUR attiecināmās</td><td>t.sk. PF, EUR</td></tr>
+<tr>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td>[7] = [5] x [6]</td><td>[8] = [7] x 0,95</td><td>[9] = 100 - [6]</td><td>[10] = [4] x [9]</td><td>[11] = [10] x 0,5</td><td>[12] = [7] + [10]</td><td>[13] = [10] x PVN</td><td>[14] = [13] + [12]</td><td>[15] = [8] + [11]</td><td>[16]=[14]-[15]</td></tr>
+<tr>
+<td rowspan="17">Labuma guvējs [nosaukums]</td><td colspan="2">Projekta kopsavilkums</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs 1]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs 2]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>….</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>[aktīvs n]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Konsolidācijas izmaksas</td><td>n/a</td><td></td><td></td><td>100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Būvobjekta teritorijas labiekārtošanas izmaksas, kas nodrošina modernizētās pētniecības infrastruktūras nodošanu ekspluatācijā</td><td></td><td></td><td></td><td>100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Tehniskā priekšizpēte</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Izmaksu-ieguvumu analīzes izstrāde</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta publicitātes pasākumi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta vadība un īstenošana</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Projekta vadības personāla atlīdzības izmaksas</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Būvuzraudzība, autoruzraudzība</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Pakalpojumi, kas saistīti ar ilgtermiņa ieguldījumu sagatavošanu ekspluatācijai</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+1 – Ar saimniecisku darbību nesaistīta projekta daļa (NPD).
+
+<sup>2</sup> – Ar saimniecisku darbību saistīta projekta daļa (SPD).
+
+<sup>3</sup> – Publiskais finansējums (PF)
+
+## 4. pielikums Ministru kabineta 2016. gada 16. augusta noteikumiem Nr. 562
+
+### Darbības programmas "Izaugsme un nodarbinātība" 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas zinātnisko institūciju pētniecisko un inovatīvo kapacitāti un spēju piesaistīt ārējo finansējumu, ieguldot cilvēkresursos un infrastruktūrā" 1.1.1.4. pasākumam "P&A infrastruktūras attīstīšana viedās specializācijas jomās un zinātnisko institūciju institucionālās kapacitātes stiprināšana" pieejamā publiskā finansējuma sadalījuma pa zinātniskajām institūcijām aprēķināšanas metodika
+
+1. 1.1.1. specifiskā atbalsta mērķa "Palielināt Latvijas zinātnisko institūciju pētniecisko un inovatīvo kapacitāti un spēju piesaistīt ārējo finansējumu, ieguldot cilvēkresursos un infrastruktūrā" 1.1.1.4. pasākumam "P&A infrastruktūras attīstīšana viedās specializācijas jomās un zinātnisko institūciju institucionālās kapacitātes stiprināšana" (turpmāk – pasākums) pieejamā publiskā finansējuma *F<sub>i</sub>* sadalījumu pa zinātniskajām institūcijām aprēķina, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE001.PNG) | , kur |
+| --- | --- |
+
+*F<sub>i</sub>* – projekta iesniedzējam "*i*" pieejamais finansējums (*euro*);
+
+*i* – projekta iesniedzēja variante (*i* = 1, 2, .., *n*; *n* – projekta iesniedzēju skaits);
+
+*F<sub>Si</sub> –* projekta iesniedzēja sākotnējais finansējums 500 000 *euro* apmērā;
+
+*F<sub>Pi</sub>* – papildu finansējums institucionālās kapacitātes attīstībai (turpmāk – finansējums institucionālās kapacitātes attīstībai), kas ietver finansējumu pētniecības infrastruktūras attīstībai viedās specializācijas jomās un finansējumu pētniecības resursu konsolidācijai, ja projekta iesniedzējam "*i*" nodod vai pievieno konsolidējamo funkcionālo vienību (zinātnisko institūtu – valsts dibinātu publisku atvasinātu personu, augstskolas dibinātu publisku aģentūru vai citas valsts dibinātas augstskolas struktūrvienību).
+
+2. Finansējumu institucionālās kapacitātes attīstībai *F<sub>Pi</sub>* aprēķina, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE002.PNG) | , kur |
+| --- | --- |
+
+*F<sub>Pi</sub>* – finansējums institucionālās kapacitātes attīstībai (*euro*);
+
+*F<sub>1114</sub>* – pasākuma ietvaros pieejamais publiskais finansējums (*euro*), ko aprēķina, no pasākuma ietvaros kopējā pieejamā publiskā finansējuma atskaitot Latvijas Universitātes Cietvielu fizikas institūtam pieejamo publisko finansējumu 13 320 196 *euro* apmērā, kas noteikts atbilstoši Ministru kabineta 2016. gada 24. maija protokollēmuma Nr. 25 26. §;
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE003.PNG) – projektu iesniedzēju kopējais sākotnējais finansējums (*euro*);
+
+*R<sub>i</sub>* – projekta iesniedzēja (*i*) raksturlielumu koeficients;
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE004.PNG) – projektu iesniedzēju raksturlielumu koeficientu summa.
+
+3. Projekta iesniedzēja raksturlielumu koeficientu *R<sub>i</sub>* aprēķina, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE005.PNG) | , kur |
+| --- | --- |
+
+*R<sub>i</sub>* – projekta iesniedzēja raksturlielumu koeficients;
+
+<sub>![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE006.PNG)</sub>– projekta labuma guvēju snieguma koeficients, ko aprēķina, summējot katra labuma guvēja (pētniecības resursu konsolidācijā iesaistītās funkcionālās vienības, turpmāk – labuma guvējs) snieguma koeficientus;
+
+*g* – labuma guvēja variante (*g* = 1, 2, .., *t*; *t* – labuma guvēju skaits);
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE007.PNG) – projekta ietekme uz Latvijas viedās specializācijas jomu ieviešanu, ko aprēķina, summējot katra labuma guvēja ietekmi uz Latvijas viedās specializācijas jomu ieviešanu;
+
+*K<sub>K</sub>*– koeficients, kas raksturo projekta ietekmi uz pētniecības resursu konsolidāciju ar nosacījumu, ka *K<sub>K</sub> =* 1,2, ja projekta iesniedzējam nodod vai pievieno vienu konsolidējamo funkcionālo vienību, *K<sub>K</sub> =* 1,5, ja projekta iesniedzējam nodod vai pievieno divas vai vairākas konsolidējamās funkcionālās vienības;
+
+*K<sub>H</sub>* – koeficients, kas raksturo projekta potenciālo horizontālo ietekmi un ieguldījumu tautsaimniecības transformācijā, ņemot vērā:
+
+3.1. šādas izaugsmes prioritātes:
+
+3.1.1. energoefektivitātes paaugstināšana, kas ietver jaunu materiālu radīšanu, ražošanas procesu optimizāciju, tehnoloģisko jauninājumu ieviešanu, alternatīvo energoresursu izmantošanu u.c. risinājumus. Koeficientu piemēro, ja labuma guvējs ir enerģijas un vides resursu ieguves un ilgtspējīgas izmantošanas tehnoloģiju valsts nozīmes pētniecības centra (ietverot arī Transporta un mašīnbūves centra attīstību) veidotājs un tās pētniecībai (kuras sociālekonomiskais mērķis – rūpnieciskā ražošana un tehnoloģija) piesaistītā finansējuma īpatsvars pārsniedz 50 procentus;
+
+3.1.2. modernu un mūsdienu prasībām atbilstošu IKT sistēmu attīstība. Koeficientu piemēro, ja labuma guvējs ir informācijas, komunikāciju un signālapstrādes tehnoloģiju valsts nozīmes pētniecības centra (ietverot arī kosmisko datu apstrādes centru) veidotājs;
+
+3.1.3. attīstīta zināšanu bāze un cilvēkkapitāls zināšanu jomās: biomedicīna, medicīnas tehnoloģijas, biofarmācija un biotehnoloģijas. Koeficientu piemēro, ja labuma guvējs ir farmācijas un biomedicīnas valsts nozīmes pētniecības centra (ietverot arī farmaceitisko tehnoloģiju studiju un pētījuma centra un biofarmācijas centra izveidi) vai sabiedrības veselības un klīniskās medicīnas valsts nozīmes pētniecības centra veidotājs un tās pētniecībai (kuras sociālekonomiskais mērķis – veselība) piesaistītā finansējuma īpatsvars pārsniedz 50 procentus;
+
+3.2. nosacījumu, ka *K<sub>H</sub> =* 1,2, ja projekts sniedz ieguldījumu viena šā pielikuma 3.1., 3.2. vai 3.3. apakšpunktā minētā transformācijas virziena attīstībā, *K<sub>H</sub> =* 1,4, ja projekts sniedz ieguldījumu divu vai vairāku šā pielikuma 3.1., 3.2. vai 3.3. apakšpunktā minēto transformācijas virzienu attīstībā.
+
+4. Labuma guvēja snieguma koeficientu *K<sub>Pg</sub>* aprēķina, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE008.PNG) | , kur |
+| --- | --- |
+
+*I<sub>Kg</sub>* – labuma guvēja vidējie ieņēmumi par pētniecības projektu īstenošanu laikposmā no 2012. gada līdz 2014. gadam (turpmāk – labuma guvēja kopējais snieguma rādītājs), kas atbilstoši Ministru kabineta 2005. gada 27. decembra noteikumiem Nr. 1032 "Noteikumi par budžetu ieņēmumu klasifikāciju" norādīti pārskatos par budžeta izpildi (2. veidlapa) un apgrozījuma pārskatos par naudas plūsmām šādos budžeta ieņēmumu klasifikācijas kodos:
+
+4.1. 18.3.1.3. Valsts budžeta daļēji finansēto atvasināto publisko personu un budžeta nefinansēto iestāžu saņemtie transferti no ministrijas vai centrālās valsts iestādes budžeta, kuras institucionālā padotībā tās atrodas, Eiropas Savienības politikas instrumentu un pārējās ārvalstu finanšu palīdzības līdzfinansētajiem projektiem (pasākumiem);
+
+4.2. 18.3.1.4. Valsts budžeta daļēji finansēto atvasināto publisko personu un budžeta nefinansēto iestāžu saņemtie transferti no citas ministrijas vai centrālās valsts iestādes, Eiropas Savienības politikas instrumentu un pārējās ārvalstu finanšu palīdzības līdzfinansētajiem projektiem (pasākumiem);
+
+4.3. 21.1.9.1. Ieņēmumi no citu Eiropas Savienības politiku instrumentu līdzfinansēto projektu un pasākumu īstenošanas un saņemtās ārvalstu finanšu palīdzības, kas nav Eiropas Savienības struktūrfondi. Uz 21.1.9.1. kodu attiecina Eiropas Savienības finansēto palīdzības programmu īstenošanas līdzekļus, ko no valsts budžeta daļēji finansēta atvasināta publiska persona saņēmusi no Eiropas Savienības atbalsta transporta, telekomunikāciju un enerģijas infrastruktūras tīkliem (piemēram, TEN-T, TEN-E, eTEN), Konkurētspējas un inovāciju programmas, Izpētes ietvarprogrammas, Life+, Šengenas konvencijas finanšu programmas, 3. mērķa "Eiropas teritoriālā sadarbība" finansējuma un citiem Eiropas Savienības politiku instrumentiem, kā arī ārvalstu finanšu palīdzību;
+
+4.4. 21.1.9.2. Ieņēmumi no citu valstu finanšu palīdzības programmu īstenošanas. Uz 21.1.9.2. kodu attiecina citus ārvalstu finanšu palīdzības programmu īstenošanas līdzekļus (piemēram, ieņēmumi, ko atvasināta publiska persona saņēmusi no NATO, Norvēģijas un EEZ finanšu instrumenta, Šveices sadarbības programmas);
+
+4.5. 21.3.9.6. Ieņēmumi par zinātnes projektu īstenošanu. Uz 21.3.9.6. kodu attiecina ieņēmumus, kas radušies, īstenojot pasūtīto zinātnisko pētījumu vai projektu;
+
+4.6. 21.4.2.2. Ieņēmumi no vadošā partnera partneru grupas īstenotajiem Eiropas Savienības politiku instrumentu projektiem;
+
+|  | – labuma guvēju kopējais snieguma rādītājs. |  |
+| --- | --- | --- |
+
+5. Labuma guvēja ietekmi ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE010.PNG) uz Latvijas viedās specializācijas jomu ieviešanu aprēķina, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE011.PNG) | , kur |
+| --- | --- |
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE012.PNG) – labuma guvēja snieguma rādītāja īpatsvars konkrētajā Latvijas viedās specializācijas jomā;
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE013.PNG) – Latvijas viedās specializācijas jomas vidējais eksporta īpatsvars;
+
+*RIS3joma* – Latvijas viedās specializācijas joma, kas ietver zināšanu ietilpīgu bioekonomiku, biomedicīnu un medicīnas tehnoloģijas, biofarmāciju, un biotehnoloģiju, viedos materiālus, tehnoloģijas un inženiersistēmas, informācijas un komunikācijas tehnoloģijas, viedo enerģētiku;
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE014.PNG) – labuma guvēja kopējā ietekme uz Latvijas viedās specializācijas jomu ieviešanu;
+
+![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE015.PNG) – visu labuma guvēju kopējā ietekme uz Latvijas viedās specializācijas jomu ieviešanu.
+
+6. Labuma guvēja snieguma rādītāja īpatsvaru konkrētā Latvijas viedās specializācijas jomā nosaka:
+
+6.1. ņemot vērā šādus aspektus:
+
+6.1.1. labuma guvēja iesaisti konkrēta valsts nozīmes pētniecības centra izveidē;
+
+6.1.2. labuma guvēja kopējo snieguma rādītāju, ko nosaka, pamatojoties uz pārskatos par budžeta izpildi (2. veidlapa) un apgrozījuma pārskatos par naudas plūsmām sniegto informāciju;
+
+6.1.3. Centrālajā statistikas pārvaldē iesniegtajos statistikas pārskatos par zinātnisko darbu izpildi (turpmāk – CSP pārskats) norādīto informāciju par izpildīto zinātnisko darbu apjoma sadalījumu (procentos) pa zinātņu nozarēm (turpmāk – pētniecības apjoms zinātnes nozarē; *Z<sub>n</sub>*);
+
+6.1.4. labuma guvēja 2007.–2013. gada plānošanas periodā izveidotās un bilancē uzņemtās pētniecības infrastruktūras (turpmāk – labuma guvēja pētniecības infrastruktūra) atbilstību valsts nozīmes pētniecības centra pētniecības virzienam un konkrētai Latvijas viedās specializācijas jomai;
+
+6.2. ievērojot šādus nosacījumus:
+
+6.2.1. labuma guvēja pētniecības infrastruktūra izveidota viena valsts nozīmes pētniecības centra ietvaros:
+
+6.2.1.1. labuma guvēja snieguma rādītājs 100 % apmērā attiecināms uz vienu viedās specializācijas jomu, ja labuma guvējs atbilstoši CSP pārskatā sniegtajai informācijai pētniecību veic zinātnes nozarē, kas pilnībā atbilst saistītā centra zinātnes virzienam un konkrētai viedās specializācijas jomai;
+
+6.2.1.2. labuma guvēja snieguma rādītājs attiecināms uz vairākām viedās specializācijas jomām tieši proporcionāli veiktajam pētniecības apjomam konkrētā viedās specializācijas jomā, ja atbilstoši CSP pārskatā sniegtajai informācijai labuma guvējs veic pētniecību zinātnes nozarēs, kas atbilst saistītā centra zinātnes virzienam un vairākām viedās specializācijas jomām, ar nosacījumu, ka konkrētai viedās specializācijas jomai atbilstošais zinātnisko darbu īpatsvars pārsniedz 10 % no kopējā labuma guvēja zinātnisko darbu apjoma;
+
+6.2.2. labuma guvēja pētniecības infrastruktūra izveidota vairāku valsts nozīmes pētniecības centru ietvaros, un atbilstoši CSP pārskatā sniegtai informācijai labuma guvējs veic pētniecību zinātnes nozarēs, kas atbilst vairākām viedās specializācijas jomām:
+
+6.2.2.1 labuma guvēja snieguma rādītāja īpatsvars konkrētā viedās specializācijas jomā aprēķināms tieši proporcionāli veiktajam pētniecības apjomam konkrētai viedās specializācijas jomai atbilstošajās zinātnes nozarēs;
+
+6.2.2.2. ja vienā zinātnes nozarē veiktā pētniecība attiecināma uz vairākām viedās specializācijas jomām, labuma guvēja snieguma rādītāja īpatsvars konkrētā viedās specializācijas jomā aprēķināms, izmantojot šādu formulu:
+
+| ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE016.PNG) | , kur |
+| --- | --- |
+
+*S<sub>RIS3</sub>* – snieguma rādītājs konkrētā Latvijas viedās specializācijas jomā (*euro*);
+
+*I<sub>K</sub>* – labuma guvēja kopējais snieguma rādītājs (*euro*);
+
+Z<sub>n</sub> – pētniecības apjoms konkrētā zinātnes nozarē (procenti);
+
+*RIS3<sub>skaits</sub>* – to Latvijas viedās specializācijas jomu skaits, uz kurām attiecināms konkrētā zinātnes nozarē veikto zinātnisko darbu apjoms;
+
+6.2.3. ja labuma guvēja pētniecības infrastruktūra izveidota vairāku valsts nozīmes pētniecības centru ietvaros, bet atbilstoši CSP pārskatā sniegtai informācijai labuma guvējs veic pētniecību zinātnes nozarē, kas atbilst vienai viedās specializācijas jomai, labuma guvēja snieguma rādītājs attiecināms uz atbilstošo viedās specializācijas jomu;
+
+6.2.4. ja labuma guvējs veic pētniecību zinātnes nozarē, kas neatbilst saistītā valsts nozīmes pētniecības centra zinātnes virzienam vai nav attiecināma uz šā pielikuma 3. punktā minētajām viedās specializācijas jomām (turpmāk – neatbalstāmais virziens), uz viedo specializāciju attiecināmo snieguma rādītāju summā ![](https://likumi.lv/wwwraksti/2016/180/BILDES/KN562/IMAGE017.PNG) neietver to labuma guvēja kopējā snieguma rādītāja daļu, kas attiecināma uz neatbalstāmo virzienu.
+
+Izglītības un zinātnes ministrs Kārlis Šadurskis
+
+## 5. pielikums Ministru kabineta 2016. gada 16. augusta noteikumiem Nr. 562
+
+### Zinātniskās institūcijas < nosaukums> apgrozījuma pārskats par 20__. gadu
+
+I. Izdevumi sadalījumā pa ekonomiskās klasifikācijas kodiem (EKK) un dimensijām:
+darbības raksturs un darbības veids
+
+<table>
+<tr>
+<td rowspan="6">EKK</td><td colspan="8">N</td><td></td><td colspan="8">S</td><td rowspan="6">KOPĀ</td></tr>
+<tr>
+<td colspan="8">Darbība, kurai nav saimnieciska rakstura</td><td rowspan="5">Netiešā darbība kopā</td><td colspan="8">Saimnieciskā darbība</td></tr>
+<tr>
+<td colspan="5">pamatdarbība</td><td rowspan="4">cita darbība</td><td rowspan="4">netiešā darbība</td><td rowspan="4">KOPĀ</td><td colspan="5">pamatdarbība</td><td rowspan="4">cita darbība</td><td rowspan="4">netiešā darbība</td><td rowspan="4">KOPĀ</td></tr>
+<tr>
+<td rowspan="3">izglītība</td><td colspan="3">pētniecība</td><td rowspan="3">tehnoloģiju pārnese</td><td rowspan="3">izglītība</td><td colspan="3">pētniecība</td><td rowspan="3">tehnoloģiju pārnese</td></tr>
+<tr>
+<td>F</td><td>R</td><td>E</td><td>F</td><td>R</td><td>E</td></tr>
+<tr>
+<td>fundamentālie pētījumi</td><td>rūpnieciskie pētījumi</td><td>eksperimentālā izstrāde</td><td>fundamentālie pētījumi</td><td>rūpnieciskie pētījumi</td><td>eksperimentālā izstrāde</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+</table>
+
+II. Ieņēmumi sadalījumā pa ekonomiskās klasifikācijas kodiem (EKK) un dimensijām:
+darbības raksturs un darbības veids
+
+<table>
+<tr>
+<td rowspan="6">EKK</td><td colspan="8">N</td><td></td><td colspan="8">S</td><td rowspan="6">KOPĀ</td></tr>
+<tr>
+<td colspan="8">Darbība, kurai nav saimnieciska rakstura</td><td rowspan="5">Netiešā darbība kopā</td><td colspan="8">Saimnieciskā darbība</td></tr>
+<tr>
+<td colspan="5">pamatdarbība</td><td rowspan="4">cita darbība</td><td rowspan="4">netiešā darbība</td><td rowspan="4">KOPĀ</td><td colspan="5">pamatdarbība</td><td rowspan="4">cita darbība</td><td rowspan="4">netiešā darbība</td><td rowspan="4">KOPĀ</td></tr>
+<tr>
+<td rowspan="3">izglītība</td><td colspan="3">pētniecība</td><td rowspan="3">tehnoloģiju pārnese</td><td rowspan="3">izglītība</td><td colspan="3">pētniecība</td><td rowspan="3">tehnoloģiju pārnese</td></tr>
+<tr>
+<td>F</td><td>R</td><td>E</td><td>F</td><td>R</td><td>E</td></tr>
+<tr>
+<td>fundamentālie pētījumi</td><td>rūpnieciskie pētījumi</td><td>eksperimentālā izstrāde</td><td>fundamentālie pētījumi</td><td>rūpnieciskie pētījumi</td><td>eksperimentālā izstrāde</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr>
+</table>
+
+Izglītības un zinātnes ministrs Kārlis Šadurskis

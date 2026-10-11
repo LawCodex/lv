@@ -1,0 +1,42 @@
+---
+title: "Elektronisko smēķēšanas ierīču uzpildes mehānisma tehniskie standarti"
+identifier: "MK noteikumi Nr. 441"
+likumi_lv_id: 316105
+type: regulation
+jurisdiction: lv
+language: lv
+number: "441"
+issuer: "Ministru kabinets"
+date: 2020-07-14
+entry_into_force: 2020-07-18
+published: "Latvijas Vēstnesis, 136, 17.07.2020."
+status: in_force
+source: "https://likumi.lv/ta/id/316105-elektronisko-smekesanas-iericu-uzpildes-mehanisma-tehniskie-standarti"
+retrieved: 2026-10-12
+---
+
+# Elektronisko smēķēšanas ierīču uzpildes mehānisma tehniskie standarti
+
+Ministru kabineta noteikumi Nr. 441
+Rīgā 2020. gada 14. jūlijā (prot. Nr. 44 15. §)
+
+Izdoti saskaņā ar Tabakas izstrādājumu,
+augu smēķēšanas produktu,
+elektronisko smēķēšanas ierīču
+un to šķidrumu aprites likuma
+3. panta piektās daļas 7. punktu
+
+1. Noteikumi nosaka ar uzpildes tvertni uzpildāmas elektroniskās smēķēšanas ierīces uzpildes mehānisma tehniskos standartus.
+
+2. Lai uzpildāmo elektronisko smēķēšanas ierīci un uzpildes tvertni laistu tirgū, uzpildes mehānismam jāatbilst vienam no šādiem nosacījumiem:
+
+2.1. uzpildes mehānismam izmanto uzpildes tvertni, kas sastāv no droši piestiprināta vismaz 9 milimetrus gara uzgaļa, kurš ir viegli ievietojams attiecīgās uzpildāmās elektroniskās smēķēšanas ierīces rezervuāra atverē un ir šaurāks nekā attiecīgā rezervuāra atvere, un plūsmas regulēšanas mehānisma, kas, novietots vertikālā stāvoklī un pakļauts atmosfēras spiedienam 20 °C (± 5 °C) temperatūrā, ļauj izplūst ne vairāk kā 20 nikotīnu saturoša vai nikotīnu nesaturoša šķidruma pilieniem minūtē;
+
+2.2. uzpildes mehānisms darbojas ar speciālu savienojuma sistēmu (doksistēmu), kas nikotīnu saturošam vai nikotīnu nesaturošam šķidrumam no uzpildes tvertnes ļauj izplūst uzpildāmās elektroniskās smēķēšanas ierīces rezervuārā tikai tad, kad uzpildes tvertne ir savienota ar uzpildāmo elektronisko smēķēšanas ierīci.
+
+3. Lai patērētājs varētu pārliecināties par elektroniskās smēķēšanas ierīces un uzpildes tvertnes saderību, ja uzpildes mehānismam izmanto uzpildes tvertni, pievienotajā lietošanas instrukcijā ar shematiskiem attēliem norāda uzpildes tvertnes uzgaļa platumu vai rezervuāra atveres platumu.
+
+4. Ja uzpildāmās elektroniskās smēķēšanas ierīces uzpildes mehānisms darbojas ar speciālu savienojuma sistēmu (doksistēmu), pievienotajā lietošanas instrukcijā ar shematiskiem attēliem norāda speciālās savienojuma sistēmas (doksistēmas) veidus, ar kuriem ir saderīga attiecīgā ierīce un uzpildes tvertne.
+
+Ministru prezidents A. K. Kariņš
+Veselības ministre I. Viņķele

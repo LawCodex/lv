@@ -1,0 +1,233 @@
+---
+title: "Kārtība, kādā bezvalstnieku vai nepilsoņu bērnu, kas dzimis Latvijā pēc 1991.gada 21.augusta,.."
+identifier: "MK noteikumi Nr. 976"
+likumi_lv_id: 260436
+type: regulation
+jurisdiction: lv
+language: lv
+number: "976"
+issuer: "Ministru kabinets"
+date: 2013-09-24
+entry_into_force: 2013-10-01
+published: "Latvijas Vēstnesis, 191, 01.10.2013."
+status: in_force
+source: "https://likumi.lv/ta/id/260436-kartiba-kada-bezvalstnieku-vai-nepilsonu-bernu-kas-dzimis-latvija-pec-1991-gada-21-augusta-atzist-par-latvijas-pilsoni"
+retrieved: 2026-10-12
+---
+
+# Kārtība, kādā bezvalstnieku vai nepilsoņu bērnu, kas dzimis Latvijā pēc 1991.gada 21.augusta,..
+
+Ministru kabineta noteikumi Nr.976
+Rīgā 2013.gada 24.septembrī (prot. Nr.50 118.§)
+
+Izdoti saskaņā ar Pilsonības likuma
+3.<sup>1</sup> panta sesto daļu
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka kārtību, kādā bērnu atzīst par Latvijas pilsoni saskaņā ar Pilsonības likuma 3.<sup>1</sup> panta otro, trešo un ceturto daļu, kā arī kārtību, kādā tiek atzīts, ka notiesājošs spriedums ir ticis pieņemts, neievērojot taisnīgas tiesas vai soda samērīguma principu.
+
+2. Iesniegumu bērna atzīšanai par Latvijas pilsoni (turpmāk – iesniegums) izskata Pilsonības un migrācijas lietu pārvalde (turpmāk – pārvalde).
+
+3. Lēmumu par bērna atzīšanu par Latvijas pilsoni pieņem pārvaldes priekšnieks vai viņa pilnvarota amatpersona.
+
+## II. Iesnieguma iesniegšana
+
+4. Lai bērnu, kas nav sasniedzis 15 gadu vecumu, atzītu par Latvijas pilsoni saskaņā ar Pilsonības likuma 3.<sup>1</sup> panta otro daļu, bērna likumiskais pārstāvis, uzrādot personu apliecinošu dokumentu, iesniedz pārvaldes teritoriālajā nodaļā iesniegumu un, ja nepieciešams, šo noteikumu 6.punktā minēto dokumentu vai iesniedz iesniegumu pārvaldē elektroniski (pielikums) normatīvajos aktos noteiktajā kārtībā.
+
+5. Ja bērns saskaņā ar Pilsonības likuma 3.<sup>1</sup> panta trešo daļu pēc 15 gadu vecuma sasniegšanas vēlas tikt atzīts par Latvijas pilsoni, viņš, uzrādot personu apliecinošu dokumentu, iesniedz pārvaldes teritoriālajā nodaļā iesniegumu, fotogrāfiju (3 x 4 cm) un, ja nepieciešams, šo noteikumu 6. un 7.punktā minēto dokumentu.
+
+6. Ja bērns, kas sasniedzis 15 gadu vecumu, kādā citā valstī ir notiesāts par tāda smaga vai sevišķi smaga noziedzīga nodarījuma izdarīšanu, kas arī Latvijā kvalificējams kā smags vai sevišķi smags noziedzīgs nodarījums, taču kompetenta starptautiska organizācija vai starptautiska tiesa ir atzinusi, ka šis spriedums ticis pieņemts, neievērojot taisnīgas tiesas vai soda samērīguma principus, viņš, iesniedzot pārvaldē iesniegumu, uzrāda atbilstošo starptautiskās organizācijas vai starptautiskās tiesas nolēmumu vai publiski pieejamu un pārbaudāmu informāciju par to, ka šis spriedums ticis pieņemts, neievērojot taisnīgas tiesas vai soda samērīguma principus.
+
+## III. Iesniegumam pievienojamie dokumenti
+
+7. Ja viens no bērna vecākiem ir miris ārvalstīs, šo noteikumu 4. un 5.punktā minētā persona uzrāda dokumentu par vecāka miršanas faktu vai tiesas nolēmumu par vecāka izsludināšanu par mirušu.
+
+8. Šo noteikumu 4. un 5.punktā minētā persona, apliecinot pastāvīgo dzīvesvietu Latvijā, iesniedz pārvaldē vienu vai, ja nepieciešams, vairākus šādus dokumentus:
+
+8.1. darba devēja izziņu par nodarbinātību;
+
+8.2. dokumentu par pabalsta saņemšanu;
+
+8.3. izglītības iestādes izziņu;
+
+8.4. pašvaldības amatpersonas apliecinājumu, ka persona dzīvo attiecīgās pašvaldības administratīvajā teritorijā;
+
+8.5. dokumentus, kas pierāda, ka persona noteiktajā laikposmā veikusi saimnieciskas vai finansiālas darbības Latvijas teritorijā;
+
+8.6. citus dokumentus, kas apliecina personas pastāvīgo dzīvesvietu Latvijā.
+
+9. Persona iesniedz šo noteikumu 8.1., 8.2., 8.3. un 8.4.apakšpunktā minētos dokumentus, ja tādi ir tās rīcībā.
+
+10. Bērns, kas sasniedzis 15 gadu vecumu, uzrāda vienu no Pilsonības likuma 21.panta otrajā daļā minētajiem dokumentiem.
+
+11. Ja bērns, kas sasniedzis 15 gadu vecumu, ir atbrīvojams no latviešu valodas prasmes pārbaudes saskaņā ar Pilsonības likuma 21.panta pirmās daļas 1.punktu, viņš uzrāda invaliditātes apliecību vai Veselības un darbspēju ekspertīzes ārstu valsts komisijas lēmumu par invaliditātes noteikšanu (ja tādi ir viņa rīcībā).
+
+12. Ja bērns, kas sasniedzis 15 gadu vecumu, ir atbrīvojams no latviešu valodas prasmes pārbaudes saskaņā ar Pilsonības likuma 21.panta pirmās daļas 2.punktu, viņš uzrāda apliecību par vispārējo pamatizglītību un dokumentu, kas apliecina, ka viņš ir ieguvis pamatizglītību latviešu valodā, apgūstot tajā vairāk nekā pusi no pamatizglītības programmas.
+
+## IV. Iesnieguma izskatīšana
+
+13. Ja bērns, kas sasniedzis 15 gadu vecumu, nav iesniedzis kādu no šo noteikumu 10., 11. vai 12.punktā minētajiem dokumentiem, pārvalde nosūta viņu uz latviešu valodas prasmes pārbaudi, kas paredzēta normatīvajos aktos par pilsonības iegūšanu naturalizācijas kārtībā.
+
+14. Ja nav iesniegti šo noteikumu 8.1., 8.2., 8.3., 8.4.apakšpunktā vai 11.punktā minētie dokumenti, pārvalde pieprasa atzinumu no šādām iestādēm:
+
+14.1. pašvaldības un Izglītības kvalitātes valsts dienesta – par to, vai bērns, kas nav sasniedzis 15 gadu vecumu, atbilst Pilsonības likuma 3.<sup>1</sup> panta otrās daļas 2.punktā minētajai prasībai;
+
+14.2. pašvaldības, Valsts ieņēmumu dienesta, Valsts sociālās apdrošināšanas aģentūras vai pašvaldības sociālā dienesta un Izglītības kvalitātes valsts dienesta − par personas atbilstību Pilsonības likuma 3.<sup>1</sup> panta otrās daļas 4.punktā vai Pilsonības likuma 3.<sup>1</sup> panta trešās daļas 2.punktā minētajai prasībai;
+
+14.3. Veselības un darbspēju ekspertīzes ārstu valsts komisijas − par personas atbilstību Pilsonības likuma 21.panta pirmās daļas 1.punktā minētajai prasībai.
+
+15. Lai pārbaudītu, vai bērns, kas sasniedzis 15 gadu vecumu, atbilst Pilsonības likuma 3.<sup>1</sup> panta trešās daļas 3. un 4. punktā minētajiem nosacījumiem, pārvalde pieprasa atzinumu šādām iestādēm:
+
+15.1. Iekšlietu ministrijas Informācijas centram – par atbilstību Pilsonības likuma 3.<sup>1</sup> panta trešās daļas 4. punktā minētajām prasībām;
+
+15.2. par atbilstību Pilsonības likuma 11. panta pirmās daļas 1. punktā minētajām prasībām:
+
+15.2.1. Satversmes aizsardzības birojam, Drošības policijai, Valsts policijai, Valsts ieņēmumu dienesta finanšu policijai un Muitas kriminālpārvaldei, Ieslodzījuma vietu pārvaldei, Korupcijas novēršanas un apkarošanas birojam, Militārajai policijai un Militārās izlūkošanas un drošības dienestam;
+
+15.2.2. Valsts robežsardzei, ja personas deklarētā dzīvesvieta ir pierobežā;
+
+15.3. Ārlietu ministrijai – par atbilstību Pilsonības likuma 3.<sup>1</sup> panta trešās daļas 4. punktā paredzētajam izņēmumam, ja persona uzrādījusi šo noteikumu 6. punktā minētos pierādījumus;
+
+15.4. citām valsts pārvaldes iestādēm, ja nepieciešama papildu pārbaude.
+
+*(MK 30.09.2014. noteikumu Nr.586 redakcijā)*
+
+16. Šo noteikumu 14. un 15.punktā minētās iestādes atbildi uz pārvaldes pieprasījumu sniedz 15 dienu laikā, bet, ja šo noteikumu 15.punktā minētajai iestādei atzinuma sniegšanai ir nepieciešama papildu pārbaude, – sešu mēnešu laikā.
+
+17. Pārvaldes priekšnieks vai viņa pilnvarota amatpersona pieņem lēmumu par atteikumu atzīt bērnu par Latvijas pilsoni šādos gadījumos:
+
+17.1. nav likumīga pamata bērna atzīšanai par Latvijas pilsoni;
+
+17.2. bērns, kas sasniedzis 15 gadu vecumu:
+
+17.2.1. neierodas uz latviešu valodas prasmes pārbaudi un divu mēnešu laikā no noteiktā pārbaudes laika neiesniedz dokumentus, kas apliecina neierašanos uz pārbaudi attaisnojoša iemesla dēļ;
+
+17.2.2. trīs reizes nenokārto vai atsakās kārtot latviešu valodas prasmes pārbaudi;
+
+17.2.3. kārtojot Pilsonības likumā noteikto latviešu valodas prasmes pārbaudi, ir pārkāpis pārbaudes kārtošanas noteikumus.
+
+18. Šo noteikumu 17.punktā minēto pārvaldes priekšnieka pilnvarotas amatpersonas lēmumu persona var apstrīdēt, iesniedzot iesniegumu pārvaldes priekšniekam. Pārvaldes priekšnieka lēmumu personai ir tiesības pārsūdzēt administratīvajā tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+
+## V. Noslēguma jautājumi
+
+19. Atzīt par spēku zaudējušiem Ministru kabineta 2011.gada 5.jūlija noteikumus Nr.520 "Kārtība, kādā tiek iesniegts un izskatīts iesniegums bērna atzīšanai par Latvijas pilsoni" (Latvijas Vēstnesis, 2011, 105.nr.)
+
+20. Noteikumi stājas spēkā 2013.gada 1.oktobrī.
+
+Ministru prezidents Valdis Dombrovskis
+Iekšlietu ministrs Rihards Kozlovskis
+
+## Pielikums Ministru kabineta 2013.gada 24.septembra noteikumiem Nr.976
+
+### Iesniegums pēc 1991.gada 21.augusta Latvijā dzimuša bezvalstnieku vai nepilsoņu bērna atzīšanai par Latvijas pilsoni saskaņā ar Pilsonības likuma 3.<sup>1</sup> panta otro daļu
+
+1.daļa. Ziņas par bērna likumisko pārstāvi
+
+| Vārds(-i) |  |
+| --- | --- |
+|  |  |
+| Uzvārds(-i) |  |
+
+| Personas kods |  |  |  |  |  |  | − |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Valstiskās piederības veids |  |
+| --- | --- |
+
+| Tālrunis |  |  |
+| --- | --- | --- |
+
+<table>
+<tr>
+<td>e-pasta adrese</td><td></td><td></td></tr>
+<tr>
+<td colspan="3">(<i>Ja vēlaties saņemt lēmumu elektroniski, neizmantojot drošu elektronisko parakstu)</i></td></tr>
+</table>
+
+2.daļa. Ziņas par bērnu, kuru lūdz atzīt par Latvijas pilsoni saskaņā ar Pilsonības likuma 3.<sup>1</sup> panta otro daļu
+
+| Vārds(-i) |  |
+| --- | --- |
+|  |  |
+| Uzvārds(-i) |  |
+
+| Personas kods |  |  |  |  |  |  | − |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Valstiskās piederības veids |  |
+| --- | --- |
+
+**3.daļa. Informācija, kas apliecina pastāvīgo dzīvesvietu Latvijā**
+(lūdzu, norādiet vienu vai, ja nepieciešams, vairākus no 3.1., 3.2., 3.3. un 3.4.apakšpunktā minētajiem apliecinājumiem vai pievienojiet 3.5.apakšpunktā minētos dokumentus)
+
+3.1. Informācija par darbavietām, kurās pēdējos piecus gadus ir bijis nodarbināts bērna vecāks
+
+| Nr.<br>p.k. | Darbavietas nosaukums un adrese | Darba attiecību uzsākšanas datums | Darba attiecību izbeigšanas datums |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+3.2. Informācija par pabalstiem, kuri pēdējos piecos gados piešķirti bērnam vai bērna vecākam
+
+| Nr.<br>p.k. | Iestādes nosaukums | Pabalsta veids |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+3.3. Informācija par izglītības iestādēm, kurās bērns vai bērna vecāks mācās vai ir mācījies
+
+| Nr.<br>p.k. | Izglītības iestādes nosaukums | Mācību uzsākšanas datums | Mācību izbeigšanas datums |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+3.4. Norādiet pašvaldību(-as), kuras(-u) amatpersona var apliecināt, ka bērna vecāks un bērns dzīvo attiecīgās pašvaldības administratīvajā teritorijā
+
+|  |
+| --- |
+| (pašvaldības(-u) nosaukums(-i) |
+
+vai
+
+3.5. Pievienojiet (lūdzu, atzīmējiet atbilstošo, ievelkot krustiņu vai divreiz uzklikšķinot)
+
+![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF) dokuments, kas pierāda, ka bērna vecāks pēdējos piecos gados veicis saimnieciskas vai finansiālas darbības Latvijas teritorijā (piemēram, īres līgumi, dokumenti par komunālajiem maksājumiem)
+
+![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF) cits pierādījums, kas apliecina pastāvīgo dzīvesvietu
+
+**4.daļa. Iesniegumam pievienotie dokumenti** (ja attiecas)
+(lūdzu, atzīmējiet atbilstošo, ievelkot krustiņu vai divreiz uzklikšķinot)
+
+![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF) dokuments, kas apliecina otra vecāka miršanas faktu
+
+![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF) tiesas nolēmums par otra vecāka izsludināšanu par mirušu
+
+5.daļa. Informācijas iesniedzēja apliecinājums
+
+<table>
+<tr>
+<td colspan="3">Apliecinu, ka iesniegtā informācija ir patiesa</td><td colspan="16"></td></tr>
+<tr>
+<td colspan="3"></td><td colspan="16"></td></tr>
+<tr>
+<td colspan="3"></td><td colspan="16">Informācijas iesniedzēja paraksts*</td></tr>
+<tr>
+<td colspan="3"></td><td colspan="2"></td><td colspan="13"></td><td></td></tr>
+<tr>
+<td colspan="19"></td></tr>
+<tr>
+<td colspan="4"></td><td></td><td colspan="3">Diena</td><td colspan="2"></td><td colspan="2">Mēnesis</td><td></td><td colspan="4">Gads</td><td colspan="2"></td></tr>
+<tr>
+<td colspan="4">Datums</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr>
+<td colspan="19">Piezīme. * Dokumenta rekvizītu "paraksts" neaizpilda, ja elektroniskais dokuments ir sagatavots atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu.</td></tr>
+<tr>
+<td colspan="19"></td></tr>
+<tr>
+<td>Informācijai pievienoto dokumentu skaits</td><td></td><td colspan="4">uz</td><td colspan="3"></td><td colspan="10">lapām</td></tr>
+<tr>
+<td colspan="19"></td></tr>
+</table>
+
+Iekšlietu ministrs Rihards Kozlovskis

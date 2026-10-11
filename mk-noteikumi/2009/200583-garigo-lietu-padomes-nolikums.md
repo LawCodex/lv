@@ -1,0 +1,62 @@
+---
+title: "Garīgo lietu padomes nolikums"
+identifier: "MK noteikumi Nr. 1307"
+likumi_lv_id: 200583
+type: regulation
+jurisdiction: lv
+language: lv
+number: "1307"
+issuer: "Ministru kabinets"
+date: 2009-11-10
+entry_into_force: 2009-11-14
+published: "Latvijas Vēstnesis, 181, 13.11.2009."
+status: in_force
+source: "https://likumi.lv/ta/id/200583-garigo-lietu-padomes-nolikums"
+retrieved: 2026-10-12
+---
+
+# Garīgo lietu padomes nolikums
+
+Ministru kabineta noteikumi Nr.1307
+Rīgā 2009.gada 10.novembrī (prot. Nr.79 24.§)
+
+Izdoti saskaņā ar Reliģisko organizāciju likuma 5.panta astoto daļu
+
+1. Garīgo lietu padome (turpmāk – padome) ir pastāvīga konsultatīva valsts un reliģisko organizāciju sadarbību koordinējoša institūcija.
+
+2. Padomes izveidošanas mērķis ir veicināt un pilnveidot valsts un reliģisko organizāciju sadarbību.
+
+3. Padomei ir šādi uzdevumi:
+
+3.1. koordinēt valsts un reliģisko organizāciju sadarbības projektu izstrādi un īstenošanu;
+
+3.2. izteikt viedokli Latvijas valsts institūcijām:
+
+3.2.1. jautājumos, kas saistīti ar reliģisko organizāciju darbību valstī;
+
+3.2.2. jautājumos, kas skar reliģisko organizāciju tiesības un pienākumus;
+
+3.2.3. par to normatīvo aktu pilnveidošanu, kuri attiecas uz reliģisko organizāciju darbību;
+
+3.2.4. par morāli ētisko vērtību stiprināšanu sabiedrībā saistībā ar tajā notiekošajiem procesiem.
+
+4. Padomes sastāvā ir padomes priekšsēdētājs, tradicionālo reliģisko organizāciju vadītāji vai viņu pilnvarotie pārstāvji un tieslietu ministrs.
+
+5. Padomi vada padomes priekšsēdētājs – Ministru prezidents. Padomes sēdes vada padomes priekšsēdētājs vai viņa pilnvarota amatpersona.
+
+6. Lai apspriestu darba kārtībā paredzētus jautājumus, padomes sēdē, ja nepieciešams, uzaicina piedalīties valsts institūciju pārstāvjus, reliģisko organizāciju vai padomes priekšsēdētāja ieteiktus ekspertus un speciālistus, kā arī citas personas un reliģisko organizāciju pārstāvjus.
+
+7. Padomes sekretariāta funkcijas nodrošina Tieslietu ministrija.
+
+8. Padomes sēdes notiek vismaz reizi pusgadā. Uzaicinājumu uz padomes sēdi, informāciju par sēdes norises vietu un darba kārtību padomes sekretariāts elektroniski nosūta padomes sēdes dalībniekiem vismaz 10 dienas pirms sēdes.
+
+9. Padomes priekšsēdētājs var sasaukt padomes sēdi steidzamības kārtībā. Par padomes sēdi, kuru sasauc steidzamības kārtībā, paziņo piecas dienas pirms attiecīgās sēdes.
+
+10. Jautājumus izskatīšanai padomes sēdē ir tiesīgs ierosināt jebkurš padomes loceklis. Priekšlikumi par padomes sēdē izskatāmiem jautājumiem iesniedzami Tieslietu ministrijā ne vēlāk kā piecas dienas pirms sēdes.
+
+11. Padome pieņem lēmumus, ievērojot vienprātības principu.
+
+12. Padomes sekretariāts 10 dienu laikā pēc sēdes elektroniski nosūta sēdes protokolu sēdes dalībniekiem.
+
+Ministru prezidents V.Dombrovskis
+Tieslietu ministrs M.Segliņš

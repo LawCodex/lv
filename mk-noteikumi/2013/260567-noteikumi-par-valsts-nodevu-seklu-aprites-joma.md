@@ -1,0 +1,60 @@
+---
+title: "Noteikumi par valsts nodevu sēklu aprites jomā"
+identifier: "MK noteikumi Nr. 1026"
+likumi_lv_id: 260567
+type: regulation
+jurisdiction: lv
+language: lv
+number: "1026"
+issuer: "Ministru kabinets"
+date: 2013-10-01
+entry_into_force: 2014-01-01
+published: "Latvijas Vēstnesis, 193, 03.10.2013."
+status: in_force
+source: "https://likumi.lv/ta/id/260567-noteikumi-par-valsts-nodevu-seklu-aprites-joma"
+retrieved: 2026-10-12
+---
+
+# Noteikumi par valsts nodevu sēklu aprites jomā
+
+Ministru kabineta noteikumi Nr.1026
+Rīgā 2013.gada 1.oktobrī (prot. Nr.51 29.§)
+
+Izdoti saskaņā ar Sēklu un šķirņu aprites likuma 21.pantu
+
+1. Noteikumi nosaka kārtību, kādā maksājama valsts nodeva sēklu aprites jomā, kā arī valsts nodevas apmēru.
+
+2. Valsts nodevas apmērs ir šāds:
+
+2.1. par personas reģistrāciju Kultūraugu uzraudzības valsts informācijas sistēmas Sēklaudzētāju un sēklu tirgotāju reģistrā – 7,11 *euro*;
+
+2.2. par izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas Sēklaudzētāju un sēklu tirgotāju reģistrā – 2,85 euro;
+
+2.3. par šķirnes iekļaušanu Latvijas augu šķirņu katalogā – 17,07 *euro*;
+
+2.4. par šķirnes uzturēšanu Latvijas augu šķirņu katalogā – 12,81 *euro*;
+
+2.5. par šķirnes uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā – 17,07 *euro*;
+
+2.6. par atļaujas izsniegšanu un tās termiņa pagarināšanu tādu šķirņu sēklu izvietošanai tirgū, par kurām ir iesniegts iesniegums, bet kuras vēl nav iekļautas Latvijas augu šķirņu katalogā vai kādā no Eiropas Savienības dalībvalstu nacionālajiem katalogiem, – 7,11 *euro*;
+
+2.7. par atļaujas izsniegšanu uz laiku tirgot sēklas, kas neatbilst minimālās dīgtspējas prasībām, – 7,11 *euro*;
+
+2.8. par personas reģistrāciju Kultūraugu uzraudzības valsts informācijas sistēmas dārzeņu šķirņu kolekcionāru reģistrā – 7,11 *euro*;
+
+2.9. par izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas dārzeņu šķirņu kolekcionāru reģistrā – 3,56 *euro*.
+
+3. Valsts nodevu samaksā pirms šo noteikumu 2.punktā minēto darbību veikšanas ar tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē.
+
+4. Iesniegumā, ko persona iesniedz Valsts augu aizsardzības dienestā šo noteikumu 2.punktā minēto darbību veikšanai, norāda valsts nodevas samaksas datumu.
+
+5. Ja Valsts augu aizsardzības dienests pieņem personai nelabvēlīgu lēmumu par šo noteikumu 2.punktā minētajām darbībām, valsts nodeva netiek atmaksāta.
+
+6. Valsts nodevu ieskaita valsts pamatbudžetā.
+
+7. Atzīt par spēku zaudējušiem Ministru kabineta 2009.gada 24.novembra noteikumus Nr.1351 "Noteikumi par valsts nodevu sēklu aprites jomā" (Latvijas Vēstnesis, 2009, 187.nr.; 2013, 158.nr.).
+
+8. Noteikumi stājas spēkā 2014.gada 1.janvārī.
+
+Ministru prezidents Valdis Dombrovskis
+Zemkopības ministre Laimdota Straujuma

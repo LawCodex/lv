@@ -1,0 +1,248 @@
+---
+title: "Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Lauksaimniecības fonda lauku.."
+identifier: "MK noteikumi Nr. 85"
+likumi_lv_id: 358441
+type: regulation
+jurisdiction: lv
+language: lv
+number: "85"
+issuer: "Ministru kabinets"
+date: 2025-02-04
+entry_into_force: 2025-02-07
+published: "Latvijas Vēstnesis, 26, 06.02.2025."
+status: in_force
+source: "https://likumi.lv/ta/id/358441-valsts-un-eiropas-savienibas-atbalsta-pieskirsanas-kartiba-eiropas-lauksaimniecibas-fonda-lauku-attistibai-intervence-informativie"
+retrieved: 2026-10-12
+---
+
+# Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Lauksaimniecības fonda lauku..
+
+Ministru kabineta noteikumi Nr. 85
+Rīgā 2025. gada 4. februārī (prot. Nr. 5 28. §)
+
+Izdoti saskaņā ar Lauksaimniecības un lauku attīstības likuma 5. panta ceturto daļu
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka valsts un Eiropas Savienības atbalsta (turpmāk – atbalsts) piešķiršanas kārtību intervencē "Informatīvie pasākumi" (turpmāk – intervence).
+
+2. Atbalstu piešķir saskaņā ar:
+
+2.1. Eiropas Parlamenta un Padomes 2021. gada 2. decembra Regulu (ES) 2021/2115, ar ko izveido noteikumus par atbalstu stratēģiskajiem plāniem, kuri dalībvalstīm jāizstrādā saskaņā ar kopējo lauksaimniecības politiku (KLP stratēģiskie plāni) un kurus finansē no Eiropas Lauksaimniecības garantiju fonda (ELGF) un no Eiropas Lauksaimniecības fonda lauku attīstībai (ELFLA), un ar ko atceļ Regulas (ES) Nr. 1305/2013 un (ES) Nr. 1307/2013 (turpmāk – regula 2021/2115);
+
+2.2. Komisijas (ES) 2023. gada 13. decembra Regulu 2023/2831 par Līguma par Eiropas Savienības darbību 107. un 108. panta piemērošanu *de minimis* atbalstam (turpmāk – regula 2023/2831), ja atbalsts attiecināms uz finansējuma saņēmējiem un gala labuma guvējiem, kuru darbība nav vērsta uz lauksaimniecības produktu primāro ražošanu, par darbībām pārtikas ražošanas (Līguma par ES darbību I pielikumā neminētu pārtikas produktu (izņemot zivsaimniecības produktus) ražošanas) nozarē un jebkurā citā nelauksaimniecības nozarē (izņemot mežsaimniecības nozari);
+
+2.3. Komisijas (ES) 2022. gada 14. decembra Regulu 2022/2472, ar kuru, piemērojot Līguma par Eiropas Savienības darbību 107. un 108. pantu, dažu kategoriju atbalstu lauksaimniecības un mežsaimniecības nozarē un lauku apvidos atzīst par saderīgu ar iekšējo tirgu (turpmāk – regula 2022/2472), ja atbalsts attiecināms uz gala labuma guvējiem, kuru darbība nav vērsta uz lauksaimniecības produktu primāro ražošanu, par darbībām mežsaimniecības nozarē.
+
+3. Atbalsta mērķis ir veicināt informatīvo pasākumu pieejamību, lai padziļinātu izpratni par lauksaimniecības, mežsaimniecības un pārtikas ražošanas (izņemot zivsaimniecības produktus) jautājumiem, uzņēmumu izaugsmi, efektivitātes palielināšanu un konkurētspējas uzlabošanu, digitalizāciju un jauno tehnoloģiju izmantošanu, saimniekošanas dažādošanu, vides un klimata pasākumiem, kā arī dabas resursu ilgtspējīgas apsaimniekošanas metožu lietošanu, atjaunojamiem energoresursiem, antimikrobiālās rezistences un dzīvnieku labturības jautājumiem, darba tiesībām, darba aizsardzības un arodveselības jautājumiem, zinātnes atziņu un jaunas prakses pielietojamību, kā arī citiem jautājumiem, tādējādi sekmējot lauku teritorijas attīstību. Informatīvā pasākuma mērķis ir sniegt noderīgu informāciju par aktuāliem jautājumiem, un tam nav komerciāla vai reklāmas rakstura.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+4. Intervences īstenošanas vieta ir Latvijas teritorija.
+
+5. Finansējuma saņēmējs ir atbalsta pretendents, kas atbilst šajos noteikumos minētajiem atbalsta saņemšanas nosacījumiem.
+
+6. Lai nodrošinātu šo noteikumu 1. punktā minētās intervences īstenošanu, Lauku atbalsta dienests un finansējuma saņēmējs apstrādā šādus personas datus – personas vārdu, uzvārdu, personas kodu, dzimumu, tālruņa numuru, e-pasta adresi, Lauku atbalsta dienesta klienta numuru, nekustamā īpašuma adresi, nekustamā īpašuma kadastra numuru, fiziskas personas deklarēto dzīvesvietu, kā arī parakstu. Finansējuma saņēmējs nodrošina dokumentu pieejamību 10 gadus, sākot no dienas, kad piešķirts atbalsts, bet Lauku atbalsta dienests – sākot no dienas, kad piešķirts pēdējais atbalsts šajos noteikumos minētajai atbalsta intervencei. Pēc tam fiziskās personas dati iznīcināmi saskaņā ar Arhīvu likumā noteiktajām prasībām.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+7. Pieteikšanās atbalstam, iesniegumu vērtēšana, lēmuma pieņemšana un publiskā finansējuma saņemšana notiek saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanu, administrēšanu un uzraudzību lauku un zivsaimniecības attīstībai, ciktāl tie nav pretrunā ar šiem noteikumiem.
+
+8. Pirms Lauku atbalsta dienests izsludina projektu iesniegumu pieņemšanas kārtu, Zemkopības ministrija pieņem lēmumu par šajos noteikumos paredzētā publiskā finansējuma apmēru un informatīvo pasākumu īstenošanas periodu.
+
+## II. Atbalsta saņemšanas nosacījumi
+
+9. Gala labuma guvēji, kas piedalās informatīvajos pasākumos, ir fiziskas personas, kuru dzīvesvieta ir deklarēta lauku teritorijā vai kuru nekustamā īpašuma (lauksaimniecības vai meža zemes) adrese ir lauku teritorijā, vai zirgu īpašnieki, kuru ganāmpulks ir reģistrēts Lauku atbalsta dienesta Lauksaimniecības dzīvnieku, ganāmpulku un novietņu reģistrā, vai juridiskas personas, kuru juridiskā adrese ir lauku teritorijā. Lauku teritorija ir Latvijas teritorija, izņemot valstspilsētas un pilsētas, kurās ir vairāk nekā 5000 iedzīvotāju. Iedzīvotāju skaitu nosaka saskaņā ar Centrālās statistikas pārvaldes datiem par iedzīvotāju skaitu Latvijas administratīvajās teritorijās atbilstoši jaunākajiem valsts statistiskajiem novērojumiem. Norādītā adrese tiek pārbaudīta pēc stāvokļa informatīvā pasākuma norises pirmajā dienā.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+10. Atbalsta pretendents ir:
+
+10.1. lauksaimniecības vai mežsaimniecības nozares nevalstiskā organizācija;
+
+10.2. kooperatīvā sabiedrība, kas darbojas lauksaimniecības, mežsaimniecības vai pārtikas, dzērienu un amatniecības (mājražošana) nozarē.
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+11. Informatīvā pasākuma minimālais apmeklētāju skaits ir 20 šo noteikumu 9. punktā minētie gala labuma guvēji – fiziskas personas – vai gala labuma guvēju – juridisko personu – pārstāvji.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+12. Atbalsta pretendentam ir:
+
+12.1. pieredze informatīvu pasākumu īstenošanā vismaz iepriekšējo triju gadu laikā;
+
+12.2. pietiekams personāls ar nepieciešamo kvalifikāciju:
+
+12.2.1. jomas profesionāļiem (lektoriem) vismaz iepriekšējo triju gadu laikā ir pieredze nozarē, par kuru tie sniedz informāciju vai nodrošina zināšanu apmaiņu;
+
+12.2.2. jomas profesionāļiem (lektoriem) ir augstākā vai profesionālā vidējā izglītība;
+
+12.2.3. jomas profesionāļi (lektori) iepriekšējo triju gadu laikā, skaitot no projekta iesniegšanas dienas, vismaz reizi gadā ir apmeklējuši mācības, kursus, seminārus, lekcijas vai konferences nozarē, par kuru tie sniedz informāciju vai nodrošina zināšanu apmaiņu. Šī prasība neattiecas uz ārvalstu jomas profesionāļiem (lektoriem), izņemot gadījumus, kad atbalstu piešķir saskaņā ar regulu 2022/2472;
+
+12.3. informatīvā pasākuma īstenošanai nepieciešamais materiāli tehniskais nodrošinājums.
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+13. Informatīvais pasākums tiek īstenots valsts valodā.
+
+14. Informatīvais pasākums notiek klātienē vai hibrīda formā, nodrošinot apmeklētājiem iespēju piedalīties pasākumā arī tiešsaistē. Jomas profesionāļi (lektori) informatīvajā pasākumā piedalās klātienē. Ja piesaistītajam ārvalstu jomas profesionālim (lektoram) nav iespējas informatīvajā pasākumā piedalīties klātienē, tas pieslēdzas attālināti tiešsaistē.
+
+## III. Publiskā finansējuma veids un apmērs
+
+15. Publiskā finansējuma atbalsta intensitāte ir 100 procentu.
+
+16. Atbalsta apmērs:
+
+16.1. vienam atbalsta pretendenta organizētam vietēja mēroga informatīvajam pasākumam – līdz 5 000 *euro*;
+
+16.2. viena atbalsta pretendenta organizētam starptautiska mēroga informatīvajam pasākumam, tas ir, pasākumam, kurā vismaz viens ārvalstu jomas profesionālis (lektors) piedalās klātienē, – līdz 8000 *euro,* bet*,* ja klātienē piedalās vismaz divi ārvalstu jomas profesionāļi (lektori), – līdz 10 000 *euro.*
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+17. Maksimālais atbalsta apmērs vienam atbalsta pretendentam vienā kārtā ir 50 000 *euro*.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+18. (Svītrots ar MK 16.06.2026. noteikumiem Nr. 336)
+
+19. Intervencē ir noteiktas šādas attiecināmās izmaksas:
+
+19.1. tiešās attiecināmās izmaksas – izmaksas, kas ir tieši saistītas un ir nepieciešamas pakalpojuma nodrošināšanai:
+
+19.1.1. jomas profesionāļu (lektoru) atlīdzība (tai skaitā darba devēja valsts sociālās apdrošināšanas obligātās iemaksas);
+
+19.1.2. tulkošanas izmaksas;
+
+19.1.3. publicitātes izmaksas;
+
+19.1.4. jomas profesionāļu (lektoru) un informatīvā pasākuma organizēšanā iesaistītā atbalsta pretendenta personāla transporta (ceļa) izdevumi un izmaksas par viesnīcu (naktsmītni). Tiem, kas nav ārvalstu jomas profesionāļi (lektori), izmaksu apmēru nosaka saskaņā ar normatīvajiem aktiem par kārtību, kādā atlīdzināmi ar komandējumiem saistītie izdevumi;
+
+19.1.5. informatīvā pasākuma vajadzībām nepieciešamo telpu, iekārtu, tehnikas un tiešsaistes rīku izmaksas;
+
+19.1.6. organizatoriskās izmaksas, bet ne vairāk kā 30 procentu no tiešajām attiecināmajām izmaksām, neieskaitot kafijas pauzes izmaksas. Kafijas pauzes izmaksas ir attiecināmas vienam reģistrētajam konkrētā pasākuma dalībniekam, kas pieteicies informatīvo pasākumu apmeklēt klātienē, jomas profesionālim (lektoram) un informatīvā pasākuma organizēšanā iesaistītajam personālam, kas informatīvajā pasākumā piedalās klātienē, ne vairāk kā desmit *euro*, ja informatīvā pasākuma laikā tiek organizēta viena kafijas pauze. Ja pasākums ir ilgāks par sešām astronomiskajām stundām, rīko ne vairāk kā divas kafijas pauzes, kuru kopējās attiecināmās izmaksas nepārsniedz 15 *euro* par personu;
+
+19.2. netiešās attiecināmās izmaksas – izmaksas, kas nepieciešamas pakalpojuma nodrošināšanai, bet nav tieši saistītas ar pakalpojuma sniegšanu, piemēram, biroja administratīvie izdevumi, grāmatvedības pakalpojumi, – septiņi procenti no tiešajām attiecināmajām izmaksām.
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+20. Pievienotās vērtības nodoklis nav attiecināms, izņemot gadījumus, ja tas nav atgūstams no valsts budžeta.
+
+21. Uz atbalsta pretendentu attiecina šo noteikumu 19.1.6. apakšpunktā minētās izmaksas, ja tās attiecas uz atbalsta pretendenta darbību, nevis informatīvā pasākuma norisi, un šo noteikumu 19.2. apakšpunktā minētās izmaksas.
+
+22. Uz gala labuma guvēju attiecina šo noteikumu 19.1.1., 19.1.2., 19.1.3., 19.1.4. un 19.1.5. apakšpunktā minētās izmaksas, kā arī 19.1.6. apakšpunktā minētās izmaksas, ja tās attiecas uz informatīvā pasākuma norisi.
+
+23. Nav attiecināmas izmaksas, kas saistītas ar jebkuru piegādi, pakalpojumu vai darbu, par kuru nav rīkota atbilstoša iepirkuma procedūra saskaņā ar normatīvajiem aktiem par iepirkuma procedūras piemērošanu.
+
+24. Intervencē finansē tikai tādas attiecināmās izmaksas, kas ir izmērāmas, samērīgas, pamatotas un atbilst pareizas finanšu vadības principiem.
+
+## IV. Atbalsta saņemšanas kārtība
+
+25. Lai pieteiktos atbalstam, atbalsta pretendents saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanu, administrēšanu un uzraudzību lauku un zivsaimniecības attīstībai Lauku atbalsta dienesta Elektroniskās pieteikšanās sistēmā iesniedz šādus dokumentus:
+
+25.1. projekta iesniegumu, kas ietver vismaz:
+
+25.1.1. informāciju par atbalsta pretendentu;
+
+25.1.2. plānotā informatīvā pasākuma aprakstu (ja tiek plānoti vairāki informatīvie pasākumi, informāciju norāda par katru informatīvo pasākumu atsevišķi), norādot:
+
+25.1.2.1. informatīvā pasākuma mērķi un nozari, kurā tiks sekmēta zināšanu apmaiņa;
+
+25.1.2.2. tēmas aktualitāti, informatīvā pasākuma nepieciešamību un lietderību;
+
+25.1.2.3. informatīvā pasākuma mērogu – vietēja vai starptautiska mēroga;
+
+25.1.2.4. informatīvā pasākuma plānoto īstenošanas laiku;
+
+25.1.2.5. informatīvā pasākuma mērķauditoriju un plānoto apmeklētāju skaitu;
+
+25.1.2.6. informatīvā pasākuma publicitāti;
+
+25.1.3. informatīvā pasākuma īstenošanas provizorisko tāmi (ja tiek plānoti vairāki informatīvie pasākumi, informāciju norāda par katru informatīvo pasākumu atsevišķi);
+
+25.1.4. atbalsta pretendenta pašvērtējumu par atbilstību projekta atlases kritērijiem un punktu skaita pamatojumu;
+
+25.2. apliecinājumu par pievienotās vērtības nodokļa neatgūšanu no valsts budžeta (ja attiecas);
+
+25.3. dokumentus, kas pierāda atbalsta pretendenta atbilstību šo noteikumu 12. punkta prasībām:
+
+25.3.1. īstenoto informatīvo pasākumu sarakstu, ar ko atbalsta pretendents apliecina pieredzi informatīvo pasākumu īstenošanā vismaz iepriekšējo triju gadu laikā, skaitot no projekta iesniegšanas dienas. Sarakstā norāda informatīvā pasākuma nosaukumu, norises laiku, vietu, jomas profesionāļu (lektoru) vārdu un uzvārdu, mērķauditoriju, apmeklētāju skaitu;
+
+25.3.2. sarakstu, kurā norādīts informatīvā pasākuma īstenošanā iesaistītais personāls – jomas profesionāļi (lektori) un par projektu atbildīgā persona –, jomas profesionāļu (lektoru) kvalifikācijas apraksti, kas apliecina viņu atbilstību šo noteikumu 12.2. apakšpunkta un 13. punkta prasībām, jomas profesionāļu (lektoru) izglītību apliecinošo dokumentu kopijas attēla formātā (ja attiecas – dokumenta kopiju par uzvārda maiņu attēla formātā). Ja nepieciešams, Lauku atbalsta dienests par dokumentiem, kas sagatavoti citā valodā, pieprasa atbalsta pretendenta apliecinātu tulkojumu latviešu valodā. Pēc projekta iesnieguma apstiprināšanas, saskaņojot ar Lauku atbalsta dienestu, pretendents ir tiesīgs mainīt vai papildināt informatīvā pasākuma īstenošanā iesaistīto personālu ar jaunu personālu, iesniedzot vajadzīgos dokumentus, kas apliecina jaunā personāla atbilstību šo noteikumu prasībām;
+
+25.3.3. informatīvā pasākuma īstenošanai nepieciešamā materiāltehniskā nodrošinājuma sarakstu, norādot tā pieejamību;
+
+25.4. atbalsta pretendenta deklarāciju atbilstoši normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanu lauku un zivsaimniecības attīstībai;
+
+25.5. ja pretendē uz atbalstu saskaņā ar regulu 2023/2831 – *de minimis* atbalsta uzskaites sistēmā sagatavotās veidlapas izdruku vai *de minimis* atbalsta uzskaites sistēmā izveidotās un apstiprinātās veidlapas identifikācijas numuru saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību.
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+26. Lauku atbalsta dienests izvērtē atbalsta pretendenta atbilstību šo noteikumu 10. un 12. punkta nosacījumiem, pārbauda šo noteikumu 25.5. apakšpunktā minēto atbalsta pretendenta norādīto informāciju (ja attiecināms) un projektu iesniegumus sarindo dilstošā secībā, ņemot vērā iegūto punktu skaitu projektu atlases kritērijos. Atlases kritērijus atbilstoši regulas 2021/2115 79. panta 1. punktam apstiprina Zemkopības ministrija pēc saskaņošanas ar Kopējās lauksaimniecības politikas stratēģiskā plāna 2023.–2027. gadam uzraudzības komiteju, kas izveidota saskaņā ar normatīvajiem aktiem par kārtību, kādā administrē un uzrauga Eiropas Lauksaimniecības garantiju fondu un Eiropas Lauksaimniecības fondu lauku attīstībai, kā arī valsts un Eiropas Savienības atbalstu lauksaimniecībai un lauku attīstībai 2023.–2027. gada plānošanas periodā. Priekšroka publiskā finansējuma saņemšanai ir projekta iesniegumam ar lielāko punktu skaitu. Ja divu vai vairāku projekta iesniegumu kopējais piešķirto punktu skaits ir vienāds, priekšroka tiek dota projekta iesniegumam, kurā plānots lielākais projekta iesniegumā norādīto informatīvo pasākumu apmeklētāju kopskaits. Projektus, kas atbilst projektu atlases kritērijiem, turpina vērtēt saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanu, administrēšanu un uzraudzību lauku un zivsaimniecības attīstībai, ciktāl tie nav pretrunā ar šiem noteikumiem.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+27. Informāciju par informatīvajiem pasākumiem atbalsta pretendents publisko Eiropas Savienības Lauksaimniecības zināšanu un inovācijas sistēmā (AKIS).
+
+28. Atbalsta pretendents nodrošina pieteikšanās iespēju gala labuma guvējiem vismaz divas nedēļas pirms informatīvā pasākuma, kā arī informē Lauku atbalsta dienestu par informatīvā pasākuma vietu un laiku un nosūta informāciju Eiropas Savienības Lauksaimniecības zināšanu un inovācijas sistēmas (AKIS) sekretariātam.
+
+29. Lai pieteiktos dalībai informatīvajā pasākumā, gala labuma guvējs atbalsta pretendentam norāda izvēlēto informatīvo pasākumu, tā norises laiku un vietu, kā arī personas datus atbilstoši šo noteikumu 6. un 9. punktam un to, vai gala labuma guvēja darbība ir vērsta uz lauksaimniecības produktu primāro ražošanu, tas ir, līguma par Eiropas Savienības darbību I pielikumā minēto lauksaimniecības produktu (izņemot zivsaimniecības produktus) ražošanu. Ja gala labuma guvējs ir juridiska persona, tā norāda informatīvā pasākuma apmeklētāja – fiziskas personas – datus, kas pārstāv gala labuma guvēju, un viņa saistību ar attiecīgo gala labuma guvēju.
+
+30. Ja gala labuma guvējs, kura darbība nav vērsta uz lauksaimniecības produktu primāro ražošanu, piesakās informatīvajam pasākumam par darbībām pārtikas ražošanas (Līguma par Eiropas Savienības darbību I pielikumā neminētu pārtikas produktu (izņemot zivsaimniecības produktus) ražošanas) nozarē un darbībām jebkurā citā nelauksaimniecības nozarē (izņemot mežsaimniecības nozari), tas atbalsta pretendentam iesniedz *de minimis* atbalsta uzskaites sistēmā sagatavotās veidlapas izdruku vai norāda *de minimis* atbalsta uzskaites sistēmā izveidotās un apstiprinātās veidlapas identifikācijas numuru saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību.
+
+31. Atbalsta pretendents pārbauda gala labuma guvēja norādīto informāciju, kas minēta šo noteikumu 29. un 30. punktā.
+
+32. Atbalsta pretendents pēc informatīvā pasākuma norises līdz maksājuma pieprasījuma iesniegšanas dienai Lauku atbalsta dienesta Elektroniskās pieteikšanās sistēmā ievada informatīvā pasākuma laiku un vietu, kā arī šo noteikumu 29. un 30. punktā prasītos datus par gala labuma guvējiem un informatīvā pasākuma apmeklētājiem.
+
+*(MK 16.06.2026. noteikumu Nr. 343 redakcijā)*
+
+33. Atbalsta pretendents atskaitās par faktiskajām izmaksām un saņem naudu, iesniedzot Lauku atbalsta dienestā:
+
+33.1. maksājuma pieprasījumu, detalizētu tāmi par notikušo informatīvo pasākumu un izdevumus apliecinošo dokumentu kopijas;
+
+33.2. informatīvā pasākuma apmeklētāju sarakstu, norādot informatīvā pasākuma laiku un vietu, reģistrēto apmeklētāju vārdu, uzvārdu un parakstu, kā arī ekrānuzņēmumu no tiešsaistes platformas, fiksējot personu sarakstu, kas apliecina reģistrēto apmeklētāju dalību informatīvajā pasākumā tiešsaistē;
+
+33.3. ja informatīvo pasākumu par darbībām pārtikas ražošanas (Līguma par Eiropas Savienības darbību I pielikumā neminētu pārtikas produktu (izņemot zivsaimniecības produktus) ražošanas) nozarē un darbībām jebkurā citā nelauksaimniecības nozarē (izņemot mežsaimniecības nozari) apmeklējis gala labuma guvējs, kura darbība nav vērsta uz lauksaimniecības produktu primāro ražošanu, – *de minimis* atbalsta uzskaites sistēmā sagatavotās veidlapas izdruku vai *de minimis* atbalsta uzskaites sistēmā izveidotās un apstiprinātās veidlapas identifikācijas numuru saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību.
+
+*(Grozīts ar MK 16.06.2026. noteikumiem Nr. 343)*
+
+34. Attiecināmi ir atbalsta pretendenta izdevumi, kas veikti pēc projekta iesnieguma iesniegšanas un apstiprināšanas.
+
+35. Ja Lauku atbalsta dienests, veicot pārbaudi saskaņā ar normatīvajiem aktiem par kārtību, kādā administrē un uzrauga Eiropas Lauksaimniecības garantiju fondu un Eiropas Lauksaimniecības fondu lauku attīstībai, kā arī valsts un Eiropas Savienības atbalstu lauksaimniecībai un lauku attīstībai 2023.–2027. gada plānošanas periodā, konstatē neatbilstību šo noteikumu 26. punktā atbalsta pretendenta sākotnējam projektu atlases kritērijos iegūto punktu skaitam, Lauku atbalsta dienests ir tiesīgs neizmaksāt pieprasīto atbalsta summu un pieprasīt saņemtā atbalsta pilnīgu vai daļēju atmaksu normatīvajos aktos par valsts un Eiropas Savienības atbalsta piešķiršanu, administrēšanu un uzraudzību lauku un zivsaimniecības attīstībai noteiktajā kārtībā.
+
+## V. Ar valsts atbalsta saņemšanu saistītie nosacījumi
+
+36. Atbalstu gala labuma guvējiem, kuru darbība nav vērsta uz lauksaimniecības produktu primāro ražošanu, par darbībām mežsaimniecības nozarē piešķir saskaņā ar regulas 2022/2472 47. pantu.
+
+37. Ja atbalstu piešķir saskaņā ar regulu 2022/2472:
+
+37.1. atbalstu nepiešķir gala labuma guvējam, uz kuru attiecas regulas 2022/2472 1. panta 4. punkta "a" apakšpunktā noteiktais Eiropas Komisijas atgūšanas rīkojums;
+
+37.2. piešķirto atbalstu nevar apvienot ar citā atbalsta programmā paredzēto atbalstu par vienām un tām pašām izmaksām;
+
+37.3. Lauku atbalsta dienests publicē informāciju par atbalstu, kas piešķirts gala labuma guvējiem saskaņā ar regulas 2022/2472 9. panta 1. punkta "c" apakšpunktu un 3. punktu.
+
+38. Pieejamību dokumentiem, kas saistīti ar piešķirto atbalstu saskaņā ar regulu 2022/2472, atbalsta pretendents un gala labuma guvējs nodrošina 10 gadus, sākot no dienas, kad piešķirts atbalsts, bet Lauku atbalsta dienests – 10 gadus, sākot no dienas, kad piešķirts pēdējais atbalsts saskaņā ar šajos noteikumos minēto atbalsta intervenci.
+
+39. Ja pārkāptas regulas 2022/2472 prasības, gala labuma guvējs atmaksā atbalsta pretendentam šo noteikumu ietvaros saņemto nelikumīgo komercdarbības atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no valsts atbalsta, saskaņā ar Komercdarbības atbalsta kontroles likuma IV vai V nodaļu. Savukārt atbalsta pretendents no gala labuma guvēja atgūto nelikumīgo komercdarbības atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atmaksā Lauku atbalsta dienestam.
+
+40. *De minimis* atbalstu saskaņā ar regulu 2023/2831 piešķir, ievērojot regulas 2023/2831 1. panta 1. punktā minētos nozaru un darbību ierobežojumus. Ja atbalsta pretendents vai gala labuma guvējs vienlaikus darbojas vienā vai vairākās regulas 2023/2831 1. panta 1. punkta "a", "b", "c" un "d" apakšpunktā minētajās nozarēs, atbalstu piešķir tikai tad, ja tas nodrošina šo nozaru darbību vai uzskaites nodalīšanu, lai saskaņā ar regulas 2023/2831 1. panta 2. punktu darbības šajās nozarēs negūtu labumu no *de minimis* atbalsta, ko piešķir saskaņā ar šiem noteikumiem.
+
+41. *De* *minimis* atbalsta uzskaiti veic saskaņā ar normatīvajiem aktiem par *de* *minimis* atbalsta uzskaites un piešķiršanas kārtību.
+
+42. Lauku atbalsta dienests, pamatojoties uz atbalsta pretendenta uzskaites veidlapā norādīto informāciju *de minimis* atbalsta piešķiršanai, nosaka atbalsta pretendentam piešķiramā *de minimis* atbalsta apmēru, pieņem lēmumu par *de minimis* atbalsta piešķiršanu un ievada informāciju *de* *minimis* atbalsta uzskaites sistēmā saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību. Atbalsta pretendents, pamatojoties uz gala labuma guvēja uzskaites veidlapā norādīto informāciju *de minimis* atbalsta piešķiršanai, nosaka gala labuma guvējam piešķiramā *de minimis* atbalsta apmēru, pieņem lēmumu par *de minimis* atbalsta piešķiršanu un ievada informāciju *de minimis* atbalsta uzskaites sistēmā saskaņā ar normatīvajiem aktiem par *de minimis* atbalsta uzskaites un piešķiršanas kārtību. Lēmumā par *de minimis* atbalsta piešķiršanu norāda, ka atbalsts tiek piešķirts saskaņā ar regulu 2023/2831. *De minimis* atbalstu uzskata par piešķirtu ar brīdi, kad ir pieņemts šajā punktā minētais lēmums.
+
+43. Pirms *de minimis* atbalsta piešķiršanas pārbauda, vai plānotais *de minimis* atbalsts kopā ar iepriekšējos trijos gados, skaitot no atbalsta piešķiršanas dienas, piešķirto *de minimis* atbalstu viena vienota uzņēmuma līmenī nepārsniedz regulas 2023/2831 3. panta 2. punktā noteikto maksimālo *de minimis* atbalsta apmēru. Viens vienots uzņēmums ir tāds uzņēmums, kas atbilst regulas 2023/2831 2. panta 2. punktā minētajiem kritērijiem.
+
+44. Ievērojot regulas 2023/2831 5. panta 1., 2. un 3. punkta nosacījumus, *de minimis* atbalstu drīkst kumulēt ar citu *de minimis* atbalstu, tai skaitā attiecībā uz vienām un tām pašām attiecināmajām izmaksām, līdz regulas 2023/2831 3. panta 2. punktā noteiktajam attiecīgajam robežlielumam, kā arī ar citu valsts atbalstu, tai skaitā attiecībā uz vienām un tām pašām attiecināmajām izmaksām, vai citu valsts atbalstu tam pašam riska finansējuma pasākumam, ja ar šo kumulāciju netiek pārsniegta attiecīgā maksimālā atbalsta intensitāte vai atbalsta summa, kāda noteikta valsts atbalsta programmā vai Eiropas Komisijas lēmumā. *De minimis* atbalstu var apvienot ar citu *de minimis* atbalstu par vienām un tām pašām attiecināmajām izmaksām, ja pēc atbalstu apvienošanas atbalsta vienībai vai izmaksu pozīcijai attiecīgā maksimālā atbalsta intensitāte nepārsniedz 100 procentus. Piesakoties regulā 2023/2831 noteiktajam *de minimis* atbalstam, atbalsta pretendents iesniedz Lauku atbalsta dienestam informāciju par plānoto un piešķirto atbalstu tās pašas darbības ietvaros, tai skaitā par tām pašām attiecināmajām izmaksām, norādot atbalsta piešķiršanas datumu, atbalsta sniedzēju, atbalsta pasākumu, plānoto un piešķirto atbalsta summu un atbalsta intensitāti. Piesakoties regulā 2023/2831 noteiktajam *de minimis* atbalstam, gala labuma guvējs iesniedz atbalsta pretendentam informāciju par plānoto un piešķirto atbalstu tās pašas darbības ietvaros, tai skaitā par tām pašām attiecināmajām izmaksām, norādot atbalsta piešķiršanas datumu, atbalsta sniedzēju, atbalsta pasākumu, plānoto un piešķirto atbalsta summu un atbalsta intensitāti.
+
+45. Lēmumu par atbalsta piešķiršanu saskaņā ar regulu 2023/2831 var pieņemt līdz 2031. gada 30. jūnijam.
+
+46. Lauku atbalsta dienests un atbalsta pretendents kā atbalsta sniedzējs nodrošina informācijas pieejamību 10 gadus, skaitot no pēdējā *de minimis* atbalsta piešķiršanas dienas saskaņā ar šiem noteikumiem. Atbalsta pretendents kā *de minimis* atbalsta saņēmējs un gala labuma guvējs datus par *de minimis* atbalstu glabā 10 gadus no brīža, kad piešķirts atbalsts.
+
+47. Ja atbalsta pretendents ir *de minimis* atbalsta saņēmējs un tiek pārkāptas regulas 2023/2831 prasības, atbalsta pretendents atmaksā Lauku atbalsta dienestam projekta ietvaros nelikumīgi saņemto *de minimis* atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atbilstoši Komercdarbības atbalsta kontroles likuma IV vai V nodaļas nosacījumiem.
+
+48. Ja gala labuma guvējs ir *de minimis* atbalsta saņēmējs un tiek pārkāptas regulas 2023/2831 prasības, gala labuma guvējs atmaksā atbalsta pretendentam atbalsta pasākuma ietvaros nelikumīgi saņemto *de minimis* atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atbilstoši Komercdarbības atbalsta kontroles likuma IV vai V nodaļas nosacījumiem. Savukārt atbalsta pretendents no gala labuma guvēja atgūto nelikumīgo *de minimis* atbalstu kopā ar procentiem no līdzekļiem, kas ir brīvi no komercdarbības atbalsta, atmaksā Lauku atbalsta dienestam.
+
+Ministru prezidentes pienākumu izpildītāja ‒ tieslietu ministre I. Lībiņa-Egnere
+Zemkopības ministra pienākumu izpildītājs ‒ klimata un enerģētikas ministrs K. Melnis

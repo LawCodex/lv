@@ -1,0 +1,355 @@
+---
+title: "Prasības personām, kas nodarbojas ar lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi.."
+identifier: "MK noteikumi Nr. 116"
+likumi_lv_id: 305516
+type: regulation
+jurisdiction: lv
+language: lv
+number: "116"
+issuer: "Ministru kabinets"
+date: 2019-03-12
+entry_into_force: 2019-03-15
+published: "Latvijas Vēstnesis, 52, 14.03.2019."
+status: in_force
+source: "https://likumi.lv/ta/id/305516-prasibas-personam-kas-nodarbojas-ar-lauksaimniecibas-dzivnieku-vertesanu-snieguma-parbaudi-un-parraudzibu-maksligo-apseklosanu"
+retrieved: 2026-10-12
+---
+
+# Prasības personām, kas nodarbojas ar lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi..
+
+Ministru kabineta noteikumi Nr. 116
+Rīgā 2019. gada 12. martā (prot. Nr. 13 13. §)
+
+Izdoti saskaņā ar Dzīvnieku audzēšanas un ciltsdarba
+likuma 14. panta piekto daļu
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka:
+
+1.1. izglītības un profesionālās kvalifikācijas prasības personām, kas nodarbojas ar lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi un pārraudzību, mākslīgo apsēklošanu, fertilizāciju *in vitro* un embriju pārnešanu (turpmāk – persona);
+
+1.2. personu apmācības kārtību;
+
+1.3. attiecīgās sugas lauksaimniecības dzīvnieku vērtēšanas, pārraudzības, mākslīgās apsēklošanas, fertilizācijas *in vitro* un embriju pārnešanas sertifikāta (turpmāk – sertifikāts) izsniegšanas, apturēšanas un anulēšanas kārtību;
+
+1.4. attiecīgās sugas lauksaimniecības dzīvnieku pārraudzības un mākslīgās apsēklošanas apliecības (turpmāk – apliecība) izsniegšanas, apturēšanas un atsaukšanas kārtību.
+
+*(Grozīts ar MK 14.01.2025. noteikumiem Nr. 26)*
+
+2. Lauku atbalsta dienests (turpmāk – dienests) izveido komisiju, kura pieņem lēmumu par sertifikāta izsniegšanu, apturēšanu un anulēšanu, kā arī par apliecības apturēšanu un atsaukšanu (turpmāk – komisija).
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+3. Komisijas sastāvā ir pārstāvji no šādām institūcijām:
+
+3.1. no dienesta – viens pārstāvis;
+
+3.2. no Zemkopības ministrijas – viens pārstāvis;
+
+3.3. no nevalstiskas organizācijas – divi pārstāvji;
+
+3.4. no Pārtikas un veterinārā dienesta – viens pārstāvis.
+
+*(Grozīts ar MK 14.01.2025. noteikumiem Nr. 26)*
+
+4. Komisijas lēmumu var apstrīdēt, iesniedzot iesniegumu dienesta direktoram. Dienesta direktora lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+5. Dienests savā tīmekļvietnē publicē dienesta direktora izdotu nolikumu, kurā noteikts komisijas sastāvs un darba organizēšanas kārtība, kā arī šo noteikumu ​II un III nodaļā minēto prasību izvērtēšanas metodika.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+## II. Sertifikāta izsniegšana, apturēšana, anulēšana un apmācības organizēšana
+
+6. Sertifikātu attiecīgajā darbības jomā personai izsniedz, aptur un anulē dienests, pamatojoties uz komisijas pieņemto lēmumu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+7. Persona var saņemt sertifikātu:
+
+7.1. attiecīgās sugas lauksaimniecības dzīvnieku vērtēšanā, ja persona atbilst šādām prasībām:
+
+7.1.1. tai ir augstākā izglītība lauksaimniecībā (lopkopības speciālists) vai veterinārmedicīnā (veterinārārsta kvalifikācija) vai augstākā izglītība lauksaimniecībā (laukkopības un dārzkopības speciālists) ar apgūtu studiju kursu biškopībā, ja persona pretendē uz sertifikātu medus bišu vērtēšanā;
+
+7.1.2. tai ir normatīvajos aktos par šķirnes lauksaimniecības dzīvnieku audzētāju biedrības un krustojuma cūku audzētāju organizācijas atzīšanu, kā arī audzēšanas programmas apstiprināšanu noteiktajā kārtībā atzītas šķirnes lauksaimniecības dzīvnieku audzētāju biedrības (turpmāk – biedrība) vai krustojuma cūku audzētāju organizācijas (turpmāk – organizācija) izsniegts apliecinājums par praktisko iemaņu apgūšanu lauksaimniecības dzīvnieku vērtēšanā tādas personas vadībā, kurai ir atbilstoši šo noteikumu prasībām izsniegts sertifikāts attiecīgās sugas lauksaimniecības dzīvnieku vērtēšanā;
+
+7.1.3. tai ir ārvalstīs izsniegts apliecinājums par praktisko iemaņu apgūšanu lauksaimniecības dzīvnieku vērtēšanā, ja Latvijā nav atzītas attiecīgās sugas šķirnes lauksaimniecības dzīvnieku audzēšanas biedrības vai organizācijas;
+
+7.2. attiecīgās sugas lauksaimniecības dzīvnieku pārraudzībā, ja persona atbilst šādām prasībām:
+
+7.2.1. tai ir vismaz vidējā profesionālā izglītība lauksaimniecībā (apgūta mācību programma lopkopībā vai veterinārijā);
+
+7.2.2. tai ir apliecinājums par praktisko iemaņu apgūšanu lauksaimniecības dzīvnieku snieguma pārbaudē un pārraudzībā, un to izsniegusi biedrība, organizācija vai persona, kurai ir atbilstoši šo noteikumu prasībām izsniegts sertifikāts attiecīgās sugas lauksaimniecības dzīvnieku pārraudzībā un vismaz piecu gadu profesionālā pieredze attiecīgajā darbības jomā;
+
+7.3. attiecīgās sugas lauksaimniecības dzīvnieku mākslīgajā apsēklošanā, tostarp pajetē sagatavota dziļi saldēta embrija pārnešanā, ja persona atbilst šādām prasībām:
+
+7.3.1. tai ir vismaz vidējā profesionālā izglītība lauksaimniecībā (apgūta mācību programma lopkopībā vai veterinārijā) vai profesionālā izglītība dzīvnieku mākslīgajā apsēklošanā;
+
+7.3.2. tai ir biedrības, organizācijas, dzīvnieku mākslīgās apsēklošanas komersanta (turpmāk – komersants) vai izglītības iestādes izsniegts apliecinājums par praktisko iemaņu apgūšanu lauksaimniecības dzīvnieku mākslīgajā apsēklošanā tādas personas vadībā, kurai ir atbilstoši šo noteikumu prasībām izsniegts sertifikāts attiecīgās sugas lauksaimniecības dzīvnieku mākslīgajā apsēklošanā;
+
+7.4. attiecīgās sugas lauksaimniecības dzīvnieku fertilizācijā *in vitro* un embriju pārnešanā, ja persona atbilst šādām prasībām:
+
+7.4.1. tai ir augstākā izglītība veterinārmedicīnā, kvalifikācija – veterinārārsts, kā arī iegūts veterinārmedicīniskās prakses sertifikāts;
+
+7.4.2. tai ir biedrības, organizācijas, izglītības iestādes, komersanta vai ārvalstīs izsniegts apliecinājums par praktisko iemaņu apgūšanu lauksaimniecības dzīvnieku fertilizācijā *in vitro* un embriju pārnešanā.
+
+*(Grozīts ar MK 22.11.2022. noteikumiem Nr. 736; MK 16.07.2024. noteikumiem Nr. 467; MK 14.01.2025. noteikumiem Nr. 26)*
+
+8. Tiesības saņemt sertifikātu kažokzvēru, trušu, medus bišu (*Apis mellifera L.*) un briežu dzimtas dzīvnieku mākslīgajā apsēklošanā ir arī tādai personai, kurai ir vismaz vidējā izglītība, kā arī biedrības vai ārvalstīs izsniegts apliecinājums par praktisko iemaņu apgūšanu attiecīgās sugas lauksaimniecības dzīvnieku mākslīgajā apsēklošanā un kura ir apguvusi vismaz 32 stundu teorētiskās apmācības kursu, kas ietver šādas tēmas:
+
+8.1. lauksaimniecības dzīvnieku anatomijas un fizioloģijas pamati;
+
+8.2. lauksaimniecības dzīvnieku dzemdniecības un ginekoloģijas pamati;
+
+8.3. lauksaimniecības dzīvnieku mākslīgā apsēklošana;
+
+8.4. lauksaimniecības dzīvnieku izcelšanās un šķirnes;
+
+8.5. lauksaimniecības dzīvnieku audzēšanas un ciltsdarba pamati;
+
+8.6. ganāmpulku un lauksaimniecības dzīvnieku reģistrēšana un dzīvnieku apzīmēšana;
+
+8.7. lauksaimniecības dzīvnieku labturība, veterinārās prasības un pirmās palīdzības sniegšana lauksaimniecības dzīvniekiem.
+
+9. Persona šo noteikumu 8. punktā minēto teorētiskās apmācības kursu apgūst izglītības iestādē. Pēc kursa apguves izglītības iestāde personai izsniedz teorētisko apmācību apliecinošu dokumentu un septiņu darbdienu laikā pēc attiecīgā dokumenta izsniegšanas informāciju par apgūto teorētisko apmācību iesniedz dienestā, izmantojot elektroniskās paziņošanas sistēmu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+10. Lai saņemtu sertifikātu, persona kārto pārbaudes testu, kas ietver jautājumus par lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi un pārraudzību, mākslīgo apsēklošanu, fertilizāciju *in vitro* un embriju pārnešanu, kā arī par dzīvnieku audzēšanu un ciltsdarbu reglamentējošiem normatīvajiem aktiem. Ja nepieciešams, pārbaudes testa jautājumus dienests sagatavo, pieaicinot attiecīgās nozares speciālistus.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+11. Saņemt sertifikātu, nekārtojot šo noteikumu 10. punktā minēto pārbaudes testu, ir tiesības:
+
+11.1. praktizējošam veterinārārstam – šo noteikumu 7.3. un 7.4. apakšpunktā minētajai darbībai;
+
+11.2. personai, kurai ir profesionālā izglītība dzīvnieku mākslīgajā apsēklošanā, – šo noteikumu 7.3. apakšpunktā minētajai darbībai.
+
+12. Lai kārtotu pārbaudes testu vai saņemtu sertifikātu, persona dienestā iesniedz:
+
+12.1. iesniegumu papīra formā vai elektroniska dokumenta veidā, ja tas sagatavots atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu;
+
+12.2. izglītību apliecinoša dokumenta kopiju;
+
+12.3. šo noteikumu 7.1.2., 7.2.2., 7.3.2. un 7.4.2. apakšpunktā vai 8. punktā minēto apliecinājumu par praktisko iemaņu apgūšanu attiecīgajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+13. Pirms pārbaudes testa kārtošanas dienestā persona uzrāda personu apliecinošu dokumentu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+14. Dienests savā tīmekļvietnē ievieto informāciju par iespēju personai pieteikties šo noteikumu 10. punktā minētā pārbaudes testa kārtošanai, norādot pieteikšanās termiņu un pārbaudes testa kārtošanas norises laiku un vietu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+15. Pārbaudes testa rezultātus vērtē komisija. Komisijas priekšsēdētājs vada komisijas darbu un ir atbildīgs par pārbaudes testa norisi.
+
+16. Persona pārbaudes testa laikā sniedz rakstiskas atbildes uz 40 jautājumiem. Pārbaudes tests ir nokārtots, ja tajā sniegtas ne mazāk kā 36 pareizas atbildes (90 procentu).
+
+17. Komisija lēmumu par sertifikāta izsniegšanu vai par atteikumu izsniegt sertifikātu pieņem, pamatojoties uz pārbaudes testa rezultātiem, un paziņo to personai.
+
+18. Ja komisija pieņēmusi lēmumu par sertifikāta izsniegšanu, dienests triju darbdienu laikā pēc lēmuma pieņemšanas iekļauj sertifikātu un apliecību ieguvušo personu reģistrā šo noteikumu 19. punktā minēto informāciju. Dienests pēc personas pieprasījuma izsniedz tai sertifikātu papīra dokumenta formā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+19. Sertifikātā norāda:
+
+19.1. sertifikāta saņēmēja vārdu, uzvārdu un personas kodu;
+
+19.2. darbības jomu, kurā sertifikāta īpašnieks ir tiesīgs darboties;
+
+19.3. sertifikāta reģistrēšanas datumu un numuru.
+
+20. Dienests savā tīmekļvietnē norāda šādu informāciju par personu, kurai ir izsniegts sertifikāts:
+
+20.1. vārdu, uzvārdu, novadu un pagastu;
+
+20.2. sertifikāta reģistrēšanas datumu un numuru;
+
+20.3. darbības jomu;
+
+20.4. sertifikāta statusu – spēkā esošs, uz laiku apturēts vai anulēts.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+21. Persona, kas ir saņēmusi sertifikātu lauksaimniecības dzīvnieku vērtēšanā, pārraudzībā, mākslīgajā apsēklošanā vai fertilizācijā *in vitro* un embriju pārnešanā, ne retāk kā reizi piecos gados paaugstina kvalifikāciju, apmeklējot kvalifikācijas paaugstināšanas pasākumus, piemēram, kursus, seminārus, vebinārus, konferences, vismaz 16 stundu apjomā katrā sertifikātā norādītajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+21.<sup>1</sup> Persona, kas ir saņēmusi šo noteikumu 7.1. apakšpunktā minēto sertifikātu, ne retāk kā reizi divos gados piedalās kvalifikācijas paaugstināšanas pasākumos un apmeklē tās biedrības vai organizācijas organizēto praktisko apmācību lauksaimniecības dzīvnieku vērtēšanā, ar kuru personai ir noslēgts līgums par lauksaimniecības dzīvnieku vērtēšanu.
+
+*(MK 22.11.2022. noteikumu Nr. 736 redakcijā)*
+
+22. Izglītības iestāde, dienests, biedrība, organizācija vai komersants (turpmāk visi kopā – kvalifikācijas paaugstināšanas pasākumu organizētāji) septiņu darbdienu laikā pēc personas apmeklētā kvalifikācijas paaugstināšanas pasākuma, izmantojot elektroniskās paziņošanas sistēmu, informē dienestu par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+22.<sup>1</sup> Kvalifikācijas paaugstināšanas pasākumu organizētāji sagatavoto kvalifikācijas paaugstināšanas pasākuma programmu pirms attiecīgā pasākuma saskaņo ar dienestu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+23. Ja persona Latvijā ir apmeklējusi cita pasākumu organizatora rīkotos kvalifikācijas paaugstināšanas pasākumus, nevis šo noteikumu 22. punktā minēto kvalifikācijas paaugstināšanas pasākumu organizētāju pasākumu, tad attiecīgais pasākuma organizators septiņu darbdienu laikā pēc kvalifikācijas paaugstināšanas pasākuma par to informē dienestu, iesniedzot dalībnieku sarakstu, kurā norādīts kvalifikācijas paaugstināšanas pasākuma temats un stundu skaits. Dienests septiņu darbdienu laikā pēc saraksta saņemšanas iekļauj sertifikātu un apliecību ieguvušo personu reģistrā informāciju par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+23.<sup>1</sup> Ja persona kvalifikācijas paaugstināšanas pasākumus ir apmeklējusi ārpus Latvijas, nevis šo noteikumu 22. vai 23. punktā minēto kvalifikācijas paaugstināšanas pasākumu organizētāju pasākumu, tā mēneša laikā pēc apmeklētā kvalifikācijas paaugstināšanas pasākuma iesniedz dienestā kvalifikācijas paaugstināšanu apliecinošu dokumentu. Dienests septiņu darbdienu laikā pēc dokumenta saņemšanas iekļauj sertifikātu un apliecību ieguvušo personu reģistrā informāciju par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+24. Ja persona, kas ir saņēmusi sertifikātu, nepilda normatīvo aktu prasības dzīvnieku audzēšanas, ciltsdarba vai veterinārmedicīnas jomā vai ir sniegusi nepatiesu informāciju, dienests uz laiku aptur sertifikāta darbību, līdz persona ir apmeklējusi kvalifikācijas paaugstināšanas pasākumus saskaņā ar šo noteikumu 21. punktu un atbilstoši šo noteikumu 10. punktam atkārtoti nokārtojusi pārbaudes testu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+25. Ja persona, kas ir saņēmusi sertifikātu, piecu gadu laikā nav paaugstinājusi kvalifikāciju attiecīgajā darbības jomā, dienests uz laiku aptur sertifikāta darbību, līdz persona ir paaugstinājusi kvalifikāciju saskaņā ar šo noteikumu 21. punktu un atbilstoši šo noteikumu 10. punktam atkārtoti nokārtojusi pārbaudes testu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+26. Dienests anulē sertifikātu, ja persona:
+
+26.1. savas darbības vai bezdarbības dēļ ir radījusi zaudējumus ganāmpulka īpašniekam;
+
+26.2. atkārtoti pārkāpusi normatīvo aktu prasības dzīvnieku audzēšanas, ciltsdarba vai veterinārmedicīnas jomā vai sniegusi nepatiesu informāciju;
+
+26.3. triju gadu laikā nav veikusi darbību sertifikātā norādītajā jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+27. Ja pieņemts lēmums par sertifikāta anulēšanu saskaņā ar šo noteikumu 26.1. vai 26.2. apakšpunktu, persona iesniegumu jauna sertifikāta saņemšanai attiecīgajā darbības jomā var iesniegt pēc pusgada no dienas, kad paziņots lēmums par sertifikāta anulēšanu.
+
+*(MK 22.11.2022. noteikumu Nr. 736 redakcijā)*
+
+27.<sup>1</sup> Ja pieņemts lēmums par sertifikāta anulēšanu saskaņā ar šo noteikumu 26.3. apakšpunktu, persona atkārtoti apgūst šo noteikumu 7.1.2., 7.2.2., 7.3.2. vai 7.4.2. apakšpunktā vai 8. punktā minētās praktiskās iemaņas, iesniedz iesniegumu jauna sertifikāta saņemšanai attiecīgajā darbības jomā un kārto šo noteikumu 10. punktā minēto pārbaudes testu​.
+
+*(MK 22.11.2022. noteikumu Nr. 736 redakcijā)*
+
+## III. Apliecības izsniegšana, apturēšana, atsaukšana un apmācības organizēšana
+
+28. Apliecību personai izsniedz, kā arī, pamatojoties uz komisijas lēmumu, aptur vai atsauc dienests.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+29. Persona var saņemt apliecību attiecīgās sugas lauksaimniecības dzīvnieku pārraudzībā vai mākslīgajā apsēklošanā, ja tā:
+
+29.1. apguvusi teorētiskās un praktiskās apmācības kursu attiecīgajā darbības jomā (teorētiskās apmācības kurss nav jāapgūst personai, kurai ir vismaz vidējā profesionālā izglītība lauksaimniecībā – apgūta mācību programma lopkopībā vai veterinārijā):
+
+29.1.1. 16 stundu teorētisko un 10 stundu praktisko apmācību lauksaimniecības dzīvnieku pārraudzībā un snieguma pārbaudē;
+
+29.1.2. 16 stundu teorētisko un 15 stundu praktisko apmācību lauksaimniecības dzīvnieku mākslīgajā apsēklošanā (izņemot cūkkopību);
+
+29.1.3. sešu stundu teorētisko un divu stundu praktisko apmācību cūku mākslīgajā apsēklošanā;
+
+29.2. sekmīgi nokārtojusi zināšanu pārbaudi.
+
+*(Grozīts ar MK 15.09.2020. noteikumiem Nr. 572)*
+
+30. Apmācības kurss ietver šādas tēmas:
+
+30.1. lauksaimniecības dzīvnieku pārraudzībā un snieguma pārbaudē:
+
+30.1.1. lauksaimniecības dzīvnieku audzēšanas un ciltsdarba pamati;
+
+30.1.2. lauksaimniecības dzīvnieku ēdināšana un labturība;
+
+30.1.3. ganāmpulku un lauksaimniecības dzīvnieku reģistrēšana un dzīvnieku apzīmēšana;
+
+30.1.4. pārraudzības un snieguma pārbaudes darba organizācijas sistēma un dokumentu aizpildīšana;
+
+30.1.5. veterinārās prasības un pirmās palīdzības sniegšana lauksaimniecības dzīvniekiem;
+
+30.2. lauksaimniecības dzīvnieku mākslīgajā apsēklošanā:
+
+30.2.1. lauksaimniecības dzīvnieku anatomijas un fizioloģijas pamati;
+
+30.2.2. lauksaimniecības dzīvnieku dzemdniecības un ginekoloģijas pamati;
+
+30.2.3. lauksaimniecības dzīvnieku mākslīgā apsēklošana;
+
+30.2.4. lauksaimniecības dzīvnieku ēdināšana un labturība;
+
+30.2.5. lauksaimniecības dzīvnieku audzēšanas un ciltsdarba pamati;
+
+30.2.6. ganāmpulku un lauksaimniecības dzīvnieku reģistrēšana un dzīvnieku apzīmēšana;
+
+30.2.7. veterinārās prasības un pirmās palīdzības sniegšana lauksaimniecības dzīvniekiem.
+
+31. Persona šo noteikumu 30.1. apakšpunktā minēto teorētiskās un praktiskās apmācības kursu apgūst izglītības iestādē. Praktisko apmācību izglītības iestāde nodrošina sadarbībā ar biedrību vai organizāciju. Pēc apmācības kursa apguves izglītības iestāde personai izsniedz apmācību apliecinošu dokumentu.
+
+32. Persona šo noteikumu 30.2. apakšpunktā minēto teorētiskās un praktiskās apmācības kursu apgūst izglītības iestādē vai pie komersanta. Praktisko apmācību izglītības iestāde nodrošina sadarbībā ar biedrību, organizāciju vai komersantu. Pēc apmācības kursa apguves izglītības iestāde vai komersants personai izsniedz apmācību apliecinošu dokumentu. Komersants sagatavoto apmācības kursa programmu saskaņo ar dienestu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+33. Ja persona ir apguvusi šo noteikumu 30. punktā minēto apmācības kursu, sekmīgi nokārtojusi zināšanu pārbaudi un ir tiesīga saņemt apliecību, izglītības iestāde vai komersants septiņu darbdienu laikā pēc personas zināšanu pārbaudes nokārtošanas, izmantojot elektroniskās paziņošanas sistēmu, dienestam paziņo šo noteikumu 35. punktā minēto informāciju. Dienests pēc personas pieprasījuma izsniedz apliecību papīra dokumenta formā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+34. Ja persona triju gadu laikā pēc šo noteikumu 31. un 32. punktā minētā apmācību apliecinoša dokumenta saņemšanas nav sākusi lauksaimniecības dzīvnieku pārraudzību, snieguma pārbaudi vai lauksaimniecības dzīvnieku mākslīgo apsēklošanu, tā atkārtoti apgūst šo noteikumu 30. punktā minēto apmācības kursu.
+
+35. Apliecībā norāda:
+
+35.1. apliecības saņēmēja vārdu, uzvārdu un personas kodu;
+
+35.2. piezīmi par apliecības īpašnieka tiesībām nodarboties noteiktā darbības jomā;
+
+35.3. tā ganāmpulka reģistrācijas numuru, kurā persona nodarbosies ar lauksaimniecības dzīvnieku pārraudzību, snieguma pārbaudi vai mākslīgo apsēklošanu;
+
+35.4. apliecības reģistrēšanas datumu un numuru.
+
+36. Persona, kas saņēmusi apliecību lauksaimniecības dzīvnieku mākslīgajā apsēklošanā, ne retāk kā reizi piecos gados paaugstina kvalifikāciju, apmeklējot kvalifikācijas paaugstināšanas pasākumus vismaz 16 stundu apjomā katrā apliecībā norādītajā darbības jomā.
+
+*(MK 22.11.2022. noteikumu Nr. 736 redakcijā)*
+
+36.<sup>1</sup> Persona, kas saņēmusi apliecību lauksaimniecības dzīvnieku pārraudzībā, ne retāk kā reizi piecos gados paaugstina kvalifikāciju, apmeklējot kvalifikācijas paaugstināšanas pasākumus katrā apliecībā norādītajā darbības jomā. Kvalifikācijas paaugstināšanas pasākumi ir vismaz 16 stundu apjomā, un no tām:
+
+36.<sup>1</sup>1. 14 stundas ir teorētiskā apmācība;
+
+36.<sup>1</sup>2. divas stundas ir praktiskā apmācība tādas personas vadībā, kurai ir atbilstoši šo noteikumu prasībām izsniegts sertifikāts attiecīgās sugas lauksaimniecības dzīvnieku pārraudzībā.
+
+*(MK 22.11.2022. noteikumu Nr. 736 redakcijā)*
+
+37. Kvalifikācijas paaugstināšanas pasākumu organizētājs septiņu darbdienu laikā pēc personas apmeklētā kvalifikācijas paaugstināšanas pasākuma, izmantojot elektroniskās paziņošanas sistēmu, informē dienestu par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+37.<sup>1</sup> Kvalifikācijas paaugstināšanas pasākumu organizētāji sagatavoto kvalifikācijas paaugstināšanas pasākuma programmu pirms attiecīgā pasākuma saskaņo ar dienestu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+38. Ja persona Latvijā ir apmeklējusi cita pasākumu organizatora rīkotos kvalifikācijas paaugstināšanas pasākumus, nevis šo noteikumu 22. punktā minēto kvalifikācijas paaugstināšanas pasākumu organizētāju pasākumu, tad attiecīgais pasākuma organizators septiņu darbdienu laikā pēc kvalifikācijas paaugstināšanas pasākuma par to informē dienestu, iesniedzot dalībnieku sarakstu, kurā norādīts kvalifikācijas paaugstināšanas pasākuma temats un stundu skaits. Dienests septiņu darbdienu laikā pēc saraksta saņemšanas iekļauj sertifikātu un apliecību ieguvušo personu reģistrā informāciju par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+38.<sup>1</sup> Ja persona kvalifikācijas paaugstināšanas pasākumus ir apmeklējusi ārpus Latvijas, nevis šo noteikumu 22. vai 38. punktā minēto pasākumu organizētāju pasākumu, tā mēneša laikā pēc apmeklētā kvalifikācijas paaugstināšanas pasākuma iesniedz dienestā kvalifikācijas paaugstināšanu apliecinošu dokumentu. Dienests septiņu darbdienu laikā pēc dokumenta saņemšanas iekļauj sertifikātu un apliecību ieguvušo personu reģistrā informāciju par kvalifikācijas paaugstināšanas pasākumu, norādot attiecīgo stundu skaitu konkrētajā darbības jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+39. Ja persona, kas ir saņēmusi apliecību, nepilda normatīvo aktu prasības dzīvnieku audzēšanas, ciltsdarba vai veterinārmedicīnas jomā vai ir sniegusi nepatiesu informāciju, dienests uz laiku aptur apliecības darbību, līdz persona ir apmeklējusi kvalifikācijas paaugstināšanas pasākumus saskaņā ar šo noteikumu 36. punktu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+40. Ja persona, kas ir saņēmusi apliecību, piecu gadu laikā nav paaugstinājusi kvalifikāciju attiecīgajā darbības jomā, dienests uz laiku aptur apliecības darbību, līdz persona ir paaugstinājusi kvalifikāciju saskaņā ar šo noteikumu 36. punktu.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+41. Dienests atsauc apliecību, ja persona:
+
+41.1. atkārtoti ir pārkāpusi normatīvo aktu prasības dzīvnieku audzēšanas, ciltsdarba vai veterinārmedicīnas jomā vai sniegusi nepatiesu informāciju;
+
+41.2. triju gadu laikā nav veikusi darbību apliecībā norādītajā jomā.
+
+*(MK 14.01.2025. noteikumu Nr. 26 redakcijā)*
+
+42. Ja pieņemts lēmums par apliecības atsaukšanu, persona iesniegumu jaunas apliecības saņemšanai attiecīgajā darbības jomā var iesniegt pēc pusgada no dienas, kad paziņots lēmums par apliecības atsaukšanu.
+
+## IV. Noslēguma jautājums
+
+43. Sertifikāti un apliecības, kas izsniegtas pirms šo noteikumu spēkā stāšanās, ir spēkā līdz to anulēšanai vai atsaukšanai.
+
+## Informatīva atsauce uz Eiropas Savienības direktīvu
+
+Noteikumos iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2006. gada 12. decembra Direktīvas 2006/123/EK par pakalpojumiem iekšējā tirgū.
+
+Ministru prezidents A. K. Kariņš
+Zemkopības ministrs K. Gerhards

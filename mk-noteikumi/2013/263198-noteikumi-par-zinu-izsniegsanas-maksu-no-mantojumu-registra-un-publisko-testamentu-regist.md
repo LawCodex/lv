@@ -1,0 +1,67 @@
+---
+title: "Noteikumi par ziņu izsniegšanas maksu no mantojumu reģistra un publisko testamentu reģistra"
+identifier: "MK noteikumi Nr. 1449"
+likumi_lv_id: 263198
+type: regulation
+jurisdiction: lv
+language: lv
+number: "1449"
+issuer: "Ministru kabinets"
+date: 2013-12-10
+entry_into_force: 2014-01-01
+published: "Latvijas Vēstnesis, 250, 20.12.2013."
+status: in_force
+source: "https://likumi.lv/ta/id/263198-noteikumi-par-zinu-izsniegsanas-maksu-no-mantojumu-registra-un-publisko-testamentu-registra"
+retrieved: 2026-10-12
+---
+
+# Noteikumi par ziņu izsniegšanas maksu no mantojumu reģistra un publisko testamentu reģistra
+
+Ministru kabineta noteikumi Nr.1449
+Rīgā 2013.gada 10.decembrī (prot. Nr.66 53.§)
+
+Izdoti saskaņā ar Notariāta likuma
+249.<sup>1</sup> panta trešo daļu un 258.panta ceturto daļu
+
+1. Noteikumi nosaka maksas apmēru par ziņu izsniegšanu no mantojumu reģistra un publisko testamentu reģistra, maksāšanas kārtību, kā arī atbrīvojumus no šīs maksas.
+
+2. Par ziņu izsniegšanu no mantojumu reģistra iekasē maksu šādā apmērā:
+
+2.1. par ieinteresēto personu ieskatīšanos mantojumu reģistrā globālajā datoru tīklā (internetā) (par vienu mantojuma lietu) – 4,27 *euro*;
+
+2.2. par rakstveidā vai elektroniski atbilstoši normatīvajos aktos par elektronisko dokumentu izstrādāšanu, noformēšanu un apriti noteiktajām prasībām noformētu izziņu (par vienu mantojuma lietu) – 8,54 *euro*;
+
+2.3. ja izziņā tiek iekļauta informācija vairāk nekā par vienu mantojuma lietu, šo noteikumu 2.2.apakšpunktā noteiktajai maksai pieskaita 4,27 *euro* par katru nākamo mantojuma lietu (sākot no otrās).
+
+3. Par ziņu izsniegšanu no publisko testamentu reģistra iekasē maksu šādā apmērā:
+
+3.1. par rakstveidā vai elektroniski atbilstoši normatīvajos aktos par elektronisko dokumentu izstrādāšanu, noformēšanu un apriti noteiktajām prasībām noformētu izziņu (par vienu mantojuma atstājēju) – 8,54 *euro*;
+
+3.2. ja izziņā tiek iekļauta informācija vairāk nekā par vienu mantojuma atstājēju, šo noteikumu 3.1.apakšpunktā noteiktajai maksai pieskaita 4,27 *euro* par katru nākamo mantojuma atstājēju (sākot no otrā).
+
+4. Ja izziņas pieprasītājs lūdz to izsniegt īsākā termiņā nekā 10 dienu laikā no pieprasījuma saņemšanas, šo noteikumu 2.2. un 2.3.apakšpunktā un 3.punktā noteiktajai maksai piemēro:
+
+4.1. koeficientu divi, ja izziņa tiek izsniegta piecu dienu laikā;
+
+4.2. koeficientu četri, ja izziņa tiek izsniegta vienas dienas laikā.
+
+5. Šo noteikumu 2.2. un 2.3.apakšpunktā un 3.punktā noteiktā maksa ir par 50 % lielāka, ja izziņa tiek sagatavota svešvalodā.
+
+6. Maksu par ziņu izsniegšanu no mantojumu reģistra un publisko testamentu reģistra ieskaita Latvijas Zvērinātu notāru padomes (turpmāk – padome) norēķinu kontā vai samaksā skaidrā naudā padomes birojā pirms attiecīgo ziņu saņemšanas.
+
+7. No maksas par ziņu izsniegšanu no mantojumu reģistra ir atbrīvoti zvērināti notāri, tiesas, valsts un pašvaldību iestādes, saņemot reģistra ziņas amata pienākumu veikšanai un savu funkciju nodrošināšanai, kā arī personas, kas iesniedz zvērinātam notāram mantošanas iesniegumu.
+
+8. No maksas par ziņu izsniegšanu no publisko testamentu reģistra ir atbrīvotas:
+
+8.1. šo noteikumu 7.punktā minētās personas un iestādes;
+
+8.2. ieinteresētās personas, saņemot reģistra ziņas mantojuma lietas ietvaros;
+
+8.3. fiziskā persona (mantojuma atstājējs), reizi gadā saņemot ziņas par sevi.
+
+9. Šie noteikumi attiecībā uz publisko testamentu reģistru stājas spēkā 2014.gada 1.maijā.
+
+10. Noteikumi stājas spēkā 2014.gada 1.janvārī.
+
+Ministru prezidents Valdis Dombrovskis
+Tieslietu ministrs Jānis Bordāns

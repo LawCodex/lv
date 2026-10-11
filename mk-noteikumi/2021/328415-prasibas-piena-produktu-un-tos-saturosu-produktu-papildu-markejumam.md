@@ -1,0 +1,45 @@
+---
+title: "Prasības piena produktu un tos saturošu produktu papildu marķējumam"
+identifier: "MK noteikumi Nr. 822"
+likumi_lv_id: 328415
+type: regulation
+jurisdiction: lv
+language: lv
+number: "822"
+issuer: "Ministru kabinets"
+date: 2021-12-14
+entry_into_force: 2022-05-01
+published: "Latvijas Vēstnesis, 243, 16.12.2021."
+status: in_force
+source: "https://likumi.lv/ta/id/328415-prasibas-piena-produktu-un-tos-saturosu-produktu-papildu-markejumam"
+retrieved: 2026-10-12
+---
+
+# Prasības piena produktu un tos saturošu produktu papildu marķējumam
+
+Ministru kabineta noteikumi Nr. 822
+Rīgā 2021. gada 14. decembrī (prot. Nr. 80 31. §)
+
+Izdoti saskaņā ar Pārtikas aprites uzraudzības likuma
+13. panta trešās daļas 3. punktu
+
+1. Noteikumi nosaka prasības piena produktu, saliktu piena produktu, kā arī piena produktus un saliktus piena produktus saturošu pārtikas produktu (turpmāk – produkti) papildu marķējumam.
+
+2. Norādi "Samazināts laktozes daudzums" produktu marķējumā lieto, ja laktozes saturs ir ne vairāk kā viens grams 100 gramos vai 100 mililitros gatavā produkta.
+
+3. Norādi "Bez laktozes" vai "Nesatur laktozi" produktu marķējumā lieto, ja laktozes saturs ir ne vairāk kā 10 miligramu 100 gramos vai 100 mililitros gatavā produkta.
+
+4. Produktus testē laboratorijā, kas akreditēta nacionālajā akreditācijas institūcijā atbilstoši normatīvajiem aktiem par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, vai citā Eiropas Savienības dalībvalsts, Turcijas vai Eiropas Ekonomikas zonas valsts akreditācijas institūcijā.
+
+5. Produktus, kuri neatbilst šo noteikumu prasībām, bet kuri tiek likumīgi tirgoti citā Eiropas Savienības dalībvalstī vai Turcijā vai kuru izcelsme ir un kurus likumīgi tirgo kādā no Eiropas Brīvās tirdzniecības asociācijas valstīm, kas ir Eiropas Ekonomikas zonas līguma līgumslēdzēja puse, ir tiesības izplatīt Latvijas tirgū, ievērojot tieši piemērojamos Eiropas Savienības tiesību aktos minētos noteikumus par preču savstarpēju atzīšanu.
+
+6. Noteikumi stājas spēkā 2022. gada 1. maijā.
+
+7. Produktus, kas laisti tirgū vai marķēti pirms šo noteikumu spēkā stāšanās dienas un kas neatbilst šo noteikumu prasībām, atļauts izplatīt līdz pilnīgai šādu produktu krājumu izlietošanai, bet ne ilgāk kā līdz 2023. gada 1. augustam.
+
+## Informatīva atsauce uz Eiropas Savienības direktīvu
+
+Tiesību normas saskaņotas ar Eiropas Komisiju un Eiropas Savienības dalībvalstīm atbilstoši Eiropas Parlamenta un Padomes 2015. gada 9. septembra Direktīvai (ES) 2015/1535, ar ko nosaka informācijas sniegšanas kārtību tehnisko noteikumu un Informācijas sabiedrības pakalpojumu noteikumu jomā.
+
+Ministru prezidents A. K. Kariņš
+Zemkopības ministrs K. Gerhards

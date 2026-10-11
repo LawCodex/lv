@@ -1,0 +1,45 @@
+---
+title: "Valsts papildu atbalsta piešķiršanas kārtība piena ražotājiem"
+identifier: "MK noteikumi Nr. 324"
+likumi_lv_id: 282443
+type: regulation
+jurisdiction: lv
+language: lv
+number: "324"
+issuer: "Ministru kabinets"
+date: 2016-05-24
+entry_into_force: 2016-06-01
+published: "Latvijas Vēstnesis, 104, 31.05.2016."
+status: in_force
+source: "https://likumi.lv/ta/id/282443-valsts-papildu-atbalsta-pieskirsanas-kartiba-piena-razotajiem"
+retrieved: 2026-10-12
+---
+
+# Valsts papildu atbalsta piešķiršanas kārtība piena ražotājiem
+
+Ministru kabineta noteikumi Nr. 324
+Rīgā 2016. gada 24. maijā (prot. Nr. 25 22. §)
+
+Izdoti saskaņā ar Lauksaimniecības un
+lauku attīstības likuma 5. panta ceturto daļu
+
+1. Noteikumi nosaka kārtību, kādā piena ražotājiem piešķir valsts papildu atbalstu saskaņā ar Komisijas 2015. gada 15. oktobra Deleģētās regulas (ES) 2015/1853, ar ko paredz pagaidu ārkārtas atbalstu lopkopības nozaru lauksaimniekiem (turpmāk – regula Nr. 2015/1853), 2. pantu.
+
+2. Valsts papildu atbalstu piena ražotājiem piešķir 6 197 000 *euro* apmērā.
+
+3. Šo noteikumu 2. punktā minēto valsts papildu atbalstu piešķir piena ražotājam par piena daudzumu tonnās, kas piegādāts Ministru kabineta 2011. gada 1. novembra noteikumu Nr. 841 "Kārtība, kādā tiek vākta un apkopota informācija par lauksaimniecības produktu cenām un tirdzniecības apjomiem noteiktā pārskata periodā" 4.<sup>1</sup> 1. vai 4.<sup>1</sup> 2.3. apakšpunktā minētajam pircējam (turpmāk – pircējs) laikposmā no 2015. gada 1. oktobra līdz 2016. gada 30. aprīlim, ja piena ražotājam pēc stāvokļa 2016. gada 1. maijā atbilstoši normatīvajiem aktiem par lauksaimniecības dzīvnieku, to ganāmpulku un novietņu reģistrēšanu ir reģistrētas slaucamas govis vai teles, kas vecākas par 18 mēnešiem.
+
+4. Šo noteikumu 3. punktā minēto atbalstu saņem piena ražotājs, kas saskaņā ar normatīvajiem aktiem par vienoto zemkopības nozares informācijas sistēmu līdz 2016. gada 10. jūnijam ir reģistrēts vienotajā zemkopības nozares informācijas sistēmā.
+
+5. Ja piena ražotājs svaigpienu realizē citā Eiropas Savienības dalībvalstī reģistrētam pircējam, tas piecu dienu laikā pēc šo noteikumu spēkā stāšanās iesniedz Lauksaimniecības datu centrā informāciju par laikposmā no 2015. gada 1. oktobra līdz 2016. gada 30. aprīlim piegādāto svaigpienu, norādot reģistrētā pircēja nosaukumu un atzīšanas numuru.
+
+6. Lauksaimniecības datu centrs līdz 2016. gada 10. jūnijam iesniedz Lauku atbalsta dienestā informāciju par piena daudzumu tonnās, kas piegādāts atbilstoši šo noteikumu 3. un 5. punktam.
+
+7. Atbalstu aprēķina un līdz 2016. gada 30. jūnijam izmaksā Lauku atbalsta dienests, dalot šo noteikumu 2. punktā norādīto kopējo atbalsta summu ar attiecīgo vienību skaitu.
+
+8. Lauku atbalsta dienests līdz 2016. gada 1. septembrim iesniedz Zemkopības ministrijā regulas Nr. 2015/1853 3. panta "b" apakšpunktā noteikto informāciju.
+
+9. Zemkopības ministrija regulas Nr. 2015/1853 3. pantā noteikto informāciju iesniedz Eiropas Komisijā.
+
+Ministru prezidents Māris Kučinskis
+Zemkopības ministrs Jānis Dūklavs

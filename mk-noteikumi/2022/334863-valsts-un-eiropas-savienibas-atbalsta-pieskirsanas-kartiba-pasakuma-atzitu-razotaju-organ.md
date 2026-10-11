@@ -1,0 +1,101 @@
+---
+title: "Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība pasākumā \"Atzītu ražotāju organizāciju.."
+identifier: "MK noteikumi Nr. 510"
+likumi_lv_id: 334863
+type: regulation
+jurisdiction: lv
+language: lv
+number: "510"
+issuer: "Ministru kabinets"
+date: 2022-08-16
+entry_into_force: 2022-08-20
+published: "Latvijas Vēstnesis, 160, 19.08.2022."
+status: in_force
+source: "https://likumi.lv/ta/id/334863-valsts-un-eiropas-savienibas-atbalsta-pieskirsanas-kartiba-pasakuma-atzitu-razotaju-organizaciju-planu-istenosana"
+retrieved: 2026-10-12
+---
+
+# Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība pasākumā "Atzītu ražotāju organizāciju..
+
+Ministru kabineta noteikumi Nr. 510
+Rīgā 2022. gada 16. augustā (prot. Nr. 40 9. §)
+
+Izdoti saskaņā ar Lauksaimniecības un lauku attīstības likuma
+5. panta ceturto un septīto daļu
+
+## I. Vispārīgie jautājumi
+
+1. Noteikumi nosaka kārtību, kādā piešķir, administrē un uzrauga valsts un Eiropas Savienības atbalstu no Eiropas Jūrlietu, zvejniecības un akvakultūras fonda darbības veidā "Atzītu ražotāju organizāciju plānu īstenošana" (turpmāk – pasākums) saskaņā ar:
+
+1.1. Eiropas Parlamenta un Padomes 2021. gada 7. jūlija Regulu (ES) 2021/1139, ar ko izveido Eiropas Jūrlietu, zvejniecības un akvakultūras fondu un groza Regulu (ES) 2017/1004;
+
+1.2. Eiropas Parlamenta un Padomes 2021. gada 24. jūnija Regulu (ES) 2021/1060, ar ko paredz kopīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu Plus, Kohēzijas fondu, Taisnīgas pārkārtošanās fondu un Eiropas Jūrlietu, zvejniecības un akvakultūras fondu un finanšu noteikumus attiecībā uz tiem un uz Patvēruma, migrācijas un integrācijas fondu, Iekšējās drošības fondu un Finansiāla atbalsta instrumentu robežu pārvaldībai un vīzu politikai (turpmāk – regula 2021/1060);
+
+1.3. Komisijas 2022. gada 19. janvāra Īstenošanas regulu (ES) 2022/79, ar ko nosaka Eiropas Parlamenta un Padomes Regulas (ES) 2021/1139 piemērošanas noteikumus attiecībā uz darbības līmeņa īstenošanas datu reģistrēšanu, nosūtīšanu un izklāstu;
+
+1.3.<sup>1</sup> Komisijas 2022. gada 29. jūnija Deleģēto regulu (ES) 2022/2181, ar ko Eiropas Parlamenta un Padomes Regulu (ES) 2021/1139 par Eiropas Jūrlietu, zvejniecības un akvakultūras fondu papildina attiecībā uz atbalsta pieteikumu nepieņemamības sākuma dienu un ilgumu;
+
+1.4. Eiropas Parlamenta un Padomes 2013. gada 11. decembra Regulu (ES) Nr. 1379/2013 par zvejas un akvakultūras produktu tirgu kopīgo organizāciju un ar ko groza Padomes Regulas (EK) Nr. 1184/2006 un (EK) Nr. 1224/2009 un atceļ Padomes Regulu (EK) Nr. 104/2000 (turpmāk – regula Nr. 1379/2013).
+
+*(Grozīts ar MK 05.03.2024. noteikumiem Nr. 151)*
+
+2. Atbalstam piesakās, projektu iesniegumus vērtē un atlasa, lēmumu par projekta apstiprināšanu pieņem, projektu īsteno, publisko finansējumu pieprasa un izmaksā, projektu uzrauga un finanšu korekcijas piemēro atbilstoši normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanas, administrēšanas un uzraudzības vispārējo kārtību lauku un zivsaimniecības attīstībai, ciktāl tie nav pretrunā ar šiem noteikumiem.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+3. Atbalsta pretendents ir ražotāju organizācija, kas atzīta saskaņā ar normatīvajiem aktiem par zvejas produktu ražotāju organizāciju, akvakultūras produktu ražotāju organizāciju un starpnozaru organizāciju noteikumiem.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+4. Atbalsta pasākumā publisko finansējumu piešķir, lai kompensētu tāda regulas Nr. 1379/2013 28. pantā minētā ražošanas un tirdzniecības plāna sagatavošanas un īstenošanas izmaksas, par kura īstenošanu apstiprināts gada ziņojums saskaņā ar normatīvajiem aktiem par zvejas produktu ražotāju organizāciju, akvakultūras produktu ražotāju organizāciju un starpnozaru organizāciju noteikumiem.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+## II. Publiskā finansējuma apmērs
+
+5. Atbalstu atbilstoši regulas 2021/1060 53. panta 1. punkta "c" apakšpunktam piešķir kā fiksētas summas maksājumu 35 000 *euro* apmērā (turpmāk – atbalsts) par atzītas ražotāju organizācijas ražošanas un tirdzniecības plānā iekļauto pasākumu īstenošanu.
+
+6. (Svītrots ar MK 05.03.2024. noteikumiem Nr. 151)
+
+7. Atbalstu piešķir par ražošanas un tirdzniecības plānā paredzētajiem darbību rezultātiem atbilstoši izpildi apliecinošiem dokumentiem.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+8. Rezultāts tiek uzskatīts par sasniegtu un Lauku atbalsta dienests izmaksā atbalstu, ja ražošanas un tirdzniecības plānā paredzētie un gada ziņojumā ietvertie rezultatīvie rādītāji izpildīti vismaz par 80 procentiem.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+## III. Pieteikšanās kārtība un iesniedzamie dokumenti
+
+9. Lai pieteiktos atbalstam, atbalsta pretendents pēc ražošanas un tirdzniecības plāna apstiprināšanas saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanas, administrēšanas un uzraudzības vispārējo kārtību lauku un zivsaimniecības attīstībai Lauku atbalsta dienesta elektroniskajā pieteikšanās sistēmā iesniedz:
+
+9.1. projekta iesniegumu, kurā norāda:
+
+9.1.1. vispārēju informāciju par atbalsta pretendentu;
+
+9.1.2. ražošanas un tirdzniecības plānā ietvertos sasniedzamos rezultatīvos rādītājus un dokumentu sarakstu, kas pierāda rezultatīvo rādītāju izpildi. Priekšapmaksas pieprasījuma gadījumā norāda plānotos sasniedzamos rezultatīvos rādītājus un dokumentu sarakstu, kas apliecinās to izpildi;
+
+9.2. atbalsta pretendenta deklarāciju saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanas, administrēšanas un uzraudzības vispārējo kārtību lauku un zivsaimniecības attīstībai.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+9.<sup>1</sup> Pēc gada ziņojuma apstiprināšanas Lauku atbalsta dienests pārliecinās par projekta iesniegumā norādīto rezultatīvo rādītāju procentuālo izpildi. Ja nav izpildīts šo noteikumu 8. punktā minētais nosacījums, Lauku atbalsta dienests pieņem lēmumu par saistību pārtraukšanu un atbalsta atmaksu saskaņā ar normatīvajiem aktiem par valsts un Eiropas Savienības atbalsta piešķiršanas, administrēšanas un uzraudzības vispārējo kārtību lauku un zivsaimniecības attīstībai.
+
+*(MK 05.03.2024. noteikumu Nr. 151 redakcijā)*
+
+10. (Svītrots ar MK 19.08.2025. noteikumiem Nr. 510)
+
+Ministru prezidents A. K. Kariņš
+Zemkopības ministrs K. Gerhards
+
+## 1. pielikums Ministru kabineta 2022. gada 16. augusta noteikumiem Nr. 510
+
+### Pasākumi regulas Nr. 1379/2013 7. pantā noteikto mērķu sasniegšanai
+
+*(Pielikums svītrots ar MK 05.03.2024. noteikumiem Nr. 151)*
+
+## 2. pielikums Ministru kabineta 2022. gada 16. augusta noteikumiem Nr. 510
+
+### Projektu atlases kritēriji
+
+*(Pielikums svītrots ar MK 19.08.2025. noteikumiem Nr. 510)*

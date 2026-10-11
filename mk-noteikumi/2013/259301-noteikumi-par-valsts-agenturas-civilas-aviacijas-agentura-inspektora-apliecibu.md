@@ -1,0 +1,97 @@
+---
+title: "Noteikumi par valsts aģentūras \"Civilās aviācijas aģentūra\" inspektora apliecību"
+identifier: "MK noteikumi Nr. 624"
+likumi_lv_id: 259301
+type: regulation
+jurisdiction: lv
+language: lv
+number: "624"
+issuer: "Ministru kabinets"
+date: 2013-08-20
+entry_into_force: 2013-08-28
+published: "Latvijas Vēstnesis, 166, 27.08.2013."
+status: in_force
+source: "https://likumi.lv/ta/id/259301-noteikumi-par-valsts-agenturas-civilas-aviacijas-agentura-inspektora-apliecibu"
+retrieved: 2026-10-12
+---
+
+# Noteikumi par valsts aģentūras "Civilās aviācijas aģentūra" inspektora apliecību
+
+Ministru kabineta noteikumi Nr.624
+Rīgā 2013.gada 20.augustā (prot. Nr.45 93.§)
+
+Izdoti saskaņā ar likuma "Par aviāciju" 6.<sup>1</sup> panta trešo daļu
+
+1. Noteikumi nosaka valsts aģentūras "Civilās aviācijas aģentūra" (turpmāk – Civilās aviācijas aģentūra) inspektora apliecības (turpmāk – inspektora apliecība) paraugu un izsniegšanas kārtību.
+
+2. Inspektora apliecība ir dokuments, kas apliecina, ka apliecības turētājs ir Civilās aviācijas aģentūras inspektors.
+
+3. Inspektora apliecība ir plastikāta karte ar tajā iestrādātiem pretviltošanas elementiem. Apliecības izmērs ir 85 x 54 mm (1.pielikums).
+
+4. Inspektora apliecības priekšpusē (aversā) ir šāda informācija:
+
+4.1. augšējās daļas kreisajā pusē – mazā Latvijas valsts ģerboņa attēls;
+
+4.2. augšējās daļas kreisajā pusē zem mazā Latvijas valsts ģerboņa attēla – izdevējvalsts nosaukums;
+
+4.3. augšējās daļas vidū – Civilās aviācijas aģentūras logo;
+
+4.4. augšējās daļas vidū zem Civilās aviācijas aģentūras logo – izdevējiestādes nosaukums;
+
+4.5. augšējās daļas labajā pusē – inspektora apliecības nosaukums;
+
+4.6. kreisajā pusē zem izdevējvalsts nosaukuma – inspektora krāsaina fotogrāfija (izmērs – 20 x 25 mm);
+
+4.7. vidējā daļā zem izdevējiestādes nosaukuma:
+
+4.7.1. inspektora vārds un uzvārds;
+
+4.7.2. inspektora dzimums un dzimšanas datums;
+
+4.7.3. inspektora darbības joma;
+
+4.7.4. inspektora apliecības numurs un derīguma termiņš;
+
+4.7.5. inspektora paraksts.
+
+5. Inspektora apliecības otrā pusē (reversā) ir šāda informācija:
+
+5.1. vidējās daļas kreisajā pusē – inspektora apliecības izdošanas vieta;
+
+5.2. vidējās daļas vidū un labajā pusē – izdevējiestādes atbildīgās amatpersonas paraksts un amata nosaukums;
+
+5.3. mašīnlasāmā zona.
+
+6. Inspektora apliecības derīguma termiņš ir pieci gadi.
+
+7. Izsniegtās inspektora apliecības Civilās aviācijas aģentūra reģistrē inspektoru apliecību uzskaites žurnālā (2.pielikums).
+
+8. Beidzoties inspektora apliecības derīguma termiņam, inspektoram pārtraucot darba tiesiskās attiecības ar Civilās aviācijas aģentūru, zaudējot inspektora tiesības vai gadījumos, kad nepieciešamas izmaiņas apliecībā norādītajā informācijā, apliecības turētājs ne vēlāk kā nākamajā darbdienā inspektora apliecību nodod Civilās aviācijas aģentūrai.
+
+9. Ja inspektora apliecība ir nozaudēta vai iestājušies šo noteikumu 8.punktā minētie apstākļi, faktu reģistrē inspektoru apliecību uzskaites žurnālā un publicē informāciju Civilās aviācijas aģentūras mājaslapā internetā.
+
+10. Šo noteikumu 8.punktā minētajos gadījumos Civilās aviācijas aģentūrai nodotās apliecības iznīcina un faktu reģistrē inspektoru apliecību uzskaites žurnālā.
+
+Ministru prezidents Valdis Dombrovskis
+Satiksmes ministrs Anrijs Matīss
+
+## 1.pielikums Ministru kabineta 2013.gada 20.augusta noteikumiem Nr.624
+
+### Valsts aģentūras "Civilās aviācijas aģentūra" inspektora apliecības paraugs
+
+![](https://likumi.lv/wwwraksti/2013/166/BILDES/N_624/KN624-PIEL_1.PNG)
+
+Piezīme. * Jomu, kurā inspektoram piešķirtas tiesības veikt inspekciju, norāda latviešu un angļu valodā.
+
+Satiksmes ministrs Anrijs Matīss
+
+## 2.pielikums Ministru kabineta 2013.gada 20.augusta noteikumiem Nr.624
+
+### Inspektoru apliecību uzskaites žurnāls
+
+| Nr.<br>p.k. | Inspektora apliecības numurs | Izsniegšanas datums | Personas vārds, uzvārds | Personas amats | Apliecības derīguma termiņš | Personas paraksts par apliecības saņemšanu | Personas paraksts par apliecības nodošanu | Piezīmes | Apliecības iznīcināšanas akta datums un numurs |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <br> |  |  |  |  |  |  |  |  |  |
+| <br> |  |  |  |  |  |  |  |  |  |
+
+Satiksmes ministrs Anrijs Matīss

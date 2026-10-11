@@ -1,0 +1,128 @@
+---
+title: "Reģistrēto dzīvnieku datubāzē esošās informācijas izmantošanas kārtība"
+identifier: "MK noteikumi Nr. 75"
+likumi_lv_id: 296953
+type: regulation
+jurisdiction: lv
+language: lv
+number: "75"
+issuer: "Ministru kabinets"
+date: 2018-02-06
+entry_into_force: 2018-06-01
+published: "Latvijas Vēstnesis, 28, 08.02.2018."
+status: in_force
+source: "https://likumi.lv/ta/id/296953-registreto-dzivnieku-datubaze-esosas-informacijas-izmantosanas-kartiba"
+retrieved: 2026-10-12
+---
+
+# Reģistrēto dzīvnieku datubāzē esošās informācijas izmantošanas kārtība
+
+Ministru kabineta noteikumi Nr. 75
+Rīgā 2018. gada 6. februārī (prot. Nr. 7 21. §)
+
+Izdoti saskaņā ar Veterinārmedicīnas likuma
+25. panta 16. punktu
+
+1. Noteikumi nosaka reģistrēto dzīvnieku datubāzē (turpmāk – datubāze) esošās informācijas izmantošanas kārtību.
+
+2. Lauku atbalsta dienests (turpmāk – dienests), ievērojot Informācijas atklātības likumā noteiktās prasības, savā tīmekļvietnē publicē normatīvajos aktos noteikto un sabiedrībai aktuālo informāciju par dzīvniekiem, tai skaitā atvērto datu veidā, metadatus aprakstot atvērto datu portālā.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+3. Dienests, ievērojot normatīvajos aktos noteikto kārtību par datu aizsardzību, autorizētu pieeju datubāzei piešķir:
+
+3.1. dzīvnieku īpašniekam vai viņa pilnvarotai personai;
+
+3.2. Pārtikas un veterinārā dienesta, policijas un citu valsts pārvaldes un pašvaldību iestāžu pilnvarotajām personām (turpmāk – iestāde);
+
+3.3. citām juridiskām un fiziskām personām, kurām normatīvajos aktos noteikto funkciju īstenošanai nepieciešams izmantot datubāzē esošo informāciju vai ievadīt tajā datus.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+4. Lai saņemtu autorizētu pieeju datubāzei, šo noteikumu 3. punktā minētā iestāde vai persona iesniedz dienestā iesniegumu papīra formā vai elektroniski nosūta to uz dienesta oficiālo elektronisko adresi pasts@lad.gov.lv.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+5. Šo noteikumu 4. punktā minētajā iesniegumā:
+
+5.1. dzīvnieku īpašnieks norāda:
+
+5.1.1. dzīvnieku īpašnieka vārdu, uzvārdu un personas kodu vai juridiskās personas nosaukumu un reģistrācijas numuru;
+
+5.1.2. pilnvarotās personas vārdu, uzvārdu un personas kodu, ja tāda ir;
+
+5.1.3. ganāmpulka numuru;
+
+5.1.4. pasta adresi vai elektroniskā pasta adresi, vai oficiālo elektronisko adresi, ja ir aktivizēts oficiālās elektroniskās adreses konts (turpmāk – oficiālā elektroniskā adrese), uz kuru nosūtāms lietotāja vārds un parole autorizētai pieejai datubāzei;
+
+5.2. iestāde norāda:
+
+5.2.1. iestādes nosaukumu;
+
+5.2.2. iestādes pilnvarotās personas vārdu, uzvārdu un personas kodu;
+
+5.2.3. normatīvo aktu, kas pamato nepieciešamību, kādēļ piešķirama autorizētā pieeja datubāzei;
+
+5.2.4. oficiālo elektronisko adresi, uz kuru nosūtāms lietotāja vārds un parole autorizētai pieejai datubāzei;
+
+5.3. persona norāda:
+
+5.3.1. vārdu, uzvārdu un personas kodu vai juridiskās personas nosaukumu un reģistrācijas numuru;
+
+5.3.2. normatīvo aktu, kas pamato nepieciešamību, kādēļ piešķirama autorizētā pieeja datubāzei;
+
+5.3.3. pasta adresi vai elektroniskā pasta adresi, vai oficiālo elektronisko adresi, uz kuru nosūtāms lietotāja vārds un parole autorizētai pieejai datubāzei.
+
+6. Dienests 10 darbdienu laikā pēc šo noteikumu 4. punktā minētā iesnieguma saņemšanas pārbauda iesniegumā norādīto informāciju. Ja tā atbilst šo noteikumu 5. punktā minētajām prasībām, dienests dzīvnieku īpašniekam vai viņa pilnvarotai personai vai iestādei, vai personai uz iesniegumā norādīto adresi nosūta datubāzes lietotāja vārdu un paroli.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+7. Ja iesniegumā nav norādīta šo noteikumu 5. punktā minētā informācija, dienests par to informē šo noteikumu 4. punktā minētā pieprasījuma iesniedzēju, nosūtot informāciju uz iesniegumā norādīto adresi, un autorizētu pieeju datubāzei nepiešķir.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+8. Dienests, piešķirot autorizēto pieeju datubāzei iestādes amatpersonai vai personai, nosaka datubāzē pieejamās informācijas apjomu, pamatojoties uz normatīvo aktu, ko iestāde vai persona ir norādījusi saskaņā ar šo noteikumu 5.2.3. un 5.3.2. apakšpunktu.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+9. Ja ir saņemta autorizētā pieeja datubāzei, dzīvnieku īpašniekam vai viņa pilnvarotai personai papildus publiski pieejamiem datubāzē esošiem datiem ir tiesības:
+
+9.1. iepazīties ar datiem par viņam piederošiem dzīvniekiem;
+
+9.2. iepazīties ar datiem par citu dzīvnieku īpašnieku, ja ir saņemta attiecīgā dzīvnieku īpašnieka rakstiska piekrišana;
+
+9.3. atbilstoši normatīvajos aktos noteiktajiem uzdevumiem ievadīt datus par viņam piederošiem dzīvniekiem vai citu īpašnieku dzīvniekiem;
+
+9.4. pēc pieprasījuma iegūt informāciju par personu, kas datubāzē apskatījusi dzīvnieku datus.
+
+10. Šo noteikumu 3. punktā minētās iestādes septiņu darbdienu laikā informē dienestu par attiecīgās iestādes amatpersonām, ar kurām ir izbeigtas darba attiecības vai kurām ir mainīti amata pienākumi, kas neparedz darbu ar datubāzi.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+11. Dienests, saņemot šo noteikumu 10. punktā minēto informāciju, anulē iestādes amatpersonai piešķirto autorizēto pieeju datubāzei.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+12. Dzīvnieku īpašnieks, viņa pilnvarotā persona, iestādes amatpersona vai persona piešķirto lietotāja vārdu un paroli, kā arī datubāzē iegūto informāciju nedrīkst izpaust trešajām personām bez tiesiska pamata, ja vien informācijas izpaušana nav saistīta ar iestādes funkciju izpildi.
+
+13. Ja dienests konstatē, ka dzīvnieku īpašnieks, viņa pilnvarotā persona, iestādes amatpersona vai persona savu autorizēto pieeju datubāzei ir nodevusi citai personai, tas:
+
+13.1. dzīvnieku īpašniekam, viņa pilnvarotajai personai vai personai anulē piešķirto autorizēto pieeju datubāzei;
+
+13.2. informē par to iestādi, ar kuru datubāzes lietotājam ir darba tiesiskās vai dienesta attiecības.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+14. Dzīvnieku īpašniekam, viņa pilnvarotajai personai, iestādes amatpersonai vai personai, kurai Lauksaimniecības datu centrs ir piešķīris autorizēto pieeju datubāzei, saglabājas jau piešķirtā autorizētā pieeja datubāzei.
+
+*(MK 17.12.2024. noteikumu Nr. 838 redakcijā)*
+
+15. Šo noteikumu 5.1.4. un 5.3.3. apakšpunktā minēto prasību par oficiālās elektroniskās adreses konta aktivizāciju atbilstoši Oficiālās elektroniskās adreses likumam piemēro ar 2020. gada 1. janvāri.
+
+16. Atzīt par spēku zaudējušiem Ministru kabineta 2009. gada 20. oktobra noteikumus Nr. 1203 "Reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtība" (Latvijas Vēstnesis, 2009, 169. nr.; 2010, 21. nr.).
+
+17. Noteikumi stājas spēkā 2018. gada 1. jūnijā.
+
+Ministru prezidents,
+veselības ministra pienākumu izpildītājs Māris Kučinskis
+Zemkopības ministrs Jānis Dūklavs
